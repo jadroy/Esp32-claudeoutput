@@ -19,4 +19,6 @@ if [ -z "$ANTHROPIC_API_KEY" ]; then
     exit 1
 fi
 
-exec python3 app.py --ip "${ESP32_IP:-192.168.1.50}" "$@"
+PORT="${PORT:-8080}"
+open "http://localhost:${PORT}" &
+exec python3 app.py --ip "${ESP32_IP:-192.168.1.50}" --port "$PORT" --browser "$@"
