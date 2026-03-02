@@ -189,50 +189,75 @@ async def collect_ais_data(api_key, seconds=LISTEN_SECONDS):
     return ships
 
 
+def _ship_symbol(length, heading, speed):
+    """ASCII ship symbol sized by length, pointed by heading."""
+    length = length or 20
+    tiers = [30, 100, 200, 300]
+    tier = sum(1 for t in tiers if length >= t)
+
+    # Anchored / stationary
+    if speed is not None and speed <= 0.5:
+        return ["o", "(o)", "((o))", "(((o)))", "((((o))))"][tier]
+
+    # Moving west
+    if heading is not None and 135 < heading < 315:
+        return ["<", "<=", "<==", "<===", "<===="][tier]
+
+    # Moving east or unknown heading
+    return [">", "=>", "==>", "===>", "====>"][tier]
+
+
 def format_ship_display(ships_dict):
-    """Format the top vessels into plain ASCII text for the e-ink display."""
+    """Format vessels as a radar display for the e-ink screen."""
+    now = datetime.now().strftime("%b %d, %-I:%M %p")
+
     if not ships_dict:
-        return "SF BAY VESSELS\n\nNo vessels detected.\nTry again later."
+        return (
+            "(((o)))  SF BAY RADAR\n\n"
+            "No vessels detected.\n"
+            "The bay is quiet.\n\n"
+            "~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n"
+            f"{now}"
+        )
 
-    # Sort by interest score
+    # Top 5 by interest, then order west to east (by longitude)
     vessels = sorted(ships_dict.values(), key=_interest_score, reverse=True)
-
-    # Take top 5
     top = vessels[:5]
+    top.sort(key=lambda s: s.get("lon") or 0)
 
-    lines = ["SF BAY VESSELS", ""]
+    lines = ["(((o)))  SF BAY RADAR", ""]
 
     for ship in top:
+        symbol = _ship_symbol(
+            ship.get("length"), ship.get("heading"), ship.get("speed")
+        )
         name = ship.get("name") or f"MMSI {ship['mmsi']}"
-        lines.append(name.upper())
 
-        # Type and length
-        type_str = ship.get("type_name") or "Unknown"
+        # Ship line: symbol + name
+        lines.append(f"{symbol}  {name}")
+
+        # Detail line
+        parts = []
+        type_name = ship.get("type_name") or ""
+        if type_name and type_name != "Unknown":
+            parts.append(type_name)
         if ship.get("length"):
-            type_str += f", {ship['length']}m"
-        lines.append(f"  {type_str}")
-
-        # Destination
-        if ship.get("destination") and ship["destination"].strip():
-            lines.append(f"  Dest: {ship['destination'].strip()}")
-
-        # Speed/heading or "at anchor"
+            parts.append(f"{ship['length']}m")
         speed = ship.get("speed")
         if speed is not None and speed > 0.5:
-            speed_str = f"  Speed: {speed:.1f} kn"
-            if ship.get("heading") is not None:
-                speed_str += f", Hdg: {ship['heading']}"
-            lines.append(speed_str)
-        elif speed is not None and speed <= 0.5:
-            lines.append("  At anchor")
-
-        # Draft
-        if ship.get("draft"):
-            lines.append(f"  Draft: {ship['draft']}m")
-
+            parts.append(f"{speed:.0f}kn")
+        elif speed is not None:
+            parts.append("anchored")
+        if ship.get("destination") and ship["destination"].strip():
+            parts.append(f"-> {ship['destination'].strip()[:12]}")
+        if parts:
+            lines.append(f"   {' | '.join(parts)}")
         lines.append("")
 
-    lines.append(f"Updated: {datetime.now().strftime('%b %d, %-I:%M %p')}")
+    # Footer
+    lines.append("~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~")
+    lines.append(f"W                       E")
+    lines.append(f"{len(ships_dict)} vessels  |  {now}")
 
     return "\n".join(lines)
 
