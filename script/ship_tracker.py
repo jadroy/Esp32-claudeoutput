@@ -189,6 +189,12 @@ async def collect_ais_data(api_key, seconds=LISTEN_SECONDS):
     return ships
 
 
+# Grid for FreeMono12pt on 800x480 e-ink (760x435 usable)
+# 12pt: 14px/char = 54 cols, (24+4)px/line = 15 rows
+GRID_COLS = 54
+MAX_DISPLAY_LINES = 15
+
+
 def _ship_symbol(length, heading, speed):
     """ASCII ship symbol sized by length, pointed by heading."""
     length = length or 20
@@ -207,57 +213,116 @@ def _ship_symbol(length, heading, speed):
     return [">", "=>", "==>", "===>", "====>"][tier]
 
 
+MAP_ROWS = 7  # rows for the spatial grid area
+
+
+def _pos_to_grid(lat, lon):
+    """Map lat/lon to (col, row) on the radar grid."""
+    lat_min, lat_max = 37.72, 37.82
+    lon_min, lon_max = -122.40, -122.28
+    map_cols = GRID_COLS - 4  # leave margin for border/pad
+
+    lat = max(lat_min, min(lat_max, lat or (lat_min + lat_max) / 2))
+    lon = max(lon_min, min(lon_max, lon or (lon_min + lon_max) / 2))
+
+    col = int((lon - lon_min) / (lon_max - lon_min) * (map_cols - 1))
+    row = int((lat_max - lat) / (lat_max - lat_min) * (MAP_ROWS - 1))
+    return col + 2, row  # +2 for left padding
+
+
 def format_ship_display(ships_dict):
-    """Format vessels as a radar display for the e-ink screen."""
+    """Format vessels as a spatial radar display for monospace e-ink."""
     now = datetime.now().strftime("%b %d, %-I:%M %p")
 
     if not ships_dict:
         return (
             "(((o)))  SF BAY RADAR\n\n"
-            "No vessels detected.\n"
-            "The bay is quiet.\n\n"
-            "~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n"
-            f"{now}"
+            "  No vessels detected.\n"
+            "  The bay is quiet.\n\n"
+            f"  {now}"
         )
 
-    # Top 5 by interest, then order west to east (by longitude)
+    # Top ships by interest
     vessels = sorted(ships_dict.values(), key=_interest_score, reverse=True)
     top = vessels[:5]
-    top.sort(key=lambda s: s.get("lon") or 0)
 
-    lines = ["(((o)))  SF BAY RADAR", ""]
+    # Build the radar grid
+    map_rows = MAP_ROWS
+    grid = [[" "] * GRID_COLS for _ in range(map_rows)]
+
+    # Place each ship on the grid
+    placed = []  # (row, col, symbol, label) for legend
+    used_cells = set()
 
     for ship in top:
         symbol = _ship_symbol(
             ship.get("length"), ship.get("heading"), ship.get("speed")
         )
-        name = ship.get("name") or f"MMSI {ship['mmsi']}"
+        name = (ship.get("name") or f"MMSI {ship['mmsi']}")[:14]
+        col, row = _pos_to_grid(ship.get("lat"), ship.get("lon"))
 
-        # Ship line: symbol + name
-        lines.append(f"{symbol}  {name}")
+        # Resolve vertical collisions
+        orig_row = row
+        while row in {r for r, *_ in used_cells}:
+            row += 1
+            if row >= map_rows:
+                row = orig_row - 1
+                if row < 0:
+                    row = orig_row
+                    break
 
-        # Detail line
-        parts = []
-        type_name = ship.get("type_name") or ""
-        if type_name and type_name != "Unknown":
-            parts.append(type_name)
-        if ship.get("length"):
-            parts.append(f"{ship['length']}m")
-        speed = ship.get("speed")
-        if speed is not None and speed > 0.5:
-            parts.append(f"{speed:.0f}kn")
-        elif speed is not None:
-            parts.append("anchored")
-        if ship.get("destination") and ship["destination"].strip():
-            parts.append(f"-> {ship['destination'].strip()[:12]}")
-        if parts:
-            lines.append(f"   {' | '.join(parts)}")
-        lines.append("")
+        # Build the ship string: "===> NAME"
+        ship_str = f"{symbol} {name}"
 
-    # Footer
-    lines.append("~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~")
-    lines.append(f"W                       E")
-    lines.append(f"{len(ships_dict)} vessels  |  {now}")
+        # Clamp col so ship_str fits on the row
+        max_start = GRID_COLS - len(ship_str) - 1
+        col = max(1, min(col, max_start))
+
+        # Write onto grid row
+        if 0 <= row < map_rows:
+            for ci, ch in enumerate(ship_str):
+                if col + ci < GRID_COLS:
+                    grid[row][col + ci] = ch
+            used_cells.add((row, col, symbol, name))
+
+            # Build detail for legend
+            parts = []
+            type_name = ship.get("type_name") or ""
+            if type_name and type_name != "Unknown":
+                parts.append(type_name)
+            if ship.get("length"):
+                parts.append(f"{ship['length']}m")
+            speed = ship.get("speed")
+            if speed is not None and speed > 0.5:
+                parts.append(f"{speed:.0f}kn")
+            elif speed is not None:
+                parts.append("anch")
+            if ship.get("destination") and ship["destination"].strip():
+                parts.append(f">{ship['destination'].strip()[:8]}")
+            placed.append((name, " ".join(parts)))
+
+    # Assemble output
+    lines = []
+    header = f"(((o)))  SF BAY RADAR"
+    lines.append(f"{header}{now:>{GRID_COLS - len(header)}}")
+    border = "~" * GRID_COLS
+    lines.append(border)
+    for row in grid:
+        lines.append("".join(row).rstrip())
+    lines.append(border)
+
+    # Legend: two ships per line, capped to grid width
+    for i in range(0, len(placed), 2):
+        pair = placed[i:i+2]
+        parts = [f"{n}: {d}" for n, d in pair]
+        line = "  " + "   ".join(parts)
+        lines.append(line[:GRID_COLS])
+
+    footer = f"W  Hunters Pt"
+    mid = f"{len(ships_dict)} vessels in range"
+    right = "Oakland  E"
+    gap = GRID_COLS - len(footer) - len(mid) - len(right)
+    lines.append(f"{footer}{' ' * (gap // 2)}{mid}{' ' * (gap - gap // 2)}{right}")
 
     return "\n".join(lines)
 

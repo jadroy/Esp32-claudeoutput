@@ -14,9 +14,10 @@
 #include <epd/GxEPD2_750_T7.h>
 
 // Adafruit GFX free fonts
+#include <Fonts/FreeMono9pt7b.h>
+#include <Fonts/FreeMono12pt7b.h>
+#include <Fonts/FreeMono18pt7b.h>
 #include <Fonts/FreeSans9pt7b.h>
-#include <Fonts/FreeSans12pt7b.h>
-#include <Fonts/FreeSans18pt7b.h>
 
 #include "config.h"
 
@@ -154,9 +155,9 @@ void drawStatusBar() {
 
 // Pick a font based on text length
 const GFXfont* pickFont(int len) {
-    if (len < 200)  return &FreeSans18pt7b;
-    if (len <= 800)  return &FreeSans12pt7b;
-    return &FreeSans9pt7b;
+    if (len < 200)  return &FreeMono18pt7b;
+    if (len <= 800) return &FreeMono12pt7b;
+    return &FreeMono9pt7b;
 }
 
 // Get the line height for a font (ascent + descent + spacing)
@@ -193,13 +194,28 @@ void wordWrap(const String& text, const GFXfont* font, int maxWidth, WrappedLine
             continue;
         }
 
-        // Word-wrap this segment
+        // Word-wrap this segment, preserving leading whitespace
         int segStart = 0;
         while (segStart < (int)segment.length() && result.count < 60) {
+            // Count leading spaces — they are part of the content (indentation)
+            int contentStart = segStart;
+            while (contentStart < (int)segment.length() && segment.charAt(contentStart) == ' ') {
+                contentStart++;
+            }
+
+            // If remainder is all spaces, emit empty line and move on
+            if (contentStart >= (int)segment.length()) {
+                result.lines[result.count++] = "";
+                break;
+            }
+
+            // Preserve leading spaces as prefix for the first word
+            String indent = segment.substring(segStart, contentStart);
+
             // Try fitting as many words as possible on one line
             String line = "";
             String candidate = "";
-            int pos = segStart;
+            int pos = contentStart;
 
             while (pos < (int)segment.length()) {
                 // Find next space or end of segment
@@ -209,7 +225,7 @@ void wordWrap(const String& text, const GFXfont* font, int maxWidth, WrappedLine
                 String word = segment.substring(pos, spacePos);
 
                 if (candidate.length() == 0) {
-                    candidate = word;
+                    candidate = indent + word;
                 } else {
                     candidate = candidate + " " + word;
                 }
@@ -232,9 +248,9 @@ void wordWrap(const String& text, const GFXfont* font, int maxWidth, WrappedLine
 
             // If we couldn't fit even one word, force it on the line anyway
             if (line.length() == 0) {
-                int spacePos = segment.indexOf(' ', segStart);
+                int spacePos = segment.indexOf(' ', contentStart);
                 if (spacePos == -1) spacePos = segment.length();
-                line = segment.substring(segStart, spacePos);
+                line = indent + segment.substring(contentStart, spacePos);
                 segStart = spacePos + 1;
             } else {
                 segStart += line.length();
