@@ -15,7 +15,7 @@ import requests
 
 ESP32_IP = os.environ.get("ESP32_IP", "192.168.1.50")
 LOG_PATH = str(Path(__file__).parent / "daily_log.json")
-CONTENT_PATH = str(Path(__file__).parent / "daily_content.json")
+CONTENT_PATH = str(Path(__file__).parent / "content_daily.json")
 
 DAILY_PROMPT = (
     "You are the voice of an e-ink display on someone's wall. Each day you choose "

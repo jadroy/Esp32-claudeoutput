@@ -5,4 +5,7 @@ __pycache__/
 .env
 daily_log.json
 daily_content.json
+content_*.json
+app_registry.json
+ship_log.json
 firmware/include/config.h

@@ -11,6 +11,7 @@ import argparse
 import json
 import math
 import os
+import sys
 import threading
 import time
 from datetime import datetime, timedelta
@@ -18,14 +19,22 @@ from pathlib import Path
 from flask import Flask, request, jsonify, render_template_string
 
 import anthropic
+from dotenv import load_dotenv
 import requests as http_requests
 import webview
+
+load_dotenv(Path(__file__).parent / ".env")
+
+# Ensure sibling modules are importable when run from any directory
+sys.path.insert(0, str(Path(__file__).parent))
+import app_registry
+from ship_tracker import generate_ship_content
 
 DEFAULT_ESP32_IP = "192.168.1.50"
 MAX_DISPLAY_CHARS = 2000
 ICON_PATH = str(Path(__file__).parent / "icon.png")
 DAILY_LOG_PATH = str(Path(__file__).parent / "daily_log.json")
-DAILY_CONTENT_PATH = str(Path(__file__).parent / "daily_content.json")
+DAILY_CONTENT_PATH = str(Path(__file__).parent / "content_daily.json")
 
 MODELS = {
     "claude-sonnet-4-20250514": {"name": "Sonnet 4", "input_cost": 3.00, "output_cost": 15.00},
@@ -145,6 +154,20 @@ HTML_TEMPLATE = """
             -webkit-app-region: no-drag;
         }
         .session-usage strong { color: #9B8578; font-weight: 600; }
+
+        .app-switcher {
+            display: flex; align-items: center; gap: 6px;
+            -webkit-app-region: no-drag;
+        }
+        .app-switcher .label {
+            font-size: 11px; color: #B8ADA5; white-space: nowrap;
+        }
+        .app-switcher select {
+            border: 1px solid #EDE8E3; border-radius: 6px; padding: 4px 8px;
+            font-family: inherit; font-size: 11px; color: #3D3029;
+            background: #FAFAF8; outline: none; cursor: pointer;
+        }
+        .app-switcher select:focus { border-color: #D97757; }
 
         /* ── Views ── */
         .view { display: none; flex: 1; flex-direction: column; overflow: hidden; }
@@ -440,6 +463,56 @@ HTML_TEMPLATE = """
             font-size: 11px; color: #B8ADA5; margin-bottom: 4px;
         }
 
+        /* ── Ships view ── */
+        .ships-view { padding: 24px; overflow-y: auto; }
+
+        .ships-card {
+            background: #FFFFFF; border: 1px solid #EDE8E3; border-radius: 14px;
+            padding: 24px; box-shadow: 0 1px 3px rgba(61, 48, 41, 0.04);
+            margin-bottom: 16px; text-align: center;
+        }
+
+        .ships-card h2 {
+            font-size: 14px; font-weight: 600; color: #3D3029;
+            margin-bottom: 6px;
+        }
+
+        .ships-card .ships-sub {
+            font-size: 12px; color: #B8ADA5; margin-bottom: 20px;
+        }
+
+        .ships-content {
+            font-size: 14px; line-height: 1.7; color: #3D3029;
+            white-space: pre-wrap; padding: 16px 8px;
+            min-height: 80px; text-align: left;
+            font-family: 'SF Mono', 'Menlo', 'Monaco', monospace;
+            font-size: 12px;
+        }
+
+        .ships-content.empty {
+            color: #C4B8AE; font-style: italic; font-size: 14px;
+            text-align: center; font-family: inherit;
+        }
+
+        .ships-meta {
+            font-size: 11px; color: #B8ADA5; margin-top: 16px;
+            padding-top: 14px; border-top: 1px solid #F0EBE6;
+        }
+        .ships-meta .sent { color: #7BA68A; }
+        .ships-meta .error { color: #C47158; }
+
+        .ships-actions {
+            display: flex; gap: 10px; justify-content: center;
+        }
+
+        .ships-btn {
+            background: #3D3029; color: #FFF; border: none; border-radius: 10px;
+            padding: 11px 28px; font-family: inherit; font-size: 13px; font-weight: 600;
+            cursor: pointer; transition: background 0.15s;
+        }
+        .ships-btn:hover { background: #2A201A; }
+        .ships-btn:disabled { background: #E5DDD6; color: #B8ADA5; cursor: not-allowed; }
+
         .footer {
             text-align: center; padding: 12px; font-size: 11px; color: #C4B8AE;
         }
@@ -458,8 +531,15 @@ HTML_TEMPLATE = """
 
         <div class="tab-bar">
             <button class="active" onclick="switchTab('daily')">Daily</button>
+            <button onclick="switchTab('ships')">Ships</button>
             <button onclick="switchTab('claude')">Claude</button>
             <button onclick="switchTab('rides')">Rides</button>
+        </div>
+
+        <div class="app-switcher">
+            <span class="label">Display:</span>
+            <select id="activeApp" onchange="setActiveApp(this.value)">
+            </select>
         </div>
 
         <div class="session-usage"><span id="sessionTokens"></span></div>
@@ -494,6 +574,20 @@ HTML_TEMPLATE = """
         <div class="daily-history-list" id="dailyHistorySection" style="display:none;">
             <h3>Recent</h3>
             <div id="dailyHistoryList"></div>
+        </div>
+    </div>
+
+    <!-- ── Ships View ── -->
+    <div class="view ships-view" id="view-ships">
+        <div class="ships-card">
+            <h2>SF Bay Vessels</h2>
+            <div class="ships-sub">Live AIS data from aisstream.io</div>
+            <div class="ships-content empty" id="shipsContent">No data yet — hit Scan Bay</div>
+            <div class="ships-meta" id="shipsMeta"></div>
+        </div>
+
+        <div class="ships-actions">
+            <button class="ships-btn" id="scanBtn" onclick="scanBay()">Scan Bay</button>
         </div>
     </div>
 
@@ -806,6 +900,76 @@ HTML_TEMPLATE = """
         // Load history on startup
         loadDailyHistory();
 
+        /* ── Ships ── */
+        async function scanBay() {
+            const btn = document.getElementById('scanBtn');
+            const content = document.getElementById('shipsContent');
+            const meta = document.getElementById('shipsMeta');
+            btn.disabled = true; btn.textContent = 'Scanning (~45s)...';
+            content.className = 'ships-content';
+            content.innerHTML = '<span class="spinner"></span>Listening for AIS signals...';
+            meta.textContent = '';
+
+            try {
+                const res = await fetch('/ships/generate', { method: 'POST' });
+                const data = await res.json();
+                if (data.error) {
+                    content.className = 'ships-content empty';
+                    content.textContent = 'Error: ' + data.error;
+                } else {
+                    content.className = 'ships-content';
+                    content.textContent = data.text;
+                    const dc = data.display_sent ? 'sent' : 'error';
+                    const dt = data.display_sent ? 'Sent to display' : (data.display_error || 'Display not updated');
+                    meta.innerHTML = `<span class="${dc}">${esc(dt)}</span> · ${data.vessel_count} vessels detected`;
+                }
+            } catch (err) {
+                content.className = 'ships-content empty';
+                content.textContent = 'Error: ' + err.message;
+            }
+            btn.disabled = false; btn.textContent = 'Scan Bay';
+        }
+
+        // Load latest ship data on startup
+        async function loadLatestShips() {
+            try {
+                const res = await fetch('/ships/latest');
+                const data = await res.json();
+                if (data.text) {
+                    document.getElementById('shipsContent').className = 'ships-content';
+                    document.getElementById('shipsContent').textContent = data.text;
+                }
+            } catch (e) {}
+        }
+        loadLatestShips();
+
+        /* ── App Switcher ── */
+        async function loadApps() {
+            try {
+                const res = await fetch('/api/apps');
+                const data = await res.json();
+                const select = document.getElementById('activeApp');
+                select.innerHTML = '';
+                for (const [name, info] of Object.entries(data.apps)) {
+                    const opt = document.createElement('option');
+                    opt.value = name;
+                    opt.textContent = info.display_name;
+                    if (name === data.active) opt.selected = true;
+                    select.appendChild(opt);
+                }
+            } catch (e) {}
+        }
+        loadApps();
+
+        async function setActiveApp(name) {
+            try {
+                await fetch('/api/apps/active', {
+                    method: 'POST', headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({ app: name })
+                });
+            } catch (e) {}
+        }
+
         function esc(t) { const d = document.createElement('div'); d.textContent = t; return d.innerHTML; }
     </script>
 </body>
@@ -978,13 +1142,32 @@ def daily_history_endpoint():
 
 @app.route("/api/content")
 def api_content():
-    """Serve daily content for slow-mode ESP32 polling."""
-    try:
-        with open(DAILY_CONTENT_PATH, "r") as f:
-            data = json.load(f)
+    """Serve the active app's content for slow-mode ESP32 polling."""
+    data = app_registry.get_active_content()
+    if data:
         return jsonify(data)
-    except (FileNotFoundError, json.JSONDecodeError):
-        return "", 204
+    return "", 204
+
+
+@app.route("/api/apps")
+def api_apps():
+    """List all apps and which is active."""
+    return jsonify({
+        "apps": app_registry.list_apps(),
+        "active": app_registry.get_active_app(),
+    })
+
+
+@app.route("/api/apps/active", methods=["POST"])
+def api_set_active():
+    """Set the active app."""
+    data = request.get_json()
+    name = data.get("app", "")
+    try:
+        app_registry.set_active_app(name)
+        return jsonify({"ok": True, "active": name})
+    except ValueError as e:
+        return jsonify({"error": str(e)}), 400
 
 
 @app.route("/display/send", methods=["POST"])
@@ -995,6 +1178,39 @@ def display_send():
         return jsonify({"sent": False, "error": "empty text"}), 400
     sent, error = _send_to_esp32(text)
     return jsonify({"sent": sent, "error": error})
+
+
+@app.route("/ships/generate", methods=["POST"])
+def ships_generate():
+    """Run AIS collection and write ship content."""
+    api_key = os.environ.get("AISSTREAM_API_KEY")
+    if not api_key:
+        return jsonify({"error": "AISSTREAM_API_KEY not set"}), 401
+    try:
+        text, ships = generate_ship_content(api_key)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+    sent, error = _send_to_esp32(text)
+
+    return jsonify({
+        "text": text,
+        "vessel_count": len(ships),
+        "display_sent": sent,
+        "display_error": error,
+    })
+
+
+@app.route("/ships/latest")
+def ships_latest():
+    """Serve the last generated ship data."""
+    path = app_registry.get_app_content_path("ships")
+    try:
+        with open(path, "r") as f:
+            data = json.load(f)
+        return jsonify(data)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return jsonify({})
 
 
 def _geocode(address):
