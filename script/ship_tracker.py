@@ -213,7 +213,7 @@ def _ship_symbol(length, heading, speed):
     return [">", "=>", "==>", "===>", "====>"][tier]
 
 
-MAP_ROWS = 7  # rows for the spatial grid area
+MAP_ROWS = 11  # rows for the spatial grid area
 
 
 def _pos_to_grid(lat, lon):
@@ -244,7 +244,7 @@ def format_ship_display(ships_dict):
 
     # Top ships by interest
     vessels = sorted(ships_dict.values(), key=_interest_score, reverse=True)
-    top = vessels[:5]
+    top = vessels[:7]
 
     # Build the radar grid
     map_rows = MAP_ROWS
@@ -271,8 +271,10 @@ def format_ship_display(ships_dict):
                     row = orig_row
                     break
 
-        # Build the ship string: "===> NAME"
-        ship_str = f"{symbol} {name}"
+        # Build the ship string: "===> NAME 300m"
+        length = ship.get("length")
+        tag = f" {length}m" if length and length >= 100 else ""
+        ship_str = f"{symbol} {name}{tag}"
 
         # Clamp col so ship_str fits on the row
         max_start = GRID_COLS - len(ship_str) - 1
@@ -285,21 +287,7 @@ def format_ship_display(ships_dict):
                     grid[row][col + ci] = ch
             used_cells.add((row, col, symbol, name))
 
-            # Build detail for legend
-            parts = []
-            type_name = ship.get("type_name") or ""
-            if type_name and type_name != "Unknown":
-                parts.append(type_name)
-            if ship.get("length"):
-                parts.append(f"{ship['length']}m")
-            speed = ship.get("speed")
-            if speed is not None and speed > 0.5:
-                parts.append(f"{speed:.0f}kn")
-            elif speed is not None:
-                parts.append("anch")
-            if ship.get("destination") and ship["destination"].strip():
-                parts.append(f">{ship['destination'].strip()[:8]}")
-            placed.append((name, " ".join(parts)))
+            placed.append(name)
 
     # Assemble output
     lines = []
@@ -310,13 +298,6 @@ def format_ship_display(ships_dict):
     for row in grid:
         lines.append("".join(row).rstrip())
     lines.append(border)
-
-    # Legend: two ships per line, capped to grid width
-    for i in range(0, len(placed), 2):
-        pair = placed[i:i+2]
-        parts = [f"{n}: {d}" for n, d in pair]
-        line = "  " + "   ".join(parts)
-        lines.append(line[:GRID_COLS])
 
     footer = f"W  Hunters Pt"
     mid = f"{len(ships_dict)} vessels in range"
