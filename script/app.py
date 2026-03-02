@@ -25,6 +25,7 @@ DEFAULT_ESP32_IP = "192.168.1.50"
 MAX_DISPLAY_CHARS = 2000
 ICON_PATH = str(Path(__file__).parent / "icon.png")
 DAILY_LOG_PATH = str(Path(__file__).parent / "daily_log.json")
+DAILY_CONTENT_PATH = str(Path(__file__).parent / "daily_content.json")
 
 MODELS = {
     "claude-sonnet-4-20250514": {"name": "Sonnet 4", "input_cost": 3.00, "output_cost": 15.00},
@@ -955,6 +956,10 @@ def daily_generate():
     daily_history.append(entry)
     _save_daily_log()
 
+    # Write content file for slow-mode polling
+    with open(DAILY_CONTENT_PATH, "w") as f:
+        json.dump({"text": text}, f, indent=2)
+
     # Send to display
     sent, error = _send_to_esp32(text)
 
@@ -969,6 +974,17 @@ def daily_generate():
 def daily_history_endpoint():
     _load_daily_log()
     return jsonify({"history": list(reversed(daily_history[-14:]))})
+
+
+@app.route("/api/content")
+def api_content():
+    """Serve daily content for slow-mode ESP32 polling."""
+    try:
+        with open(DAILY_CONTENT_PATH, "r") as f:
+            data = json.load(f)
+        return jsonify(data)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return "", 204
 
 
 @app.route("/display/send", methods=["POST"])

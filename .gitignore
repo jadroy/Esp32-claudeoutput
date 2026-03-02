@@ -2,5 +2,7 @@
 .vscode/
 __pycache__/
 *.pyc
+.env
 daily_log.json
+daily_content.json
 firmware/include/config.h

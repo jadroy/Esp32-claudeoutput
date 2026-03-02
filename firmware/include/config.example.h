@@ -33,8 +33,33 @@
 #define LINE_SPACING_EXTRA  4  // extra pixels between lines
 
 // ============================================================
+// Battery ADC (FireBeetle 2 built-in voltage divider on GPIO34)
+// ============================================================
+#define PIN_BAT_ADC       34
+#define BAT_SAMPLES       16    // ADC averaging for noise reduction
+
+// ============================================================
+// Status bar
+// ============================================================
+#define STATUS_BAR_HEIGHT 25    // pixels reserved at bottom of display
+
+// ============================================================
+// NTP time sync
+// ============================================================
+#define NTP_SERVER        "pool.ntp.org"
+#define UTC_OFFSET_SEC    -28800  // UTC-8 (Pacific Standard Time)
+#define DST_OFFSET_SEC    3600    // +1 hour for daylight saving
+
+// ============================================================
 // HTTP server
 // ============================================================
 #define HTTP_PORT  80
+
+// ============================================================
+// Slow mode (battery / deep sleep)
+// ============================================================
+#define CONTENT_URL          "http://192.168.1.50:8080/api/content"
+#define SLEEP_DURATION_US    86400000000ULL  // 24 hours in microseconds
+#define USB_VOLTAGE_THRESHOLD 4.5            // above = USB, below = battery
 
 #endif // CONFIG_H

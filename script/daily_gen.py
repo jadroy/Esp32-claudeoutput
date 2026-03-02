@@ -15,6 +15,7 @@ import requests
 
 ESP32_IP = os.environ.get("ESP32_IP", "192.168.1.50")
 LOG_PATH = str(Path(__file__).parent / "daily_log.json")
+CONTENT_PATH = str(Path(__file__).parent / "daily_content.json")
 
 DAILY_PROMPT = (
     "You are the voice of an e-ink display on someone's wall. Each day you choose "
@@ -32,8 +33,9 @@ DAILY_PROMPT = (
     "- Or anything else you find genuinely interesting\n\n"
     "Be surprising. Be varied. Make it something worth glancing at all day. "
     "Write ONLY the content — no preamble, no 'here's today's display', no meta-commentary. "
-    "Plain text only, no markdown. Keep it under 400 characters so it displays in a large, "
-    "beautiful font on the 800x480 screen."
+    "Plain text only, no markdown. Use only basic ASCII — no em dashes, curly quotes, or "
+    "special Unicode. Use regular dashes (-) and straight quotes. "
+    "Keep it under 400 characters so it displays in a large, beautiful font on the 800x480 screen."
 )
 
 
@@ -75,7 +77,7 @@ def main():
     text = message.content[0].text.strip()
     print(f"[daily] {text}")
 
-    # Save
+    # Save to log
     history.append({
         "date": datetime.now().strftime("%Y-%m-%d"),
         "time": datetime.now().strftime("%H:%M"),
@@ -83,7 +85,12 @@ def main():
     })
     save_log(history)
 
-    # Send to display
+    # Write content file for slow-mode polling
+    with open(CONTENT_PATH, "w") as f:
+        json.dump({"text": text}, f, indent=2)
+    print(f"[content] Written to {CONTENT_PATH}")
+
+    # Send to display (non-fatal — ESP32 may be asleep in slow mode)
     try:
         resp = requests.post(
             f"http://{ESP32_IP}/display",
@@ -93,8 +100,7 @@ def main():
         resp.raise_for_status()
         print("[display] Sent successfully")
     except Exception as e:
-        print(f"[display] Failed: {e}", file=sys.stderr)
-        sys.exit(1)
+        print(f"[display] Could not push to ESP32 (may be asleep): {e}")
 
 
 if __name__ == "__main__":
