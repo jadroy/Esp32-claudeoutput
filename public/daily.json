@@ -1,9 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-18T12:32:46-07:00",
+  "generated_at": "2026-07-18T12:52:27-07:00",
+  "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "AI's new political donor class is already outspending Big Tech's last one",
+      "url": "https://sfstandard.com/2026/07/18/ai-s-new-political-donor-class-already-outspending-big-tech-s-last-one/"
+    },
+    {
+      "source": "NPR",
+      "title": "Air quality improving in northeast, while wildfire smoke hangs over midwest",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke"
+    },
+    {
+      "source": "BBC",
+      "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+      "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "SF Standard",
+      "title": "Is this the best-dressed man in tech?",
+      "url": "https://sfstandard.com/2026/07/18/best-dressed-man-tech/"
+    }
+  ],
   "location": "Ingleside",
+  "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
   "text": "high 60, low 53. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1784431966,
+  "valid_until_epoch": 1784433147,
   "version": 1
 }
