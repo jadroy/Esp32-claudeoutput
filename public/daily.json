@@ -1,9 +1,9 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-18T09:11:13-07:00",
+  "generated_at": "2026-07-18T12:32:46-07:00",
   "location": "Ingleside",
   "source": "weather",
-  "text": "high 59, low 52. best outside window: 9am to 12am",
-  "valid_until_epoch": 1784419873,
+  "text": "high 60, low 53. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1784431966,
   "version": 1
 }
