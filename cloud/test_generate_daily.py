@@ -1,7 +1,7 @@
 import unittest
 from datetime import datetime
 
-from generate_daily import TIMEZONE, build_signal
+from generate_daily import TIMEZONE, build_signal, clean_headline, select_headlines
 
 
 def weather(hours, temps, rain, high=68, low=53):
@@ -51,6 +51,20 @@ class SignalTests(unittest.TestCase):
         text, source = build_signal(data, {}, self.now)
         self.assertEqual(source, "weather")
         self.assertEqual(text, "today stays cool: 52 to 58. warmest: 12pm to 4pm")
+
+    def test_headline_cleanup_is_eink_safe(self):
+        self.assertEqual(clean_headline("AI\u2019s new \u2014 political class"),
+                         "AI's new - political class")
+
+    def test_similar_headlines_are_deduplicated(self):
+        stories = [
+            {"title": "Two US troops killed after attack in Jordan", "source": "NPR"},
+            {"title": "Two US troops killed in Jordan after attack", "source": "BBC"},
+            {"title": "San Francisco opens a new waterfront park", "source": "SF Standard"},
+        ]
+        selected = select_headlines(stories)
+        self.assertEqual(len(selected), 2)
+        self.assertEqual(selected[1]["source"], "SF Standard")
 
 
 if __name__ == "__main__":

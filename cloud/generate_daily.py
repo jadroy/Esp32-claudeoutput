@@ -6,8 +6,12 @@ from __future__ import annotations
 import json
 import os
 import tempfile
+import html
+import re
+import unicodedata
 import urllib.parse
 import urllib.request
+import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -19,6 +23,11 @@ LONGITUDE = -122.453
 TIMEZONE = ZoneInfo("America/Los_Angeles")
 OUTPUT_PATH = Path(os.environ.get("DAILY_OUTPUT", "public/daily.json"))
 USER_AGENT = "roy-eink-brief/1.0"
+NEWS_FEEDS = (
+    ("SF Standard", "https://sfstandard.com/feed/"),
+    ("NPR", "https://feeds.npr.org/1001/rss.xml"),
+    ("BBC", "https://feeds.bbci.co.uk/news/rss.xml"),
+)
 
 
 def fetch_json(base_url: str, params: dict[str, object]) -> dict:
@@ -54,6 +63,65 @@ def fetch_air_quality() -> dict:
             "forecast_days": 2,
         },
     )
+
+
+def clean_headline(value: str) -> str:
+    value = html.unescape(value)
+    value = value.replace("\u2018", "'").replace("\u2019", "'")
+    value = value.replace("\u201c", '"').replace("\u201d", '"')
+    value = value.replace("\u2013", "-").replace("\u2014", "-")
+    value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode()
+    return re.sub(r"\s+", " ", value).strip()
+
+
+def fetch_rss(source: str, url: str) -> list[dict]:
+    request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    with urllib.request.urlopen(request, timeout=20) as response:
+        root = ET.fromstring(response.read())
+    stories = []
+    for item in root.findall(".//item")[:6]:
+        title = clean_headline(item.findtext("title", ""))
+        link = (item.findtext("link", "") or "").strip()
+        if len(title) >= 20:
+            stories.append({"title": title[:140], "source": source, "url": link})
+    return stories
+
+
+def headline_words(title: str) -> set[str]:
+    return {word for word in re.findall(r"[a-z0-9]+", title.lower()) if len(word) > 2}
+
+
+def select_headlines(stories: list[dict], limit: int = 4) -> list[dict]:
+    selected = []
+    for story in stories:
+        words = headline_words(story["title"])
+        duplicate = False
+        for existing in selected:
+            other = headline_words(existing["title"])
+            union = words | other
+            if union and len(words & other) / len(union) >= 0.45:
+                duplicate = True
+                break
+        if not duplicate:
+            selected.append(story)
+        if len(selected) == limit:
+            break
+    return selected
+
+
+def fetch_news() -> list[dict]:
+    by_source = []
+    for source, url in NEWS_FEEDS:
+        try:
+            by_source.append((source, fetch_rss(source, url)))
+        except Exception:
+            continue
+    interleaved = []
+    for index in range(4):
+        for _, stories in by_source:
+            if index < len(stories):
+                interleaved.append(stories[index])
+    return select_headlines(interleaved)
 
 
 def parse_local(value: str) -> datetime:
@@ -192,6 +260,11 @@ def main() -> None:
     except Exception as exc:
         air = {}
         errors.append(f"air: {exc}")
+    try:
+        headlines = fetch_news()
+    except Exception as exc:
+        headlines = []
+        errors.append(f"news: {exc}")
 
     if weather:
         text, source = build_signal(weather, air, now)
@@ -206,6 +279,8 @@ def main() -> None:
         "valid_until_epoch": int((generated + timedelta(hours=8)).timestamp()),
         "location": "Ingleside",
         "attribution": "Weather data by Open-Meteo.com",
+        "headlines": headlines,
+        "news_attribution": "Headlines from SF Standard, NPR and BBC",
         "version": 1,
     }
     write_atomic(OUTPUT_PATH, payload)
