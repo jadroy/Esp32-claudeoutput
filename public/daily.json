@@ -1,9 +1,9 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-18T00:00:19-07:00",
+  "generated_at": "2026-07-18T03:41:22-07:00",
   "location": "Ingleside",
   "source": "weather",
-  "text": "high of 56, low of 52. this is a second-layer day.",
-  "valid_until_epoch": 1784386819,
+  "text": "high of 58, low of 52. this is a second-layer day.",
+  "valid_until_epoch": 1784400082,
   "version": 1
 }
