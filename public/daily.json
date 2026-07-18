@@ -1,9 +1,9 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-18T06:50:44-07:00",
+  "generated_at": "2026-07-18T08:35:13-07:00",
   "location": "Ingleside",
   "source": "weather",
-  "text": "high of 58, low of 52. this is a second-layer day.",
-  "valid_until_epoch": 1784411444,
+  "text": "today stays cool: 52 to 58. warmest: 11am to 3pm",
+  "valid_until_epoch": 1784417713,
   "version": 1
 }
