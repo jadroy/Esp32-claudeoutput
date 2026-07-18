@@ -40,6 +40,18 @@ class SignalTests(unittest.TestCase):
         self.assertEqual(source, "weather")
         self.assertIn("best outside window: 10am to 3pm", text)
 
+    def test_cool_day_uses_warmest_window(self):
+        data = weather(
+            self.hours,
+            [52, 53, 54, 56, 58, 58, 57, 55, 54, 53],
+            [0] * 10,
+            high=58,
+            low=52,
+        )
+        text, source = build_signal(data, {}, self.now)
+        self.assertEqual(source, "weather")
+        self.assertEqual(text, "today stays cool: 52 to 58. warmest: 12pm to 4pm")
+
 
 if __name__ == "__main__":
     unittest.main()

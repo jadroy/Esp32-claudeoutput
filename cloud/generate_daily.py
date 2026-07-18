@@ -106,6 +106,23 @@ def best_outdoor_window(hours: list[dict]) -> tuple[datetime, datetime] | None:
     return run[0]["time"], run[-1]["time"] + timedelta(hours=1)
 
 
+def warmest_window(hours: list[dict]) -> tuple[datetime, datetime] | None:
+    dry = [row for row in hours if row["rain"] < 25]
+    if not dry:
+        return None
+
+    warmest = max(row["temp"] for row in dry)
+    near_peak = [row for row in dry if row["temp"] >= warmest - 2]
+    runs: list[list[dict]] = []
+    for row in near_peak:
+        if not runs or row["time"] - runs[-1][-1]["time"] != timedelta(hours=1):
+            runs.append([row])
+        else:
+            runs[-1].append(row)
+    run = max(runs, key=len)
+    return run[0]["time"], run[-1]["time"] + timedelta(hours=1)
+
+
 def build_signal(weather: dict, air: dict, now: datetime) -> tuple[str, str]:
     hours = today_hours(weather, now)
     daily = weather.get("daily", {})
@@ -133,7 +150,14 @@ def build_signal(weather: dict, air: dict, now: datetime) -> tuple[str, str]:
     if high >= 82:
         return f"sf reaches {high} today. do the outdoor part before noon.", "weather"
     if high <= 58:
-        return f"high of {high}, low of {low}. this is a second-layer day.", "weather"
+        window = warmest_window(hours)
+        if window:
+            return (
+                f"today stays cool: {low} to {high}. warmest: "
+                f"{compact_hour(window[0])} to {compact_hour(window[1])}",
+                "weather",
+            )
+        return f"today stays cool: {low} to {high}. bring a second layer.", "weather"
 
     window = best_outdoor_window(hours)
     if window:
