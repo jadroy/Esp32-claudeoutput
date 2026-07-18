@@ -1,9 +1,9 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-18T08:35:13-07:00",
+  "generated_at": "2026-07-18T09:11:13-07:00",
   "location": "Ingleside",
   "source": "weather",
-  "text": "today stays cool: 52 to 58. warmest: 11am to 3pm",
-  "valid_until_epoch": 1784417713,
+  "text": "high 59, low 52. best outside window: 9am to 12am",
+  "valid_until_epoch": 1784419873,
   "version": 1
 }
