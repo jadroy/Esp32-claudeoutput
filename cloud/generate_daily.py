@@ -13,8 +13,9 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 
-LATITUDE = 37.7749
-LONGITUDE = -122.4194
+# Rounded to the 50 Summit area so the public repo does not expose a doorway.
+LATITUDE = 37.716
+LONGITUDE = -122.453
 TIMEZONE = ZoneInfo("America/Los_Angeles")
 OUTPUT_PATH = Path(os.environ.get("DAILY_OUTPUT", "public/daily.json"))
 USER_AGENT = "roy-eink-brief/1.0"
@@ -142,7 +143,7 @@ def build_signal(weather: dict, air: dict, now: datetime) -> tuple[str, str]:
             "weather",
         )
 
-    return f"san francisco: high {high}, low {low}. no weather drama scheduled.", "weather"
+    return f"ingleside: high {high}, low {low}. no weather drama scheduled.", "weather"
 
 
 def write_atomic(path: Path, payload: dict) -> None:
@@ -179,7 +180,8 @@ def main() -> None:
         "source": source,
         "generated_at": generated.isoformat(timespec="seconds"),
         "valid_until_epoch": int((generated + timedelta(hours=8)).timestamp()),
-        "location": "San Francisco",
+        "location": "Ingleside",
+        "attribution": "Weather data by Open-Meteo.com",
         "version": 1,
     }
     write_atomic(OUTPUT_PATH, payload)
