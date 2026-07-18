@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-18T12:52:27-07:00",
+  "generated_at": "2026-07-18T15:08:16-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "Waymo preemptively paused service during SF power outage",
+      "url": "https://sfstandard.com/2026/07/18/waymo-pauses-service-sf-blackout-lessons-learned/"
+    },
+    {
+      "source": "NPR",
+      "title": "Josh Kerr of Britain breaks 27-year-old world record in the mile",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time"
+    },
+    {
+      "source": "BBC",
+      "title": "Andy Burnham to scrap digital ID to focus on cost of living in first major policy pledge",
+      "url": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "AI's new political donor class is already outspending Big Tech's last one",
       "url": "https://sfstandard.com/2026/07/18/ai-s-new-political-donor-class-already-outspending-big-tech-s-last-one/"
-    },
-    {
-      "source": "NPR",
-      "title": "Air quality improving in northeast, while wildfire smoke hangs over midwest",
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke"
-    },
-    {
-      "source": "BBC",
-      "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-      "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "Is this the best-dressed man in tech?",
-      "url": "https://sfstandard.com/2026/07/18/best-dressed-man-tech/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 53. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1784433147,
+  "text": "high 60, low 53. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1784441296,
   "version": 1
 }
