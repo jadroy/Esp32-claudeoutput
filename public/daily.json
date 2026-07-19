@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-19T01:33:52-07:00",
+  "generated_at": "2026-07-19T03:44:01-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us"
+      "title": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem"
     },
     {
       "source": "BBC",
-      "title": "Watch: Highlights as England stun France 6-4 in third-place play-off",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss"
+      "title": "Burnham will be bolder but stick to Labour manifesto, deputy leader says",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k76gydreo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "today stays cool: 54 to 57. warmest: 9am to 8pm",
-  "valid_until_epoch": 1784478832,
+  "text": "today stays cool: 52 to 57. warmest: 10am to 8pm",
+  "valid_until_epoch": 1784486641,
   "version": 1
 }
