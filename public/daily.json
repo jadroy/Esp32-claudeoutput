@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-19T09:11:25-07:00",
+  "generated_at": "2026-07-19T12:33:04-07:00",
   "headlines": [
     {
       "source": "SF Standard",
       "title": "Mamdani-inspired tax on SF's empty grocery stores is off the ballot, but not off the table",
-      "url": "https://sfstandard.com/2026/07/19/sf-grocery-vacancy-tax-dead-mahmood-workaround/"
+      "url": "https://sfstandard.com/2026/07/19/sf-empty-grocery-stores-tax/"
     },
     {
       "source": "NPR",
@@ -14,8 +14,8 @@
     },
     {
       "source": "BBC",
-      "title": "Burnham will be bolder but stick to Labour manifesto, deputy leader says",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k76gydreo?at_medium=RSS&at_campaign=rss"
+      "title": "Burnham to promise 'more breathing room' for people in first speech as PM",
+      "url": "https://www.bbc.co.uk/news/articles/cy8m7k98p3no?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "today stays cool: 53 to 58. warmest: 11am to 4pm",
-  "valid_until_epoch": 1784506285,
+  "text": "high 61, low 53. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1784518384,
   "version": 1
 }
