@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-19T06:54:38-07:00",
+  "generated_at": "2026-07-19T09:11:25-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "More children, more problems: How families with three, four, and five kids make it in SF",
-      "url": "https://sfstandard.com/2026/07/19/children-problems-families-three-four-five-kids-make-sf/"
+      "title": "Mamdani-inspired tax on SF's empty grocery stores is off the ballot, but not off the table",
+      "url": "https://sfstandard.com/2026/07/19/sf-grocery-vacancy-tax-dead-mahmood-workaround/"
     },
     {
       "source": "NPR",
-      "title": "Violence repeatedly erupts in dementia care despite warnings, inspections show",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5894692/dementia-violence-warning-supervision-nursing-homes-assisted-living-facility"
+      "title": "Who is Andy Burnham, the U.K.'s new prime minister?",
+      "url": "https://www.npr.org/2026/07/19/g-s1-134001/andy-burnham-new-british-prime-minister"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Don't shame your teens about their AI use",
-      "url": "https://sfstandard.com/2026/07/19/teens-ai-use-shame-adults/"
+      "title": "More children, more problems: How families with three, four, and five kids make it in SF",
+      "url": "https://sfstandard.com/2026/07/19/children-problems-families-three-four-five-kids-make-sf/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "today stays cool: 53 to 57. warmest: 9am to 11pm",
-  "valid_until_epoch": 1784498078,
+  "text": "today stays cool: 53 to 58. warmest: 11am to 4pm",
+  "valid_until_epoch": 1784506285,
   "version": 1
 }
