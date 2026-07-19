@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-19T03:44:01-07:00",
+  "generated_at": "2026-07-19T06:54:38-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'Maybe we should call ICE on you': Passenger describes United confrontation at SFO",
-      "url": "https://sfstandard.com/2026/07/18/united-employee-ice-threat-sfo-julio-varela/"
+      "title": "More children, more problems: How families with three, four, and five kids make it in SF",
+      "url": "https://sfstandard.com/2026/07/19/children-problems-families-three-four-five-kids-make-sf/"
     },
     {
       "source": "NPR",
-      "title": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem"
+      "title": "Violence repeatedly erupts in dementia care despite warnings, inspections show",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5894692/dementia-violence-warning-supervision-nursing-homes-assisted-living-facility"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Waymo preemptively paused service during SF power outage",
-      "url": "https://sfstandard.com/2026/07/18/waymo-pauses-service-sf-blackout-lessons-learned/"
+      "title": "Don't shame your teens about their AI use",
+      "url": "https://sfstandard.com/2026/07/19/teens-ai-use-shame-adults/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "today stays cool: 52 to 57. warmest: 10am to 8pm",
-  "valid_until_epoch": 1784486641,
+  "text": "today stays cool: 53 to 57. warmest: 9am to 11pm",
+  "valid_until_epoch": 1784498078,
   "version": 1
 }
