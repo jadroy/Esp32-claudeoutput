@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-19T12:33:04-07:00",
+  "generated_at": "2026-07-19T15:09:28-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Mamdani-inspired tax on SF's empty grocery stores is off the ballot, but not off the table",
-      "url": "https://sfstandard.com/2026/07/19/sf-empty-grocery-stores-tax/"
+      "title": "Former SF Port director, now Sausalito's city manager, arrested on burglary charge",
+      "url": "https://sfstandard.com/2026/07/19/sausalito-city-manager-elaine-forbes-arrested-burglary/"
     },
     {
       "source": "NPR",
-      "title": "Who is Andy Burnham, the U.K.'s new prime minister?",
-      "url": "https://www.npr.org/2026/07/19/g-s1-134001/andy-burnham-new-british-prime-minister"
+      "title": "A cavalcade of international stars headlined the World Cup's first-ever halftime final show",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5888626/world-cup-halftime-final-show-bts-madonna-shakira-burna-boy-chris-martin-muppets-bieber"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "More children, more problems: How families with three, four, and five kids make it in SF",
-      "url": "https://sfstandard.com/2026/07/19/children-problems-families-three-four-five-kids-make-sf/"
+      "title": "Mamdani-inspired tax on SF's empty grocery stores is off the ballot, but not off the table",
+      "url": "https://sfstandard.com/2026/07/19/sf-empty-grocery-stores-tax/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 53. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1784518384,
+  "text": "high 62, low 53. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1784527768,
   "version": 1
 }
