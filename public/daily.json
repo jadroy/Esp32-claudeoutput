@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-18T20:55:51-07:00",
+  "generated_at": "2026-07-19T01:33:52-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
-      "url": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami"
+      "title": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us"
     },
     {
       "source": "BBC",
-      "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
-      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: Highlights as England stun France 6-4 in third-place play-off",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 54. best outside window: 8pm to 12am",
-  "valid_until_epoch": 1784462151,
+  "text": "today stays cool: 54 to 57. warmest: 9am to 8pm",
+  "valid_until_epoch": 1784478832,
   "version": 1
 }
