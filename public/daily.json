@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-20T09:44:44-07:00",
+  "generated_at": "2026-07-20T12:57:19-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "49ers camp preview: Rookie spotlight, Morris' changes, and no contract drama?",
+      "url": "https://sfstandard.com/2026/07/20/49ers-camp-preview-paraag-marathe-mls/"
+    },
+    {
+      "source": "NPR",
+      "title": "Court ruling freezes Paramount-Warner Bros. merger for now",
+      "url": "https://www.npr.org/2026/07/20/nx-s1-5900888/paramount-wbd-tro-restraining-lawsuit"
+    },
+    {
+      "source": "BBC",
+      "title": "Who's in the cabinet?",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Three takeaways from our investigation into SFPD's rape case crisis",
       "url": "https://sfstandard.com/2026/07/20/sfpd-rape-kit-investigation-data/"
-    },
-    {
-      "source": "NPR",
-      "title": "India's Gen Z 'Cockroach People's Party' started as satire but is serious about change",
-      "url": "https://www.npr.org/2026/07/20/nx-s1-5889515/india-gen-z-cockroach-party-protests"
-    },
-    {
-      "source": "BBC",
-      "title": "Burnham promises help with your money. How could it affect you?",
-      "url": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "The candy flavor you hated most as a kid is suddenly everywhere",
-      "url": "https://sfstandard.com/2026/07/20/banana-drinks-san-francisco/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 53. best outside window: 9am to 12am",
-  "valid_until_epoch": 1784594684,
+  "text": "high 64, low 53. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1784606239,
   "version": 1
 }
