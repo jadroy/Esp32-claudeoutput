@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-20T07:34:15-07:00",
+  "generated_at": "2026-07-20T09:44:44-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Putin meets North Korean foreign minister in diplomatic push",
-      "url": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push"
+      "title": "India's Gen Z 'Cockroach People's Party' started as satire but is serious about change",
+      "url": "https://www.npr.org/2026/07/20/nx-s1-5889515/india-gen-z-cockroach-party-protests"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 54. best outside window: 7am to 12am",
-  "valid_until_epoch": 1784586855,
+  "text": "high 62, low 53. best outside window: 9am to 12am",
+  "valid_until_epoch": 1784594684,
   "version": 1
 }
