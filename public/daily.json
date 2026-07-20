@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-19T21:06:06-07:00",
+  "generated_at": "2026-07-20T02:34:38-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "Clint Reilly, longtime political fixer and Examiner owner, dies at 79",
+      "url": "https://sfstandard.com/2026/07/19/clint-reilly-dies-obituary/"
+    },
+    {
+      "source": "NPR",
+      "title": "'I just wanted to give up': Disabled patients face Medicaid denials from IT errors",
+      "url": "https://www.npr.org/2026/07/20/nx-s1-5896359/medicaid-disabled-patients-denied-deloitte-michigan"
+    },
+    {
+      "source": "BBC",
+      "title": "Chris Mason: Burnham is fifth PM in four years - now he'll try to buck the trend",
+      "url": "https://www.bbc.co.uk/news/articles/cr7knml2y99o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Ex-commissioners fear City Hall will pack watchdog group with loyalists",
       "url": "https://sfstandard.com/2026/07/19/ex-commissioners-fear-city-hall-will-pack-watchdog-group-loyalists/"
-    },
-    {
-      "source": "NPR",
-      "title": "A cavalcade of international stars headlined the World Cup's first-ever halftime final show",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5888626/world-cup-halftime-final-show-bts-madonna-shakira-burna-boy-chris-martin-muppets-bieber"
-    },
-    {
-      "source": "BBC",
-      "title": "Burnham to promise 'more breathing room' for people in first speech as PM",
-      "url": "https://www.bbc.co.uk/news/articles/cy8m7k98p3no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "Former SF Port director, now Sausalito's city manager, arrested on burglary charge",
-      "url": "https://sfstandard.com/2026/07/19/sausalito-city-manager-elaine-forbes-arrested-burglary/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 53. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1784549166,
+  "text": "high 61, low 54. best outside window: 2am to 12am",
+  "valid_until_epoch": 1784568878,
   "version": 1
 }
