@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-20T02:34:38-07:00",
+  "generated_at": "2026-07-20T07:34:15-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Clint Reilly, longtime political fixer and Examiner owner, dies at 79",
-      "url": "https://sfstandard.com/2026/07/19/clint-reilly-dies-obituary/"
+      "title": "Three takeaways from our investigation into SFPD's rape case crisis",
+      "url": "https://sfstandard.com/2026/07/20/sfpd-rape-kit-investigation-data/"
     },
     {
       "source": "NPR",
-      "title": "'I just wanted to give up': Disabled patients face Medicaid denials from IT errors",
-      "url": "https://www.npr.org/2026/07/20/nx-s1-5896359/medicaid-disabled-patients-denied-deloitte-michigan"
+      "title": "Putin meets North Korean foreign minister in diplomatic push",
+      "url": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push"
     },
     {
       "source": "BBC",
-      "title": "Chris Mason: Burnham is fifth PM in four years - now he'll try to buck the trend",
-      "url": "https://www.bbc.co.uk/news/articles/cr7knml2y99o?at_medium=RSS&at_campaign=rss"
+      "title": "Burnham promises help with your money. How could it affect you?",
+      "url": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Ex-commissioners fear City Hall will pack watchdog group with loyalists",
-      "url": "https://sfstandard.com/2026/07/19/ex-commissioners-fear-city-hall-will-pack-watchdog-group-loyalists/"
+      "title": "The candy flavor you hated most as a kid is suddenly everywhere",
+      "url": "https://sfstandard.com/2026/07/20/banana-drinks-san-francisco/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 54. best outside window: 2am to 12am",
-  "valid_until_epoch": 1784568878,
+  "text": "high 62, low 54. best outside window: 7am to 12am",
+  "valid_until_epoch": 1784586855,
   "version": 1
 }
