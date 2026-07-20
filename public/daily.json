@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-19T15:09:28-07:00",
+  "generated_at": "2026-07-19T21:06:06-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Former SF Port director, now Sausalito's city manager, arrested on burglary charge",
-      "url": "https://sfstandard.com/2026/07/19/sausalito-city-manager-elaine-forbes-arrested-burglary/"
+      "title": "Ex-commissioners fear City Hall will pack watchdog group with loyalists",
+      "url": "https://sfstandard.com/2026/07/19/ex-commissioners-fear-city-hall-will-pack-watchdog-group-loyalists/"
     },
     {
       "source": "NPR",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Mamdani-inspired tax on SF's empty grocery stores is off the ballot, but not off the table",
-      "url": "https://sfstandard.com/2026/07/19/sf-empty-grocery-stores-tax/"
+      "title": "Former SF Port director, now Sausalito's city manager, arrested on burglary charge",
+      "url": "https://sfstandard.com/2026/07/19/sausalito-city-manager-elaine-forbes-arrested-burglary/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 53. best outside window: 3pm to 12am",
-  "valid_until_epoch": 1784527768,
+  "text": "high 62, low 53. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1784549166,
   "version": 1
 }
