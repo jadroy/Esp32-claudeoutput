@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-20T20:46:39-07:00",
+  "generated_at": "2026-07-21T01:46:28-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
-      "url": "https://www.npr.org/2026/07/20/nx-s1-5901356/fda-focused-taylor-farms-lettuce-cyclospora-source-despite-retracted-test"
+      "title": "Spain's World Cup champions return home for parade in front of almost 2 million",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5901832/spain-world-cup-champions-return-home"
     },
     {
       "source": "BBC",
-      "title": "Burnham pledges to 'bring back hope' as he makes Healey chancellor",
-      "url": "https://www.bbc.co.uk/news/articles/cvg9w2e29eno?at_medium=RSS&at_campaign=rss"
+      "title": "Who's in Andy Burnham's cabinet?",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 55. best outside window: 8pm to 12am",
-  "valid_until_epoch": 1784634399,
+  "text": "high 68, low 55. best outside window: 1am to 12am",
+  "valid_until_epoch": 1784652388,
   "version": 1
 }
