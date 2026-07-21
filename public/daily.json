@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-20T15:13:36-07:00",
+  "generated_at": "2026-07-20T20:46:39-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "How a FIFA World Cup rule turned into Levi's hottest T-shirt",
+      "url": "https://sfstandard.com/2026/07/20/levis-world-cup-black-tee-shirt/"
+    },
+    {
+      "source": "NPR",
+      "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
+      "url": "https://www.npr.org/2026/07/20/nx-s1-5901356/fda-focused-taylor-farms-lettuce-cyclospora-source-despite-retracted-test"
+    },
+    {
+      "source": "BBC",
+      "title": "Burnham pledges to 'bring back hope' as he makes Healey chancellor",
+      "url": "https://www.bbc.co.uk/news/articles/cvg9w2e29eno?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "A popular Mexican American bakery is moving into the former Shuggie's space",
       "url": "https://sfstandard.com/2026/07/20/florecita-panaderia-conchas-cafe/"
-    },
-    {
-      "source": "NPR",
-      "title": "10 things that wowed us at the 2026 World Cup",
-      "url": "https://www.npr.org/2026/07/20/nx-s1-5892511/2026-world-cup-fifa-spain-argentina-tournament"
-    },
-    {
-      "source": "BBC",
-      "title": "Who's in the cabinet?",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "49ers camp preview: Rookie spotlight, Morris' changes, and no contract drama?",
-      "url": "https://sfstandard.com/2026/07/20/49ers-camp-preview-paraag-marathe-mls/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 53. best outside window: 3pm to 12am",
-  "valid_until_epoch": 1784614416,
+  "text": "high 66, low 55. best outside window: 8pm to 12am",
+  "valid_until_epoch": 1784634399,
   "version": 1
 }
