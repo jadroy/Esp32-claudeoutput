@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-21T12:52:31-07:00",
+  "generated_at": "2026-07-21T15:12:55-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Nicaragua's President Ortega says no more elections, extending his 20-year rule",
-      "url": "https://www.npr.org/2026/07/21/nx-s1-5902228/nicaragua-ortega-no-elections"
+      "title": "Smithsonian too focused on 'oppressors and the oppressed,' say House Republicans",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5902101/smithsonian-house-hearing"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 71, low 57. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1784692351,
+  "text": "high 74, low 57. best outside window: 6pm to 12am",
+  "valid_until_epoch": 1784700775,
   "version": 1
 }
