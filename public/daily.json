@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-21T07:23:50-07:00",
+  "generated_at": "2026-07-21T09:42:32-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Jollibee announces long-awaited opening of San Francisco location",
-      "url": "https://sfstandard.com/2026/07/21/jollibee-announces-long-awaited-opening-san-francisco-location/"
+      "title": "The Valkyries' winning streak is over. It barely dents a stunning first half",
+      "url": "https://sfstandard.com/2026/07/21/kaitlyn-chen-valkyries-janelle-salaun-bench/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "London-based civil servants offered move to No 10 North in Manchester",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8p0l29pxo?at_medium=RSS&at_campaign=rss"
+      "title": "Ann Widdecombe was hit on head 21 times with hammer, prosecutors say",
+      "url": "https://www.bbc.co.uk/news/articles/cj03r77n07jo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Kaiser says AI isn't making mental health decisions. A new complaint says otherwise",
-      "url": "https://sfstandard.com/2026/07/21/kaiser-ai-mental-health-screening-complaint-nuhw/"
+      "title": "Nvidia CEO Jensen Huang pumps $75 million into Vanderbilt's CCA revival",
+      "url": "https://sfstandard.com/2026/07/21/jensen-huang-75-million-vanderbilt-california-college-of-the-arts/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 69, low 57. best outside window: 7am to 12am",
-  "valid_until_epoch": 1784672630,
+  "text": "high 69, low 57. best outside window: 9am to 12am",
+  "valid_until_epoch": 1784680952,
   "version": 1
 }
