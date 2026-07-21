@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-21T04:19:39-07:00",
+  "generated_at": "2026-07-21T07:23:50-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "How a FIFA World Cup rule turned into Levi's hottest T-shirt",
-      "url": "https://sfstandard.com/2026/07/20/levis-world-cup-black-tee-shirt/"
+      "title": "Jollibee announces long-awaited opening of San Francisco location",
+      "url": "https://sfstandard.com/2026/07/21/jollibee-announces-long-awaited-opening-san-francisco-location/"
     },
     {
       "source": "NPR",
-      "title": "Iran-backed Houthis announce blockade. And, Cyclospora source remains unknown",
-      "url": "https://www.npr.org/2026/07/21/g-s1-134720/up-first-newsletter-yemen-houthi-iran-war-pete-hegseth-pentagon-fda-cyclospora"
+      "title": "The best games of 2026 so far, picked by NPR's staff",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5897567/best-games-2026-npr"
     },
     {
       "source": "BBC",
-      "title": "Chris Mason: Starmer ally takes swipe at Burnham's first big policy",
-      "url": "https://www.bbc.co.uk/news/articles/c62xzn3j1p2o?at_medium=RSS&at_campaign=rss"
+      "title": "London-based civil servants offered move to No 10 North in Manchester",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8p0l29pxo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "A popular Mexican American bakery is moving into the former Shuggie's space",
-      "url": "https://sfstandard.com/2026/07/20/florecita-panaderia-conchas-cafe/"
+      "title": "Kaiser says AI isn't making mental health decisions. A new complaint says otherwise",
+      "url": "https://sfstandard.com/2026/07/21/kaiser-ai-mental-health-screening-complaint-nuhw/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 68, low 54. best outside window: 4am to 12am",
-  "valid_until_epoch": 1784661579,
+  "text": "high 69, low 57. best outside window: 7am to 12am",
+  "valid_until_epoch": 1784672630,
   "version": 1
 }
