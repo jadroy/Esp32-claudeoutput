@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-21T15:12:55-07:00",
+  "generated_at": "2026-07-21T20:47:54-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The Valkyries' winning streak is over. It barely dents a stunning first half",
-      "url": "https://sfstandard.com/2026/07/21/kaitlyn-chen-valkyries-janelle-salaun-bench/"
+      "title": "Golden Gate Park's concert season is about to get longer. Neighbors aren't thrilled",
+      "url": "https://sfstandard.com/2026/07/21/outside-lands-golden-gate-park-extension/"
     },
     {
       "source": "NPR",
-      "title": "Smithsonian too focused on 'oppressors and the oppressed,' say House Republicans",
-      "url": "https://www.npr.org/2026/07/21/nx-s1-5902101/smithsonian-house-hearing"
+      "title": "House votes to extend government funding, aiming to avoid an election year shutdown",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5902245/government-funding-house-vote-continuing-resolution"
     },
     {
       "source": "BBC",
-      "title": "Ann Widdecombe was hit on head 21 times with hammer, prosecutors say",
-      "url": "https://www.bbc.co.uk/news/articles/cj03r77n07jo?at_medium=RSS&at_campaign=rss"
+      "title": "Burnham pulls back on suggestion to increase income tax allowance",
+      "url": "https://www.bbc.co.uk/news/articles/c935g67wyvgo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Nvidia CEO Jensen Huang pumps $75 million into Vanderbilt's CCA revival",
-      "url": "https://sfstandard.com/2026/07/21/jensen-huang-75-million-vanderbilt-california-college-of-the-arts/"
+      "title": "'Section 415' podcast: The Giants' most pressing trade deadline questions",
+      "url": "https://sfstandard.com/section-415/2026/07/21/section-415-podcast-giants-pressing-trade-deadline-questions/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 74, low 57. best outside window: 6pm to 12am",
-  "valid_until_epoch": 1784700775,
+  "text": "high 77, low 57. best outside window: 8pm to 12am",
+  "valid_until_epoch": 1784720874,
   "version": 1
 }
