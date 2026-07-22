@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-22T09:48:18-07:00",
+  "generated_at": "2026-07-22T12:45:20-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Accused of sex crimes, a San Francisco social climber turned to lawsuits, legal threats",
-      "url": "https://sfstandard.com/2026/07/22/mickey-gerold-allegations-lawsuits-sfpd/"
+      "title": "It's official: Jackson Square is now downtown",
+      "url": "https://sfstandard.com/2026/07/22/jackson-square-downtown-sf-partnership/"
     },
     {
       "source": "NPR",
-      "title": "People are watching the Reflecting Pool like reality TV. What does that say about us?",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5897383/dc-reflecting-pool-saga-influencers"
+      "title": "What to know about Ukraine's military shakeup",
+      "url": "https://www.npr.org/2026/07/22/g-s1-134813/ukraine-military-shakeup-zelenskyy"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "New owner to take control of redevelopment site at Parkmerced",
-      "url": "https://sfstandard.com/2026/07/22/yellowstone-parkmerced-foreclosure-redevelopment/"
+      "title": "Accused of sex crimes, a San Francisco social climber turned to lawsuits, legal threats",
+      "url": "https://sfstandard.com/2026/07/22/mickey-gerold-allegations-lawsuits-sfpd/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 56. best outside window: 9am to 12am",
-  "valid_until_epoch": 1784767698,
+  "text": "high 66, low 56. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1784778320,
   "version": 1
 }
