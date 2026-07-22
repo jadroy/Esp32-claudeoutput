@@ -1,20 +1,20 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-22T07:23:20-07:00",
+  "generated_at": "2026-07-22T09:48:18-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Accused of sex crimes, Gerold turned to lawsuits and legal threats",
+      "title": "Accused of sex crimes, a San Francisco social climber turned to lawsuits, legal threats",
       "url": "https://sfstandard.com/2026/07/22/mickey-gerold-allegations-lawsuits-sfpd/"
     },
     {
       "source": "NPR",
-      "title": "Greetings from Jerusalem, whose holy sites host some of the oldest colonies of nesting swifts",
-      "url": "https://www.npr.org/2026/07/22/g-s1-134756/jerusalem-swifts-birds-nesting-western-wall"
+      "title": "People are watching the Reflecting Pool like reality TV. What does that say about us?",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5897383/dc-reflecting-pool-saga-influencers"
     },
     {
       "source": "BBC",
-      "title": "Burnham to review early prisoner release scheme after anger over potential freeing of PC Harper's killers",
+      "title": "PC Harper's widow criticises early prisoner release plan as Burnham to review scheme",
       "url": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 56. best outside window: 7am to 12am",
-  "valid_until_epoch": 1784759000,
+  "text": "high 65, low 56. best outside window: 9am to 12am",
+  "valid_until_epoch": 1784767698,
   "version": 1
 }
