@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-21T20:47:54-07:00",
+  "generated_at": "2026-07-22T01:45:43-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "House votes to extend government funding, aiming to avoid an election year shutdown",
-      "url": "https://www.npr.org/2026/07/21/nx-s1-5902245/government-funding-house-vote-continuing-resolution"
+      "title": "Trump-backed candidates, 2020 election deniers, win Arizona primaries",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5902198/arizona-primary-results-trump-elections-biggs"
     },
     {
       "source": "BBC",
-      "title": "Burnham pulls back on suggestion to increase income tax allowance",
-      "url": "https://www.bbc.co.uk/news/articles/c935g67wyvgo?at_medium=RSS&at_campaign=rss"
+      "title": "Chris Mason: Another Starmer critic gets promotion as Sarwar joins Burnham government",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rv14em3jo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 77, low 57. best outside window: 8pm to 12am",
-  "valid_until_epoch": 1784720874,
+  "text": "high 64, low 58. best outside window: 1am to 12am",
+  "valid_until_epoch": 1784738743,
   "version": 1
 }
