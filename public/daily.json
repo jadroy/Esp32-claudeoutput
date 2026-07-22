@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-22T12:45:20-07:00",
+  "generated_at": "2026-07-22T15:16:37-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "What to know about Ukraine's military shakeup",
-      "url": "https://www.npr.org/2026/07/22/g-s1-134813/ukraine-military-shakeup-zelenskyy"
+      "title": "House passes Pentagon funding and limits on stock trades in a last dash before recess",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 56. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1784778320,
+  "text": "high 68, low 57. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1784787397,
   "version": 1
 }
