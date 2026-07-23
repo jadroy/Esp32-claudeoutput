@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-23T07:33:24-07:00",
+  "generated_at": "2026-07-23T09:47:16-07:00",
   "headlines": [
-    {
-      "source": "SF Standard",
-      "title": "California-Lebanese pop-up Ilna finds a permanent home in SoMa",
-      "url": "https://sfstandard.com/2026/07/23/maz-naba-ilna-opening-soma-bar-agricole/"
-    },
-    {
-      "source": "NPR",
-      "title": "Republicans in Congress Urge Justice Department to Investigate Former Prosecutor Jack Smith",
-      "url": "https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith"
-    },
-    {
-      "source": "BBC",
-      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-      "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss"
-    },
     {
       "source": "SF Standard",
       "title": "Lurie wanted San Francisco to bounce back. Now he's got an affordability crisis",
       "url": "https://sfstandard.com/2026/07/23/daniel-lurie-affordability-ai-boom-housing-san-francisco/"
+    },
+    {
+      "source": "NPR",
+      "title": "In a first, Chinese woman wins the prestigious Fields Medal",
+      "url": "https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal"
+    },
+    {
+      "source": "BBC",
+      "title": "Oil prices hit $100 for the first time since May",
+      "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "SF Standard",
+      "title": "Opinion: Sweden's warning to California: Don't tax wealth like we did",
+      "url": "https://sfstandard.com/opinion/2026/07/23/wealth-tax-california-sweden-lessons/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 55. best outside window: 7am to 12am",
-  "valid_until_epoch": 1784846004,
+  "text": "high 64, low 56. best outside window: 9am to 12am",
+  "valid_until_epoch": 1784854036,
   "version": 1
 }
