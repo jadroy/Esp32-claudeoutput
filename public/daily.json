@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-23T12:46:46-07:00",
+  "generated_at": "2026-07-23T15:15:13-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
-      "url": "https://www.npr.org/2026/07/23/nx-s1-5904515/congress-iran-war-powers-vote"
+      "title": "Trump to impose double-digit tariffs on dozens of countries",
+      "url": "https://www.npr.org/2026/07/23/g-s1-135388/trump-tariffs-trade-country"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 55. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1784864806,
+  "text": "high 63, low 55. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1784873713,
   "version": 1
 }
