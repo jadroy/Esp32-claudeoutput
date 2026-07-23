@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-22T20:45:50-07:00",
+  "generated_at": "2026-07-23T01:45:04-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "House passes Pentagon funding bill and a blueprint to unlock new dollars for Iran war",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation"
+      "title": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know",
+      "url": "https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models"
     },
     {
       "source": "BBC",
-      "title": "US signs landmark nuclear deal with Saudi Arabia",
-      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
+      "title": "Police officer was violent rapist who attacked women over 14 years, BBC reveals",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0rq66q3no?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 68, low 58. best outside window: 8pm to 12am",
-  "valid_until_epoch": 1784807150,
+  "text": "high 62, low 56. best outside window: 1am to 12am",
+  "valid_until_epoch": 1784825104,
   "version": 1
 }
