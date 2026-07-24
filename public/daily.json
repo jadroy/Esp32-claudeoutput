@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-24T01:43:45-07:00",
+  "generated_at": "2026-07-24T04:12:50-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on",
-      "url": "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters"
+      "title": "US allies hit with new tariffs object to Trump's forced labor claims",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5906301/us-global-trump-tariffs-reaction"
     },
     {
       "source": "BBC",
-      "title": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
-      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss"
+      "title": "Southport killer Axel Rudakubana appears to be manipulating the system, families' lawyer says",
+      "url": "https://www.bbc.co.uk/news/articles/cjrvy450jv5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -25,8 +25,8 @@
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
-  "source": "weather",
-  "text": "high 62, low 55. best outside window: 1am to 12am",
-  "valid_until_epoch": 1784911425,
+  "source": "air-quality",
+  "text": "air quality is unusually good (30). open the windows.",
+  "valid_until_epoch": 1784920370,
   "version": 1
 }
