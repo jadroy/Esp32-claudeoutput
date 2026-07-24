@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-24T04:12:50-07:00",
+  "generated_at": "2026-07-24T07:13:42-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'Section 415' podcast: How the Valkyries can build momentum for a playoff run",
-      "url": "https://sfstandard.com/section-415/2026/07/23/section-415-podcast-valkyries-can-build-momentum-playoff-run/"
+      "title": "Kawakami: 49ers' 2026 training camp will be all about who's next (if anybody)",
+      "url": "https://sfstandard.com/2026/07/24/49ers-training-camp-brock-purdy-ricky-pearsall/"
     },
     {
       "source": "NPR",
-      "title": "US allies hit with new tariffs object to Trump's forced labor claims",
-      "url": "https://www.npr.org/2026/07/24/nx-s1-5906301/us-global-trump-tariffs-reaction"
+      "title": "A former nun explains why she ran away from her 'Cloistered' life",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5904598/a-former-nun-explains-why-she-ran-away-from-her-cloistered-life"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Lurie wanted San Francisco to bounce back. Now he's got an affordability crisis",
-      "url": "https://sfstandard.com/2026/07/23/daniel-lurie-affordability-ai-boom-housing-san-francisco/"
+      "title": "Who's behind those AI dread billboards? A tech company.",
+      "url": "https://sfstandard.com/2026/07/24/ai-dread-billboards/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "air-quality",
-  "text": "air quality is unusually good (30). open the windows.",
-  "valid_until_epoch": 1784920370,
+  "text": "air quality is unusually good (29). open the windows.",
+  "valid_until_epoch": 1784931222,
   "version": 1
 }
