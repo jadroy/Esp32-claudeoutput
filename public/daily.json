@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-24T09:58:23-07:00",
+  "generated_at": "2026-07-24T12:47:41-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -14,8 +14,8 @@
     },
     {
       "source": "BBC",
-      "title": "Southport killer Axel Rudakubana appears to be manipulating the system, families' lawyer says",
-      "url": "https://www.bbc.co.uk/news/articles/cjrvy450jv5o?at_medium=RSS&at_campaign=rss"
+      "title": "Man describes trying to save mother and daughter who drowned off Essex beach",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dve71n9lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -27,6 +27,6 @@
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "air-quality",
   "text": "air quality is unusually good (28). open the windows.",
-  "valid_until_epoch": 1784941103,
+  "valid_until_epoch": 1784951261,
   "version": 1
 }
