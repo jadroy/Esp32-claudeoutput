@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-24T07:13:42-07:00",
+  "generated_at": "2026-07-24T09:58:23-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Kawakami: 49ers' 2026 training camp will be all about who's next (if anybody)",
-      "url": "https://sfstandard.com/2026/07/24/49ers-training-camp-brock-purdy-ricky-pearsall/"
+      "title": "LeBron James joins former Warriors GM Bob Myers and the 76ers, not Golden State",
+      "url": "https://sfstandard.com/2026/07/24/lebron-james-warriors-spurn-draymond-green/"
     },
     {
       "source": "NPR",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Who's behind those AI dread billboards? A tech company.",
-      "url": "https://sfstandard.com/2026/07/24/ai-dread-billboards/"
+      "title": "Woman arrested by ICE at SFO is SF photographer, cafe worker",
+      "url": "https://sfstandard.com/2026/07/24/ice-arrest-san-francisco-airport-iryna-gorb/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "air-quality",
-  "text": "air quality is unusually good (29). open the windows.",
-  "valid_until_epoch": 1784931222,
+  "text": "air quality is unusually good (28). open the windows.",
+  "valid_until_epoch": 1784941103,
   "version": 1
 }
