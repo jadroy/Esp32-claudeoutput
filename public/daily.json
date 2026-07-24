@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-23T15:15:13-07:00",
+  "generated_at": "2026-07-23T20:45:09-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "'Section 415' podcast: How the Valkyries can build momentum for a playoff run",
+      "url": "https://sfstandard.com/section-415/2026/07/23/section-415-podcast-valkyries-can-build-momentum-playoff-run/"
+    },
+    {
+      "source": "NPR",
+      "title": "Justice Dept. drops 'New York Times' subpoenas under pressure from judge",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5905732/nyt-subpoenas-trump-air-force-one-plane-qatar-security"
+    },
+    {
+      "source": "BBC",
+      "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Lurie wanted San Francisco to bounce back. Now he's got an affordability crisis",
       "url": "https://sfstandard.com/2026/07/23/daniel-lurie-affordability-ai-boom-housing-san-francisco/"
-    },
-    {
-      "source": "NPR",
-      "title": "Trump to impose double-digit tariffs on dozens of countries",
-      "url": "https://www.npr.org/2026/07/23/g-s1-135388/trump-tariffs-trade-country"
-    },
-    {
-      "source": "BBC",
-      "title": "Burnham pauses plan to release some prisoners early from September",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lpjw516eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "Opinion: Sweden's warning to California: Don't tax wealth like we did",
-      "url": "https://sfstandard.com/opinion/2026/07/23/wealth-tax-california-sweden-lessons/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 55. best outside window: 3pm to 12am",
-  "valid_until_epoch": 1784873713,
+  "text": "high 64, low 57. best outside window: 8pm to 12am",
+  "valid_until_epoch": 1784893509,
   "version": 1
 }
