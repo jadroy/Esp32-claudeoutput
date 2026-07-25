@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-25T09:12:53-07:00",
+  "generated_at": "2026-07-25T12:35:18-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Kaila Charles was cut five times. Now she's a $1.2 million fixture for the Valkyries",
-      "url": "https://sfstandard.com/2026/07/25/kaila-charles-valkyries-hardship-contract/"
+      "title": "49ers coach Kyle Shanahan suffers significant injuries in car crash",
+      "url": "https://sfstandard.com/2026/07/25/kyle-shanahan-49ers-car-crash/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "Tourists tell BBC how their holiday turned into race to escape fires",
-      "url": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss"
+      "title": "Police investigate donations by Tice company to Reform UK",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The award for spiciest Bohemian Grove drama goes to ... Ken Burns?",
-      "url": "https://sfstandard.com/2026/07/25/award-spiciest-bohemian-grove-drama-goes-ken-burns/"
+      "title": "Kaila Charles was cut five times. Now she's a $1.2 million fixture for the Valkyries",
+      "url": "https://sfstandard.com/2026/07/25/kaila-charles-valkyries-hardship-contract/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 56. best outside window: 9am to 12am",
-  "valid_until_epoch": 1785024773,
+  "text": "high 66, low 56. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1785036918,
   "version": 1
 }
