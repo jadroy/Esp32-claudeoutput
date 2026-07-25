@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-25T03:45:57-07:00",
+  "generated_at": "2026-07-25T07:03:07-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Marina Safeway fight fuels NIMBY pushback on state housing mandates",
-      "url": "https://sfstandard.com/2026/07/24/marina-safeway-project-ballot-measure-housing/"
+      "title": "Kaila Charles was cut five times. Now she's a $1.2 million fixture for the Valkyries",
+      "url": "https://sfstandard.com/2026/07/25/kaila-charles-valkyries-hardship-contract/"
     },
     {
       "source": "NPR",
-      "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race"
+      "title": "COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool?",
+      "url": "https://www.npr.org/2026/07/25/g-s1-135194/summer-heat-egypt-cairo-air-conditioning"
     },
     {
       "source": "BBC",
-      "title": "How the mystery of dead animals dumped in villages led to a hidden world of illegal hunts",
-      "url": "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo?at_medium=RSS&at_campaign=rss"
+      "title": "Tourists tell BBC how their holiday turned into race to escape fires",
+      "url": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Cops treated a Pride dance party like a riot, attorneys say",
-      "url": "https://sfstandard.com/2026/07/24/stud-alley-arrests-san-francisco-backlash/"
+      "title": "The award for spiciest Bohemian Grove drama goes to ... Ken Burns?",
+      "url": "https://sfstandard.com/2026/07/25/award-spiciest-bohemian-grove-drama-goes-ken-burns/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 56. best outside window: 3am to 12am",
-  "valid_until_epoch": 1785005157,
+  "text": "high 66, low 56. best outside window: 7am to 12am",
+  "valid_until_epoch": 1785016987,
   "version": 1
 }
