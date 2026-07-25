@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-25T12:35:18-07:00",
+  "generated_at": "2026-07-25T15:11:05-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "49ers coach Kyle Shanahan suffers significant injuries in car crash",
+      "title": "Here's who the 49ers will turn to for leadership during Kyle Shanahan's recovery",
       "url": "https://sfstandard.com/2026/07/25/kyle-shanahan-49ers-car-crash/"
     },
     {
       "source": "NPR",
-      "title": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
-      "url": "https://www.npr.org/2026/07/25/g-s1-135483/india-cockroach-movement"
+      "title": "Biden ghostwriter tapes to be released",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5906749/biden-ghostwriter-tapes-justice-department-trump-debate"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 56. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1785036918,
+  "text": "high 66, low 56. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1785046265,
   "version": 1
 }
