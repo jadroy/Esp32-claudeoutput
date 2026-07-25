@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-24T15:19:29-07:00",
+  "generated_at": "2026-07-24T20:39:08-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'Section 415' podcast: How LeBron James' decision shapes the Warriors' outlook",
-      "url": "https://sfstandard.com/section-415/2026/07/24/section-415-podcast-lebron-james-decision-shapes-warriors-outlook/"
+      "title": "Marina Safeway fight fuels NIMBY pushback on state housing mandates",
+      "url": "https://sfstandard.com/2026/07/24/marina-safeway-project-ballot-measure-housing/"
     },
     {
       "source": "NPR",
-      "title": "Democrats approve new primary election calendar, putting South Carolina first",
-      "url": "https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028"
+      "title": "Paramount says it will pause its Warner acquisition while legal challenges play out",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5906818/paramount-warner-bros-merger-pause-lawsuits"
     },
     {
       "source": "BBC",
-      "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
+      "title": "More than 220,000 evacuated in France and Spain due to wildfires",
       "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Kawakami: Why the Warriors lost out on LeBron James and what happens now",
-      "url": "https://sfstandard.com/2026/07/24/warriors-lebron-james-options-klay-thompson/"
+      "title": "Cops treated a Pride dance party like a riot, attorneys say",
+      "url": "https://sfstandard.com/2026/07/24/stud-alley-arrests-san-francisco-backlash/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
-  "source": "air-quality",
-  "text": "air quality is unusually good (30). open the windows.",
-  "valid_until_epoch": 1784960369,
+  "source": "weather",
+  "text": "high 66, low 56. best outside window: 8pm to 12am",
+  "valid_until_epoch": 1784979548,
   "version": 1
 }
