@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-24T20:39:08-07:00",
+  "generated_at": "2026-07-25T01:24:55-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Paramount says it will pause its Warner acquisition while legal challenges play out",
-      "url": "https://www.npr.org/2026/07/24/nx-s1-5906818/paramount-warner-bros-merger-pause-lawsuits"
+      "title": "Trump returns to correspondents' dinner 3 months after shooting",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner"
     },
     {
       "source": "BBC",
-      "title": "More than 220,000 evacuated in France and Spain due to wildfires",
-      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss"
+      "title": "How the mystery of dead animals dumped in villages led to a hidden world of illegal hunts",
+      "url": "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 56. best outside window: 8pm to 12am",
-  "valid_until_epoch": 1784979548,
+  "text": "high 64, low 55. best outside window: 1am to 12am",
+  "valid_until_epoch": 1784996695,
   "version": 1
 }
