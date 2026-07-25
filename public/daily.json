@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-25T07:03:07-07:00",
+  "generated_at": "2026-07-25T09:12:53-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool?",
-      "url": "https://www.npr.org/2026/07/25/g-s1-135194/summer-heat-egypt-cairo-air-conditioning"
+      "title": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
+      "url": "https://www.npr.org/2026/07/25/g-s1-135483/india-cockroach-movement"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 56. best outside window: 7am to 12am",
-  "valid_until_epoch": 1785016987,
+  "text": "high 66, low 56. best outside window: 9am to 12am",
+  "valid_until_epoch": 1785024773,
   "version": 1
 }
