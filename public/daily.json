@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-25T01:24:55-07:00",
+  "generated_at": "2026-07-25T03:45:57-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Trump returns to correspondents' dinner 3 months after shooting",
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner"
+      "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 55. best outside window: 1am to 12am",
-  "valid_until_epoch": 1784996695,
+  "text": "high 63, low 56. best outside window: 3am to 12am",
+  "valid_until_epoch": 1785005157,
   "version": 1
 }
