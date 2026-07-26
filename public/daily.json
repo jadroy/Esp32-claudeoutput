@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-26T01:39:57-07:00",
+  "generated_at": "2026-07-26T03:54:17-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride"
+      "title": "Rage-giving, innovation and cuts: How public media has survived without federal funds",
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5884022/pbs-npr-public-radio-tv-funding-trump"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 54. best outside window: 1am to 12am",
-  "valid_until_epoch": 1785083997,
+  "text": "high 62, low 54. best outside window: 3am to 12am",
+  "valid_until_epoch": 1785092057,
   "version": 1
 }
