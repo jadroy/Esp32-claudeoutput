@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-25T20:56:30-07:00",
+  "generated_at": "2026-07-26T01:39:57-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -14,8 +14,8 @@
     },
     {
       "source": "BBC",
-      "title": "Police investigate donations by Tice company to Reform UK",
-      "url": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss"
+      "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
+      "url": "https://www.bbc.co.uk/news/articles/clye651yzdjo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 56. best outside window: 8pm to 12am",
-  "valid_until_epoch": 1785066990,
+  "text": "high 60, low 54. best outside window: 1am to 12am",
+  "valid_until_epoch": 1785083997,
   "version": 1
 }
