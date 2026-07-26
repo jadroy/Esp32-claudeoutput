@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-26T03:54:17-07:00",
+  "generated_at": "2026-07-26T06:57:42-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Kawakami: 'We got this, Coach' - the 49ers' old lions and Kyle Shanahan's accident",
-      "url": "https://sfstandard.com/2026/07/25/kyle-shanahan-49ers-coach-fred-warner-leadership/"
+      "title": "The keys to bargain hunting in San Francisco's housing apocalypse",
+      "url": "https://sfstandard.com/2026/07/26/san-francisco-hidden-home-bargains/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
-      "url": "https://www.bbc.co.uk/news/articles/clye651yzdjo?at_medium=RSS&at_campaign=rss"
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Here's who the 49ers will turn to for leadership during Kyle Shanahan's recovery",
-      "url": "https://sfstandard.com/2026/07/25/kyle-shanahan-49ers-car-crash/"
+      "title": "This is California's most underrated wine country escape",
+      "url": "https://sfstandard.com/2026/07/26/clear-lake-guide/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 54. best outside window: 3am to 12am",
-  "valid_until_epoch": 1785092057,
+  "text": "high 62, low 56. best outside window: 6am to 12am",
+  "valid_until_epoch": 1785103062,
   "version": 1
 }
