@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-26T12:35:37-07:00",
+  "generated_at": "2026-07-26T15:13:55-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The keys to bargain hunting in San Francisco's housing apocalypse",
-      "url": "https://sfstandard.com/2026/07/26/san-francisco-hidden-home-bargains/"
+      "title": "49ers first impressions: Shanahan arrives, Purdy and Evans connect, and Bosa returns",
+      "url": "https://sfstandard.com/2026/07/26/49ers-kyle-shanahan-practice-takeaways/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "What we know so far about the Berlin Pride ramming attack",
-      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss"
+      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "This is California's most underrated wine country escape",
-      "url": "https://sfstandard.com/2026/07/26/clear-lake-guide/"
+      "title": "Behind the scenes with Jeff Kent at the Baseball Hall of Fame: 'It hasn't hit me yet'",
+      "url": "https://sfstandard.com/2026/07/26/jeff-kent-sf-giants-hall-of-fame-speech/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 56. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1785123337,
+  "text": "high 62, low 56. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1785132835,
   "version": 1
 }
