@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-26T09:14:39-07:00",
+  "generated_at": "2026-07-26T12:35:37-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Rage-giving, innovation and cuts: How public media has survived without federal funds",
-      "url": "https://www.npr.org/2026/07/26/nx-s1-5884022/pbs-npr-public-radio-tv-funding-trump"
+      "title": "Tadej Pogacar of Slovenia wins the 2026 Tour de France, his fifth victory in the race",
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5908503/tadej-pogacar-tour-de-france-2026-winner-wildfires"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 56. best outside window: 9am to 12am",
-  "valid_until_epoch": 1785111279,
+  "text": "high 62, low 56. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1785123337,
   "version": 1
 }
