@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-27T10:11:49-07:00",
+  "generated_at": "2026-07-27T12:56:37-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Why the 49ers picked an offensive line coach to run camp as Kyle Shanahan recovers",
-      "url": "https://sfstandard.com/2026/07/27/49ers-picked-offensive-line-coach-run-camp-as-kyle-shanahan-recovers/"
+      "title": "After missing out on LeBron James, what is the Warriors' Plan B?",
+      "url": "https://sfstandard.com/2026/07/27/warriors-steph-curry-offseason-plan-targets/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "Devastating European wildfires in maps - and how they're being tackled",
-      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss"
+      "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+      "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Kawakami: What's new with the 49ers? A healing coach, a changing defense, speed on offense",
-      "url": "https://sfstandard.com/2026/07/27/49ers-defense-raheem-morris-dre-greenlaw/"
+      "title": "Why the 49ers picked an offensive line coach to run camp as Kyle Shanahan recovers",
+      "url": "https://sfstandard.com/2026/07/27/49ers-picked-offensive-line-coach-run-camp-as-kyle-shanahan-recovers/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 55. best outside window: 10am to 12am",
-  "valid_until_epoch": 1785201109,
+  "text": "high 64, low 55. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1785210997,
   "version": 1
 }
