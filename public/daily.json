@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-27T12:56:37-07:00",
+  "generated_at": "2026-07-27T15:19:12-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,12 +9,12 @@
     },
     {
       "source": "NPR",
-      "title": "The 'cockroach' in the machine: How Gen Z is rattling South Asia's elites",
-      "url": "https://www.npr.org/2026/07/27/nx-s1-5908567/india-cockroach-movement-gen-z-south-asia"
+      "title": "Platner energized Maine's Democrats. Jackson's challenge will be to keep them engaged",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5902276/platner-energized-maines-democrats-jacksons-challenge-will-be-to-keep-them-engaged"
     },
     {
       "source": "BBC",
-      "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+      "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
       "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 55. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1785210997,
+  "text": "high 64, low 55. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1785219552,
   "version": 1
 }
