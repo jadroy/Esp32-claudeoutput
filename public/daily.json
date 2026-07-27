@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-27T08:14:30-07:00",
+  "generated_at": "2026-07-27T10:11:49-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "Why the 49ers picked an offensive line coach to run camp as Kyle Shanahan recovers",
+      "url": "https://sfstandard.com/2026/07/27/49ers-picked-offensive-line-coach-run-camp-as-kyle-shanahan-recovers/"
+    },
+    {
+      "source": "NPR",
+      "title": "The 'cockroach' in the machine: How Gen Z is rattling South Asia's elites",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5908567/india-cockroach-movement-gen-z-south-asia"
+    },
+    {
+      "source": "BBC",
+      "title": "Devastating European wildfires in maps - and how they're being tackled",
+      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Kawakami: What's new with the 49ers? A healing coach, a changing defense, speed on offense",
       "url": "https://sfstandard.com/2026/07/27/49ers-defense-raheem-morris-dre-greenlaw/"
-    },
-    {
-      "source": "NPR",
-      "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
-      "url": "https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms"
-    },
-    {
-      "source": "BBC",
-      "title": "How wildfires in France and Spain might affect your travel plans",
-      "url": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "Brandon Jew is reopening his tiny Chinatown cafe and souvenir shop",
-      "url": "https://sfstandard.com/2026/07/27/paper-son-coffee-chinatown/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 55. best outside window: 8am to 12am",
-  "valid_until_epoch": 1785194070,
+  "text": "high 64, low 55. best outside window: 10am to 12am",
+  "valid_until_epoch": 1785201109,
   "version": 1
 }
