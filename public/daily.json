@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-26T21:03:28-07:00",
+  "generated_at": "2026-07-27T03:09:58-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Tadej Pogacar of Slovenia wins the 2026 Tour de France, his fifth victory in the race",
-      "url": "https://www.npr.org/2026/07/26/nx-s1-5908503/tadej-pogacar-tour-de-france-2026-winner-wildfires"
+      "title": "In Memphis, an 'anti-crime' task force quietly turned into an ICE crackdown",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5896284/national-guard-memphis-immigration-task-force"
     },
     {
       "source": "BBC",
-      "title": "Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms",
-      "url": "https://www.bbc.co.uk/news/articles/c2350zlyy1yo?at_medium=RSS&at_campaign=rss"
+      "title": "NHS 'will collapse' without social care reform, PM tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 56. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1785153808,
+  "text": "high 64, low 55. best outside window: 3am to 12am",
+  "valid_until_epoch": 1785175798,
   "version": 1
 }
