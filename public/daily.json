@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-27T03:09:58-07:00",
+  "generated_at": "2026-07-27T08:14:30-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "SF Democrats set date for D8 endorsement after sexual assault allegation roils race",
-      "url": "https://sfstandard.com/2026/07/26/sf-democrats-endorse-supervisor-race-power-play/"
+      "title": "Kawakami: What's new with the 49ers? A healing coach, a changing defense, speed on offense",
+      "url": "https://sfstandard.com/2026/07/27/49ers-defense-raheem-morris-dre-greenlaw/"
     },
     {
       "source": "NPR",
-      "title": "In Memphis, an 'anti-crime' task force quietly turned into an ICE crackdown",
-      "url": "https://www.npr.org/2026/07/27/nx-s1-5896284/national-guard-memphis-immigration-task-force"
+      "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
+      "url": "https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms"
     },
     {
       "source": "BBC",
-      "title": "NHS 'will collapse' without social care reform, PM tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o?at_medium=RSS&at_campaign=rss"
+      "title": "How wildfires in France and Spain might affect your travel plans",
+      "url": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Photos: Dore Alley turns SoMa into a runway for leather and latex",
-      "url": "https://sfstandard.com/2026/07/26/-sfstandardcom20260726dore-alley-photos-soma-leather-fair/"
+      "title": "Brandon Jew is reopening his tiny Chinatown cafe and souvenir shop",
+      "url": "https://sfstandard.com/2026/07/27/paper-son-coffee-chinatown/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 55. best outside window: 3am to 12am",
-  "valid_until_epoch": 1785175798,
+  "text": "high 64, low 55. best outside window: 8am to 12am",
+  "valid_until_epoch": 1785194070,
   "version": 1
 }
