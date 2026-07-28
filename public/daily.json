@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-27T15:19:12-07:00",
+  "generated_at": "2026-07-27T20:36:46-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "After missing out on LeBron James, what is the Warriors' Plan B?",
-      "url": "https://sfstandard.com/2026/07/27/warriors-steph-curry-offseason-plan-targets/"
+      "title": "Third body from Alcatraz boat tragedy identified",
+      "url": "https://sfstandard.com/2026/07/27/volare-third-victim-identified/"
     },
     {
       "source": "NPR",
-      "title": "Platner energized Maine's Democrats. Jackson's challenge will be to keep them engaged",
-      "url": "https://www.npr.org/2026/07/27/nx-s1-5902276/platner-energized-maines-democrats-jacksons-challenge-will-be-to-keep-them-engaged"
+      "title": "Rand Paul releases Anthony Fauci's pandemic-era diary notes. Here's what they tell us",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin"
     },
     {
       "source": "BBC",
-      "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
-      "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss"
+      "title": "Burnham says pupils in England need clearer pathway into work",
+      "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Why the 49ers picked an offensive line coach to run camp as Kyle Shanahan recovers",
-      "url": "https://sfstandard.com/2026/07/27/49ers-picked-offensive-line-coach-run-camp-as-kyle-shanahan-recovers/"
+      "title": "How the 49ers are attempting to reestablish one of the NFL's best deep passing attacks",
+      "url": "https://sfstandard.com/2026/07/27/mike-evans-49ers-brock-purdy/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 55. best outside window: 3pm to 12am",
-  "valid_until_epoch": 1785219552,
+  "text": "high 65, low 55. best outside window: 8pm to 12am",
+  "valid_until_epoch": 1785238606,
   "version": 1
 }
