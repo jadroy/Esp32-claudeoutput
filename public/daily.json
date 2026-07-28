@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-28T07:39:07-07:00",
+  "generated_at": "2026-07-28T09:51:26-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "Lurie welcomes federal regulation of Waymo and robotaxi industry",
+      "url": "https://sfstandard.com/2026/07/28/lurie-welcomes-federal-regulation-waymo-robotaxi-industry/"
+    },
+    {
+      "source": "NPR",
+      "title": "Photos: Spain and France's battle record wildfires",
+      "url": "https://www.npr.org/2026/07/28/g-s1-135880/photos-spain-france-wildfires-climate-change"
+    },
+    {
+      "source": "BBC",
+      "title": "The moment Tuesday's powerful earthquake hit Japan",
+      "url": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "The Nerd Reich: Are Silicon Valley billionaires building a new fascist world order?",
       "url": "https://sfstandard.com/2026/07/28/tech-fascism-gil-duran-nerd-reich-book/"
-    },
-    {
-      "source": "NPR",
-      "title": "Here are the 13 books that made the Booker Prize longlist",
-      "url": "https://www.npr.org/2026/07/28/nx-s1-5874638/2026-booker-prize-longlist-fiction"
-    },
-    {
-      "source": "BBC",
-      "title": "Schools to offer technical subjects from age 14 in England, Burnham says",
-      "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "New SF restaurant blurs the line between Korean and Japanese cuisine",
-      "url": "https://sfstandard.com/2026/07/28/anju-korean-japanese-restaurant-sf/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 56. best outside window: 7am to 12am",
-  "valid_until_epoch": 1785278347,
+  "text": "high 67, low 56. best outside window: 9am to 12am",
+  "valid_until_epoch": 1785286286,
   "version": 1
 }
