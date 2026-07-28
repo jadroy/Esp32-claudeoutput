@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-27T20:36:46-07:00",
+  "generated_at": "2026-07-28T02:05:19-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,12 +9,12 @@
     },
     {
       "source": "NPR",
-      "title": "Rand Paul releases Anthony Fauci's pandemic-era diary notes. Here's what they tell us",
-      "url": "https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin"
+      "title": "Netanyahu to meet Trump in a first encounter since the Iran war began",
+      "url": "https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war"
     },
     {
       "source": "BBC",
-      "title": "Burnham says pupils in England need clearer pathway into work",
+      "title": "Schools to offer technical subjects from age 14 in England, Burnham says",
       "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 55. best outside window: 8pm to 12am",
-  "valid_until_epoch": 1785238606,
+  "text": "high 64, low 55. best outside window: 2am to 12am",
+  "valid_until_epoch": 1785258319,
   "version": 1
 }
