@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-28T12:53:46-07:00",
+  "generated_at": "2026-07-28T15:17:33-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "What Draymond Green's return means for the Warriors' present and future",
-      "url": "https://sfstandard.com/2026/07/28/draymond-green-warriors-contract-analysis/"
+      "title": "Heroic Santa Cruz teen lifeguard invited to the White House",
+      "url": "https://sfstandard.com/2026/07/28/santa-cruz-teen-lifeguard-rescue-video/"
     },
     {
       "source": "NPR",
-      "title": "Leaders gather in Washington to pay their final tributes to Lindsey Graham",
-      "url": "https://www.npr.org/2026/07/28/nx-s1-5909232/lindsey-graham-funeral"
+      "title": "As Spain battles wildfires, its politicians battle over climate change's role",
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5909198/spain-wildfires-politicians-climate-change"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Lurie welcomes federal regulation of Waymo and robotaxi industry",
-      "url": "https://sfstandard.com/2026/07/28/lurie-welcomes-federal-regulation-waymo-robotaxi-industry/"
+      "title": "Kyle Shanahan takes blame for crash: 'I took my eyes off the road looking for my phone'",
+      "url": "https://sfstandard.com/2026/07/28/kyle-shanahan-takes-blame-crash-i-took-my-eyes-road-looking-my-phone/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 68, low 56. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1785297226,
+  "text": "high 67, low 56. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1785305853,
   "version": 1
 }
