@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-28T09:51:26-07:00",
+  "generated_at": "2026-07-28T12:53:46-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Lurie welcomes federal regulation of Waymo and robotaxi industry",
-      "url": "https://sfstandard.com/2026/07/28/lurie-welcomes-federal-regulation-waymo-robotaxi-industry/"
+      "title": "What Draymond Green's return means for the Warriors' present and future",
+      "url": "https://sfstandard.com/2026/07/28/draymond-green-warriors-contract-analysis/"
     },
     {
       "source": "NPR",
-      "title": "Photos: Spain and France's battle record wildfires",
-      "url": "https://www.npr.org/2026/07/28/g-s1-135880/photos-spain-france-wildfires-climate-change"
+      "title": "Leaders gather in Washington to pay their final tributes to Lindsey Graham",
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5909232/lindsey-graham-funeral"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "The Nerd Reich: Are Silicon Valley billionaires building a new fascist world order?",
-      "url": "https://sfstandard.com/2026/07/28/tech-fascism-gil-duran-nerd-reich-book/"
+      "title": "Lurie welcomes federal regulation of Waymo and robotaxi industry",
+      "url": "https://sfstandard.com/2026/07/28/lurie-welcomes-federal-regulation-waymo-robotaxi-industry/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 56. best outside window: 9am to 12am",
-  "valid_until_epoch": 1785286286,
+  "text": "high 68, low 56. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1785297226,
   "version": 1
 }
