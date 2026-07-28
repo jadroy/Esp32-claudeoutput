@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-28T02:05:19-07:00",
+  "generated_at": "2026-07-28T04:28:21-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Netanyahu to meet Trump in a first encounter since the Iran war began",
-      "url": "https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war"
+      "title": "AI tokens could become the kilowatt-hour of the AI age",
+      "url": "https://www.npr.org/sections/planet-money/2026/07/28/g-s1-135475/ai-tokens-could-become-the-kilowatt-hour-of-the-ai-age"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 55. best outside window: 2am to 12am",
-  "valid_until_epoch": 1785258319,
+  "text": "high 65, low 55. best outside window: 4am to 12am",
+  "valid_until_epoch": 1785266901,
   "version": 1
 }
