@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-28T04:28:21-07:00",
+  "generated_at": "2026-07-28T07:39:07-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Third body from Alcatraz boat tragedy identified",
-      "url": "https://sfstandard.com/2026/07/27/volare-third-victim-identified/"
+      "title": "The Nerd Reich: Are Silicon Valley billionaires building a new fascist world order?",
+      "url": "https://sfstandard.com/2026/07/28/tech-fascism-gil-duran-nerd-reich-book/"
     },
     {
       "source": "NPR",
-      "title": "AI tokens could become the kilowatt-hour of the AI age",
-      "url": "https://www.npr.org/sections/planet-money/2026/07/28/g-s1-135475/ai-tokens-could-become-the-kilowatt-hour-of-the-ai-age"
+      "title": "Here are the 13 books that made the Booker Prize longlist",
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5874638/2026-booker-prize-longlist-fiction"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "How the 49ers are attempting to reestablish one of the NFL's best deep passing attacks",
-      "url": "https://sfstandard.com/2026/07/27/mike-evans-49ers-brock-purdy/"
+      "title": "New SF restaurant blurs the line between Korean and Japanese cuisine",
+      "url": "https://sfstandard.com/2026/07/28/anju-korean-japanese-restaurant-sf/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 55. best outside window: 4am to 12am",
-  "valid_until_epoch": 1785266901,
+  "text": "high 67, low 56. best outside window: 7am to 12am",
+  "valid_until_epoch": 1785278347,
   "version": 1
 }
