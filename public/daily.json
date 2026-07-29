@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-28T15:17:33-07:00",
+  "generated_at": "2026-07-28T20:41:46-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Heroic Santa Cruz teen lifeguard invited to the White House",
-      "url": "https://sfstandard.com/2026/07/28/santa-cruz-teen-lifeguard-rescue-video/"
+      "title": "Newsom memoir sparked Ruby Rippey's Vanity Fair tell-all. But she disputes a key detail",
+      "url": "https://sfstandard.com/2026/07/28/newsom-memoir-sparked-ruby-rippey-s-tell-all-response-disputes-key-detail-memoir/"
     },
     {
       "source": "NPR",
-      "title": "As Spain battles wildfires, its politicians battle over climate change's role",
-      "url": "https://www.npr.org/2026/07/28/nx-s1-5909198/spain-wildfires-politicians-climate-change"
+      "title": "FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup",
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5910773/fifa-world-cup-gianni-infantino"
     },
     {
       "source": "BBC",
-      "title": "The moment Tuesday's powerful earthquake hit Japan",
-      "url": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss"
+      "title": "Polanski says guillotine re-post was mistake but refuses to apologise",
+      "url": "https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Kyle Shanahan takes blame for crash: 'I took my eyes off the road looking for my phone'",
-      "url": "https://sfstandard.com/2026/07/28/kyle-shanahan-takes-blame-crash-i-took-my-eyes-road-looking-my-phone/"
+      "title": "The Giants' never-ending nightmare: Bader's scooter accident, Schmitt's knee, and more",
+      "url": "https://sfstandard.com/2026/07/28/harrison-bader-sf-giants-scooter-accident/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 56. best outside window: 3pm to 12am",
-  "valid_until_epoch": 1785305853,
+  "text": "high 67, low 56. best outside window: 8pm to 12am",
+  "valid_until_epoch": 1785325306,
   "version": 1
 }
