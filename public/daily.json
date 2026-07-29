@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-29T04:34:33-07:00",
+  "generated_at": "2026-07-29T07:32:39-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Newsom memoir sparked Ruby Rippey's Vanity Fair tell-all. But she disputes a key detail",
-      "url": "https://sfstandard.com/2026/07/28/newsom-memoir-sparked-ruby-rippey-s-tell-all-response-disputes-key-detail-memoir/"
+      "title": "The impossible life of a mayonnaise hater",
+      "url": "https://sfstandard.com/2026/07/29/mayonnaise-hatred/"
     },
     {
       "source": "NPR",
-      "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
-      "url": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates"
+      "title": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
+      "url": "https://www.npr.org/2026/07/29/g-s1-135641/pakistan-chitral-hindu-kush-mountains"
     },
     {
       "source": "BBC",
-      "title": "Seven areas of England officially in drought, Environment Agency says",
+      "title": "More than half of England officially in drought, Environment Agency says",
       "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The Giants' never-ending nightmare: Bader's scooter accident, Schmitt's knee, and more",
-      "url": "https://sfstandard.com/2026/07/28/harrison-bader-sf-giants-scooter-accident/"
+      "title": "He fought meth addiction for years. Now he's won drug-free housing for SF",
+      "url": "https://sfstandard.com/2026/07/29/matt-dorsey-addiction-drug-free-housing-law/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 56. best outside window: 4am to 12am",
-  "valid_until_epoch": 1785353673,
+  "text": "high 66, low 56. best outside window: 7am to 12am",
+  "valid_until_epoch": 1785364359,
   "version": 1
 }
