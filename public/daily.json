@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-29T07:32:39-07:00",
+  "generated_at": "2026-07-29T09:38:54-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,12 +9,12 @@
     },
     {
       "source": "NPR",
-      "title": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
-      "url": "https://www.npr.org/2026/07/29/g-s1-135641/pakistan-chitral-hindu-kush-mountains"
+      "title": "'Odyssey' translator Emily Wilson says Nolan shouldn't have written the movie himself",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5910645/odyssey-translator-emily-wilson-christopher-nolan"
     },
     {
       "source": "BBC",
-      "title": "More than half of England officially in drought, Environment Agency says",
+      "title": "More than half of England in drought, Environment Agency declares",
       "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 56. best outside window: 7am to 12am",
-  "valid_until_epoch": 1785364359,
+  "text": "high 65, low 56. best outside window: 9am to 12am",
+  "valid_until_epoch": 1785371934,
   "version": 1
 }
