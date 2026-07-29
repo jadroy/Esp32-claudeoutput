@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-29T09:38:54-07:00",
+  "generated_at": "2026-07-29T12:44:36-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The impossible life of a mayonnaise hater",
-      "url": "https://sfstandard.com/2026/07/29/mayonnaise-hatred/"
+      "title": "The myth of the AI cure",
+      "url": "https://sfstandard.com/2026/07/29/myth-ai-intelligence-medicine-regulation/"
     },
     {
       "source": "NPR",
-      "title": "'Odyssey' translator Emily Wilson says Nolan shouldn't have written the movie himself",
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5910645/odyssey-translator-emily-wilson-christopher-nolan"
+      "title": "'Taiwan Travelogue' rethinks history, colonialism, and identity",
+      "url": "https://www.npr.org/2026/07/29/g-s1-136110/taiwan-travelogue-rethinks-history-colonialism-and-identity"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "He fought meth addiction for years. Now he's won drug-free housing for SF",
-      "url": "https://sfstandard.com/2026/07/29/matt-dorsey-addiction-drug-free-housing-law/"
+      "title": "The impossible life of a mayonnaise hater",
+      "url": "https://sfstandard.com/2026/07/29/mayonnaise-hatred/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 56. best outside window: 9am to 12am",
-  "valid_until_epoch": 1785371934,
+  "text": "high 66, low 56. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1785383076,
   "version": 1
 }
