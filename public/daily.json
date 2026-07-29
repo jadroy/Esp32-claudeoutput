@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-28T20:41:46-07:00",
+  "generated_at": "2026-07-29T02:09:43-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup",
-      "url": "https://www.npr.org/2026/07/28/nx-s1-5910773/fifa-world-cup-gianni-infantino"
+      "title": "'Machines are collaborators' at this new museum of AI art",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5894941/ai-art-dataland-refik-anadol"
     },
     {
       "source": "BBC",
-      "title": "Polanski says guillotine re-post was mistake but refuses to apologise",
-      "url": "https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss"
+      "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 56. best outside window: 8pm to 12am",
-  "valid_until_epoch": 1785325306,
+  "text": "high 65, low 56. best outside window: 2am to 12am",
+  "valid_until_epoch": 1785344983,
   "version": 1
 }
