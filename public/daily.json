@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-29T12:44:36-07:00",
+  "generated_at": "2026-07-29T15:13:52-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The myth of the AI cure",
-      "url": "https://sfstandard.com/2026/07/29/myth-ai-intelligence-medicine-regulation/"
+      "title": "San Francisco sues Kayak and Booking.com for allegedly scamming tourists",
+      "url": "https://sfstandard.com/2026/07/29/san-francisco-hotel-booking-lawsuit-city-attorney/"
     },
     {
       "source": "NPR",
-      "title": "'Taiwan Travelogue' rethinks history, colonialism, and identity",
-      "url": "https://www.npr.org/2026/07/29/g-s1-136110/taiwan-travelogue-rethinks-history-colonialism-and-identity"
+      "title": "The Trump administration's move to end subsidies for Medicare drug plans could cost consumers",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5912039/the-trump-administrations-move-to-end-subsidies-for-medicare-drug-plans-could-cost-consumers"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "The impossible life of a mayonnaise hater",
-      "url": "https://sfstandard.com/2026/07/29/mayonnaise-hatred/"
+      "title": "Kawakami: Steph Curry wants to be a forever Warrior, but they need to give him reasons",
+      "url": "https://sfstandard.com/2026/07/29/steph-curry-golden-state-warriors-future/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 56. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1785383076,
+  "text": "high 64, low 56. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1785392032,
   "version": 1
 }
