@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-30T09:50:33-07:00",
+  "generated_at": "2026-07-30T12:53:16-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Ghirardelli Chocolate workers strike at flagship shop",
+      "title": "Workers walk out at Ghirardelli Square's iconic shop over healthcare dispute",
       "url": "https://sfstandard.com/2026/07/30/sf-ghirardelli-chocolate-workers-strike/"
     },
     {
       "source": "NPR",
-      "title": "Trump says he 'may' pull Blanche AG nomination temporarily",
-      "url": "https://www.npr.org/2026/07/30/g-s1-135784/todd-blanche-attorney-general-trump"
+      "title": "The Trump administration wants $10 million more to cover its July Fourth celebrations",
+      "url": "https://www.npr.org/2026/07/30/nx-s1-5913172/freedom-250-july-fourth-10-million"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 54. best outside window: 9am to 12am",
-  "valid_until_epoch": 1785459033,
+  "text": "high 64, low 54. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1785469996,
   "version": 1
 }
