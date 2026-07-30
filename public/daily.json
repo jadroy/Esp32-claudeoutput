@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-29T20:30:25-07:00",
+  "generated_at": "2026-07-30T02:03:21-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,12 +9,12 @@
     },
     {
       "source": "NPR",
-      "title": "Animal spillover? Lab leak? What the science says about the origins of COVID-19",
-      "url": "https://www.npr.org/2026/07/29/g-s1-136142/rand-paul-anthony-fauci-lab-leak-spillover-pandemic-origin"
+      "title": "Senate panel delays vote on Blanche's nomination as key Republicans withhold support",
+      "url": "https://www.npr.org/2026/07/30/g-s1-136265/senate-blanche-nomination"
     },
     {
       "source": "BBC",
-      "title": "US launches 'powerful' strikes on Iran after attempted attack on American troops",
+      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
       "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 56. best outside window: 8pm to 12am",
-  "valid_until_epoch": 1785411025,
+  "text": "high 65, low 54. best outside window: 2am to 12am",
+  "valid_until_epoch": 1785431001,
   "version": 1
 }
