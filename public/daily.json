@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-30T07:33:06-07:00",
+  "generated_at": "2026-07-30T09:50:33-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "Ghirardelli Chocolate workers strike at flagship shop",
+      "url": "https://sfstandard.com/2026/07/30/sf-ghirardelli-chocolate-workers-strike/"
+    },
+    {
+      "source": "NPR",
+      "title": "Trump says he 'may' pull Blanche AG nomination temporarily",
+      "url": "https://www.npr.org/2026/07/30/g-s1-135784/todd-blanche-attorney-general-trump"
+    },
+    {
+      "source": "BBC",
+      "title": "European nations to boycott World Cup if Fifa goes ahead with investment plan",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Hall of Fame intel: Kent is in, Bonds isn't, and baseball legends have a lot to say",
       "url": "https://sfstandard.com/2026/07/30/barry-bonds-hall-of-fame-sf-giants/"
-    },
-    {
-      "source": "NPR",
-      "title": "Alien Terrorist Removal Court to hold its first-ever hearing after 30 years",
-      "url": "https://www.npr.org/2026/07/30/g-s1-136289/alien-terrorist-removal-court-isis-terror-plot"
-    },
-    {
-      "source": "BBC",
-      "title": "Thousands evacuated in Crete as Europe battles wildfires",
-      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "California-Lebanese pop-up Ilna finds a permanent home in SoMa",
-      "url": "https://sfstandard.com/2026/07/30/ilna-restaurant-soma-bar-agricole/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 54. best outside window: 7am to 12am",
-  "valid_until_epoch": 1785450786,
+  "text": "high 64, low 54. best outside window: 9am to 12am",
+  "valid_until_epoch": 1785459033,
   "version": 1
 }
