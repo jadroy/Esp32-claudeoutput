@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-30T12:53:16-07:00",
+  "generated_at": "2026-07-30T15:19:55-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Workers walk out at Ghirardelli Square's iconic shop over healthcare dispute",
-      "url": "https://sfstandard.com/2026/07/30/sf-ghirardelli-chocolate-workers-strike/"
+      "title": "YC founder asks desperate job seekers to tattoo themselves for an interview",
+      "url": "https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/"
     },
     {
       "source": "NPR",
-      "title": "The Trump administration wants $10 million more to cover its July Fourth celebrations",
-      "url": "https://www.npr.org/2026/07/30/nx-s1-5913172/freedom-250-july-fourth-10-million"
+      "title": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns",
+      "url": "https://www.npr.org/2026/07/30/nx-s1-5913851/mortgage-rates-one-year-high-july-2026"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Hall of Fame intel: Kent is in, Bonds isn't, and baseball legends have a lot to say",
-      "url": "https://sfstandard.com/2026/07/30/barry-bonds-hall-of-fame-sf-giants/"
+      "title": "Workers walk out at Ghirardelli Square's iconic shop over healthcare dispute",
+      "url": "https://sfstandard.com/2026/07/30/sf-ghirardelli-chocolate-workers-strike/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 54. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1785469996,
+  "text": "high 64, low 54. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1785478795,
   "version": 1
 }
