@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-30T04:21:27-07:00",
+  "generated_at": "2026-07-30T07:33:06-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Jackie Fielder wants a hearing on the mayor's permit software. A Lurie ally may stop it",
-      "url": "https://sfstandard.com/2026/07/29/power-play-daniel-lurie-opengov-jackie-fielder/"
+      "title": "Hall of Fame intel: Kent is in, Bonds isn't, and baseball legends have a lot to say",
+      "url": "https://sfstandard.com/2026/07/30/barry-bonds-hall-of-fame-sf-giants/"
     },
     {
       "source": "NPR",
-      "title": "Russian strikes across Ukraine kill at least 8 civilians and wound dozens",
-      "url": "https://www.npr.org/2026/07/30/g-s1-136276/russia-ukraine-war"
+      "title": "Alien Terrorist Removal Court to hold its first-ever hearing after 30 years",
+      "url": "https://www.npr.org/2026/07/30/g-s1-136289/alien-terrorist-removal-court-isis-terror-plot"
     },
     {
       "source": "BBC",
-      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
+      "title": "Thousands evacuated in Crete as Europe battles wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "What Ricky Pearsall's setback means for the 49ers' offense",
-      "url": "https://sfstandard.com/2026/07/29/ricky-pearsall-49ers-offense-dezhaun-stribling/"
+      "title": "California-Lebanese pop-up Ilna finds a permanent home in SoMa",
+      "url": "https://sfstandard.com/2026/07/30/ilna-restaurant-soma-bar-agricole/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 54. best outside window: 4am to 12am",
-  "valid_until_epoch": 1785439287,
+  "text": "high 65, low 54. best outside window: 7am to 12am",
+  "valid_until_epoch": 1785450786,
   "version": 1
 }
