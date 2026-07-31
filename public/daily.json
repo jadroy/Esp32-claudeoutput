@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-31T02:17:35-07:00",
+  "generated_at": "2026-07-31T07:36:29-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "More details about Harrison Bader's late-night scooter crash. Giants seek info",
-      "url": "https://sfstandard.com/2026/07/30/harrison-bader-scooter-crash-giants/"
+      "title": "Why Deebo Samuel's fit with the 49ers is different this time",
+      "url": "https://sfstandard.com/2026/07/31/deebo-samuel-49ers-how-he-fits-wide-receiver-analysis/"
     },
     {
       "source": "NPR",
-      "title": "Who's driving a bookmobile full of Epstein files? The quiz knows!",
-      "url": "https://www.npr.org/2026/07/31/g-s1-136290/epstein-trump-fauci-grammys-bts-news-quiz"
+      "title": "In Nebraska, Americans begin to lose Medicaid under Trump's work rules",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5913947/medicaid-trump-work-requirements-big-beautiful-bill-nebraska"
     },
     {
       "source": "BBC",
-      "title": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
+      "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
       "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "First, a fatal crash. Then, missed court dates. Driver faces trial after years of delays",
-      "url": "https://sfstandard.com/2026/07/30/san-francisco-trial-breanna-gordon/"
+      "title": "The 3 most anticipated SF restaurant, bakery, and bar openings in August",
+      "url": "https://sfstandard.com/2026/07/31/best-new-sf-restaurant-bar-openings-august/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 54. best outside window: 2am to 12am",
-  "valid_until_epoch": 1785518255,
+  "text": "high 65, low 54. best outside window: 7am to 12am",
+  "valid_until_epoch": 1785537389,
   "version": 1
 }
