@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-31T12:53:31-07:00",
+  "generated_at": "2026-07-31T15:16:17-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
-      "url": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky"
+      "title": "Climate adaptation at its limits, says one scientist",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 54. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1785556411,
+  "text": "high 68, low 54. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1785564977,
   "version": 1
 }
