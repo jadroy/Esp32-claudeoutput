@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-30T20:51:20-07:00",
+  "generated_at": "2026-07-31T02:17:35-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns",
-      "url": "https://www.npr.org/2026/07/30/nx-s1-5913851/mortgage-rates-one-year-high-july-2026"
+      "title": "Who's driving a bookmobile full of Epstein files? The quiz knows!",
+      "url": "https://www.npr.org/2026/07/31/g-s1-136290/epstein-trump-fauci-grammys-bts-news-quiz"
     },
     {
       "source": "BBC",
-      "title": "Is Infantino finished? Could Uefa boycott World Cup? What happens now?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss"
+      "title": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 54. best outside window: 8pm to 12am",
-  "valid_until_epoch": 1785498680,
+  "text": "high 66, low 54. best outside window: 2am to 12am",
+  "valid_until_epoch": 1785518255,
   "version": 1
 }
