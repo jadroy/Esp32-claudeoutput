@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-31T09:57:20-07:00",
+  "generated_at": "2026-07-31T12:53:31-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Why Deebo Samuel's fit with the 49ers is different this time",
-      "url": "https://sfstandard.com/2026/07/31/deebo-samuel-49ers-how-he-fits-wide-receiver-analysis/"
+      "title": "'Section 415' podcast: What 49ers training camp looks like as Kyle Shanahan recovers",
+      "url": "https://sfstandard.com/section-415/2026/07/31/section-415-podcast-49ers-training-camp-looks-as-kyle-shanahan-recovers/"
     },
     {
       "source": "NPR",
-      "title": "Keeping cool without AC: Our readers share their tips",
-      "url": "https://www.npr.org/2026/07/31/g-s1-136442/extreme-heat-air-conditioning-keeping-cool"
+      "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky"
     },
     {
       "source": "BBC",
-      "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+      "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
       "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The 3 most anticipated SF openings in August",
-      "url": "https://sfstandard.com/2026/07/31/best-new-sf-restaurant-bar-openings-august/"
+      "title": "Gavin Newsom releases tax returns amid DOJ probe",
+      "url": "https://sfstandard.com/2026/07/31/governor-gavin-newsom-taxes-president-donald-trump/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 54. best outside window: 9am to 12am",
-  "valid_until_epoch": 1785545840,
+  "text": "high 66, low 54. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1785556411,
   "version": 1
 }
