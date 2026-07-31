@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-31T07:36:29-07:00",
+  "generated_at": "2026-07-31T09:57:20-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "In Nebraska, Americans begin to lose Medicaid under Trump's work rules",
-      "url": "https://www.npr.org/2026/07/31/nx-s1-5913947/medicaid-trump-work-requirements-big-beautiful-bill-nebraska"
+      "title": "Keeping cool without AC: Our readers share their tips",
+      "url": "https://www.npr.org/2026/07/31/g-s1-136442/extreme-heat-air-conditioning-keeping-cool"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "The 3 most anticipated SF restaurant, bakery, and bar openings in August",
+      "title": "The 3 most anticipated SF openings in August",
       "url": "https://sfstandard.com/2026/07/31/best-new-sf-restaurant-bar-openings-august/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 54. best outside window: 7am to 12am",
-  "valid_until_epoch": 1785537389,
+  "text": "high 66, low 54. best outside window: 9am to 12am",
+  "valid_until_epoch": 1785545840,
   "version": 1
 }
