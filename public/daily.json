@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-31T20:51:18-07:00",
+  "generated_at": "2026-08-01T01:34:18-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -14,7 +14,7 @@
     },
     {
       "source": "BBC",
-      "title": "Fifa scraps controversial World Cup investment plan",
+      "title": "Fifa scraps World Cup investment plan after outcry",
       "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 68, low 54. best outside window: 8pm to 12am",
-  "valid_until_epoch": 1785585078,
+  "text": "high 70, low 53. best outside window: 1am to 12am",
+  "valid_until_epoch": 1785602058,
   "version": 1
 }
