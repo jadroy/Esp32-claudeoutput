@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-01T09:13:26-07:00",
+  "generated_at": "2026-08-01T12:35:17-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Opinion: Remembering Margo Howard",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5907932/opinion-remembering-margo-howard"
+      "title": "Spain's Pedro Sanchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants"
     },
     {
       "source": "BBC",
-      "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss"
+      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+      "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 69, low 54. best outside window: 9am to 12am",
-  "valid_until_epoch": 1785629606,
+  "text": "high 69, low 54. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1785641717,
   "version": 1
 }
