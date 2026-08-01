@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-01T01:34:18-07:00",
+  "generated_at": "2026-08-01T03:49:42-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "FIFA scraps controversial deal to sell stakes in World Cup to private investors",
-      "url": "https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino"
+      "title": "Lebanese who fled the Israeli invasion visit to see what's left",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah"
     },
     {
       "source": "BBC",
-      "title": "Fifa scraps World Cup investment plan after outcry",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss"
+      "title": "Uefa has 'lost confidence' in Fifa leadership as investment plan scrapped",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 70, low 53. best outside window: 1am to 12am",
-  "valid_until_epoch": 1785602058,
+  "text": "high 71, low 54. best outside window: 3am to 12am",
+  "valid_until_epoch": 1785610182,
   "version": 1
 }
