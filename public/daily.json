@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-07-31T15:16:17-07:00",
+  "generated_at": "2026-07-31T20:51:18-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'Section 415' podcast: What 49ers training camp looks like as Kyle Shanahan recovers",
-      "url": "https://sfstandard.com/section-415/2026/07/31/section-415-podcast-49ers-training-camp-looks-as-kyle-shanahan-recovers/"
+      "title": "Lurie has spent $1.22M on private consultants since taking office",
+      "url": "https://sfstandard.com/2026/07/31/daniel-lurie-private-consultants-san-francisco-money-wealth/"
     },
     {
       "source": "NPR",
-      "title": "Climate adaptation at its limits, says one scientist",
-      "url": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist"
+      "title": "FIFA scraps controversial deal to sell stakes in World Cup to private investors",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino"
     },
     {
       "source": "BBC",
-      "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
+      "title": "Fifa scraps controversial World Cup investment plan",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Gavin Newsom releases tax returns amid DOJ probe",
-      "url": "https://sfstandard.com/2026/07/31/governor-gavin-newsom-taxes-president-donald-trump/"
+      "title": "How Fred Warner and Dre Greenlaw's 'menacing aura' started a fight at 49ers camp",
+      "url": "https://sfstandard.com/2026/07/31/fred-warner-dre-greenlaw-christian-mccaffrey-49ers-training-camp-news/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 68, low 54. best outside window: 3pm to 12am",
-  "valid_until_epoch": 1785564977,
+  "text": "high 68, low 54. best outside window: 8pm to 12am",
+  "valid_until_epoch": 1785585078,
   "version": 1
 }
