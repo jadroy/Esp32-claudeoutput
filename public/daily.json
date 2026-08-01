@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-01T03:49:42-07:00",
+  "generated_at": "2026-08-01T06:56:15-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Lurie has spent $1.22M on private consultants since taking office",
-      "url": "https://sfstandard.com/2026/07/31/daniel-lurie-private-consultants-san-francisco-money-wealth/"
+      "title": "How the Giants can try to terminate Harrison Bader's contract",
+      "url": "https://sfstandard.com/2026/08/01/harrison-bader-sf-giants-scooter/"
     },
     {
       "source": "NPR",
-      "title": "Lebanese who fled the Israeli invasion visit to see what's left",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah"
+      "title": "Opinion: Remembering Margo Howard",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5907932/opinion-remembering-margo-howard"
     },
     {
       "source": "BBC",
-      "title": "Uefa has 'lost confidence' in Fifa leadership as investment plan scrapped",
+      "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
       "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "How Fred Warner and Dre Greenlaw's 'menacing aura' started a fight at 49ers camp",
-      "url": "https://sfstandard.com/2026/07/31/fred-warner-dre-greenlaw-christian-mccaffrey-49ers-training-camp-news/"
+      "title": "Kawakami: The emergency Deebo/Pearsall flip-flop and more 49ers notes from camp",
+      "url": "https://sfstandard.com/2026/08/01/kawakami-deebo-samuel-ricky-pearsall-49ers-training-camp-notes/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 71, low 54. best outside window: 3am to 12am",
-  "valid_until_epoch": 1785610182,
+  "text": "high 70, low 54. best outside window: 6am to 12am",
+  "valid_until_epoch": 1785621375,
   "version": 1
 }
