@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-02T03:50:35-07:00",
+  "generated_at": "2026-08-02T06:56:13-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "California Democratic Party committee backs wealth tax, but final vote looms",
-      "url": "https://sfstandard.com/2026/08/01/california-state-wealth-billionaire-tax-vote/"
+      "title": "The war over the Marina Safeway was decided before it could ever be fought",
+      "url": "https://sfstandard.com/2026/08/02/marina-safeway-align-real-estate-housing-war/"
     },
     {
       "source": "NPR",
-      "title": "We asked a first grader to interview his hero: A bird scientist",
-      "url": "https://www.npr.org/2026/08/02/nx-s1-5758054/we-asked-a-first-grader-to-interview-his-hero-a-bird-scientist"
+      "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
+      "url": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "What Deebo Samuel's return - and Ricky Pearsall's surgery - mean for the 49ers' offense",
-      "url": "https://sfstandard.com/2026/08/01/deebo-samuel-49ers-receivers-ricky-pearsall/"
+      "title": "Why Heliot Ramos could be the Giants' most valuable trade chip",
+      "url": "https://sfstandard.com/2026/08/02/heliot-ramos-sf-giants-trade-candidate/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 73, low 53. best outside window: 3am to 11am",
-  "valid_until_epoch": 1785696635,
+  "text": "high 72, low 53. best outside window: 6am to 2pm",
+  "valid_until_epoch": 1785707773,
   "version": 1
 }
