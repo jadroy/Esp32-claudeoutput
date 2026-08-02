@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-02T01:37:21-07:00",
+  "generated_at": "2026-08-02T03:50:35-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,12 +9,12 @@
     },
     {
       "source": "NPR",
-      "title": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says",
-      "url": "https://www.npr.org/2026/08/02/nx-s1-5917121/idaho-fast-food-restaurant-shooting-3-dead"
+      "title": "We asked a first grader to interview his hero: A bird scientist",
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5758054/we-asked-a-first-grader-to-interview-his-hero-a-bird-scientist"
     },
     {
       "source": "BBC",
-      "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
       "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 73, low 53. best outside window: 1am to 1pm",
-  "valid_until_epoch": 1785688641,
+  "text": "high 73, low 53. best outside window: 3am to 11am",
+  "valid_until_epoch": 1785696635,
   "version": 1
 }
