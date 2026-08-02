@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-02T06:56:13-07:00",
+  "generated_at": "2026-08-02T09:13:45-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -14,8 +14,8 @@
     },
     {
       "source": "BBC",
-      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
+      "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 72, low 53. best outside window: 6am to 2pm",
-  "valid_until_epoch": 1785707773,
+  "text": "high 72, low 53. best outside window: 9am to 12am",
+  "valid_until_epoch": 1785716025,
   "version": 1
 }
