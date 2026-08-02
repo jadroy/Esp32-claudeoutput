@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-02T12:35:47-07:00",
+  "generated_at": "2026-08-02T15:10:46-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The war over the Marina Safeway was decided before it could ever be fought",
-      "url": "https://sfstandard.com/2026/08/02/marina-safeway-align-real-estate-housing-war/"
+      "title": "California Democratic Party endorses wealth tax after contested floor fight",
+      "url": "https://sfstandard.com/2026/08/02/california-democratic-party-endorses-prop-40-billionaire-tax/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss"
+      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+      "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Why Heliot Ramos could be the Giants' most valuable trade chip",
-      "url": "https://sfstandard.com/2026/08/02/heliot-ramos-sf-giants-trade-candidate/"
+      "title": "The war over the Marina Safeway was decided before it could ever be fought",
+      "url": "https://sfstandard.com/2026/08/02/marina-safeway-align-real-estate-housing-war/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 70, low 53. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1785728147,
+  "text": "high 71, low 53. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1785737446,
   "version": 1
 }
