@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-02T09:13:45-07:00",
+  "generated_at": "2026-08-02T12:35:47-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
-      "url": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane"
+      "title": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
+      "url": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 72, low 53. best outside window: 9am to 12am",
-  "valid_until_epoch": 1785716025,
+  "text": "high 70, low 53. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1785728147,
   "version": 1
 }
