@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-01T15:11:35-07:00",
+  "generated_at": "2026-08-01T20:54:09-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "How the Giants can try to terminate Harrison Bader's contract",
-      "url": "https://sfstandard.com/2026/08/01/harrison-bader-sf-giants-scooter/"
+      "title": "California Democratic Party committee backs wealth tax, but final vote looms",
+      "url": "https://sfstandard.com/2026/08/01/california-state-wealth-billionaire-tax-vote/"
     },
     {
       "source": "NPR",
-      "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes"
+      "title": "'Sopranos' actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit"
     },
     {
       "source": "BBC",
-      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-      "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss"
+      "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Kawakami: The emergency Deebo/Pearsall flip-flop and more 49ers notes from camp",
-      "url": "https://sfstandard.com/2026/08/01/kawakami-deebo-samuel-ricky-pearsall-49ers-training-camp-notes/"
+      "title": "What Deebo Samuel's return - and Ricky Pearsall's surgery - mean for the 49ers' offense",
+      "url": "https://sfstandard.com/2026/08/01/deebo-samuel-49ers-receivers-ricky-pearsall/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 68, low 54. best outside window: 3pm to 12am",
-  "valid_until_epoch": 1785651095,
+  "text": "high 68, low 54. best outside window: 8pm to 12am",
+  "valid_until_epoch": 1785671649,
   "version": 1
 }
