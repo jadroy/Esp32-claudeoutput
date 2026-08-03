@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-02T15:10:46-07:00",
+  "generated_at": "2026-08-02T20:55:30-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "California Democratic Party endorses wealth tax after contested floor fight",
-      "url": "https://sfstandard.com/2026/08/02/california-democratic-party-endorses-prop-40-billionaire-tax/"
+      "title": "The Giants' selling spree begins as they flip Tyler Mahle for a young pitcher",
+      "url": "https://sfstandard.com/2026/08/02/sf-giants-trade-deadline-live-updates/"
     },
     {
       "source": "NPR",
-      "title": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
-      "url": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering"
+      "title": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon",
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5917201/space-x-falcon-nine-moon"
     },
     {
       "source": "BBC",
-      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-      "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss"
+      "title": "Trump suggests new talks with Iran to begin on Monday",
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The war over the Marina Safeway was decided before it could ever be fought",
-      "url": "https://sfstandard.com/2026/08/02/marina-safeway-align-real-estate-housing-war/"
+      "title": "Look who's back: Mohammed Nuru has returned to San Francisco ... and City Hall",
+      "url": "https://sfstandard.com/2026/08/02/mohammed-nuru-city-hall-power-play/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 71, low 53. best outside window: 3pm to 12am",
-  "valid_until_epoch": 1785737446,
+  "text": "high 72, low 53. best outside window: 8pm to 12am",
+  "valid_until_epoch": 1785758130,
   "version": 1
 }
