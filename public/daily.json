@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-03T08:17:10-07:00",
+  "generated_at": "2026-08-03T12:59:20-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The Valkyries' quiet trade deadline made a loud statement about their philosophy",
-      "url": "https://sfstandard.com/2026/08/03/golden-state-valkyries-trade-deadline-natalie-nakase/"
+      "title": "Castro Theatre contractor sued for alleged 'badly botched' renovations",
+      "url": "https://sfstandard.com/2026/08/03/castro-theatre-another-planet-entertainment-sues-alarcon-bohm/"
     },
     {
       "source": "NPR",
-      "title": "Washington wildfires destroy homes, force thousands to evacuate",
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations"
+      "title": "Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped"
     },
     {
       "source": "BBC",
-      "title": "English FA set to withdraw support for Fifa president Infantino",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss"
+      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+      "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Giants package Luis Arraez with Caleb Kilian in deal to acquire two Phillies prospects",
-      "url": "https://sfstandard.com/2026/08/03/luis-arraez-sf-giants-trade-deadline-moves/"
+      "title": "One year later: How Buster Posey fared at his first trade deadline with the Giants",
+      "url": "https://sfstandard.com/2026/08/03/one-year-later-buster-posey-fared-first-trade-deadline-giants/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 54. best outside window: 8am to 12am",
-  "valid_until_epoch": 1785799030,
+  "text": "high 69, low 54. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1785815960,
   "version": 1
 }
