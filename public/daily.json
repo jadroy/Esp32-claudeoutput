@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-02T20:55:30-07:00",
+  "generated_at": "2026-08-03T03:06:39-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon",
-      "url": "https://www.npr.org/2026/08/02/nx-s1-5917201/space-x-falcon-nine-moon"
+      "title": "This lawyer believes in second chances. Now AI is providing a boost",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate"
     },
     {
       "source": "BBC",
-      "title": "Trump suggests new talks with Iran to begin on Monday",
-      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
+      "title": "English FA set to withdraw support for Fifa president Infantino",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 72, low 53. best outside window: 8pm to 12am",
-  "valid_until_epoch": 1785758130,
+  "text": "high 68, low 53. best outside window: 3am to 12am",
+  "valid_until_epoch": 1785780399,
   "version": 1
 }
