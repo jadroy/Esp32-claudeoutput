@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-03T12:59:20-07:00",
+  "generated_at": "2026-08-03T15:18:31-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "'We've lost our way': Jamie Dimon hails SF turnaround, rails against wealth tax",
+      "url": "https://sfstandard.com/2026/08/03/jamie-dimon-san-francisco-wealth-tax-ai-boom/"
+    },
+    {
+      "source": "NPR",
+      "title": "House Ethics panel recommends censure for Chuck Edwards after harassment allegations",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5918341/chuck-edwards-ethics-report"
+    },
+    {
+      "source": "BBC",
+      "title": "Rapists and child sex offenders to be barred from early release scheme",
+      "url": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Castro Theatre contractor sued for alleged 'badly botched' renovations",
       "url": "https://sfstandard.com/2026/08/03/castro-theatre-another-planet-entertainment-sues-alarcon-bohm/"
-    },
-    {
-      "source": "NPR",
-      "title": "Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped",
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped"
-    },
-    {
-      "source": "BBC",
-      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-      "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "One year later: How Buster Posey fared at his first trade deadline with the Giants",
-      "url": "https://sfstandard.com/2026/08/03/one-year-later-buster-posey-fared-first-trade-deadline-giants/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 69, low 54. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1785815960,
+  "text": "high 70, low 54. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1785824311,
   "version": 1
 }
