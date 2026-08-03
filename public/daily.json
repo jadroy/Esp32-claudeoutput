@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-03T03:06:39-07:00",
+  "generated_at": "2026-08-03T08:17:10-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The Giants' selling spree begins as they flip Tyler Mahle for a young pitcher",
-      "url": "https://sfstandard.com/2026/08/02/sf-giants-trade-deadline-live-updates/"
+      "title": "The Valkyries' quiet trade deadline made a loud statement about their philosophy",
+      "url": "https://sfstandard.com/2026/08/03/golden-state-valkyries-trade-deadline-natalie-nakase/"
     },
     {
       "source": "NPR",
-      "title": "This lawyer believes in second chances. Now AI is providing a boost",
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate"
+      "title": "Washington wildfires destroy homes, force thousands to evacuate",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Look who's back: Mohammed Nuru has returned to San Francisco ... and City Hall",
-      "url": "https://sfstandard.com/2026/08/02/mohammed-nuru-city-hall-power-play/"
+      "title": "Giants package Luis Arraez with Caleb Kilian in deal to acquire two Phillies prospects",
+      "url": "https://sfstandard.com/2026/08/03/luis-arraez-sf-giants-trade-deadline-moves/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 68, low 53. best outside window: 3am to 12am",
-  "valid_until_epoch": 1785780399,
+  "text": "high 67, low 54. best outside window: 8am to 12am",
+  "valid_until_epoch": 1785799030,
   "version": 1
 }
