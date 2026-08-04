@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-03T20:38:27-07:00",
+  "generated_at": "2026-08-04T02:09:07-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "These are some of the last pristine ocean ecosystems. Now, they're losing protections",
-      "url": "https://www.npr.org/2026/08/03/g-s1-136055/pacific-ocean-protections-removed"
+      "title": "Why Texas is betting 'Y'all Street' can take on Wall Street",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street"
     },
     {
       "source": "BBC",
-      "title": "PC Harper's mother 'devastated' his killers set for early release under revised plans",
-      "url": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss"
+      "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
+      "url": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 70, low 54. best outside window: 8pm to 12am",
-  "valid_until_epoch": 1785843507,
+  "text": "high 63, low 55. best outside window: 2am to 12am",
+  "valid_until_epoch": 1785863347,
   "version": 1
 }
