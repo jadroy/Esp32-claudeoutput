@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-03T15:18:31-07:00",
+  "generated_at": "2026-08-03T20:38:27-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'We've lost our way': Jamie Dimon hails SF turnaround, rails against wealth tax",
-      "url": "https://sfstandard.com/2026/08/03/jamie-dimon-san-francisco-wealth-tax-ai-boom/"
+      "title": "Kawakami: 'We know who we are' - Brock Purdy on QB play and the 49ers' 2026 vision",
+      "url": "https://sfstandard.com/2026/08/03/brock-purdy-49ers-quarterback-season-preview/"
     },
     {
       "source": "NPR",
-      "title": "House Ethics panel recommends censure for Chuck Edwards after harassment allegations",
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5918341/chuck-edwards-ethics-report"
+      "title": "These are some of the last pristine ocean ecosystems. Now, they're losing protections",
+      "url": "https://www.npr.org/2026/08/03/g-s1-136055/pacific-ocean-protections-removed"
     },
     {
       "source": "BBC",
-      "title": "Rapists and child sex offenders to be barred from early release scheme",
+      "title": "PC Harper's mother 'devastated' his killers set for early release under revised plans",
       "url": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Castro Theatre contractor sued for alleged 'badly botched' renovations",
-      "url": "https://sfstandard.com/2026/08/03/castro-theatre-another-planet-entertainment-sues-alarcon-bohm/"
+      "title": "Mike Brown dropped by 49ers camp. Here's the message he left behind",
+      "url": "https://sfstandard.com/2026/08/03/mike-brown-49ers-camp-nba-knicks/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 70, low 54. best outside window: 3pm to 12am",
-  "valid_until_epoch": 1785824311,
+  "text": "high 70, low 54. best outside window: 8pm to 12am",
+  "valid_until_epoch": 1785843507,
   "version": 1
 }
