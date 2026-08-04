@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-04T07:40:16-07:00",
+  "generated_at": "2026-08-04T10:04:08-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "13 new books in August will get you through the dog days of summer",
-      "url": "https://www.npr.org/2026/08/04/nx-s1-5905346/new-books-august-2026"
+      "title": "Europe heat wave fuels drought, fires and energy fears",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires"
     },
     {
       "source": "BBC",
-      "title": "More than 150 migrants rescued after boat catches fire in Channel",
-      "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss"
+      "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+      "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 55. best outside window: 7am to 12am",
-  "valid_until_epoch": 1785883216,
+  "text": "high 65, low 55. best outside window: 10am to 12am",
+  "valid_until_epoch": 1785891848,
   "version": 1
 }
