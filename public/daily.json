@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-05T12:55:48-07:00",
+  "generated_at": "2026-08-05T15:28:21-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "A new kind of rental scam strikes SF: He lost $18,000 to a duped Zillow listing",
-      "url": "https://sfstandard.com/2026/08/05/san-francisco-rental-listing-scam/"
+      "title": "'I'm really blowing it': Chicken Fried Palace closes after less than a year in the Mission",
+      "url": "https://sfstandard.com/2026/08/05/seth-stowaway-chicken-fried-palace-closed/"
     },
     {
       "source": "NPR",
-      "title": "How Trump made an estimated $2.2 billion during the first year of his second term",
-      "url": "https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term"
+      "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
+      "url": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Kayla Thornton's role has changed. Her importance to the Valkyries hasn't",
-      "url": "https://sfstandard.com/2026/08/05/kayla-thornton-valkyries-star-toronto-tempo/"
+      "title": "'Too dangerous to be among us': 5 charged in SF child exploitation sting",
+      "url": "https://sfstandard.com/2026/08/05/san-francisco-child-predator-suspects-charged/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 55. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1785988548,
+  "text": "high 62, low 55. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1785997701,
   "version": 1
 }
