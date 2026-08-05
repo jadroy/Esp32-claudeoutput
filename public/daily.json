@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-05T09:53:58-07:00",
+  "generated_at": "2026-08-05T12:55:48-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Kayla Thornton's role has changed. Her importance to the Valkyries hasn't",
-      "url": "https://sfstandard.com/2026/08/05/kayla-thornton-valkyries-star-toronto-tempo/"
+      "title": "A new kind of rental scam strikes SF: He lost $18,000 to a duped Zillow listing",
+      "url": "https://sfstandard.com/2026/08/05/san-francisco-rental-listing-scam/"
     },
     {
       "source": "NPR",
-      "title": "Pakistan's ruling party leads in Kashmir vote despite boycott call by banned group",
-      "url": "https://www.npr.org/2026/08/05/g-s1-137449/pakistans-ruling-party-leads-in-kashmir-vote-despite-boycott-call-by-banned-group"
+      "title": "How Trump made an estimated $2.2 billion during the first year of his second term",
+      "url": "https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "There's a new martini bar coming to the Marina - with mozzarella sticks and mortadella",
-      "url": "https://sfstandard.com/2026/08/05/causwells-martini-room-cocktails/"
+      "title": "Kayla Thornton's role has changed. Her importance to the Valkyries hasn't",
+      "url": "https://sfstandard.com/2026/08/05/kayla-thornton-valkyries-star-toronto-tempo/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 56. best outside window: 9am to 12am",
-  "valid_until_epoch": 1785977638,
+  "text": "high 62, low 55. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1785988548,
   "version": 1
 }
