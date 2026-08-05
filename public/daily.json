@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-05T07:34:08-07:00",
+  "generated_at": "2026-08-05T09:53:58-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,24 +9,24 @@
     },
     {
       "source": "NPR",
-      "title": "Progressive Abdul El-Sayed wins Michigan's Democratic primary for Senate",
-      "url": "https://www.npr.org/2026/08/05/nx-s1-5920403/michigan-senate-el-sayed-stevens-democrats"
+      "title": "Pakistan's ruling party leads in Kashmir vote despite boycott call by banned group",
+      "url": "https://www.npr.org/2026/08/05/g-s1-137449/pakistans-ruling-party-leads-in-kashmir-vote-despite-boycott-call-by-banned-group"
     },
     {
       "source": "BBC",
-      "title": "Family 'devastated' by death of girl, 9, injured on Scottish industrial estate",
-      "url": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss"
+      "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "'It's a martini church': This new pop-up is devoted to SF's favorite classic cocktail",
+      "title": "There's a new martini bar coming to the Marina - with mozzarella sticks and mortadella",
       "url": "https://sfstandard.com/2026/08/05/causwells-martini-room-cocktails/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 56. best outside window: 7am to 12am",
-  "valid_until_epoch": 1785969248,
+  "text": "high 62, low 56. best outside window: 9am to 12am",
+  "valid_until_epoch": 1785977638,
   "version": 1
 }
