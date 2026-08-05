@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-04T15:29:36-07:00",
+  "generated_at": "2026-08-04T20:33:33-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "The most honest thing in SF's AI hype cycle? A fake chatbot written by one guy",
+      "url": "https://sfstandard.com/2026/08/04/sf-ai-hype-fake-chatbot-billboard/"
+    },
+    {
+      "source": "NPR",
+      "title": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
+      "url": "https://www.npr.org/2026/08/04/g-s1-137415/trump-golf-course-arrest-california"
+    },
+    {
+      "source": "BBC",
+      "title": "Burnham 'looking into' conducting Epstein inquiry, says victims minister",
+      "url": "https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Kawakami: Buster Posey's bonanza Giants selloff means he might never have to do it again",
       "url": "https://sfstandard.com/2026/08/04/buster-posey-sf-giants-selloff-trade-deadline/"
-    },
-    {
-      "source": "NPR",
-      "title": "SpaceX's revenue rises as its once-soaring stock price drifts back to Earth",
-      "url": "https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo"
-    },
-    {
-      "source": "BBC",
-      "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-      "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "'Section 415' podcast: Analyzing the Giants' dizzying trade deadline",
-      "url": "https://sfstandard.com/section-415/2026/08/04/sf-giants-trade-deadline-podcast/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 55. best outside window: 3pm to 12am",
-  "valid_until_epoch": 1785911376,
+  "text": "high 67, low 55. best outside window: 8pm to 12am",
+  "valid_until_epoch": 1785929613,
   "version": 1
 }
