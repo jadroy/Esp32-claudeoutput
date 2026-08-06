@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-06T04:33:37-07:00",
+  "generated_at": "2026-08-06T07:40:40-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Inside the little-known political account bankrolling Matt Dorsey",
-      "url": "https://sfstandard.com/2026/08/05/power-play-matt-dorsey-campaign-finance-chris-larsen/"
+      "title": "Leasing the dream office in SF wasn't enough. This tenant had to buy it too",
+      "url": "https://sfstandard.com/2026/08/06/oura-ring-san-francisco-office-sale/"
     },
     {
       "source": "NPR",
-      "title": "Hospital staff said he was faking it and released him. He died from an overdose soon after",
-      "url": "https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths"
+      "title": "Greetings from a wildlife park in central Sri Lanka that's a haven for elephants",
+      "url": "https://www.npr.org/2026/08/06/g-s1-137317/sri-lanka-elephants"
     },
     {
       "source": "BBC",
-      "title": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
-      "url": "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss"
+      "title": "Burnham orders review of grooming gang early releases",
+      "url": "https://www.bbc.co.uk/news/articles/cg5lm3evpzzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "As injuries alter 49ers camp, one young receiver is seizing his shot",
-      "url": "https://sfstandard.com/2026/08/05/junior-bergen-sf-49ers-jacob-cowing/"
+      "title": "'Choked out by landlord greed,' boutique SoMa steakhouse closes after just over a year",
+      "url": "https://sfstandard.com/2026/08/06/superprime-steakhouse-soma-closes-rent-hike/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 59, low 54. best outside window: 4am to 12am",
-  "valid_until_epoch": 1786044817,
+  "text": "high 61, low 55. best outside window: 7am to 12am",
+  "valid_until_epoch": 1786056040,
   "version": 1
 }
