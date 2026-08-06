@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-05T15:28:21-07:00",
+  "generated_at": "2026-08-05T20:39:11-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'I'm really blowing it': Chicken Fried Palace closes after less than a year in the Mission",
-      "url": "https://sfstandard.com/2026/08/05/seth-stowaway-chicken-fried-palace-closed/"
+      "title": "Inside the little-known political account bankrolling Matt Dorsey",
+      "url": "https://sfstandard.com/2026/08/05/power-play-matt-dorsey-campaign-finance-chris-larsen/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss"
+      "title": "Infantino sorry for errors but stays Fifa president",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "'Too dangerous to be among us': 5 charged in SF child exploitation sting",
-      "url": "https://sfstandard.com/2026/08/05/san-francisco-child-predator-suspects-charged/"
+      "title": "As injuries alter 49ers camp, one young receiver is seizing his shot",
+      "url": "https://sfstandard.com/2026/08/05/junior-bergen-sf-49ers-jacob-cowing/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 55. best outside window: 3pm to 12am",
-  "valid_until_epoch": 1785997701,
+  "text": "high 64, low 56. best outside window: 8pm to 12am",
+  "valid_until_epoch": 1786016351,
   "version": 1
 }
