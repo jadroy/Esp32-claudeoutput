@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-06T02:06:46-07:00",
+  "generated_at": "2026-08-06T04:33:37-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Celebrity culture is one thing. For TMZ, Congress is the new 'reality show'",
-      "url": "https://www.npr.org/2026/08/06/nx-s1-5922731/tmz-congress"
+      "title": "Hospital staff said he was faking it and released him. He died from an overdose soon after",
+      "url": "https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 59, low 54. best outside window: 2am to 12am",
-  "valid_until_epoch": 1786036006,
+  "text": "high 59, low 54. best outside window: 4am to 12am",
+  "valid_until_epoch": 1786044817,
   "version": 1
 }
