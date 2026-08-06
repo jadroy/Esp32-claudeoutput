@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-05T20:39:11-07:00",
+  "generated_at": "2026-08-06T02:06:46-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
-      "url": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence"
+      "title": "Celebrity culture is one thing. For TMZ, Congress is the new 'reality show'",
+      "url": "https://www.npr.org/2026/08/06/nx-s1-5922731/tmz-congress"
     },
     {
       "source": "BBC",
-      "title": "Infantino sorry for errors but stays Fifa president",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
+      "title": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
+      "url": "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 56. best outside window: 8pm to 12am",
-  "valid_until_epoch": 1786016351,
+  "text": "high 59, low 54. best outside window: 2am to 12am",
+  "valid_until_epoch": 1786036006,
   "version": 1
 }
