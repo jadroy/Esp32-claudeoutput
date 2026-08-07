@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-07T09:09:17-07:00",
+  "generated_at": "2026-08-07T12:16:13-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'Section 415' podcast: The Valkyries, the Signal, and SF's women's sports boom",
-      "url": "https://sfstandard.com/section-415/2026/08/07/san-francisco-womens-sports-boom/"
+      "title": "What does the Warriors' best-case scenario look like this season?",
+      "url": "https://sfstandard.com/2026/08/07/stephen-curry-warriors-season-outlook/"
     },
     {
       "source": "NPR",
-      "title": "Colombia's new president vows to remake the country - and challenge its fragile peace",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace"
+      "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress"
     },
     {
       "source": "BBC",
-      "title": "Serial sex offender guilty of murdering two women and raping third",
-      "url": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss"
+      "title": "How police left a registered sex offender free to murder and attack women",
+      "url": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "I've known Mike Krukow for more than 40 years. Here's how the Giants should honor him",
-      "url": "https://sfstandard.com/2026/08/07/i-ve-known-mike-krukow-40-years-s-giants-should-honor/"
+      "title": "Woman on scooter killed in downtown collision",
+      "url": "https://sfstandard.com/2026/08/07/woman-scooter-killed-downtown-collision/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 54. best outside window: 9am to 12am",
-  "valid_until_epoch": 1786147757,
+  "text": "high 59, low 54. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1786158973,
   "version": 1
 }
