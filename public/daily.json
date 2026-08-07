@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-06T07:40:40-07:00",
+  "generated_at": "2026-08-06T17:16:21-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Leasing the dream office in SF wasn't enough. This tenant had to buy it too",
-      "url": "https://sfstandard.com/2026/08/06/oura-ring-san-francisco-office-sale/"
+      "title": "Did Oakland build its way out of a rental crisis?",
+      "url": "https://sfstandard.com/2026/08/06/oakland-versus-sf-rents/"
     },
     {
       "source": "NPR",
-      "title": "Greetings from a wildlife park in central Sri Lanka that's a haven for elephants",
-      "url": "https://www.npr.org/2026/08/06/g-s1-137317/sri-lanka-elephants"
+      "title": "Trump signs 2 immigration actions to curb 'birth tourism,' limit birthright citizenship",
+      "url": "https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb"
     },
     {
       "source": "BBC",
-      "title": "Burnham orders review of grooming gang early releases",
-      "url": "https://www.bbc.co.uk/news/articles/cg5lm3evpzzo?at_medium=RSS&at_campaign=rss"
+      "title": "Thousands of rail passengers hit by power failure disruption",
+      "url": "https://www.bbc.co.uk/news/articles/cn5nlvdxpwpo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "'Choked out by landlord greed,' boutique SoMa steakhouse closes after just over a year",
-      "url": "https://sfstandard.com/2026/08/06/superprime-steakhouse-soma-closes-rent-hike/"
+      "title": "Sponsored: Meet the Chinatown restaurant that's rebuilt its menu around dumplings",
+      "url": "https://sfstandard.com/sponsored/fusion-dumpling-sf-chinatown/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 55. best outside window: 7am to 12am",
-  "valid_until_epoch": 1786056040,
+  "text": "high 65, low 55. best outside window: 5pm to 12am",
+  "valid_until_epoch": 1786090581,
   "version": 1
 }
