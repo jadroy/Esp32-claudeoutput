@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-07T06:40:24-07:00",
+  "generated_at": "2026-08-07T09:09:17-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "'Section 415' podcast: The Valkyries, the Signal, and SF's women's sports boom",
+      "url": "https://sfstandard.com/section-415/2026/08/07/san-francisco-womens-sports-boom/"
+    },
+    {
+      "source": "NPR",
+      "title": "Colombia's new president vows to remake the country - and challenge its fragile peace",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace"
+    },
+    {
+      "source": "BBC",
+      "title": "Serial sex offender guilty of murdering two women and raping third",
+      "url": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "I've known Mike Krukow for more than 40 years. Here's how the Giants should honor him",
       "url": "https://sfstandard.com/2026/08/07/i-ve-known-mike-krukow-40-years-s-giants-should-honor/"
-    },
-    {
-      "source": "NPR",
-      "title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve"
-    },
-    {
-      "source": "BBC",
-      "title": "Jason Arday's Cambridge appointment to be part of wider senior hiring review",
-      "url": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "The Brock Purdy deep ball: With unknown receivers, the 49ers' 'layer king' tests his arm",
-      "url": "https://sfstandard.com/2026/08/07/brock-purdy-49ers-layer-king-quarterback/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "today stays cool: 54 to 58. warmest: 11am to 8pm",
-  "valid_until_epoch": 1786138824,
+  "text": "high 61, low 54. best outside window: 9am to 12am",
+  "valid_until_epoch": 1786147757,
   "version": 1
 }
