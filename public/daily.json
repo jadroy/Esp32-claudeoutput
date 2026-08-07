@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-07T12:16:13-07:00",
+  "generated_at": "2026-08-07T14:56:13-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,12 +9,12 @@
     },
     {
       "source": "NPR",
-      "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress"
+      "title": "Trump renews push to fire Fed Governor Lisa Cook",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve"
     },
     {
       "source": "BBC",
-      "title": "How police left a registered sex offender free to murder and attack women",
+      "title": "Police failings revealed as sex offender left free to murder and attack women",
       "url": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 59, low 54. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1786158973,
+  "text": "high 59, low 54. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1786168573,
   "version": 1
 }
