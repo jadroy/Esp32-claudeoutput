@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-06T20:19:47-07:00",
+  "generated_at": "2026-08-07T00:42:12-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Trump signs 2 immigration actions to curb 'birth tourism,' limit birthright citizenship",
-      "url": "https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb"
+      "title": "Student shoots multiple people at a high school in Thailand, authorities say",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5924583/student-shoots-multiple-people-at-a-high-school-in-thailand-authorities-say"
     },
     {
       "source": "BBC",
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
+      "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
+      "url": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 56. best outside window: 8pm to 12am",
-  "valid_until_epoch": 1786101587,
+  "text": "today stays cool: 53 to 58. warmest: 12pm to 7pm",
+  "valid_until_epoch": 1786117332,
   "version": 1
 }
