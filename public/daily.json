@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-07T03:11:17-07:00",
+  "generated_at": "2026-08-07T06:40:24-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Wiener built an AI chatbot to mock Chan's politics. Pelosi says it's 'sexist' and 'racist'",
-      "url": "https://sfstandard.com/2026/08/06/wiener-built-ai-chatbot-mock-chan-s-politics-pelosi-says-s-sexist-racist/"
+      "title": "I've known Mike Krukow for more than 40 years. Here's how the Giants should honor him",
+      "url": "https://sfstandard.com/2026/08/07/i-ve-known-mike-krukow-40-years-s-giants-should-honor/"
     },
     {
       "source": "NPR",
-      "title": "Everyone's talking about hormone therapy for menopause. Should I be on it?",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart"
+      "title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve"
     },
     {
       "source": "BBC",
-      "title": "Thai pupil describes harrowing moment teacher was shot in front of her",
-      "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss"
+      "title": "Jason Arday's Cambridge appointment to be part of wider senior hiring review",
+      "url": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "SF plans to close schools - but Mission Bay just got a new one",
-      "url": "https://sfstandard.com/2026/08/06/mission-bay-school-opens/"
+      "title": "The Brock Purdy deep ball: With unknown receivers, the 49ers' 'layer king' tests his arm",
+      "url": "https://sfstandard.com/2026/08/07/brock-purdy-49ers-layer-king-quarterback/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "today stays cool: 54 to 57. warmest: 10am to 9pm",
-  "valid_until_epoch": 1786126277,
+  "text": "today stays cool: 54 to 58. warmest: 11am to 8pm",
+  "valid_until_epoch": 1786138824,
   "version": 1
 }
