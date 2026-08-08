@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-07T19:22:12-07:00",
+  "generated_at": "2026-08-07T21:28:55-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Scott Wiener takes down Connie Chan AI chatbot after pushback from Pelosi",
-      "url": "https://sfstandard.com/2026/08/07/scott-wiener-takes-connie-chan-ai-chatbot-pushback-pelosi/"
+      "title": "A $60 uni bowl, a $16 pizza bagel: The best food at Outside Lands this year",
+      "url": "https://sfstandard.com/2026/08/07/outside-lands-best-food-vendors/"
     },
     {
       "source": "NPR",
-      "title": "Trump renews push to fire Fed Governor Lisa Cook",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve"
+      "title": "Women in Maine may choose the victor in this year's Senate race",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Want to see your favorite Outside Lands artist up close? Head to the on-site barbershop",
-      "url": "https://sfstandard.com/2026/08/07/outside-lands-artist-haircuts-thebarb/"
+      "title": "Scott Wiener takes down Connie Chan AI chatbot after pushback from Pelosi",
+      "url": "https://sfstandard.com/2026/08/07/scott-wiener-takes-connie-chan-ai-chatbot-pushback-pelosi/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 54. best outside window: 7pm to 12am",
-  "valid_until_epoch": 1786184532,
+  "text": "high 61, low 54. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1786192135,
   "version": 1
 }
