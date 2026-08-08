@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-08T00:16:38-07:00",
+  "generated_at": "2026-08-08T02:54:44-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Women in Maine may choose the victor in this year's Senate race",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race"
+      "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
+      "url": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 54. best outside window: 12am to 12am",
-  "valid_until_epoch": 1786202198,
+  "text": "high 60, low 54. best outside window: 2am to 12am",
+  "valid_until_epoch": 1786211684,
   "version": 1
 }
