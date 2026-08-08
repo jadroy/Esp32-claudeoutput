@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-07T14:56:13-07:00",
+  "generated_at": "2026-08-07T19:22:12-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "What does the Warriors' best-case scenario look like this season?",
-      "url": "https://sfstandard.com/2026/08/07/stephen-curry-warriors-season-outlook/"
+      "title": "Scott Wiener takes down Connie Chan AI chatbot after pushback from Pelosi",
+      "url": "https://sfstandard.com/2026/08/07/scott-wiener-takes-connie-chan-ai-chatbot-pushback-pelosi/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "Police failings revealed as sex offender left free to murder and attack women",
-      "url": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss"
+      "title": "Police officers investigated over handling of sex offender who murdered two women",
+      "url": "https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Woman on scooter killed in downtown collision",
-      "url": "https://sfstandard.com/2026/08/07/woman-scooter-killed-downtown-collision/"
+      "title": "Want to see your favorite Outside Lands artist up close? Head to the on-site barbershop",
+      "url": "https://sfstandard.com/2026/08/07/outside-lands-artist-haircuts-thebarb/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 59, low 54. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1786168573,
+  "text": "high 61, low 54. best outside window: 7pm to 12am",
+  "valid_until_epoch": 1786184532,
   "version": 1
 }
