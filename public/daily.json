@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-07T21:28:55-07:00",
+  "generated_at": "2026-08-08T00:16:38-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "A $60 uni bowl, a $16 pizza bagel: The best food at Outside Lands this year",
-      "url": "https://sfstandard.com/2026/08/07/outside-lands-best-food-vendors/"
+      "title": "Charli XCX wielded an influence over Outside Lands that was virtually unmatched",
+      "url": "https://sfstandard.com/2026/08/07/outside-lands-charli-xcx-performance/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "Police officers investigated over handling of sex offender who murdered two women",
-      "url": "https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss"
+      "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
+      "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Scott Wiener takes down Connie Chan AI chatbot after pushback from Pelosi",
-      "url": "https://sfstandard.com/2026/08/07/scott-wiener-takes-connie-chan-ai-chatbot-pushback-pelosi/"
+      "title": "A $60 uni bowl, a $16 pizza bagel: The best food at Outside Lands this year",
+      "url": "https://sfstandard.com/2026/08/07/outside-lands-best-food-vendors/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 54. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1786192135,
+  "text": "high 60, low 54. best outside window: 12am to 12am",
+  "valid_until_epoch": 1786202198,
   "version": 1
 }
