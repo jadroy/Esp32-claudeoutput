@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-08T08:46:30-07:00",
+  "generated_at": "2026-08-08T11:59:23-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "K-pop's global wave inspires Chile's next pop stars",
-      "url": "https://www.npr.org/2026/08/08/nx-s1-5899791/k-pop-chile-bts"
+      "title": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov"
     },
     {
       "source": "BBC",
-      "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
-      "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss"
+      "title": "Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist",
+      "url": "https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 54. best outside window: 8am to 12am",
-  "valid_until_epoch": 1786232790,
+  "text": "high 59, low 54. best outside window: 11am to 12am",
+  "valid_until_epoch": 1786244363,
   "version": 1
 }
