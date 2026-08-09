@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-09T12:01:20-07:00",
+  "generated_at": "2026-08-09T14:48:33-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Outside Lands: Strokes fan spends 100 hours hand-beading a dress to match their album art",
-      "url": "https://sfstandard.com/2026/08/09/outside-lands-fashion-strokes-hautefreddy/"
+      "title": "Don Nelson, architect of beloved Warriors teams, dies at 86",
+      "url": "https://sfstandard.com/2026/08/09/don-nelson-warriors-steve-kerr-steph-curry/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss"
+      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "San Francisco is falling for frozen yogurt all over again",
-      "url": "https://sfstandard.com/2026/08/09/sf-frozen-yogurt-trend/"
+      "title": "Outside Lands: Strokes fan spends 100 hours hand-beading a dress to match their album art",
+      "url": "https://sfstandard.com/2026/08/09/outside-lands-fashion-strokes-hautefreddy/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 55. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1786330880,
+  "text": "high 65, low 55. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1786340913,
   "version": 1
 }
