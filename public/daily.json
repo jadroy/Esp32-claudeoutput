@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-08T14:46:43-07:00",
+  "generated_at": "2026-08-08T19:29:22-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Welcome to the age of the $4,000 apartment, when even the well-off are struggling",
-      "url": "https://sfstandard.com/2026/08/08/sf-rent-crisis-renter-fatigue/"
+      "title": "What's up with Outside Lands' fashion? We asked the festival's best dressed",
+      "url": "https://sfstandard.com/2026/08/08/outside-lands-fashion-2026/"
     },
     {
       "source": "NPR",
-      "title": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead",
-      "url": "https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov"
+      "title": "Solar eclipse to occur next week. Here is what to know",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026"
     },
     {
       "source": "BBC",
-      "title": "Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist",
-      "url": "https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss"
+      "title": "Andy Burnham to embark on cost of living tour through the UK",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Inside SF's 'sexmaxxing' scene: The people injecting peptides for optimal horniness",
-      "url": "https://sfstandard.com/2026/08/08/sf-s-sexmaxxing-scene-people-injecting-peptides-optimal-horniness/"
+      "title": "Kawakami: 'No doubt I will be there' - Kyle Shanahan on his healing process and return",
+      "url": "https://sfstandard.com/2026/08/08/kyle-shanahan-tesla-autopilot-49ers-accident/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 59, low 54. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1786254403,
+  "text": "high 60, low 54. best outside window: 7pm to 12am",
+  "valid_until_epoch": 1786271362,
   "version": 1
 }
