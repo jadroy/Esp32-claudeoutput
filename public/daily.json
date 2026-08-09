@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-09T08:47:04-07:00",
+  "generated_at": "2026-08-09T12:01:20-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "San Francisco is falling for frozen yogurt all over again",
-      "url": "https://sfstandard.com/2026/08/09/sf-frozen-yogurt-trend/"
+      "title": "Outside Lands: Strokes fan spends 100 hours hand-beading a dress to match their album art",
+      "url": "https://sfstandard.com/2026/08/09/outside-lands-fashion-strokes-hautefreddy/"
     },
     {
       "source": "NPR",
-      "title": "Haunted by Hoover, Trump searches for an endgame in Iran",
-      "url": "https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran"
+      "title": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first",
+      "url": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "The pandemic exodus was easy. The return is a housing nightmare.",
-      "url": "https://sfstandard.com/2026/08/09/pandemic-expats-return-to-sf/"
+      "title": "San Francisco is falling for frozen yogurt all over again",
+      "url": "https://sfstandard.com/2026/08/09/sf-frozen-yogurt-trend/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 55. best outside window: 8am to 12am",
-  "valid_until_epoch": 1786319224,
+  "text": "high 64, low 55. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1786330880,
   "version": 1
 }
