@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-09T19:35:14-07:00",
+  "generated_at": "2026-08-09T21:55:13-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Crews battle wildfires in western U.S. and Canada",
-      "url": "https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah"
+      "title": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5884029/the-view-from-the-proving-grounds-for-next-generation-nuclear-reactors-atomic-city-idaho"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 55. best outside window: 7pm to 12am",
-  "valid_until_epoch": 1786358114,
+  "text": "high 65, low 54. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1786366513,
   "version": 1
 }
