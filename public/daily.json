@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-09T21:55:13-07:00",
+  "generated_at": "2026-08-10T01:05:09-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -14,8 +14,8 @@
     },
     {
       "source": "BBC",
-      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss"
+      "title": "Travelodge staff gave domestic abuser key to his victim's room",
+      "url": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 54. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1786366513,
+  "text": "high 62, low 54. best outside window: 1am to 12am",
+  "valid_until_epoch": 1786377909,
   "version": 1
 }
