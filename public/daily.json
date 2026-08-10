@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-10T12:17:37-07:00",
+  "generated_at": "2026-08-10T14:58:35-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The Giants have too many advisers. They should hire ex-A's GM David Forst anyway",
-      "url": "https://sfstandard.com/2026/08/10/david-forst-sf-giants-buster-posey/"
+      "title": "Outside Lands: Millennial nostalgia bait fought EDM to a draw",
+      "url": "https://sfstandard.com/2026/08/10/outside-lands-millennial-nostalgia/"
     },
     {
       "source": "NPR",
-      "title": "'The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'",
-      "url": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics"
+      "title": "After his Reflecting Pool vandalism case is dismissed, David Hearn looks for closure",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5925117/reflecting-pool-david-hearn-legal-fight"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Three restaurants, one kitchen: The Presidio's ambitious new food hall opens Aug. 15",
-      "url": "https://sfstandard.com/2026/08/10/mess-hall-presidio-food-open/"
+      "title": "The Giants have too many advisers. They should hire ex-A's GM David Forst anyway",
+      "url": "https://sfstandard.com/2026/08/10/david-forst-sf-giants-buster-posey/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 54. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1786418257,
+  "text": "high 60, low 54. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1786427915,
   "version": 1
 }
