@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-10T06:45:01-07:00",
+  "generated_at": "2026-08-10T09:09:31-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Flood death toll in India's Assam reaches 100 as thousands lose their homes",
-      "url": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes"
+      "title": "Does spending money make you feel bad? Read this comic",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5860936/does-spending-money-make-you-feel-bad-read-this-comic"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 54. best outside window: 6am to 12am",
-  "valid_until_epoch": 1786398301,
+  "text": "high 61, low 54. best outside window: 9am to 12am",
+  "valid_until_epoch": 1786406971,
   "version": 1
 }
