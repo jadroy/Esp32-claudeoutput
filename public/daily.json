@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-10T01:05:09-07:00",
+  "generated_at": "2026-08-10T03:36:40-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
-      "url": "https://www.npr.org/2026/08/10/nx-s1-5884029/the-view-from-the-proving-grounds-for-next-generation-nuclear-reactors-atomic-city-idaho"
+      "title": "Voters are sick of the two-party system. A new poll shows they're open to big changes",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll"
     },
     {
       "source": "BBC",
-      "title": "Travelodge staff gave domestic abuser key to his victim's room",
-      "url": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss"
+      "title": "Record 230 people cross Channel in one small boat",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 54. best outside window: 1am to 12am",
-  "valid_until_epoch": 1786377909,
+  "text": "high 63, low 54. best outside window: 3am to 12am",
+  "valid_until_epoch": 1786387000,
   "version": 1
 }
