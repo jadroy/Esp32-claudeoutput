@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-10T03:36:40-07:00",
+  "generated_at": "2026-08-10T06:45:01-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Could a San Francisco progressive like Abdul El-Sayed knock out moderate Dems?",
-      "url": "https://sfstandard.com/2026/08/09/could-san-francisco-progressive-abdul-el-sayed-knock-moderate-dems/"
+      "title": "Three restaurants, one kitchen: The Presido's ambitious new food hall opens Aug. 15",
+      "url": "https://sfstandard.com/2026/08/10/mess-hall-presidio-food-open/"
     },
     {
       "source": "NPR",
-      "title": "Voters are sick of the two-party system. A new poll shows they're open to big changes",
-      "url": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll"
+      "title": "Flood death toll in India's Assam reaches 100 as thousands lose their homes",
+      "url": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Kawakami: Don Nelson's eternal moment - making sure the Warriors drafted Steph Curry",
-      "url": "https://sfstandard.com/2026/08/09/don-nelson-steph-curry-warriors/"
+      "title": "In San Francisco, turning offices into housing is a boutique business",
+      "url": "https://sfstandard.com/2026/08/10/sf-office-to-housing-conversion-150-hayes/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 54. best outside window: 3am to 12am",
-  "valid_until_epoch": 1786387000,
+  "text": "high 62, low 54. best outside window: 6am to 12am",
+  "valid_until_epoch": 1786398301,
   "version": 1
 }
