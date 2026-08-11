@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-11T03:11:34-07:00",
+  "generated_at": "2026-08-11T06:43:29-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "49ers draft check-in: 5 rookies standing out during training camp",
-      "url": "https://sfstandard.com/2026/08/10/dezhaun-stribling-49ers-rookie-analysis/"
+      "title": "California still allows child marriage. This survivor wants it banned",
+      "url": "https://sfstandard.com/2026/08/11/california-child-marriage-ban-legislation/"
     },
     {
       "source": "NPR",
-      "title": "Former Syrian President Assad sentenced to death in absentia",
-      "url": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death"
+      "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
+      "url": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "SF Camerawork to close after 52 years, citing rising costs",
-      "url": "https://sfstandard.com/2026/08/10/sf-camerawork-gallery-closes/"
+      "title": "How Daniel Lurie changed the San Francisco power broker meal",
+      "url": "https://sfstandard.com/2026/08/11/san-francisco-mayor-daniel-lurie-restaurant-politics/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 59, low 54. best outside window: 3am to 12am",
-  "valid_until_epoch": 1786471894,
+  "text": "today stays cool: 54 to 58. warmest: 9am to 7pm",
+  "valid_until_epoch": 1786484609,
   "version": 1
 }
