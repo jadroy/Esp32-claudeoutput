@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-10T14:58:35-07:00",
+  "generated_at": "2026-08-10T19:28:17-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Outside Lands: Millennial nostalgia bait fought EDM to a draw",
-      "url": "https://sfstandard.com/2026/08/10/outside-lands-millennial-nostalgia/"
+      "title": "49ers draft check-in: 5 rookies standing out during training camp",
+      "url": "https://sfstandard.com/2026/08/10/dezhaun-stribling-49ers-rookie-analysis/"
     },
     {
       "source": "NPR",
-      "title": "After his Reflecting Pool vandalism case is dismissed, David Hearn looks for closure",
-      "url": "https://www.npr.org/2026/08/10/nx-s1-5925117/reflecting-pool-david-hearn-legal-fight"
+      "title": "Alabama heads into a second primary election after redistricting",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting"
     },
     {
       "source": "BBC",
-      "title": "More than two-thirds of England now in drought",
-      "url": "https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&at_campaign=rss"
+      "title": "Amber heat health alerts for almost all of England as next heatwave begins",
+      "url": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The Giants have too many advisers. They should hire ex-A's GM David Forst anyway",
-      "url": "https://sfstandard.com/2026/08/10/david-forst-sf-giants-buster-posey/"
+      "title": "SF Camerawork to close after 52 years, citing rising costs",
+      "url": "https://sfstandard.com/2026/08/10/sf-camerawork-gallery-closes/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 54. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1786427915,
+  "text": "high 61, low 54. best outside window: 7pm to 12am",
+  "valid_until_epoch": 1786444097,
   "version": 1
 }
