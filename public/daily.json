@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-11T12:23:18-07:00",
+  "generated_at": "2026-08-11T15:05:44-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Pitch decks by day, DJs at night: SoMa corporate space gets nightlife makeover",
-      "url": "https://sfstandard.com/2026/08/11/sf-foundry-folsom-soma-music-venue/"
+      "title": "'Section 415' podcast: How the Valkyries are preparing for a tricky stretch run",
+      "url": "https://sfstandard.com/section-415/2026/08/11/section-415-podcast-valkyries-preparing-tricky-stretch-run/"
     },
     {
       "source": "NPR",
-      "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
-      "url": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines"
+      "title": "A judge expands a block on U.S. Postal Service work on Trump's mail-in voting order",
+      "url": "https://www.npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps"
     },
     {
       "source": "BBC",
-      "title": "Summer 2026 on course to be UK's hottest on record, says Met Office",
-      "url": "https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&at_campaign=rss"
+      "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
+      "url": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "After a successful comeback with the Giants, Ron Washington is eyeing a 2027 return",
-      "url": "https://sfstandard.com/2026/08/11/ron-washington-sf-giants-2027-coaching-staff/"
+      "title": "Hat tip: Lids is returning to Union Square after closing three years ago",
+      "url": "https://sfstandard.com/2026/08/11/lids-hat-store-san-francisco-union-square-opening/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 55. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1786504998,
+  "text": "high 62, low 54. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1786514744,
   "version": 1
 }
