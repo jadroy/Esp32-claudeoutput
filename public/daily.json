@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-11T09:11:14-07:00",
+  "generated_at": "2026-08-11T12:23:18-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "After successful comeback with Giants, Ron Washington is eyeing a 2027 return",
-      "url": "https://sfstandard.com/2026/08/11/ron-washington-sf-giants-2027-coaching-staff/"
+      "title": "Pitch decks by day, DJs at night: SoMa corporate space gets nightlife makeover",
+      "url": "https://sfstandard.com/2026/08/11/sf-foundry-folsom-soma-music-venue/"
     },
     {
       "source": "NPR",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Big Sur wildfire forces evacuations along coast",
-      "url": "https://sfstandard.com/2026/08/11/big-sur-timber-wildfire-forces-evacuations-along-coast/"
+      "title": "After a successful comeback with the Giants, Ron Washington is eyeing a 2027 return",
+      "url": "https://sfstandard.com/2026/08/11/ron-washington-sf-giants-2027-coaching-staff/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 55. best outside window: 9am to 12am",
-  "valid_until_epoch": 1786493474,
+  "text": "high 60, low 55. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1786504998,
   "version": 1
 }
