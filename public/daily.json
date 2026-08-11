@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-10T19:28:17-07:00",
+  "generated_at": "2026-08-10T21:40:39-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Alabama heads into a second primary election after redistricting",
-      "url": "https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting"
+      "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia"
     },
     {
       "source": "BBC",
-      "title": "Amber heat health alerts for almost all of England as next heatwave begins",
-      "url": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss"
+      "title": "PM asks justice secretary to find way to keep PC Harper's killers in jail",
+      "url": "https://www.bbc.co.uk/news/articles/crrv1zlgd9ko?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 54. best outside window: 7pm to 12am",
-  "valid_until_epoch": 1786444097,
+  "text": "high 61, low 54. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1786452039,
   "version": 1
 }
