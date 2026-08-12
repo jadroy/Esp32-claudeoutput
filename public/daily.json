@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-12T12:27:17-07:00",
+  "generated_at": "2026-08-12T15:03:09-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Spotify CEO Daniel Ek's body-scanner company sets sights on Union Square",
-      "url": "https://sfstandard.com/2026/08/12/second-body-scanner-company-sets-its-sights-union-square/"
+      "title": "SFUSD starts new year with fresh leadership team - and tough decisions ahead",
+      "url": "https://sfstandard.com/2026/08/12/sfusd-starts-new-year-fresh-leadership-team-tough-decisions-ahead/"
     },
     {
       "source": "NPR",
-      "title": "Has the U.S. lost its dominance to China?",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china"
+      "title": "Trump sued over service selling faster access to Truth Social posts",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit"
     },
     {
       "source": "BBC",
-      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-      "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: Solar eclipse seen over UK skies",
+      "url": "https://www.bbc.co.uk/news/videos/cwym2w32rn0o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Earn pappardelle for life at Pasta Supply Co's newest location",
-      "url": "https://sfstandard.com/2026/08/12/earn-pappardelle-life-pasta-supply-co-s-newest-location/"
+      "title": "After three years and a shuttered Safeway, North Beach gets its 'Gross Out' moment",
+      "url": "https://sfstandard.com/2026/08/12/north-beach-grocery-outlet-opens/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 54. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1786591637,
+  "text": "high 65, low 54. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1786600989,
   "version": 1
 }
