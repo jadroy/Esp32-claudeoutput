@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-11T19:45:20-07:00",
+  "generated_at": "2026-08-11T22:03:23-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "In South Carolina, Sen. Darline Graham advances to a GOP special primary runoff for U.S. Senate",
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy"
+      "title": "Progressive Peggy Flanagan wins Democratic Senate primary in Minnesota",
+      "url": "https://www.npr.org/2026/08/11/nx-s1-5927473/2026-minnesota-senate-primary-election-peggy-flanagan"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 54. best outside window: 7pm to 12am",
-  "valid_until_epoch": 1786531520,
+  "text": "high 62, low 55. best outside window: 10pm to 12am",
+  "valid_until_epoch": 1786539803,
   "version": 1
 }
