@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-11T22:03:23-07:00",
+  "generated_at": "2026-08-12T00:53:26-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Progressive Peggy Flanagan wins Democratic Senate primary in Minnesota",
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5927473/2026-minnesota-senate-primary-election-peggy-flanagan"
+      "title": "Former U.S. Marine held in Russia on disputed charges has been released",
+      "url": "https://www.npr.org/2026/08/12/g-s1-138323/former-us-marine-russia"
     },
     {
       "source": "BBC",
-      "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
-      "url": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss"
+      "title": "Early release scheme risks more serious crimes, probation chief warns",
+      "url": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 55. best outside window: 10pm to 12am",
-  "valid_until_epoch": 1786539803,
+  "text": "high 62, low 55. best outside window: 12am to 12am",
+  "valid_until_epoch": 1786550006,
   "version": 1
 }
