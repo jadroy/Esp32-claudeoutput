@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-12T00:53:26-07:00",
+  "generated_at": "2026-08-12T03:21:29-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Former U.S. Marine held in Russia on disputed charges has been released",
-      "url": "https://www.npr.org/2026/08/12/g-s1-138323/former-us-marine-russia"
+      "title": "Feel so busy you don't even realize you're busy? Try doing a time audit",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5896356/find-time-for-things-that-matter-time-audit"
     },
     {
       "source": "BBC",
-      "title": "Early release scheme risks more serious crimes, probation chief warns",
-      "url": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss"
+      "title": "Three ways to watch the solar eclipse safely without glasses",
+      "url": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 55. best outside window: 12am to 12am",
-  "valid_until_epoch": 1786550006,
+  "text": "high 64, low 54. best outside window: 3am to 12am",
+  "valid_until_epoch": 1786558889,
   "version": 1
 }
