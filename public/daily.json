@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-12T09:10:06-07:00",
+  "generated_at": "2026-08-12T12:27:17-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The girl who beat Steph Curry has grown up. The internet never stopped watching",
-      "url": "https://sfstandard.com/2026/08/12/jaden-newman-steph-curry-viral-fanfix/"
+      "title": "Spotify CEO Daniel Ek's body-scanner company sets sights on Union Square",
+      "url": "https://sfstandard.com/2026/08/12/second-body-scanner-company-sets-its-sights-union-square/"
     },
     {
       "source": "NPR",
-      "title": "Inflation eases in July as gasoline and grocery prices fall",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery"
+      "title": "Has the U.S. lost its dominance to China?",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china"
     },
     {
       "source": "BBC",
-      "title": "Three ways to watch the solar eclipse safely without glasses",
-      "url": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss"
+      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "SF is getting its first 'play cafe'",
-      "url": "https://sfstandard.com/2026/08/12/sf-getting-its-first-play-cafe-parents-small-kids/"
+      "title": "Earn pappardelle for life at Pasta Supply Co's newest location",
+      "url": "https://sfstandard.com/2026/08/12/earn-pappardelle-life-pasta-supply-co-s-newest-location/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 54. best outside window: 9am to 12am",
-  "valid_until_epoch": 1786579806,
+  "text": "high 64, low 54. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1786591637,
   "version": 1
 }
