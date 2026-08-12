@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-11T15:05:44-07:00",
+  "generated_at": "2026-08-11T19:45:20-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'Section 415' podcast: How the Valkyries are preparing for a tricky stretch run",
-      "url": "https://sfstandard.com/section-415/2026/08/11/section-415-podcast-valkyries-preparing-tricky-stretch-run/"
+      "title": "Inside a chippy 49ers-Titans joint practice, where early fights set the tone",
+      "url": "https://sfstandard.com/2026/08/11/49ers-titans-joint-practice-fights/"
     },
     {
       "source": "NPR",
-      "title": "A judge expands a block on U.S. Postal Service work on Trump's mail-in voting order",
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps"
+      "title": "In South Carolina, Sen. Darline Graham advances to a GOP special primary runoff for U.S. Senate",
+      "url": "https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Hat tip: Lids is returning to Union Square after closing three years ago",
-      "url": "https://sfstandard.com/2026/08/11/lids-hat-store-san-francisco-union-square-opening/"
+      "title": "The Warriors didn't run it back. They kicked the can down the road",
+      "url": "https://sfstandard.com/2026/08/11/mike-dunleavy-warriors-steph-curry-future/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 54. best outside window: 3pm to 12am",
-  "valid_until_epoch": 1786514744,
+  "text": "high 62, low 54. best outside window: 7pm to 12am",
+  "valid_until_epoch": 1786531520,
   "version": 1
 }
