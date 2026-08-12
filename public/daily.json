@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-12T06:48:30-07:00",
+  "generated_at": "2026-08-12T09:10:06-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
-      "url": "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park"
+      "title": "Inflation eases in July as gasoline and grocery prices fall",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "SF is getting its first 'play cafe' for parents of small kids",
+      "title": "SF is getting its first 'play cafe'",
       "url": "https://sfstandard.com/2026/08/12/sf-getting-its-first-play-cafe-parents-small-kids/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 54. best outside window: 6am to 12am",
-  "valid_until_epoch": 1786571310,
+  "text": "high 60, low 54. best outside window: 9am to 12am",
+  "valid_until_epoch": 1786579806,
   "version": 1
 }
