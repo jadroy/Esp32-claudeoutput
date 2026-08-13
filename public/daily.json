@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-12T15:03:09-07:00",
+  "generated_at": "2026-08-12T19:48:16-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "SFUSD starts new year with fresh leadership team - and tough decisions ahead",
-      "url": "https://sfstandard.com/2026/08/12/sfusd-starts-new-year-fresh-leadership-team-tough-decisions-ahead/"
+      "title": "Thanks, Daniel Lurie. Now every SF official thinks they're an influencer",
+      "url": "https://sfstandard.com/2026/08/12/powerplay-everyone-wantstocopy-daniel-lurie-instagram/"
     },
     {
       "source": "NPR",
-      "title": "Trump sued over service selling faster access to Truth Social posts",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit"
+      "title": "Photos: See the best photos from the solar eclipse",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse"
     },
     {
       "source": "BBC",
-      "title": "Watch: Solar eclipse seen over UK skies",
-      "url": "https://www.bbc.co.uk/news/videos/cwym2w32rn0o?at_medium=RSS&at_campaign=rss"
+      "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "After three years and a shuttered Safeway, North Beach gets its 'Gross Out' moment",
-      "url": "https://sfstandard.com/2026/08/12/north-beach-grocery-outlet-opens/"
+      "title": "Kawakami: Joe Lacob on the Warriors' quiet offseason, Steph Curry's future, and more",
+      "url": "https://sfstandard.com/2026/08/12/joe-lacob-warriors-steph-curry-kawakami/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 54. best outside window: 3pm to 12am",
-  "valid_until_epoch": 1786600989,
+  "text": "high 65, low 54. best outside window: 7pm to 12am",
+  "valid_until_epoch": 1786618096,
   "version": 1
 }
