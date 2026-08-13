@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-13T03:28:23-07:00",
+  "generated_at": "2026-08-13T06:48:44-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Sponsored: SF-based brands are opening on PIER 39 - and they're hosting free concerts to celebrate",
-      "url": "https://sfstandard.com/sponsored/pier-39-store-openings-concerts/"
+      "title": "Rest in peace, Bip City",
+      "url": "https://sfstandard.com/2026/08/13/rest-peace-bip-city/"
     },
     {
       "source": "NPR",
-      "title": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
-      "url": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers"
+      "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
+      "url": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill"
     },
     {
       "source": "BBC",
-      "title": "Met chief accepts mistakes made over Simon Levy but defends investigation into murders",
-      "url": "https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&at_campaign=rss"
+      "title": "Water bills set to rise for many after firms permitted extra funding",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Thanks, Daniel Lurie. Now every SF official thinks they're an influencer",
-      "url": "https://sfstandard.com/2026/08/12/powerplay-everyone-wantstocopy-daniel-lurie-instagram/"
+      "title": "At long last, the Giants' farm system is loaded: 'We were very, very disrespected'",
+      "url": "https://sfstandard.com/2026/08/13/sf-giants-farm-system-ranking/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 55. best outside window: 3am to 12am",
-  "valid_until_epoch": 1786645703,
+  "text": "high 62, low 56. best outside window: 6am to 12am",
+  "valid_until_epoch": 1786657724,
   "version": 1
 }
