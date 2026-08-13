@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-12T19:48:16-07:00",
+  "generated_at": "2026-08-12T22:06:25-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Thanks, Daniel Lurie. Now every SF official thinks they're an influencer",
-      "url": "https://sfstandard.com/2026/08/12/powerplay-everyone-wantstocopy-daniel-lurie-instagram/"
+      "title": "Sponsored: SF-based brands are opening on PIER 39 - and they're hosting free concerts to celebrate",
+      "url": "https://sfstandard.com/sponsored/pier-39-store-openings-concerts/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss"
+      "title": "Results day dawns for A-level, T-level and BTec students",
+      "url": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Kawakami: Joe Lacob on the Warriors' quiet offseason, Steph Curry's future, and more",
-      "url": "https://sfstandard.com/2026/08/12/joe-lacob-warriors-steph-curry-kawakami/"
+      "title": "Thanks, Daniel Lurie. Now every SF official thinks they're an influencer",
+      "url": "https://sfstandard.com/2026/08/12/powerplay-everyone-wantstocopy-daniel-lurie-instagram/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 54. best outside window: 7pm to 12am",
-  "valid_until_epoch": 1786618096,
+  "text": "high 65, low 54. best outside window: 10pm to 12am",
+  "valid_until_epoch": 1786626385,
   "version": 1
 }
