@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-12T22:06:25-07:00",
+  "generated_at": "2026-08-13T00:53:59-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Photos: See the best photos from the solar eclipse",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse"
+      "title": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
+      "url": "https://www.npr.org/2026/08/13/g-s1-138566/reiner-indictment"
     },
     {
       "source": "BBC",
-      "title": "Results day dawns for A-level, T-level and BTec students",
-      "url": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss"
+      "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 54. best outside window: 10pm to 12am",
-  "valid_until_epoch": 1786626385,
+  "text": "high 62, low 55. best outside window: 12am to 12am",
+  "valid_until_epoch": 1786636439,
   "version": 1
 }
