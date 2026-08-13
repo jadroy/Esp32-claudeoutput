@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-13T09:10:19-07:00",
+  "generated_at": "2026-08-13T12:26:36-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Earthquake strikes Bay Area",
-      "url": "https://sfstandard.com/2026/08/13/san-leandro-bay-area-earthquake/"
+      "title": "Big Sur fire grows as containment inches up",
+      "url": "https://sfstandard.com/2026/08/13/big-sur-timber-fire-containment/"
     },
     {
       "source": "NPR",
-      "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes"
+      "title": "Kennedy Center Board votes again to shut main building down - and add Trump's name back",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump"
     },
     {
       "source": "BBC",
-      "title": "Water bills set to rise for many after firms permitted extra funding",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss"
+      "title": "Aerial footage shows derailed train",
+      "url": "https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Rest in peace, Bip City",
-      "url": "https://sfstandard.com/2026/08/13/rest-peace-bip-city/"
+      "title": "The Valkyries just beat last season's win total, and major milestones are within reach",
+      "url": "https://sfstandard.com/2026/08/13/golden-state-valkyries-record-standings-playoff-picture/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
-  "source": "weather",
-  "text": "high 63, low 56. best outside window: 9am to 12am",
-  "valid_until_epoch": 1786666219,
+  "source": "air-quality",
+  "text": "air quality is unusually good (30). open the windows.",
+  "valid_until_epoch": 1786677996,
   "version": 1
 }
