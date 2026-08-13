@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-13T12:26:36-07:00",
+  "generated_at": "2026-08-13T15:03:56-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Big Sur fire grows as containment inches up",
-      "url": "https://sfstandard.com/2026/08/13/big-sur-timber-fire-containment/"
+      "title": "Their phones were stolen at Outside Lands. They found them in downtown L.A.",
+      "url": "https://sfstandard.com/2026/08/13/outside-lands-cellphones-stolen-found-los-angeles/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "Aerial footage shows derailed train",
-      "url": "https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss"
+      "title": "Two seriously hurt as passenger train derails in East Sussex",
+      "url": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The Valkyries just beat last season's win total, and major milestones are within reach",
-      "url": "https://sfstandard.com/2026/08/13/golden-state-valkyries-record-standings-playoff-picture/"
+      "title": "NBA schedule drop: The Warriors are no longer national TV maxxing",
+      "url": "https://sfstandard.com/2026/08/13/warriors-nba-schedule-national-tv-games/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "air-quality",
-  "text": "air quality is unusually good (30). open the windows.",
-  "valid_until_epoch": 1786677996,
+  "text": "air quality is unusually good (28). open the windows.",
+  "valid_until_epoch": 1786687436,
   "version": 1
 }
