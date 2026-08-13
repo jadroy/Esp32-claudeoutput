@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-13T06:48:44-07:00",
+  "generated_at": "2026-08-13T09:10:19-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Rest in peace, Bip City",
-      "url": "https://sfstandard.com/2026/08/13/rest-peace-bip-city/"
+      "title": "Earthquake strikes Bay Area",
+      "url": "https://sfstandard.com/2026/08/13/san-leandro-bay-area-earthquake/"
     },
     {
       "source": "NPR",
-      "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
-      "url": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill"
+      "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "At long last, the Giants' farm system is loaded: 'We were very, very disrespected'",
-      "url": "https://sfstandard.com/2026/08/13/sf-giants-farm-system-ranking/"
+      "title": "Rest in peace, Bip City",
+      "url": "https://sfstandard.com/2026/08/13/rest-peace-bip-city/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 56. best outside window: 6am to 12am",
-  "valid_until_epoch": 1786657724,
+  "text": "high 63, low 56. best outside window: 9am to 12am",
+  "valid_until_epoch": 1786666219,
   "version": 1
 }
