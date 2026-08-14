@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-14T06:44:22-07:00",
+  "generated_at": "2026-08-14T09:06:49-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The polycule route to self-knowledge",
-      "url": "https://sfstandard.com/2026/08/14/hard-feelings-polycule-self-knowledge/"
+      "title": "How the Giants landed the 2028 MLB All-Star Game at Oracle Park",
+      "url": "https://sfstandard.com/2026/08/14/giants-land-2028-mlb-all-star-game/"
     },
     {
       "source": "NPR",
-      "title": "U.S. missionary who was kidnapped in Niger is released",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released"
+      "title": "We learned 5 important things about the economy this week",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "At 69, she's the first person jailed for protesting AI. She has no regrets",
-      "url": "https://sfstandard.com/2026/08/14/69-s-first-person-jailed-protesting-ai-has-regrets/"
+      "title": "The polycule route to self-knowledge",
+      "url": "https://sfstandard.com/2026/08/14/hard-feelings-polycule-self-knowledge/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "air-quality",
   "text": "air quality is unusually good (27). open the windows.",
-  "valid_until_epoch": 1786743862,
+  "valid_until_epoch": 1786752409,
   "version": 1
 }
