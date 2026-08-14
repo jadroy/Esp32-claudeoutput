@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-14T09:06:49-07:00",
+  "generated_at": "2026-08-14T12:14:48-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "How the Giants landed the 2028 MLB All-Star Game at Oracle Park",
-      "url": "https://sfstandard.com/2026/08/14/giants-land-2028-mlb-all-star-game/"
+      "title": "Billionaire tech investor scoops up another Fillmore building",
+      "url": "https://sfstandard.com/2026/08/14/neil-mehta-upper-fillmore-building-purchase/"
     },
     {
       "source": "NPR",
-      "title": "We learned 5 important things about the economy this week",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas"
+      "title": "How Americans deceive ourselves about slavery",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5928227/how-americans-deceive-ourselves-about-slavery"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "The polycule route to self-knowledge",
-      "url": "https://sfstandard.com/2026/08/14/hard-feelings-polycule-self-knowledge/"
+      "title": "Is preseason football meaningless? Not for the 49ers fighting for a $600,000 raise",
+      "url": "https://sfstandard.com/2026/08/14/preseason-football-meaningless-49ers-fighting-600-000-raise/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "air-quality",
   "text": "air quality is unusually good (27). open the windows.",
-  "valid_until_epoch": 1786752409,
+  "valid_until_epoch": 1786763688,
   "version": 1
 }
