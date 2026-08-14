@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-13T19:46:31-07:00",
+  "generated_at": "2026-08-13T22:03:44-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Housing advocates sue SF, saying it illegally carved SoMa out of state density law",
-      "url": "https://sfstandard.com/2026/08/13/lawsuit-san-francisco-yimby-nimby-housing/"
+      "title": "What we learned about De'Zhaun Stribling and Jaden Dugger in the 49ers' preseason opener",
+      "url": "https://sfstandard.com/2026/08/13/49ers-titans-takeaways-dezhaun-stribling-jaden-dugger/"
     },
     {
       "source": "NPR",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Their phones were stolen at Outside Lands. They found them in downtown L.A.",
-      "url": "https://sfstandard.com/2026/08/13/outside-lands-cellphones-stolen-found-los-angeles/"
+      "title": "Housing advocates sue SF, saying it illegally carved SoMa out of state density law",
+      "url": "https://sfstandard.com/2026/08/13/lawsuit-san-francisco-yimby-nimby-housing/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "air-quality",
-  "text": "air quality is unusually good (29). open the windows.",
-  "valid_until_epoch": 1786704391,
+  "text": "air quality is unusually good (28). open the windows.",
+  "valid_until_epoch": 1786712624,
   "version": 1
 }
