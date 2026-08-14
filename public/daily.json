@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-14T03:17:06-07:00",
+  "generated_at": "2026-08-14T06:44:22-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "What we learned about De'Zhaun Stribling and Jaden Dugger in the 49ers' preseason opener",
-      "url": "https://sfstandard.com/2026/08/13/49ers-titans-takeaways-dezhaun-stribling-jaden-dugger/"
+      "title": "The polycule route to self-knowledge",
+      "url": "https://sfstandard.com/2026/08/14/hard-feelings-polycule-self-knowledge/"
     },
     {
       "source": "NPR",
-      "title": "Fill in the blank on this week's quiz: Rep. AOC is documenting ____ on Instagram",
-      "url": "https://www.npr.org/2026/08/14/g-s1-138426/trump-aoc-primaries-comedy-kalshi-pope-news-quiz"
+      "title": "U.S. missionary who was kidnapped in Niger is released",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released"
     },
     {
       "source": "BBC",
-      "title": "Farage's by-election victory won't stop questions about finances",
-      "url": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss"
+      "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+      "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Housing advocates sue SF, saying it illegally carved SoMa out of state density law",
-      "url": "https://sfstandard.com/2026/08/13/lawsuit-san-francisco-yimby-nimby-housing/"
+      "title": "At 69, she's the first person jailed for protesting AI. She has no regrets",
+      "url": "https://sfstandard.com/2026/08/14/69-s-first-person-jailed-protesting-ai-has-regrets/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "air-quality",
-  "text": "air quality is unusually good (29). open the windows.",
-  "valid_until_epoch": 1786731426,
+  "text": "air quality is unusually good (27). open the windows.",
+  "valid_until_epoch": 1786743862,
   "version": 1
 }
