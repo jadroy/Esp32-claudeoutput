@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-13T15:03:56-07:00",
+  "generated_at": "2026-08-13T19:46:31-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "Housing advocates sue SF, saying it illegally carved SoMa out of state density law",
+      "url": "https://sfstandard.com/2026/08/13/lawsuit-san-francisco-yimby-nimby-housing/"
+    },
+    {
+      "source": "NPR",
+      "title": "Feds probe 'mention markets' amid White House Kalshi controversy",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi"
+    },
+    {
+      "source": "BBC",
+      "title": "Multiple fires destroy homes and cause devastation in West Midlands",
+      "url": "https://www.bbc.co.uk/news/articles/c04k20w7lr6o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Their phones were stolen at Outside Lands. They found them in downtown L.A.",
       "url": "https://sfstandard.com/2026/08/13/outside-lands-cellphones-stolen-found-los-angeles/"
-    },
-    {
-      "source": "NPR",
-      "title": "Kennedy Center Board votes again to shut main building down - and add Trump's name back",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump"
-    },
-    {
-      "source": "BBC",
-      "title": "Two seriously hurt as passenger train derails in East Sussex",
-      "url": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "NBA schedule drop: The Warriors are no longer national TV maxxing",
-      "url": "https://sfstandard.com/2026/08/13/warriors-nba-schedule-national-tv-games/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "air-quality",
-  "text": "air quality is unusually good (28). open the windows.",
-  "valid_until_epoch": 1786687436,
+  "text": "air quality is unusually good (29). open the windows.",
+  "valid_until_epoch": 1786704391,
   "version": 1
 }
