@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-15T11:47:48-07:00",
+  "generated_at": "2026-08-15T14:35:36-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
-      "url": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions"
+      "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema"
     },
     {
       "source": "BBC",
-      "title": "Jason Arday death 'tragedy on so many levels' says PM",
-      "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss"
+      "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "air-quality",
-  "text": "air quality is unusually good (30). open the windows.",
-  "valid_until_epoch": 1786848468,
+  "text": "air quality is unusually good (29). open the windows.",
+  "valid_until_epoch": 1786858536,
   "version": 1
 }
