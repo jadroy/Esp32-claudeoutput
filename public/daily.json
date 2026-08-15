@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-15T08:34:56-07:00",
+  "generated_at": "2026-08-15T11:47:48-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
-      "url": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis"
+      "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions"
     },
     {
       "source": "BBC",
@@ -27,6 +27,6 @@
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "air-quality",
   "text": "air quality is unusually good (30). open the windows.",
-  "valid_until_epoch": 1786836896,
+  "valid_until_epoch": 1786848468,
   "version": 1
 }
