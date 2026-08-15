@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-15T05:59:30-07:00",
+  "generated_at": "2026-08-15T08:34:56-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'Section 415' podcast: How the Warriors are thinking about the future",
-      "url": "https://sfstandard.com/section-415/2026/08/14/section-415-podcast-warriors-thinking-future/"
+      "title": "6 weekend getaways to squeeze in before summer ends",
+      "url": "https://sfstandard.com/2026/08/15/sf-bay-area-weekend-getaways/"
     },
     {
       "source": "NPR",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Billionaire tech investor scoops up another Fillmore building",
-      "url": "https://sfstandard.com/2026/08/14/neil-mehta-upper-fillmore-building-purchase/"
+      "title": "The Waggle: 15 revelations about the porn-founding, Epstein-connected first lady of AI",
+      "url": "https://sfstandard.com/2026/08/15/waggle-15-revelations-porn-founding-epstein-connected-first-lady-ai/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
-  "source": "weather",
-  "text": "high 61, low 55. best outside window: 5am to 12am",
-  "valid_until_epoch": 1786827570,
+  "source": "air-quality",
+  "text": "air quality is unusually good (30). open the windows.",
+  "valid_until_epoch": 1786836896,
   "version": 1
 }
