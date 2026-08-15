@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-14T18:49:54-07:00",
+  "generated_at": "2026-08-14T20:55:01-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -27,6 +27,6 @@
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "air-quality",
   "text": "air quality is unusually good (30). open the windows.",
-  "valid_until_epoch": 1786787394,
+  "valid_until_epoch": 1786794901,
   "version": 1
 }
