@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-15T02:42:09-07:00",
+  "generated_at": "2026-08-15T05:59:30-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,12 +9,12 @@
     },
     {
       "source": "NPR",
-      "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
-      "url": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain"
+      "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis"
     },
     {
       "source": "BBC",
-      "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
+      "title": "Jason Arday death 'tragedy on so many levels' says PM",
       "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 55. best outside window: 2am to 12am",
-  "valid_until_epoch": 1786815729,
+  "text": "high 61, low 55. best outside window: 5am to 12am",
+  "valid_until_epoch": 1786827570,
   "version": 1
 }
