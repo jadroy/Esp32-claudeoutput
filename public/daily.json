@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-14T23:58:05-07:00",
+  "generated_at": "2026-08-15T02:42:09-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "How Americans deceive ourselves about slavery",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5928227/how-americans-deceive-ourselves-about-slavery"
+      "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain"
     },
     {
       "source": "BBC",
-      "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
-      "url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss"
+      "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
+      "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "ingleside: high 63, low 57. no weather drama scheduled.",
-  "valid_until_epoch": 1786805885,
+  "text": "high 60, low 55. best outside window: 2am to 12am",
+  "valid_until_epoch": 1786815729,
   "version": 1
 }
