@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-15T14:35:36-07:00",
+  "generated_at": "2026-08-15T18:57:35-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
-      "url": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema"
+      "title": "Are robotaxis finally here?",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here"
     },
     {
       "source": "BBC",
@@ -25,8 +25,8 @@
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
-  "source": "air-quality",
-  "text": "air quality is unusually good (29). open the windows.",
-  "valid_until_epoch": 1786858536,
+  "source": "weather",
+  "text": "high 64, low 54. best outside window: 6pm to 12am",
+  "valid_until_epoch": 1786874255,
   "version": 1
 }
