@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-16T02:43:18-07:00",
+  "generated_at": "2026-08-16T06:01:34-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "NPR Senior Podcast Challenge: Official Rules",
-      "url": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules"
+      "title": "As Trump blocks Medicaid funds, one trans teen's mom asks: What's next?",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz"
     },
     {
       "source": "BBC",
-      "title": "People who fled Stourbridge fires start to return home",
-      "url": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
+      "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 55. best outside window: 2am to 12am",
-  "valid_until_epoch": 1786902198,
+  "text": "high 63, low 55. best outside window: 6am to 12am",
+  "valid_until_epoch": 1786914094,
   "version": 1
 }
