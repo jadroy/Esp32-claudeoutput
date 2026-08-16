@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-16T08:36:09-07:00",
+  "generated_at": "2026-08-16T11:47:43-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "'What are we going to do?' The mom of a trans teen grapples with Trump's Medicaid move",
-      "url": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz"
+      "title": "A good - and bad - week for Italy's art police and museum security",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 54. best outside window: 8am to 12am",
-  "valid_until_epoch": 1786923369,
+  "text": "high 63, low 54. best outside window: 11am to 12am",
+  "valid_until_epoch": 1786934863,
   "version": 1
 }
