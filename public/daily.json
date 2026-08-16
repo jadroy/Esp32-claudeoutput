@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-16T11:47:43-07:00",
+  "generated_at": "2026-08-16T14:34:24-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "A good - and bad - week for Italy's art police and museum security",
-      "url": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma"
+      "title": "Multiple people dead as flooding continues in Indiana",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths"
     },
     {
       "source": "BBC",
-      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss"
+      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 54. best outside window: 11am to 12am",
-  "valid_until_epoch": 1786934863,
+  "text": "high 66, low 54. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1786944864,
   "version": 1
 }
