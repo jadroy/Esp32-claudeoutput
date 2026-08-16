@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-15T23:59:39-07:00",
+  "generated_at": "2026-08-16T02:43:18-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Are robotaxis finally here?",
-      "url": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here"
+      "title": "NPR Senior Podcast Challenge: Official Rules",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules"
     },
     {
       "source": "BBC",
-      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss"
+      "title": "People who fled Stourbridge fires start to return home",
+      "url": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "ingleside: high 64, low 55. no weather drama scheduled.",
-  "valid_until_epoch": 1786892379,
+  "text": "high 60, low 55. best outside window: 2am to 12am",
+  "valid_until_epoch": 1786902198,
   "version": 1
 }
