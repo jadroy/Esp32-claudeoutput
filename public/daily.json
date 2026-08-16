@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-16T06:01:34-07:00",
+  "generated_at": "2026-08-16T08:36:09-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "6 weekend getaways to squeeze in before summer ends",
-      "url": "https://sfstandard.com/2026/08/15/sf-bay-area-weekend-getaways/"
+      "title": "Stern Grove shutouts: It's not just you who lost the ticket lottery",
+      "url": "https://sfstandard.com/2026/08/16/stern-grove-festival-tickets-lottery/"
     },
     {
       "source": "NPR",
-      "title": "As Trump blocks Medicaid funds, one trans teen's mom asks: What's next?",
+      "title": "'What are we going to do?' The mom of a trans teen grapples with Trump's Medicaid move",
       "url": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz"
     },
     {
       "source": "BBC",
-      "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
-      "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss"
+      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The Waggle: 15 revelations about the porn-founding, Epstein-connected first lady of AI",
-      "url": "https://sfstandard.com/2026/08/15/waggle-15-revelations-porn-founding-epstein-connected-first-lady-ai/"
+      "title": "Buster Posey expresses confidence in Tony Vitello's future with Giants: 'He's coming back'",
+      "url": "https://sfstandard.com/2026/08/16/tony-vitello-sf-giants-buster-posey/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 55. best outside window: 6am to 12am",
-  "valid_until_epoch": 1786914094,
+  "text": "high 62, low 54. best outside window: 8am to 12am",
+  "valid_until_epoch": 1786923369,
   "version": 1
 }
