@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-17T00:17:06-07:00",
+  "generated_at": "2026-08-17T02:57:57-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
-      "url": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea"
+      "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing"
     },
     {
       "source": "BBC",
-      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
+      "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "today stays cool: 54 to 57. warmest: 9am to 8pm",
-  "valid_until_epoch": 1786979826,
+  "text": "high 59, low 54. best outside window: 2am to 12am",
+  "valid_until_epoch": 1786989477,
   "version": 1
 }
