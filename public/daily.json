@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-17T02:57:57-07:00",
+  "generated_at": "2026-08-17T06:06:35-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
-      "url": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing"
+      "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
+      "url": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 59, low 54. best outside window: 2am to 12am",
-  "valid_until_epoch": 1786989477,
+  "text": "high 63, low 54. best outside window: 6am to 12am",
+  "valid_until_epoch": 1787000795,
   "version": 1
 }
