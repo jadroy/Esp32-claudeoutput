@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-17T11:57:59-07:00",
+  "generated_at": "2026-08-17T14:41:58-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "DHS defends investigating agency critics and giving them warning notices",
-      "url": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations"
+      "title": "Former federal prosecutor is suing DOJ for 'unlawful and retaliatory' firing",
+      "url": "https://www.npr.org/2026/08/17/g-s1-138997/former-federal-prosecutor-sue-doj-retaliatory-firing"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 54. best outside window: 11am to 12am",
-  "valid_until_epoch": 1787021879,
+  "text": "high 63, low 54. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1787031718,
   "version": 1
 }
