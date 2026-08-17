@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-17T08:41:28-07:00",
+  "generated_at": "2026-08-17T11:57:59-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "SF's only Friulian restaurant serves pure comfort food",
-      "url": "https://sfstandard.com/2026/08/17/polenta-friulian-trattoria-review/"
+      "title": "Would you take a Waymo to Sea Ranch?",
+      "url": "https://sfstandard.com/2026/08/17/waymo-expand-sonoma-redwoods/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
       "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Opinion: California's legal corruption: Pay the politician, get the contract",
-      "url": "https://sfstandard.com/opinion/2026/08/17/california-legal-corruption-pay-politician-get-contract/"
+      "title": "What the 49ers' cautious praise of De'Zhaun Stribling really means",
+      "url": "https://sfstandard.com/2026/08/17/dezhaun-stribling-49ers-rookie-wide-receivers/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 54. best outside window: 8am to 12am",
-  "valid_until_epoch": 1787010088,
+  "text": "high 63, low 54. best outside window: 11am to 12am",
+  "valid_until_epoch": 1787021879,
   "version": 1
 }
