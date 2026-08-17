@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-16T14:34:24-07:00",
+  "generated_at": "2026-08-16T18:55:35-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Stern Grove shutouts: It's not just you who lost the ticket lottery",
-      "url": "https://sfstandard.com/2026/08/16/stern-grove-festival-tickets-lottery/"
+      "title": "The barely watched SF race bringing in eye-watering amounts of money",
+      "url": "https://sfstandard.com/2026/08/16/growsf-school-board-november-election-powerplay/"
     },
     {
       "source": "NPR",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Buster Posey expresses confidence in Tony Vitello's future with Giants: 'He's coming back'",
-      "url": "https://sfstandard.com/2026/08/16/tony-vitello-sf-giants-buster-posey/"
+      "title": "49ers 53-man roster preview: Who's locked in and who's on the bubble?",
+      "url": "https://sfstandard.com/2026/08/16/49ers-53-man-roster-preview-bubble-kyle-shanahan/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 54. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1786944864,
+  "text": "high 65, low 55. best outside window: 6pm to 12am",
+  "valid_until_epoch": 1786960535,
   "version": 1
 }
