@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-17T06:06:35-07:00",
+  "generated_at": "2026-08-17T08:41:28-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The barely watched SF race bringing in eye-watering amounts of money",
-      "url": "https://sfstandard.com/2026/08/16/growsf-school-board-november-election-powerplay/"
+      "title": "SF's only Friulian restaurant serves pure comfort food",
+      "url": "https://sfstandard.com/2026/08/17/polenta-friulian-trattoria-review/"
     },
     {
       "source": "NPR",
-      "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
-      "url": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia"
+      "title": "DHS defends investigating agency critics and giving them warning notices",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations"
     },
     {
       "source": "BBC",
-      "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss"
+      "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "49ers 53-man roster preview: Who's locked in and who's on the bubble?",
-      "url": "https://sfstandard.com/2026/08/16/49ers-53-man-roster-preview-bubble-kyle-shanahan/"
+      "title": "Opinion: California's legal corruption: Pay the politician, get the contract",
+      "url": "https://sfstandard.com/opinion/2026/08/17/california-legal-corruption-pay-politician-get-contract/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 54. best outside window: 6am to 12am",
-  "valid_until_epoch": 1787000795,
+  "text": "high 63, low 54. best outside window: 8am to 12am",
+  "valid_until_epoch": 1787010088,
   "version": 1
 }
