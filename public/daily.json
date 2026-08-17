@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-16T21:03:26-07:00",
+  "generated_at": "2026-08-17T00:17:06-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,12 +9,12 @@
     },
     {
       "source": "NPR",
-      "title": "Multiple people dead as flooding continues in Indiana",
-      "url": "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths"
+      "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
+      "url": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea"
     },
     {
       "source": "BBC",
-      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
       "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 55. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1786968206,
+  "text": "today stays cool: 54 to 57. warmest: 9am to 8pm",
+  "valid_until_epoch": 1786979826,
   "version": 1
 }
