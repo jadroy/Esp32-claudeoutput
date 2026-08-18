@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-18T02:48:45-07:00",
+  "generated_at": "2026-08-18T06:08:45-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The Valkyries clinch: 5 reasons Golden State is headed back to the playoffs",
-      "url": "https://sfstandard.com/2026/08/17/golden-state-valkyries-clinch-playoff-berth/"
+      "title": "A SoMa childcare center closed abruptly. Teachers say warning signs were there for years",
+      "url": "https://sfstandard.com/2026/08/18/soma-childcare-center-closure-teachers/"
     },
     {
       "source": "NPR",
-      "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
-      "url": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx"
+      "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
+      "url": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione"
     },
     {
       "source": "BBC",
-      "title": "Russia warns UK will pay for supplying drones to Ukraine",
+      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
       "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "A two-supervisor brawl tests Lurie's kumbaya era at City Hall",
-      "url": "https://sfstandard.com/2026/08/17/san-francisco-city-hall-rafael-mandelman-bilal-mahmood-daniel-lurie/"
+      "title": "This 'French-adjacent' Divisadero bistro already feels like an old favorite",
+      "url": "https://sfstandard.com/2026/08/18/esme-review-divisadero-french-bistro/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 54. best outside window: 2am to 12am",
-  "valid_until_epoch": 1787075325,
+  "text": "today stays cool: 54 to 58. warmest: 12pm to 7pm",
+  "valid_until_epoch": 1787087325,
   "version": 1
 }
