@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-17T20:58:55-07:00",
+  "generated_at": "2026-08-18T00:05:09-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "The Valkyries clinch: 5 reasons Golden State is headed back to the playoffs",
+      "url": "https://sfstandard.com/2026/08/17/golden-state-valkyries-clinch-playoff-berth/"
+    },
+    {
+      "source": "NPR",
+      "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur's 1996 killing",
+      "url": "https://www.npr.org/2026/08/18/g-s1-139061/tupac-shakur-killing-trial"
+    },
+    {
+      "source": "BBC",
+      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+      "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "A two-supervisor brawl tests Lurie's kumbaya era at City Hall",
       "url": "https://sfstandard.com/2026/08/17/san-francisco-city-hall-rafael-mandelman-bilal-mahmood-daniel-lurie/"
-    },
-    {
-      "source": "NPR",
-      "title": "Part of a key firearms law lapsed following a federal court decision. What happens now?",
-      "url": "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling"
-    },
-    {
-      "source": "BBC",
-      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "As class starts, schools are the latest target in the mayor's street safety push",
-      "url": "https://sfstandard.com/2026/08/17/school-speed-limits-lowered-sf/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 54. best outside window: 8pm to 12am",
-  "valid_until_epoch": 1787054335,
+  "text": "high 61, low 54. best outside window: 12am to 12am",
+  "valid_until_epoch": 1787065509,
   "version": 1
 }
