@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-18T00:05:09-07:00",
+  "generated_at": "2026-08-18T02:48:45-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur's 1996 killing",
-      "url": "https://www.npr.org/2026/08/18/g-s1-139061/tupac-shakur-killing-trial"
+      "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx"
     },
     {
       "source": "BBC",
-      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-      "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss"
+      "title": "Russia warns UK will pay for supplying drones to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 54. best outside window: 12am to 12am",
-  "valid_until_epoch": 1787065509,
+  "text": "high 61, low 54. best outside window: 2am to 12am",
+  "valid_until_epoch": 1787075325,
   "version": 1
 }
