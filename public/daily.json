@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-18T08:46:59-07:00",
+  "generated_at": "2026-08-18T11:57:03-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "A SoMa childcare center closed abruptly. Teachers say warning signs were there for years",
-      "url": "https://sfstandard.com/2026/08/18/soma-childcare-center-closure-teachers/"
+      "title": "The WNBA All-Star Game is coming to San Francisco, and it's the perfect fit",
+      "url": "https://sfstandard.com/2026/08/18/valkyries-all-star-game-san-francisco-2027/"
     },
     {
       "source": "NPR",
-      "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
-      "url": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut"
+      "title": "'Profits won.' The child safety trial against Meta kicks off in federal court",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "This 'French-adjacent' Divisadero bistro already feels like an old favorite",
-      "url": "https://sfstandard.com/2026/08/18/esme-review-divisadero-french-bistro/"
+      "title": "A SoMa childcare center closed abruptly. Teachers say warning signs were there for years",
+      "url": "https://sfstandard.com/2026/08/18/soma-childcare-center-closure-teachers/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 54. best outside window: 8am to 12am",
-  "valid_until_epoch": 1787096819,
+  "text": "high 59, low 54. best outside window: 11am to 12am",
+  "valid_until_epoch": 1787108223,
   "version": 1
 }
