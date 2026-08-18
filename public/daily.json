@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-18T11:57:03-07:00",
+  "generated_at": "2026-08-18T14:39:04-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "Connie Chan wants to ban congressional stock trading. Her top backers are famous for it",
+      "url": "https://sfstandard.com/2026/08/18/connie-chan-wants-ban-congressional-stock-trading-top-backers-famous/"
+    },
+    {
+      "source": "NPR",
+      "title": "Embattled Florida Republican Rep. Cory Mills fights to keep his House seat",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary"
+    },
+    {
+      "source": "BBC",
+      "title": "Three dead after family get into difficulty in sea",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "The WNBA All-Star Game is coming to San Francisco, and it's the perfect fit",
       "url": "https://sfstandard.com/2026/08/18/valkyries-all-star-game-san-francisco-2027/"
-    },
-    {
-      "source": "NPR",
-      "title": "'Profits won.' The child safety trial against Meta kicks off in federal court",
-      "url": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening"
-    },
-    {
-      "source": "BBC",
-      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "A SoMa childcare center closed abruptly. Teachers say warning signs were there for years",
-      "url": "https://sfstandard.com/2026/08/18/soma-childcare-center-closure-teachers/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 59, low 54. best outside window: 11am to 12am",
-  "valid_until_epoch": 1787108223,
+  "text": "high 60, low 54. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1787117944,
   "version": 1
 }
