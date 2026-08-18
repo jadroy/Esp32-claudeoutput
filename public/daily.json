@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-17T14:41:58-07:00",
+  "generated_at": "2026-08-17T18:51:01-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Would you take a Waymo to Sea Ranch?",
-      "url": "https://sfstandard.com/2026/08/17/waymo-expand-sonoma-redwoods/"
+      "title": "A two-supervisor brawl tests Lurie's kumbaya era at City Hall",
+      "url": "https://sfstandard.com/2026/08/17/san-francisco-city-hall-rafael-mandelman-bilal-mahmood-daniel-lurie/"
     },
     {
       "source": "NPR",
-      "title": "Former federal prosecutor is suing DOJ for 'unlawful and retaliatory' firing",
-      "url": "https://www.npr.org/2026/08/17/g-s1-138997/former-federal-prosecutor-sue-doj-retaliatory-firing"
+      "title": "Part of a key firearms law lapsed following a federal court decision. What happens now?",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "What the 49ers' cautious praise of De'Zhaun Stribling really means",
-      "url": "https://sfstandard.com/2026/08/17/dezhaun-stribling-49ers-rookie-wide-receivers/"
+      "title": "As class starts, schools are the latest target in the mayor's street safety push",
+      "url": "https://sfstandard.com/2026/08/17/school-speed-limits-lowered-sf/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 54. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1787031718,
+  "text": "high 65, low 54. best outside window: 6pm to 12am",
+  "valid_until_epoch": 1787046661,
   "version": 1
 }
