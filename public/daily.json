@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-18T06:08:45-07:00",
+  "generated_at": "2026-08-18T08:46:59-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
-      "url": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione"
+      "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
+      "url": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "today stays cool: 54 to 58. warmest: 12pm to 7pm",
-  "valid_until_epoch": 1787087325,
+  "text": "high 60, low 54. best outside window: 8am to 12am",
+  "valid_until_epoch": 1787096819,
   "version": 1
 }
