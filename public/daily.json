@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-19T02:49:44-07:00",
+  "generated_at": "2026-08-19T06:09:18-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Bitter Democratic fight for Swalwell's seat goes down to the wire",
-      "url": "https://sfstandard.com/2026/08/18/bitter-democratic-fight-swalwell-s-seat-goes-wire/"
+      "title": "Someone tagged a fancy Pacific Heights co-op tower. Even neighbors are kind of impressed",
+      "url": "https://sfstandard.com/2026/08/19/pacific-heights-rappel-graffiti-reactions/"
     },
     {
       "source": "NPR",
-      "title": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
-      "url": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak"
+      "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries",
+      "url": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial"
     },
     {
       "source": "BBC",
-      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
-      "url": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss"
+      "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
+      "url": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Meta trial over child safety begins. It could change social media",
-      "url": "https://sfstandard.com/2026/08/18/meta-trail-child-safety/"
+      "title": "He is one of SF's most acclaimed gallerists. Artists say he owes them thousands",
+      "url": "https://sfstandard.com/2026/08/19/jonathan-carver-moore-gallery-unpaid-artists/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 55. best outside window: 2am to 12am",
-  "valid_until_epoch": 1787161784,
+  "text": "high 59, low 55. best outside window: 6am to 12am",
+  "valid_until_epoch": 1787173758,
   "version": 1
 }
