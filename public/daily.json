@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-19T11:53:49-07:00",
+  "generated_at": "2026-08-19T14:42:06-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Someone tagged a fancy Pacific Heights co-op tower. Even neighbors are kind of impressed",
+      "title": "Graffiti artists tagged a fancy Pac Heights co-op. Even neighbors are kind of impressed",
       "url": "https://sfstandard.com/2026/08/19/pacific-heights-rappel-graffiti-reactions/"
     },
     {
       "source": "NPR",
-      "title": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name"
+      "title": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5938799/trump-census-bureau-noncitizen-voting"
     },
     {
       "source": "BBC",
-      "title": "Track defect found on approach to site of Lewes derailment, initial report says",
-      "url": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss"
+      "title": "Prince Harry and Meghan to return to UK",
+      "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "He is one of SF's most acclaimed gallerists. Artists say he owes them thousands",
+      "title": "'He's exploiting them': Celebrated SF gallerist accused of stiffing artists, collectors",
       "url": "https://sfstandard.com/2026/08/19/jonathan-carver-moore-gallery-unpaid-artists/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 55. best outside window: 11am to 12am",
-  "valid_until_epoch": 1787194429,
+  "text": "high 62, low 55. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1787204526,
   "version": 1
 }
