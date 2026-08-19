@@ -1,15 +1,15 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-18T14:39:04-07:00",
+  "generated_at": "2026-08-18T18:53:18-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Connie Chan wants to ban congressional stock trading. Her top backers are famous for it",
-      "url": "https://sfstandard.com/2026/08/18/connie-chan-wants-ban-congressional-stock-trading-top-backers-famous/"
+      "title": "Meta trial over child safety begins. It could change social media",
+      "url": "https://sfstandard.com/2026/08/18/meta-trail-child-safety/"
     },
     {
       "source": "NPR",
-      "title": "Embattled Florida Republican Rep. Cory Mills fights to keep his House seat",
+      "title": "Embattled Florida Republican Rep. Cory Mills loses his fight to keep his House seat",
       "url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary"
     },
     {
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "The WNBA All-Star Game is coming to San Francisco, and it's the perfect fit",
-      "url": "https://sfstandard.com/2026/08/18/valkyries-all-star-game-san-francisco-2027/"
+      "title": "A heated rivalry over ice time at San Francisco's only rink",
+      "url": "https://sfstandard.com/2026/08/18/beer-league-yerba-buena/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 54. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1787117944,
+  "text": "high 64, low 54. best outside window: 6pm to 12am",
+  "valid_until_epoch": 1787133198,
   "version": 1
 }
