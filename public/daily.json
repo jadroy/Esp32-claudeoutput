@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-18T18:53:18-07:00",
+  "generated_at": "2026-08-18T20:59:23-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Embattled Florida Republican Rep. Cory Mills loses his fight to keep his House seat",
-      "url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary"
+      "title": "Key results from Florida primaries, so far",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5936403/what-to-watch-for-in-the-florida-primaries"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 54. best outside window: 6pm to 12am",
-  "valid_until_epoch": 1787133198,
+  "text": "high 64, low 54. best outside window: 8pm to 12am",
+  "valid_until_epoch": 1787140763,
   "version": 1
 }
