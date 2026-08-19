@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-19T00:05:56-07:00",
+  "generated_at": "2026-08-19T02:49:44-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
-      "url": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs"
+      "title": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
+      "url": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak"
     },
     {
       "source": "BBC",
-      "title": "Burnham unveils plan to get rough sleepers off streets for Christmas",
-      "url": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss"
+      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 55. best outside window: 12am to 12am",
-  "valid_until_epoch": 1787151956,
+  "text": "high 61, low 55. best outside window: 2am to 12am",
+  "valid_until_epoch": 1787161784,
   "version": 1
 }
