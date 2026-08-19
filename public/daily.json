@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-18T20:59:23-07:00",
+  "generated_at": "2026-08-19T00:05:56-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "Bitter Democratic fight for Swalwell's seat goes down to the wire",
+      "url": "https://sfstandard.com/2026/08/18/bitter-democratic-fight-swalwell-s-seat-goes-wire/"
+    },
+    {
+      "source": "NPR",
+      "title": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
+      "url": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs"
+    },
+    {
+      "source": "BBC",
+      "title": "Burnham unveils plan to get rough sleepers off streets for Christmas",
+      "url": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Meta trial over child safety begins. It could change social media",
       "url": "https://sfstandard.com/2026/08/18/meta-trail-child-safety/"
-    },
-    {
-      "source": "NPR",
-      "title": "Key results from Florida primaries, so far",
-      "url": "https://www.npr.org/2026/08/18/nx-s1-5936403/what-to-watch-for-in-the-florida-primaries"
-    },
-    {
-      "source": "BBC",
-      "title": "Three dead after family get into difficulty in sea",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "A heated rivalry over ice time at San Francisco's only rink",
-      "url": "https://sfstandard.com/2026/08/18/beer-league-yerba-buena/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 54. best outside window: 8pm to 12am",
-  "valid_until_epoch": 1787140763,
+  "text": "high 61, low 55. best outside window: 12am to 12am",
+  "valid_until_epoch": 1787151956,
   "version": 1
 }
