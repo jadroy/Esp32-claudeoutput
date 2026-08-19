@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-19T06:09:18-07:00",
+  "generated_at": "2026-08-19T08:46:46-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries",
-      "url": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial"
+      "title": "This high-speed star is whipping around the black hole in the middle of our galaxy",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5936479/fastest-star-galaxy-black-hole-sagittarius-a-milky-way"
     },
     {
       "source": "BBC",
-      "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
-      "url": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss"
+      "title": "Track defect found on approach to site of Lewes derailment, initial report says",
+      "url": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 59, low 55. best outside window: 6am to 12am",
-  "valid_until_epoch": 1787173758,
+  "text": "high 60, low 55. best outside window: 8am to 12am",
+  "valid_until_epoch": 1787183206,
   "version": 1
 }
