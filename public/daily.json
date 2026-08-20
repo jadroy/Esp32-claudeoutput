@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-20T08:49:21-07:00",
+  "generated_at": "2026-08-20T11:59:54-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "This Mission restaurant took a decade to open. The fish taco was worth the wait",
-      "url": "https://sfstandard.com/2026/08/20/chicano-nuevo-review-new-restaurant/"
+      "title": "Feds confiscated Eric Swalwell's iPhone and Macbook Pro, document shows",
+      "url": "https://sfstandard.com/2026/08/20/eric-swalwell-investigation-fbi-raid-congressman/"
     },
     {
       "source": "NPR",
-      "title": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration"
+      "title": "Three things to know about the $40 trillion federal debt",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt"
     },
     {
       "source": "BBC",
-      "title": "Harry and Meghan's security arrangements a private matter, PM says",
+      "title": "Harry and Meghan's return to UK reignites questions over security",
       "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Duane Kuiper ponders his future without Mike Krukow in the booth: 'This one's really hard'",
-      "url": "https://sfstandard.com/2026/08/20/duane-kuiper-mike-krukow-sf-giants/"
+      "title": "Natalie Nakase always has an answer. Now she faces the Valkyries' toughest question yet",
+      "url": "https://sfstandard.com/2026/08/20/natalie-nakase-valkyries-cheryl-reeve-lynx/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 59, low 53. best outside window: 8am to 12am",
-  "valid_until_epoch": 1787269761,
+  "text": "high 59, low 53. best outside window: 11am to 12am",
+  "valid_until_epoch": 1787281194,
   "version": 1
 }
