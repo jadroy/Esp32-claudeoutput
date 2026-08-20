@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-20T11:59:54-07:00",
+  "generated_at": "2026-08-20T14:44:20-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Three things to know about the $40 trillion federal debt",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt"
+      "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 59, low 53. best outside window: 11am to 12am",
-  "valid_until_epoch": 1787281194,
+  "text": "high 62, low 53. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1787291060,
   "version": 1
 }
