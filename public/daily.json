@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-19T14:42:06-07:00",
+  "generated_at": "2026-08-19T18:52:17-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Graffiti artists tagged a fancy Pac Heights co-op. Even neighbors are kind of impressed",
-      "url": "https://sfstandard.com/2026/08/19/pacific-heights-rappel-graffiti-reactions/"
+      "title": "$6M bought Hernandez a dead heat against Wahab. Now the real race begins",
+      "url": "https://sfstandard.com/2026/08/19/power-play-aisha-wahab-melissa-hernandez-congress/"
     },
     {
       "source": "NPR",
-      "title": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5938799/trump-census-bureau-noncitizen-voting"
+      "title": "California passes toughest wildfire rules in the U.S. for home landscaping",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation"
     },
     {
       "source": "BBC",
-      "title": "Prince Harry and Meghan to return to UK",
+      "title": "Prince Harry and Meghan moving back to UK",
       "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "'He's exploiting them': Celebrated SF gallerist accused of stiffing artists, collectors",
-      "url": "https://sfstandard.com/2026/08/19/jonathan-carver-moore-gallery-unpaid-artists/"
+      "title": "Public defenders accuse SF sheriff of hiding TV crew's role in child exploitation sting",
+      "url": "https://sfstandard.com/2026/08/19/san-francisco-sheriff-chris-hansen-alleged-child-predators/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 55. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1787204526,
+  "text": "high 63, low 55. best outside window: 6pm to 12am",
+  "valid_until_epoch": 1787219537,
   "version": 1
 }
