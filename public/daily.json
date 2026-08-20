@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-19T20:59:19-07:00",
+  "generated_at": "2026-08-20T00:07:03-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "California passes toughest wildfire rules in the U.S. for home landscaping",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation"
+      "title": "Prince Harry and Meghan are returning to the U.K. with their children",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 54. best outside window: 8pm to 12am",
-  "valid_until_epoch": 1787227159,
+  "text": "today stays cool: 53 to 57. warmest: 8am to 12am",
+  "valid_until_epoch": 1787238423,
   "version": 1
 }
