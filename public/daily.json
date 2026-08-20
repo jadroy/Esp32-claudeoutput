@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-20T06:11:41-07:00",
+  "generated_at": "2026-08-20T08:49:21-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
-      "url": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims"
+      "title": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 59, low 53. best outside window: 6am to 12am",
-  "valid_until_epoch": 1787260301,
+  "text": "high 59, low 53. best outside window: 8am to 12am",
+  "valid_until_epoch": 1787269761,
   "version": 1
 }
