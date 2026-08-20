@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-20T02:50:41-07:00",
+  "generated_at": "2026-08-20T06:11:41-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "$6M bought Hernandez a dead heat against Wahab. Now the real race begins",
-      "url": "https://sfstandard.com/2026/08/19/power-play-aisha-wahab-melissa-hernandez-congress/"
+      "title": "This Mission restaurant took a decade to open. The fish taco was worth the wait",
+      "url": "https://sfstandard.com/2026/08/20/chicano-nuevo-review-new-restaurant/"
     },
     {
       "source": "NPR",
-      "title": "North Korea fires a suspected missile toward the sea, Japan says",
-      "url": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile"
+      "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
+      "url": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims"
     },
     {
       "source": "BBC",
-      "title": "Prince Harry and Meghan moving back to UK later this month",
-      "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss"
+      "title": "Harry and Meghan's security arrangements a private matter, PM says",
+      "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Public defenders accuse SF sheriff of hiding TV crew's role in child exploitation sting",
-      "url": "https://sfstandard.com/2026/08/19/san-francisco-sheriff-chris-hansen-alleged-child-predators/"
+      "title": "Duane Kuiper ponders his future without Mike Krukow in the booth: 'This one's really hard'",
+      "url": "https://sfstandard.com/2026/08/20/duane-kuiper-mike-krukow-sf-giants/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "today stays cool: 53 to 57. warmest: 8am to 9pm",
-  "valid_until_epoch": 1787248241,
+  "text": "high 59, low 53. best outside window: 6am to 12am",
+  "valid_until_epoch": 1787260301,
   "version": 1
 }
