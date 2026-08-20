@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-19T18:52:17-07:00",
+  "generated_at": "2026-08-19T20:59:19-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -14,7 +14,7 @@
     },
     {
       "source": "BBC",
-      "title": "Prince Harry and Meghan moving back to UK",
+      "title": "Prince Harry and Meghan moving back to UK later this month",
       "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 55. best outside window: 6pm to 12am",
-  "valid_until_epoch": 1787219537,
+  "text": "high 63, low 54. best outside window: 8pm to 12am",
+  "valid_until_epoch": 1787227159,
   "version": 1
 }
