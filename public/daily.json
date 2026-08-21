@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-21T00:08:28-07:00",
+  "generated_at": "2026-08-21T02:52:49-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military"
+      "title": "What to know about this weekend's IndyCar race on the National Mall",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 55. best outside window: 12am to 12am",
-  "valid_until_epoch": 1787324908,
+  "text": "high 61, low 56. best outside window: 2am to 12am",
+  "valid_until_epoch": 1787334769,
   "version": 1
 }
