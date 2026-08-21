@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-21T02:52:49-07:00",
+  "generated_at": "2026-08-21T06:11:34-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "49ers takeaways: Stribling stars, Black pops in debut, and Cowing makes a statement",
-      "url": "https://sfstandard.com/2026/08/20/dezhaun-stribling-49ers-chargers-preseason-analysis/"
+      "title": "Weekend Itinerary: The best events and eats for Aug. 21-23 in SF",
+      "url": "https://sfstandard.com/2026/08/21/weekend-itinerary-best-events-eats-aug-21-23-sf/"
     },
     {
       "source": "NPR",
-      "title": "What to know about this weekend's IndyCar race on the National Mall",
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics"
+      "title": "Top Iran official says US focus on economic warfare shows it has failed militarily",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare"
     },
     {
       "source": "BBC",
-      "title": "El Nino warming set to be 'strongest in living memory', warns Met Office",
-      "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss"
+      "title": "Prince Harry and six others ordered to pay Daily Mail publisher 9.5m",
+      "url": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Feds confiscated Eric Swalwell's iPhone and Macbook Pro, document shows",
-      "url": "https://sfstandard.com/2026/08/20/eric-swalwell-investigation-fbi-raid-congressman/"
+      "title": "This ski-themed bar proves after-work drinks are so back in San Francisco",
+      "url": "https://sfstandard.com/2026/08/21/shotski-bar-sf-best-happy-hour/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 56. best outside window: 2am to 12am",
-  "valid_until_epoch": 1787334769,
+  "text": "high 63, low 56. best outside window: 6am to 12am",
+  "valid_until_epoch": 1787346694,
   "version": 1
 }
