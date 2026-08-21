@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-20T21:02:33-07:00",
+  "generated_at": "2026-08-21T00:08:28-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Feds confiscated Eric Swalwell's iPhone and Macbook Pro, document shows",
-      "url": "https://sfstandard.com/2026/08/20/eric-swalwell-investigation-fbi-raid-congressman/"
+      "title": "49ers takeaways: Stribling stars, Black pops in debut, and Cowing makes a statement",
+      "url": "https://sfstandard.com/2026/08/20/dezhaun-stribling-49ers-chargers-preseason-analysis/"
     },
     {
       "source": "NPR",
-      "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora"
+      "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military"
     },
     {
       "source": "BBC",
-      "title": "El Nino weather system set to be 'strongest in living memory', warns Met Office",
+      "title": "El Nino warming set to be 'strongest in living memory', warns Met Office",
       "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Natalie Nakase always has an answer. Now she faces the Valkyries' toughest question yet",
-      "url": "https://sfstandard.com/2026/08/20/natalie-nakase-valkyries-cheryl-reeve-lynx/"
+      "title": "Feds confiscated Eric Swalwell's iPhone and Macbook Pro, document shows",
+      "url": "https://sfstandard.com/2026/08/20/eric-swalwell-investigation-fbi-raid-congressman/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 53. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1787313753,
+  "text": "high 62, low 55. best outside window: 12am to 12am",
+  "valid_until_epoch": 1787324908,
   "version": 1
 }
