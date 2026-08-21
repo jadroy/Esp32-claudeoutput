@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-21T06:11:34-07:00",
+  "generated_at": "2026-08-21T08:49:20-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -14,7 +14,7 @@
     },
     {
       "source": "BBC",
-      "title": "Prince Harry and six others ordered to pay Daily Mail publisher 9.5m",
+      "title": "Prince Harry and six others face privacy case legal bill of up to 34.5m",
       "url": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 56. best outside window: 6am to 12am",
-  "valid_until_epoch": 1787346694,
+  "text": "high 63, low 56. best outside window: 8am to 12am",
+  "valid_until_epoch": 1787356160,
   "version": 1
 }
