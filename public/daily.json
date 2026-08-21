@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-21T08:49:20-07:00",
+  "generated_at": "2026-08-21T11:56:47-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Weekend Itinerary: The best events and eats for Aug. 21-23 in SF",
-      "url": "https://sfstandard.com/2026/08/21/weekend-itinerary-best-events-eats-aug-21-23-sf/"
+      "title": "'Section 415' podcast: How Giants broadcasts will sound without Mike Krukow",
+      "url": "https://sfstandard.com/section-415/2026/08/21/section-415-podcast-giants-broadcasts-will-sound-mike-krukow/"
     },
     {
       "source": "NPR",
-      "title": "Top Iran official says US focus on economic warfare shows it has failed militarily",
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare"
+      "title": "Supreme Court allows Trump's ballroom construction to continue for now",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "This ski-themed bar proves after-work drinks are so back in San Francisco",
-      "url": "https://sfstandard.com/2026/08/21/shotski-bar-sf-best-happy-hour/"
+      "title": "Matt 'Tugboat' Wilkinson has an elite nickname. Can he be a great Giants pitcher too?",
+      "url": "https://sfstandard.com/2026/08/21/matt-tugboat-wilkinson-has-elite-nickname-can-great-giants-pitcher/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 56. best outside window: 8am to 12am",
-  "valid_until_epoch": 1787356160,
+  "text": "high 63, low 56. best outside window: 11am to 12am",
+  "valid_until_epoch": 1787367407,
   "version": 1
 }
