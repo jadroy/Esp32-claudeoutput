@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-22T11:49:41-07:00",
+  "generated_at": "2026-08-22T14:36:24-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
-      "url": "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood"
+      "title": "Trump administration's 75-country visa ban was illegal, judge rules",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries"
     },
     {
       "source": "BBC",
-      "title": "Video appears to show police chase minutes before fatal A66 crash",
-      "url": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss"
+      "title": "Two police officers among seven killed in wrong-way car crash",
+      "url": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 56. best outside window: 11am to 12am",
-  "valid_until_epoch": 1787453381,
+  "text": "high 65, low 56. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1787463384,
   "version": 1
 }
