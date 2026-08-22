@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-21T18:50:34-07:00",
+  "generated_at": "2026-08-21T20:56:56-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "SF tenants told to pack up and leave in a week. Their landlord never filed the permits",
-      "url": "https://sfstandard.com/2026/08/21/sf-tenants-displaced-unpermitted-eviction/"
+      "title": "Lead paint work meant for summer break stretched into the school year at SF elementary",
+      "url": "https://sfstandard.com/2026/08/21/sf-school-lead-paint-removal-delayed/"
     },
     {
       "source": "NPR",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Cops say shelter staffers harbored a gunman; the nonprofit says they defused a standoff",
-      "url": "https://sfstandard.com/2026/08/21/two-shelter-staffers-arrested-allegedly-harboring-man-who-shot-sfpd-officer/"
+      "title": "SF tenants told to pack up and leave in a week. Their landlord never filed the permits",
+      "url": "https://sfstandard.com/2026/08/21/sf-tenants-displaced-unpermitted-eviction/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 56. best outside window: 6pm to 12am",
-  "valid_until_epoch": 1787392234,
+  "text": "high 63, low 56. best outside window: 8pm to 12am",
+  "valid_until_epoch": 1787399816,
   "version": 1
 }
