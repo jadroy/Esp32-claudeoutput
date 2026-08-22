@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-21T14:40:01-07:00",
+  "generated_at": "2026-08-21T18:50:34-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'Section 415' podcast: How Giants broadcasts will sound without Mike Krukow",
-      "url": "https://sfstandard.com/section-415/2026/08/21/section-415-podcast-giants-broadcasts-will-sound-mike-krukow/"
+      "title": "SF tenants told to pack up and leave in a week. Their landlord never filed the permits",
+      "url": "https://sfstandard.com/2026/08/21/sf-tenants-displaced-unpermitted-eviction/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "Prince Harry and six others face privacy case legal bill of up to 34.5m",
-      "url": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss"
+      "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+      "url": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Matt 'Tugboat' Wilkinson has an elite nickname. Can he be a great Giants pitcher too?",
-      "url": "https://sfstandard.com/2026/08/21/matt-tugboat-wilkinson-has-elite-nickname-can-great-giants-pitcher/"
+      "title": "Cops say shelter staffers harbored a gunman; the nonprofit says they defused a standoff",
+      "url": "https://sfstandard.com/2026/08/21/two-shelter-staffers-arrested-allegedly-harboring-man-who-shot-sfpd-officer/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 56. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1787377201,
+  "text": "high 63, low 56. best outside window: 6pm to 12am",
+  "valid_until_epoch": 1787392234,
   "version": 1
 }
