@@ -1,10 +1,10 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-22T08:35:31-07:00",
+  "generated_at": "2026-08-22T11:49:41-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Opinion: This Silicon Valley campus was a paradise. Bulldoze it.",
+      "title": "Opinion: This Silicon Valley campus was a paradise. Bulldoze it",
       "url": "https://sfstandard.com/opinion/2026/08/22/sunset-magazine-menlo-park-campus-torn-down/"
     },
     {
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss"
+      "title": "Video appears to show police chase minutes before fatal A66 crash",
+      "url": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "'Unlock and blossom into abundance': Meet the executive coach to AI's elite",
+      "title": "The most powerful people in tech are hiring this executive coach. She teaches them to cry",
       "url": "https://sfstandard.com/2026/08/22/katia-verresen-exec-coach/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 69, low 56. best outside window: 8am to 12am",
-  "valid_until_epoch": 1787441731,
+  "text": "high 67, low 56. best outside window: 11am to 12am",
+  "valid_until_epoch": 1787453381,
   "version": 1
 }
