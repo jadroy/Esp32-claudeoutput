@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-21T23:59:42-07:00",
+  "generated_at": "2026-08-22T02:43:23-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
+      "title": "U.S.-Canada trade talks collapse minutes before deadline for tariffs to take effect",
       "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs"
     },
     {
       "source": "BBC",
-      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss"
+      "title": "Multiple deaths after crash between police vehicle and car",
+      "url": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "ingleside: high 63, low 56. no weather drama scheduled.",
-  "valid_until_epoch": 1787410782,
+  "text": "high 66, low 56. best outside window: 2am to 12am",
+  "valid_until_epoch": 1787420603,
   "version": 1
 }
