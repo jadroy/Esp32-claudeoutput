@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-22T06:01:18-07:00",
+  "generated_at": "2026-08-22T08:35:31-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Lead paint work meant for summer break stretched into the school year at SF elementary",
-      "url": "https://sfstandard.com/2026/08/21/sf-school-lead-paint-removal-delayed/"
+      "title": "Opinion: This Silicon Valley campus was a paradise. Bulldoze it.",
+      "url": "https://sfstandard.com/opinion/2026/08/22/sunset-magazine-menlo-park-campus-torn-down/"
     },
     {
       "source": "NPR",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "SF tenants told to pack up and leave in a week. Their landlord never filed the permits",
-      "url": "https://sfstandard.com/2026/08/21/sf-tenants-displaced-unpermitted-eviction/"
+      "title": "'Unlock and blossom into abundance': Meet the executive coach to AI's elite",
+      "url": "https://sfstandard.com/2026/08/22/katia-verresen-exec-coach/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 68, low 56. best outside window: 6am to 12am",
-  "valid_until_epoch": 1787432478,
+  "text": "high 69, low 56. best outside window: 8am to 12am",
+  "valid_until_epoch": 1787441731,
   "version": 1
 }
