@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-23T00:01:50-07:00",
+  "generated_at": "2026-08-23T02:44:00-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Trump administration's 75-country visa ban was illegal, judge rules",
-      "url": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries"
+      "title": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5936573/memphis-task-force-shooting-video-jonah-neal"
     },
     {
       "source": "BBC",
-      "title": "Police officers killed in wrong-way crash mourned in 'unimaginable loss'",
-      "url": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss"
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 68, low 55. best outside window: 12am to 12am",
-  "valid_until_epoch": 1787497310,
+  "text": "high 71, low 55. best outside window: 2am to 12am",
+  "valid_until_epoch": 1787507040,
   "version": 1
 }
