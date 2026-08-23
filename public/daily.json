@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-23T02:44:00-07:00",
+  "generated_at": "2026-08-23T06:03:03-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
-      "url": "https://www.npr.org/2026/08/23/nx-s1-5936573/memphis-task-force-shooting-video-jonah-neal"
+      "title": "Becerra, running for governor of California, faces a health insurance problem",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 71, low 55. best outside window: 2am to 12am",
-  "valid_until_epoch": 1787507040,
+  "text": "high 69, low 55. best outside window: 6am to 12am",
+  "valid_until_epoch": 1787518983,
   "version": 1
 }
