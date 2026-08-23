@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-22T19:00:06-07:00",
+  "generated_at": "2026-08-22T21:01:35-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -14,8 +14,8 @@
     },
     {
       "source": "BBC",
-      "title": "Two police officers among seven killed in wrong-way car crash",
-      "url": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss"
+      "title": "Mayors to get powers to overrule local councils on planning decisions",
+      "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 56. best outside window: 7pm to 12am",
-  "valid_until_epoch": 1787479206,
+  "text": "high 65, low 56. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1787486495,
   "version": 1
 }
