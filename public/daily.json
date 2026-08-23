@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-23T11:48:57-07:00",
+  "generated_at": "2026-08-23T14:36:40-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -14,8 +14,8 @@
     },
     {
       "source": "BBC",
-      "title": "Police aborted pursuit about 10 seconds before fatal crash, watchdog says",
-      "url": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss"
+      "title": "Families of two police officers killed in crash say they were heroes",
+      "url": "https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 55. best outside window: 11am to 12am",
-  "valid_until_epoch": 1787539737,
+  "text": "high 67, low 55. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1787549800,
   "version": 1
 }
