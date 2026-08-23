@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-23T06:03:03-07:00",
+  "generated_at": "2026-08-23T08:37:03-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Opinion: This Silicon Valley campus was a paradise. Bulldoze it",
-      "url": "https://sfstandard.com/opinion/2026/08/22/sunset-magazine-menlo-park-campus-torn-down/"
+      "title": "AI robotics companies love San Francisco. They're just too big to stay",
+      "url": "https://sfstandard.com/2026/08/23/ai-robotics-san-francisco-bright-machines/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
+      "title": "Police aborted pursuit about 10 seconds before fatal crash, watchdog says",
+      "url": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The most powerful people in tech are hiring this executive coach. She teaches them to cry",
-      "url": "https://sfstandard.com/2026/08/22/katia-verresen-exec-coach/"
+      "title": "How MLB's looming lockout will shape the Giants' decisions on prospect promotions",
+      "url": "https://sfstandard.com/2026/08/23/bo-davidson-sf-giants-debut-parks-harber/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 69, low 55. best outside window: 6am to 12am",
-  "valid_until_epoch": 1787518983,
+  "text": "high 68, low 55. best outside window: 8am to 12am",
+  "valid_until_epoch": 1787528223,
   "version": 1
 }
