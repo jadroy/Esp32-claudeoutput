@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-23T08:37:03-07:00",
+  "generated_at": "2026-08-23T11:48:57-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Becerra, running for governor of California, faces a health insurance problem",
-      "url": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance"
+      "title": "Thousands in northwest Indiana still without power nearly two weeks after storm",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5942292/thousands-in-northwest-indiana-still-without-power-nearly-two-weeks-after-storm"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 68, low 55. best outside window: 8am to 12am",
-  "valid_until_epoch": 1787528223,
+  "text": "high 67, low 55. best outside window: 11am to 12am",
+  "valid_until_epoch": 1787539737,
   "version": 1
 }
