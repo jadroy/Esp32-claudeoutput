@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-24T12:00:12-07:00",
+  "generated_at": "2026-08-24T14:44:45-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "How the NFL can punish Jed York and the 49ers after the owner's arrest",
-      "url": "https://sfstandard.com/2026/08/24/jed-york-49ers-arrest-nfl-punishment/"
+      "title": "Newsom lists his 'Santa Barbara-inspired' Sacramento home for $7.5M",
+      "url": "https://sfstandard.com/2026/08/24/gavin-newsom-sacramento-mansion-listed/"
     },
     {
       "source": "NPR",
-      "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions on Iran",
-      "url": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran"
+      "title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
+      "url": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "49ers owner arrested, pleads no contest in prostitution sting at Ohio trailer park",
-      "url": "https://sfstandard.com/2026/08/24/report-san-francisco-49ers-owner-jed-york-arrested-ohio/"
+      "title": "Sponsored: Stop scammers from ruining your school year: helpful tips to stay safe",
+      "url": "https://sfstandard.com/sponsored/back-to-school-scam-protection-tips/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 56. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1787626812,
+  "text": "high 62, low 56. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1787636685,
   "version": 1
 }
