@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-23T14:36:40-07:00",
+  "generated_at": "2026-08-23T18:57:54-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "AI robotics companies love San Francisco. They're just too big to stay",
-      "url": "https://sfstandard.com/2026/08/23/ai-robotics-san-francisco-bright-machines/"
+      "title": "Search warrants are supposed to be secret. Why was Eric Swalwell's public?",
+      "url": "https://sfstandard.com/2026/08/23/eric-swalwell-search-warrant-investigation-powerplay/"
     },
     {
       "source": "NPR",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "How MLB's looming lockout will shape the Giants' decisions on prospect promotions",
-      "url": "https://sfstandard.com/2026/08/23/bo-davidson-sf-giants-debut-parks-harber/"
+      "title": "49ers stars align: With Kittle and McCaffrey back at practice, Purdy fires away",
+      "url": "https://sfstandard.com/2026/08/23/george-kittle-49ers-rams-pup-list/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 55. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1787549800,
+  "text": "high 68, low 55. best outside window: 6pm to 12am",
+  "valid_until_epoch": 1787565474,
   "version": 1
 }
