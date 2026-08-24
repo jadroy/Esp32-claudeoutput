@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-24T06:13:40-07:00",
+  "generated_at": "2026-08-24T08:56:15-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Kawakami: Draft hits, McCaffrey clarity, and more we've learned from 49ers camp",
-      "url": "https://sfstandard.com/2026/08/24/christian-mccaffrey-49ers-what-we-learned-training-camp/"
+      "title": "Report: San Francisco 49ers owner Jed York arrested in Ohio",
+      "url": "https://sfstandard.com/2026/08/24/report-san-francisco-49ers-owner-jed-york-arrested-ohio/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
-      "url": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss"
+      "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "San Francisco cut red tape to spur development. Is the market catching up?",
-      "url": "https://sfstandard.com/2026/08/24/san-francisco-rents-housing-boom/"
+      "title": "Kawakami: Draft hits, McCaffrey clarity, and more we've learned from 49ers camp",
+      "url": "https://sfstandard.com/2026/08/24/christian-mccaffrey-49ers-what-we-learned-training-camp/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 55. best outside window: 6am to 12am",
-  "valid_until_epoch": 1787606020,
+  "text": "high 62, low 56. best outside window: 8am to 12am",
+  "valid_until_epoch": 1787615775,
   "version": 1
 }
