@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-24T00:29:11-07:00",
+  "generated_at": "2026-08-24T03:04:45-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
-      "url": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages"
+      "title": "Washington, D.C.'s first IndyCar race packed the National Mall",
+      "url": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall"
     },
     {
       "source": "BBC",
-      "title": "Families of two police officers killed in crash say they were heroes",
-      "url": "https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss"
+      "title": "Social media firms should remove dangerous driving videos, minister says",
+      "url": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 55. best outside window: 12am to 12am",
-  "valid_until_epoch": 1787585351,
+  "text": "high 61, low 55. best outside window: 3am to 12am",
+  "valid_until_epoch": 1787594685,
   "version": 1
 }
