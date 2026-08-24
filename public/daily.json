@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-24T08:56:15-07:00",
+  "generated_at": "2026-08-24T12:00:12-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Report: San Francisco 49ers owner Jed York arrested in Ohio",
-      "url": "https://sfstandard.com/2026/08/24/report-san-francisco-49ers-owner-jed-york-arrested-ohio/"
+      "title": "How the NFL can punish Jed York and the 49ers after the owner's arrest",
+      "url": "https://sfstandard.com/2026/08/24/jed-york-49ers-arrest-nfl-punishment/"
     },
     {
       "source": "NPR",
-      "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
+      "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions on Iran",
       "url": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran"
     },
     {
       "source": "BBC",
-      "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
+      "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
+      "url": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Kawakami: Draft hits, McCaffrey clarity, and more we've learned from 49ers camp",
-      "url": "https://sfstandard.com/2026/08/24/christian-mccaffrey-49ers-what-we-learned-training-camp/"
+      "title": "49ers owner arrested, pleads no contest in prostitution sting at Ohio trailer park",
+      "url": "https://sfstandard.com/2026/08/24/report-san-francisco-49ers-owner-jed-york-arrested-ohio/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 56. best outside window: 8am to 12am",
-  "valid_until_epoch": 1787615775,
+  "text": "high 62, low 56. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1787626812,
   "version": 1
 }
