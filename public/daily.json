@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-24T03:04:45-07:00",
+  "generated_at": "2026-08-24T06:13:40-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Search warrants are supposed to be secret. Why was Eric Swalwell's public?",
-      "url": "https://sfstandard.com/2026/08/23/eric-swalwell-search-warrant-investigation-powerplay/"
+      "title": "Kawakami: Draft hits, McCaffrey clarity, and more we've learned from 49ers camp",
+      "url": "https://sfstandard.com/2026/08/24/christian-mccaffrey-49ers-what-we-learned-training-camp/"
     },
     {
       "source": "NPR",
-      "title": "Washington, D.C.'s first IndyCar race packed the National Mall",
-      "url": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall"
+      "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
+      "url": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran"
     },
     {
       "source": "BBC",
-      "title": "Social media firms should remove dangerous driving videos, minister says",
+      "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
       "url": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "49ers stars align: With Kittle and McCaffrey back at practice, Purdy fires away",
-      "url": "https://sfstandard.com/2026/08/23/george-kittle-49ers-rams-pup-list/"
+      "title": "San Francisco cut red tape to spur development. Is the market catching up?",
+      "url": "https://sfstandard.com/2026/08/24/san-francisco-rents-housing-boom/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 55. best outside window: 3am to 12am",
-  "valid_until_epoch": 1787594685,
+  "text": "high 60, low 55. best outside window: 6am to 12am",
+  "valid_until_epoch": 1787606020,
   "version": 1
 }
