@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-24T18:52:53-07:00",
+  "generated_at": "2026-08-24T21:00:50-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -14,8 +14,8 @@
     },
     {
       "source": "BBC",
-      "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
-      "url": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss"
+      "title": "More than 70,000 social and affordable homes to be built across England as part of 39bn plan",
+      "url": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 56. best outside window: 6pm to 12am",
-  "valid_until_epoch": 1787651573,
+  "text": "high 64, low 56. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1787659250,
   "version": 1
 }
