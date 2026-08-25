@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-25T09:01:12-07:00",
+  "generated_at": "2026-08-25T11:57:42-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "China is burying the U.S. car industry. Tesla and Waymo are the last line of defense",
-      "url": "https://sfstandard.com/2026/08/25/china-evs-self-driving-tesla-waymo/"
+      "title": "Brandon Williams isn't a typical Warriors addition. Here's how he can help",
+      "url": "https://sfstandard.com/2026/08/25/brandon-williams-warriors-free-agent-signing/"
     },
     {
       "source": "NPR",
-      "title": "Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens",
-      "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs"
+      "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary"
     },
     {
       "source": "BBC",
-      "title": "Father's house rammed before son died in A66 crash",
-      "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss"
+      "title": "Dolly Parton: The life of a legendary country singer",
+      "url": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "An arrest, injuries, and a warrant: The 49ers' summer of chaos just keeps getting worse",
-      "url": "https://sfstandard.com/2026/08/25/arrest-injuries-warrant-49ers-summer-chaos-just-keeps-getting-worse/"
+      "title": "How the Valkyries finally conquered their greatest nemesis",
+      "url": "https://sfstandard.com/2026/08/25/golden-state-valkyries-valkatraz-defense-natalie-nakase/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "air-quality",
   "text": "air quality is unusually good (30). open the windows.",
-  "valid_until_epoch": 1787702472,
+  "valid_until_epoch": 1787713062,
   "version": 1
 }
