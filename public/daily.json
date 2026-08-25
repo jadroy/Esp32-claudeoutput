@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-25T06:11:48-07:00",
+  "generated_at": "2026-08-25T09:01:12-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,12 +9,12 @@
     },
     {
       "source": "NPR",
-      "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
-      "url": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy"
+      "title": "Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs"
     },
     {
       "source": "BBC",
-      "title": "Five more arrests in wrong-way crash investigation",
+      "title": "Father's house rammed before son died in A66 crash",
       "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -25,8 +25,8 @@
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
-  "source": "weather",
-  "text": "high 65, low 57. best outside window: 6am to 12am",
-  "valid_until_epoch": 1787692308,
+  "source": "air-quality",
+  "text": "air quality is unusually good (30). open the windows.",
+  "valid_until_epoch": 1787702472,
   "version": 1
 }
