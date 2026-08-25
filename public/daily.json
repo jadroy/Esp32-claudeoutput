@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-25T11:57:42-07:00",
+  "generated_at": "2026-08-25T14:44:37-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,12 +9,12 @@
     },
     {
       "source": "NPR",
-      "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
-      "url": "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary"
+      "title": "South Carolina U.S. senate runoff election will test Trump's endorsement",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement"
     },
     {
       "source": "BBC",
-      "title": "Dolly Parton: The life of a legendary country singer",
+      "title": "Dolly Parton: The life of an iconic country singer",
       "url": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -25,8 +25,8 @@
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
-  "source": "air-quality",
-  "text": "air quality is unusually good (30). open the windows.",
-  "valid_until_epoch": 1787713062,
+  "source": "weather",
+  "text": "high 64, low 57. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1787723077,
   "version": 1
 }
