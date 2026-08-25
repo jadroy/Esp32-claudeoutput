@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-25T00:09:02-07:00",
+  "generated_at": "2026-08-25T02:51:57-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
-      "url": "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires"
+      "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 56. best outside window: 12am to 12am",
-  "valid_until_epoch": 1787670542,
+  "text": "high 64, low 56. best outside window: 2am to 12am",
+  "valid_until_epoch": 1787680317,
   "version": 1
 }
