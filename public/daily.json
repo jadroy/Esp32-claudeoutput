@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-25T02:51:57-07:00",
+  "generated_at": "2026-08-25T06:11:48-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "$97M in Hunters Point settlements close fraud case. Safety, cleanup questions remain",
-      "url": "https://sfstandard.com/2026/08/24/hunters-point-tetra-tech-settlement-97-million/"
+      "title": "China is burying the U.S. car industry. Tesla and Waymo are the last line of defense",
+      "url": "https://sfstandard.com/2026/08/25/china-evs-self-driving-tesla-waymo/"
     },
     {
       "source": "NPR",
-      "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
-      "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
+      "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
+      "url": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy"
     },
     {
       "source": "BBC",
-      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
+      "title": "Five more arrests in wrong-way crash investigation",
+      "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "'Section 415' podcast: Details on Jed York's arrest and potential NFL discipline",
-      "url": "https://sfstandard.com/section-415/2026/08/24/section-415-podcast-details-jed-york-s-arrest-potential-nfl-discipline/"
+      "title": "An arrest, injuries, and a warrant: The 49ers' summer of chaos just keeps getting worse",
+      "url": "https://sfstandard.com/2026/08/25/arrest-injuries-warrant-49ers-summer-chaos-just-keeps-getting-worse/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 56. best outside window: 2am to 12am",
-  "valid_until_epoch": 1787680317,
+  "text": "high 65, low 57. best outside window: 6am to 12am",
+  "valid_until_epoch": 1787692308,
   "version": 1
 }
