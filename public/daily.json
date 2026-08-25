@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-24T14:44:45-07:00",
+  "generated_at": "2026-08-24T18:52:53-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Newsom lists his 'Santa Barbara-inspired' Sacramento home for $7.5M",
-      "url": "https://sfstandard.com/2026/08/24/gavin-newsom-sacramento-mansion-listed/"
+      "title": "$97M in Hunters Point settlements close fraud case. Safety, cleanup questions remain",
+      "url": "https://sfstandard.com/2026/08/24/hunters-point-tetra-tech-settlement-97-million/"
     },
     {
       "source": "NPR",
-      "title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
-      "url": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court"
+      "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
+      "url": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Sponsored: Stop scammers from ruining your school year: helpful tips to stay safe",
-      "url": "https://sfstandard.com/sponsored/back-to-school-scam-protection-tips/"
+      "title": "'Section 415' podcast: Details on Jed York's arrest and potential NFL discipline",
+      "url": "https://sfstandard.com/section-415/2026/08/24/section-415-podcast-details-jed-york-s-arrest-potential-nfl-discipline/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 56. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1787636685,
+  "text": "high 64, low 56. best outside window: 6pm to 12am",
+  "valid_until_epoch": 1787651573,
   "version": 1
 }
