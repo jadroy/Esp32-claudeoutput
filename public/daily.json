@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-24T21:00:50-07:00",
+  "generated_at": "2026-08-25T00:09:02-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
-      "url": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo"
+      "title": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires"
     },
     {
       "source": "BBC",
-      "title": "More than 70,000 social and affordable homes to be built across England as part of 39bn plan",
-      "url": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss"
+      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 56. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1787659250,
+  "text": "high 63, low 56. best outside window: 12am to 12am",
+  "valid_until_epoch": 1787670542,
   "version": 1
 }
