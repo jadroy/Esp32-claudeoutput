@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-25T14:44:37-07:00",
+  "generated_at": "2026-08-25T18:59:02-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Brandon Williams isn't a typical Warriors addition. Here's how he can help",
-      "url": "https://sfstandard.com/2026/08/25/brandon-williams-warriors-free-agent-signing/"
+      "title": "San Francisco wins fight over billions in Trump-threatened aid",
+      "url": "https://sfstandard.com/2026/08/25/hud-homeless-funding-conditions-blocked/"
     },
     {
       "source": "NPR",
-      "title": "South Carolina U.S. senate runoff election will test Trump's endorsement",
-      "url": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement"
+      "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "How the Valkyries finally conquered their greatest nemesis",
-      "url": "https://sfstandard.com/2026/08/25/golden-state-valkyries-valkatraz-defense-natalie-nakase/"
+      "title": "Kawakami: What happens to the 49ers if Jed York turns into an absentee owner?",
+      "url": "https://sfstandard.com/2026/08/25/jed-york-49ers-owner-absentee/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 57. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1787723077,
+  "text": "high 65, low 57. best outside window: 6pm to 12am",
+  "valid_until_epoch": 1787738342,
   "version": 1
 }
