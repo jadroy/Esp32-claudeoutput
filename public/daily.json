@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-26T02:58:07-07:00",
+  "generated_at": "2026-08-26T06:17:06-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "SFUSD's reading scores tick up - but district says real work lies ahead",
-      "url": "https://sfstandard.com/2026/08/25/sfusd-reading-outcomes/"
+      "title": "'He eviscerated my life's work': SF jeweler's shop destroyed by burglar",
+      "url": "https://sfstandard.com/2026/08/26/eviscerated-my-life-s-work-sf-jeweler-s-shop-destroyed-burglar/"
     },
     {
       "source": "NPR",
-      "title": "COMIC: 7 lifestyle habits that may boost your chances of getting pregnant",
-      "url": "https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy"
+      "title": "8 dead, hundreds missing as Nepal avalanche triggers flash floods",
+      "url": "https://www.npr.org/2026/08/26/g-s1-140211/8-dead-hundreds-missing-as-nepal-avalanche-triggers-flash-floods"
     },
     {
       "source": "BBC",
-      "title": "Watch: The life of an iconic country singer",
-      "url": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
+      "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
+      "url": "https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "California Forever's new city plan hits local resistance - but lawmakers could forge ahead",
-      "url": "https://sfstandard.com/2026/08/25/california-forever-sonoma-county-shipyard-billionaire/"
+      "title": "'We're sick of that nonsense': An Ohio town fights back after a 49ers owner's arrest",
+      "url": "https://sfstandard.com/2026/08/26/jed-york-arrest-east-palestine-wheat-hill-reaction/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 69, low 55. best outside window: 2am to 12am",
-  "valid_until_epoch": 1787767087,
+  "text": "high 71, low 55. best outside window: 6am to 12am",
+  "valid_until_epoch": 1787779026,
   "version": 1
 }
