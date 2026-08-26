@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-26T06:17:06-07:00",
+  "generated_at": "2026-08-26T09:34:00-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'He eviscerated my life's work': SF jeweler's shop destroyed by burglar",
-      "url": "https://sfstandard.com/2026/08/26/eviscerated-my-life-s-work-sf-jeweler-s-shop-destroyed-burglar/"
+      "title": "Meta reaches $18B settlement in Oakland teen safety trial",
+      "url": "https://sfstandard.com/2026/08/26/meta-reaches-18b-settlement-oakland-teen-safety-trial/"
     },
     {
       "source": "NPR",
-      "title": "8 dead, hundreds missing as Nepal avalanche triggers flash floods",
-      "url": "https://www.npr.org/2026/08/26/g-s1-140211/8-dead-hundreds-missing-as-nepal-avalanche-triggers-flash-floods"
+      "title": "Will Trump's latest beef plan make your hamburger cheaper? Not much, experts say",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5944265/ground-beef-trump-tariffs"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "'We're sick of that nonsense': An Ohio town fights back after a 49ers owner's arrest",
-      "url": "https://sfstandard.com/2026/08/26/jed-york-arrest-east-palestine-wheat-hill-reaction/"
+      "title": "'He eviscerated my life's work': SF jeweler's shop destroyed by burglar",
+      "url": "https://sfstandard.com/2026/08/26/eviscerated-my-life-s-work-sf-jeweler-s-shop-destroyed-burglar/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 71, low 55. best outside window: 6am to 12am",
-  "valid_until_epoch": 1787779026,
+  "text": "high 70, low 55. best outside window: 9am to 12am",
+  "valid_until_epoch": 1787790840,
   "version": 1
 }
