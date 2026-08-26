@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-26T00:09:24-07:00",
+  "generated_at": "2026-08-26T02:58:07-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,12 +9,12 @@
     },
     {
       "source": "NPR",
-      "title": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
-      "url": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash"
+      "title": "COMIC: 7 lifestyle habits that may boost your chances of getting pregnant",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy"
     },
     {
       "source": "BBC",
-      "title": "Dolly Parton: The life of an iconic country singer",
+      "title": "Watch: The life of an iconic country singer",
       "url": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 68, low 55. best outside window: 12am to 12am",
-  "valid_until_epoch": 1787756964,
+  "text": "high 69, low 55. best outside window: 2am to 12am",
+  "valid_until_epoch": 1787767087,
   "version": 1
 }
