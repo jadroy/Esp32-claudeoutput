@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-25T21:03:45-07:00",
+  "generated_at": "2026-08-26T00:09:24-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "San Francisco wins fight over billions in Trump-threatened aid",
-      "url": "https://sfstandard.com/2026/08/25/hud-homeless-funding-conditions-blocked/"
+      "title": "SFUSD's reading scores tick up - but district says real work lies ahead",
+      "url": "https://sfstandard.com/2026/08/25/sfusd-reading-outcomes/"
     },
     {
       "source": "NPR",
-      "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
-      "url": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial"
+      "title": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
+      "url": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Kawakami: What happens to the 49ers if Jed York turns into an absentee owner?",
-      "url": "https://sfstandard.com/2026/08/25/jed-york-49ers-owner-absentee/"
+      "title": "California Forever's new city plan hits local resistance - but lawmakers could forge ahead",
+      "url": "https://sfstandard.com/2026/08/25/california-forever-sonoma-county-shipyard-billionaire/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 57. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1787745825,
+  "text": "high 68, low 55. best outside window: 12am to 12am",
+  "valid_until_epoch": 1787756964,
   "version": 1
 }
