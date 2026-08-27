@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-26T13:03:21-07:00",
+  "generated_at": "2026-08-26T17:48:20-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "SF nonprofit paid out $5.6M without checking whether anyone did the work",
+      "url": "https://sfstandard.com/2026/08/26/san-francisco-nonprofit-jcyc-japantown-audit/"
+    },
+    {
+      "source": "NPR",
+      "title": "Drugstores say Medicare's $50 obesity drug program is catching on",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5940761/medicare-weight-loss-drugs"
+    },
+    {
+      "source": "BBC",
+      "title": "BBC visits hospital in Kathmandu as families wait for news",
+      "url": "https://www.bbc.co.uk/news/videos/c62mr6p1dydo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "SF Dems' probe can't resolve Yekutiel sex assault claim. The party may endorse him",
       "url": "https://sfstandard.com/2026/08/26/sf-dems-probe-can-t-resolve-yekutiel-sex-assault-claim-party-may-endorse/"
-    },
-    {
-      "source": "NPR",
-      "title": "Immigration arrests soar, hitting 50,000 in July",
-      "url": "https://www.npr.org/2026/08/26/nx-s1-5945127/immigration-arrests-record"
-    },
-    {
-      "source": "BBC",
-      "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
-      "url": "https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "New normal: Burning Man tickets on fire sale once again, cheaper than Outside Lands",
-      "url": "https://sfstandard.com/2026/08/26/burning-man-ticket-resale/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 68, low 55. best outside window: 1pm to 12am",
-  "valid_until_epoch": 1787803401,
+  "text": "high 68, low 55. best outside window: 5pm to 12am",
+  "valid_until_epoch": 1787820500,
   "version": 1
 }
