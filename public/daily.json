@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-27T07:13:52-07:00",
+  "generated_at": "2026-08-27T17:25:23-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Rize Up, San Francisco's first Black-owned sourdough bakery, is opening a cafe",
-      "url": "https://sfstandard.com/2026/08/27/rize-up-bakery-soma-cafe-open/"
+      "title": "Lurie touts settlement to fix neglected apartments, but tenants' trust is harder to repair",
+      "url": "https://sfstandard.com/2026/08/27/lurie-touts-settlement-fix-neglected-apartments-tenants-trust-harder-repair/"
     },
     {
       "source": "NPR",
-      "title": "Ratko Mladic, ex-Bosnian Serb warlord who oversaw atrocities in Bosnia, has died at 84",
-      "url": "https://www.npr.org/2026/08/27/nx-s1-5946375/ratko-mladic-dead"
+      "title": "The role of climate change in the Nepal floods",
+      "url": "https://www.npr.org/2026/08/27/nx-s1-5946703/the-role-of-climate-change-in-the-nepal-floods"
     },
     {
       "source": "BBC",
-      "title": "Watch: How the collapse of a glacier caused such devastation",
-      "url": "https://www.bbc.co.uk/news/videos/ckgxnrg8j19o?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: Tracing the deadly path of the Nepal-Tibet flash flood",
+      "url": "https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Super El Nino could batter SF's waterfront. It's his job to be ready",
-      "url": "https://sfstandard.com/2026/08/27/michael-martin-port-director-el-nino/"
+      "title": "'Section 415' podcast: Luck, Posey, and the Bay Area sports star-to-executive pipeline",
+      "url": "https://sfstandard.com/section-415/2026/08/27/section-415-podcast-luck-posey-bay-area-sports-star-executive-pipeline/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 71, low 56. best outside window: 7am to 12am",
-  "valid_until_epoch": 1787868832,
+  "text": "high 70, low 56. best outside window: 5pm to 12am",
+  "valid_until_epoch": 1787905523,
   "version": 1
 }
