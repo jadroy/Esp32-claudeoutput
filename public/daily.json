@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-27T17:25:23-07:00",
+  "generated_at": "2026-08-28T08:24:21-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Lurie touts settlement to fix neglected apartments, but tenants' trust is harder to repair",
-      "url": "https://sfstandard.com/2026/08/27/lurie-touts-settlement-fix-neglected-apartments-tenants-trust-harder-repair/"
+      "title": "Meta's settlement isn't the end of California's kid-safety fight",
+      "url": "https://sfstandard.com/2026/08/28/meta-kids-california-fight/"
     },
     {
       "source": "NPR",
-      "title": "The role of climate change in the Nepal floods",
-      "url": "https://www.npr.org/2026/08/27/nx-s1-5946703/the-role-of-climate-change-in-the-nepal-floods"
+      "title": "New Jersey is a fossil hotspot, with answers about the day the dinosaurs died",
+      "url": "https://www.npr.org/2024/08/16/g-s1-140898/paleontologist-ken-lacovara-and-the-fifth-extinction-that-killed-the-dinosaurs"
     },
     {
       "source": "BBC",
-      "title": "Watch: Tracing the deadly path of the Nepal-Tibet flash flood",
-      "url": "https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
+      "url": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "'Section 415' podcast: Luck, Posey, and the Bay Area sports star-to-executive pipeline",
-      "url": "https://sfstandard.com/section-415/2026/08/27/section-415-podcast-luck-posey-bay-area-sports-star-executive-pipeline/"
+      "title": "Art Agnos paid for SF's waterfront with his mayorship. Now it will bear his name",
+      "url": "https://sfstandard.com/2026/08/28/art-agnos-embarcadero-park/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 70, low 56. best outside window: 5pm to 12am",
-  "valid_until_epoch": 1787905523,
+  "text": "high 64, low 55. best outside window: 8am to 12am",
+  "valid_until_epoch": 1787959461,
   "version": 1
 }
