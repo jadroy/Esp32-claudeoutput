@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-29T13:56:18-07:00",
+  "generated_at": "2026-08-29T16:21:20-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
-      "url": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv"
+      "title": "Milo Yiannopoulos, far-right critic of U.S. immigration, is deported from U.S.",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5948731/milo-yiannopoulos-arrested-overstaying-us-visa"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 55. best outside window: 1pm to 12am",
-  "valid_until_epoch": 1788065778,
+  "text": "high 65, low 55. best outside window: 4pm to 12am",
+  "valid_until_epoch": 1788074480,
   "version": 1
 }
