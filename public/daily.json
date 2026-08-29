@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-29T03:06:44-07:00",
+  "generated_at": "2026-08-29T09:44:10-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "A Mid-Market building the city abandoned finds a new buyer",
-      "url": "https://sfstandard.com/2026/08/28/lighthouse-building-buyer-mid-market/"
+      "title": "Opinion: Cartoon: San Francisco's hot new real estate listing",
+      "url": "https://sfstandard.com/opinion/2026/08/29/cartoon-san-francisco-real-estate-market-bench/"
     },
     {
       "source": "NPR",
-      "title": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
-      "url": "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute"
+      "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv"
     },
     {
       "source": "BBC",
-      "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
-      "url": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss"
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The 49ers were the NFL's dream Australia ambassadors. Not anymore",
-      "url": "https://sfstandard.com/2026/08/28/san-francisco-49ers-melbourne-australia-nfl/"
+      "title": "I co-founded Burning Man. The festival has lost its soul.",
+      "url": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 53. best outside window: 3am to 12am",
-  "valid_until_epoch": 1788026804,
+  "text": "high 64, low 55. best outside window: 9am to 12am",
+  "valid_until_epoch": 1788050650,
   "version": 1
 }
