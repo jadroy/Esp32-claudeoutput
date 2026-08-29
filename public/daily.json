@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-28T18:45:29-07:00",
+  "generated_at": "2026-08-29T03:06:44-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Sae Joon Park, a Purple Heart veteran who self-deported, receives pardon",
-      "url": "https://www.npr.org/2026/08/28/nx-s1-5948185/south-korea-deported-veteran-sae-joon-park-pardon"
+      "title": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
+      "url": "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 56. best outside window: 6pm to 12am",
-  "valid_until_epoch": 1787996729,
+  "text": "high 64, low 53. best outside window: 3am to 12am",
+  "valid_until_epoch": 1788026804,
   "version": 1
 }
