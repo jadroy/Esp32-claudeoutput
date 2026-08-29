@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-28T08:24:21-07:00",
+  "generated_at": "2026-08-28T18:45:29-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Meta's settlement isn't the end of California's kid-safety fight",
-      "url": "https://sfstandard.com/2026/08/28/meta-kids-california-fight/"
+      "title": "A Mid-Market building the city abandoned finds a new buyer",
+      "url": "https://sfstandard.com/2026/08/28/lighthouse-building-buyer-mid-market/"
     },
     {
       "source": "NPR",
-      "title": "New Jersey is a fossil hotspot, with answers about the day the dinosaurs died",
-      "url": "https://www.npr.org/2024/08/16/g-s1-140898/paleontologist-ken-lacovara-and-the-fifth-extinction-that-killed-the-dinosaurs"
+      "title": "Sae Joon Park, a Purple Heart veteran who self-deported, receives pardon",
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5948185/south-korea-deported-veteran-sae-joon-park-pardon"
     },
     {
       "source": "BBC",
-      "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
-      "url": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss"
+      "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
+      "url": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Art Agnos paid for SF's waterfront with his mayorship. Now it will bear his name",
-      "url": "https://sfstandard.com/2026/08/28/art-agnos-embarcadero-park/"
+      "title": "The 49ers were the NFL's dream Australia ambassadors. Not anymore",
+      "url": "https://sfstandard.com/2026/08/28/san-francisco-49ers-melbourne-australia-nfl/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 55. best outside window: 8am to 12am",
-  "valid_until_epoch": 1787959461,
+  "text": "high 63, low 56. best outside window: 6pm to 12am",
+  "valid_until_epoch": 1787996729,
   "version": 1
 }
