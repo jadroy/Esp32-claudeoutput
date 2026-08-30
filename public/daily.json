@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-30T04:56:00-07:00",
+  "generated_at": "2026-08-30T09:42:10-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Opinion: Cartoon: San Francisco's hot new real estate listing",
-      "url": "https://sfstandard.com/opinion/2026/08/29/cartoon-san-francisco-real-estate-market-bench/"
+      "title": "AI is having a 'bonkers,' complicated impact on SF, city experts say",
+      "url": "https://sfstandard.com/2026/08/30/ai-having-bonkers-complicated-impact-sf-city-experts-say/"
     },
     {
       "source": "NPR",
-      "title": "Are you sure that Kimmel clip was real? Late-night AI deepfakes are spreading online",
-      "url": "https://www.npr.org/2026/08/30/nx-s1-5943190/jimmy-kimmel-deepfake-jon-stewart-abc-ai"
+      "title": "Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'",
+      "url": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "I co-founded Burning Man. The festival has lost its soul.",
-      "url": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/"
+      "title": "Barry Bonds and Jeff Kent explain their healing hug: 'Replaying the whole dugout thing'",
+      "url": "https://sfstandard.com/2026/08/30/barry-bonds-jeff-kent-sf-giants-hug/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 54. best outside window: 4am to 12am",
-  "valid_until_epoch": 1788119760,
+  "text": "high 63, low 55. best outside window: 9am to 12am",
+  "valid_until_epoch": 1788136930,
   "version": 1
 }
