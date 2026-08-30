@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-30T09:42:10-07:00",
+  "generated_at": "2026-08-30T14:07:33-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -14,8 +14,8 @@
     },
     {
       "source": "BBC",
-      "title": "PC Harper's killers to stay in jail as PM announces changes to early release scheme",
-      "url": "https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss"
+      "title": "Prisoners freed early are returning to jail at rapid rate, governors tell BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c14dlm5e22ko?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 55. best outside window: 9am to 12am",
-  "valid_until_epoch": 1788136930,
+  "text": "high 61, low 54. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1788152853,
   "version": 1
 }
