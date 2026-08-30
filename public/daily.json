@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-29T16:21:20-07:00",
+  "generated_at": "2026-08-29T22:25:56-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Milo Yiannopoulos, far-right critic of U.S. immigration, is deported from U.S.",
-      "url": "https://www.npr.org/2026/08/29/nx-s1-5948731/milo-yiannopoulos-arrested-overstaying-us-visa"
+      "title": "Icelanders vote on whether they want to join the EU",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5948759/iceland-european-union-referendum-vote"
     },
     {
       "source": "BBC",
-      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
+      "title": "PC Harper's killers to stay in jail as PM announces changes to early release scheme",
+      "url": "https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 55. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1788074480,
+  "text": "high 66, low 55. best outside window: 10pm to 12am",
+  "valid_until_epoch": 1788096356,
   "version": 1
 }
