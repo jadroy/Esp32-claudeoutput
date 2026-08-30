@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-30T14:07:33-07:00",
+  "generated_at": "2026-08-30T16:30:52-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 54. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1788152853,
+  "text": "high 62, low 54. best outside window: 4pm to 12am",
+  "valid_until_epoch": 1788161452,
   "version": 1
 }
