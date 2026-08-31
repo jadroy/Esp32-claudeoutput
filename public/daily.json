@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-30T22:37:33-07:00",
+  "generated_at": "2026-08-31T06:54:05-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "A Flock employee helped block the SF Democratic Party's anti-Flock vote",
-      "url": "https://sfstandard.com/2026/08/30/power-play-flock-democrat-newsom-yimby/"
+      "title": "Inside the 49ers' changing power structure: Here's who's calling the shots",
+      "url": "https://sfstandard.com/2026/08/31/49ers-power-structure-jed-york-al-guido-john-lynch/"
     },
     {
       "source": "NPR",
-      "title": "Arizona's taps won't run dry, but water bills will go up under federal plan for Colorado River",
-      "url": "https://www.npr.org/2026/08/31/nx-s1-5945480/arizonas-taps-wont-run-dry-but-water-bills-will-go-up-under-federal-plan-for-colorado-river"
+      "title": "Nepal's hesitance to accept foreign help for flood relief under scrutiny",
+      "url": "https://www.npr.org/2026/08/31/nx-s1-5949971/nepals-hesitance-help-flood"
     },
     {
       "source": "BBC",
-      "title": "Prisoners freed early are returning to jail at rapid rate, governors tell BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c14dlm5e22ko?at_medium=RSS&at_campaign=rss"
+      "title": "Once a village, now barren land - BBC in the valley devastated by floods",
+      "url": "https://www.bbc.co.uk/news/videos/c0m3197yxzmo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "49ers set 53-man roster: Who's on the team and why changes are expected",
-      "url": "https://sfstandard.com/2026/08/30/49ers-53-man-roster-set-surprises-cuts/"
+      "title": "AI's new frontier: Why Anthropic employees are pouring cash into Alaska governor's race",
+      "url": "https://sfstandard.com/2026/08/31/anthropic-employees-alaska-governor-race-kreiss-tomkins/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 54. best outside window: 10pm to 12am",
-  "valid_until_epoch": 1788183453,
+  "text": "high 60, low 55. best outside window: 6am to 12am",
+  "valid_until_epoch": 1788213245,
   "version": 1
 }
