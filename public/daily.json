@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-31T06:54:05-07:00",
+  "generated_at": "2026-08-31T13:50:31-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "A Stanford coach, the 'Tokyo Toe,' and a shared NFL dream that's now on hold",
+      "url": "https://sfstandard.com/2026/08/31/kansei-matsuzawa-cut-tokyo-toe-raiders/"
+    },
+    {
+      "source": "NPR",
+      "title": "The U.S. sues Amazon again",
+      "url": "https://www.npr.org/2026/08/31/nx-s1-5950482/ftc-amazon-advertising-lawsuit"
+    },
+    {
+      "source": "BBC",
+      "title": "Mel Stride and Priti Patel replaced in major Tory reshuffle",
+      "url": "https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Inside the 49ers' changing power structure: Here's who's calling the shots",
       "url": "https://sfstandard.com/2026/08/31/49ers-power-structure-jed-york-al-guido-john-lynch/"
-    },
-    {
-      "source": "NPR",
-      "title": "Nepal's hesitance to accept foreign help for flood relief under scrutiny",
-      "url": "https://www.npr.org/2026/08/31/nx-s1-5949971/nepals-hesitance-help-flood"
-    },
-    {
-      "source": "BBC",
-      "title": "Once a village, now barren land - BBC in the valley devastated by floods",
-      "url": "https://www.bbc.co.uk/news/videos/c0m3197yxzmo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "AI's new frontier: Why Anthropic employees are pouring cash into Alaska governor's race",
-      "url": "https://sfstandard.com/2026/08/31/anthropic-employees-alaska-governor-race-kreiss-tomkins/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 55. best outside window: 6am to 12am",
-  "valid_until_epoch": 1788213245,
+  "text": "high 60, low 55. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1788238231,
   "version": 1
 }
