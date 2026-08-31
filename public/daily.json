@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-30T16:30:52-07:00",
+  "generated_at": "2026-08-30T22:37:33-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "AI is having a 'bonkers,' complicated impact on SF, city experts say",
-      "url": "https://sfstandard.com/2026/08/30/ai-having-bonkers-complicated-impact-sf-city-experts-say/"
+      "title": "A Flock employee helped block the SF Democratic Party's anti-Flock vote",
+      "url": "https://sfstandard.com/2026/08/30/power-play-flock-democrat-newsom-yimby/"
     },
     {
       "source": "NPR",
-      "title": "Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'",
-      "url": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google"
+      "title": "Arizona's taps won't run dry, but water bills will go up under federal plan for Colorado River",
+      "url": "https://www.npr.org/2026/08/31/nx-s1-5945480/arizonas-taps-wont-run-dry-but-water-bills-will-go-up-under-federal-plan-for-colorado-river"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Barry Bonds and Jeff Kent explain their healing hug: 'Replaying the whole dugout thing'",
-      "url": "https://sfstandard.com/2026/08/30/barry-bonds-jeff-kent-sf-giants-hug/"
+      "title": "49ers set 53-man roster: Who's on the team and why changes are expected",
+      "url": "https://sfstandard.com/2026/08/30/49ers-53-man-roster-set-surprises-cuts/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 54. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1788161452,
+  "text": "high 62, low 54. best outside window: 10pm to 12am",
+  "valid_until_epoch": 1788183453,
   "version": 1
 }
