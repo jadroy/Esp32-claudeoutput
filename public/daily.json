@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-08-31T17:37:58-07:00",
+  "generated_at": "2026-09-01T01:40:47-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "49ers roster gymnastics: How they're building as much depth as possible before Australia",
+      "url": "https://sfstandard.com/2026/08/31/49ers-roster-cuts-practice-squad-signings/"
+    },
+    {
+      "source": "NPR",
+      "title": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
+      "url": "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal"
+    },
+    {
+      "source": "BBC",
+      "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
+      "url": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Mayor moves to overhaul $500M in homelessness contracts",
       "url": "https://sfstandard.com/2026/08/31/lurie-moves-overhaul-500m-homelessness-contracts/"
-    },
-    {
-      "source": "NPR",
-      "title": "Trump officials cut political interference ban after unusual Census Bureau report",
-      "url": "https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity"
-    },
-    {
-      "source": "BBC",
-      "title": "Mel Stride and Priti Patel replaced in major Tory reshuffle",
-      "url": "https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "A Stanford coach, the 'Tokyo Toe,' and a shared NFL dream that's now on hold",
-      "url": "https://sfstandard.com/2026/08/31/kansei-matsuzawa-cut-tokyo-toe-raiders/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 55. best outside window: 5pm to 12am",
-  "valid_until_epoch": 1788251878,
+  "text": "high 65, low 57. best outside window: 1am to 12am",
+  "valid_until_epoch": 1788280847,
   "version": 1
 }
