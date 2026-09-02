@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-02T09:35:41-07:00",
+  "generated_at": "2026-09-02T14:04:26-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Firefighters rescue person trapped inside garbage truck in Union Square",
-      "url": "https://sfstandard.com/2026/09/02/firefighters-work-rescue-person-garbage-truck-union-square/"
+      "title": "Did AI crack the Zodiac case? A best-selling novelist thinks so",
+      "url": "https://sfstandard.com/2026/09/02/michael-connelly-zodiac-killer-black-dahlia-podcast/"
     },
     {
       "source": "NPR",
-      "title": "Understanding the tech giants' oversized influence in American schools",
-      "url": "https://www.npr.org/2026/09/02/nx-s1-5953878/understanding-the-tech-giants-oversized-influence-in-american-schools"
+      "title": "The IRS slashed its staff. One result? More taxes going uncollected",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5954022/irs-tax-collection-job-reductions"
     },
     {
       "source": "BBC",
-      "title": "Burnham's PMQs debut shows the challenge of delivering new style of politics",
-      "url": "https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss"
+      "title": "Burnham pressed on economy at first PMQs as borrowing costs surge",
+      "url": "https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The latest tech billboard trend? Anti-AI graffiti",
-      "url": "https://sfstandard.com/2026/09/02/anti-ai-billboard-graffiti/"
+      "title": "Former Warriors employees sue franchise, alleging culture 'marked by discrimination'",
+      "url": "https://sfstandard.com/2026/09/02/warriors-employees-lawsuit-discrimination-retaliation/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 56. best outside window: 9am to 12am",
-  "valid_until_epoch": 1788395741,
+  "text": "high 66, low 56. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1788411866,
   "version": 1
 }
