@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-01T21:36:41-07:00",
+  "generated_at": "2026-09-02T04:20:31-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Incumbent Sen. Ed Markey wins Massachusetts' Democratic primary for US Senate",
-      "url": "https://www.npr.org/2026/09/01/nx-s1-5953111/ed-markey-wins-massachusetts-democratic-primary-us-senate-seth-moulton"
+      "title": "India's prime minister is wooing the GenZ while cracking down on them",
+      "url": "https://www.npr.org/2026/09/02/g-s1-141512/india-genz-protests"
     },
     {
       "source": "BBC",
-      "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
-      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss"
+      "title": "Four charged with murder after baby stabbed to death",
+      "url": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 56. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1788352601,
+  "text": "high 66, low 55. best outside window: 4am to 12am",
+  "valid_until_epoch": 1788376831,
   "version": 1
 }
