@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-02T14:04:26-07:00",
+  "generated_at": "2026-09-02T16:19:42-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Did AI crack the Zodiac case? A best-selling novelist thinks so",
-      "url": "https://sfstandard.com/2026/09/02/michael-connelly-zodiac-killer-black-dahlia-podcast/"
+      "title": "Traffic alert: Part of Highway 101 in SF closes for Labor Day",
+      "url": "https://sfstandard.com/2026/09/02/traffic-alert-part-highway-101-sf-closes-labor-day/"
     },
     {
       "source": "NPR",
-      "title": "The IRS slashed its staff. One result? More taxes going uncollected",
-      "url": "https://www.npr.org/2026/09/02/nx-s1-5954022/irs-tax-collection-job-reductions"
+      "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5954825/nba-suspends-clippers-owner-ballmer-fines-team-30m-kawhi-leonard-700k-in-cap-circumvention-case"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Former Warriors employees sue franchise, alleging culture 'marked by discrimination'",
-      "url": "https://sfstandard.com/2026/09/02/warriors-employees-lawsuit-discrimination-retaliation/"
+      "title": "City moves ahead with OpenGov software extension worth up to $38.9M",
+      "url": "https://sfstandard.com/2026/09/02/san-francisco-opengov-daniel-lurie-contract-software/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 56. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1788411866,
+  "text": "high 68, low 56. best outside window: 4pm to 12am",
+  "valid_until_epoch": 1788419982,
   "version": 1
 }
