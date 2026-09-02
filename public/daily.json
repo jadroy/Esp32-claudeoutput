@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-01T16:19:22-07:00",
+  "generated_at": "2026-09-01T21:36:41-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "'A form of torture': SFO travelers grapple with hidden airport detention center",
+      "url": "https://sfstandard.com/2026/09/01/sfo-hidden-detention-center/"
+    },
+    {
+      "source": "NPR",
+      "title": "Incumbent Sen. Ed Markey wins Massachusetts' Democratic primary for US Senate",
+      "url": "https://www.npr.org/2026/09/01/nx-s1-5953111/ed-markey-wins-massachusetts-democratic-primary-us-senate-seth-moulton"
+    },
+    {
+      "source": "BBC",
+      "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "'Section 415' podcast: The Giants' partnership with Kalshi is part of a dangerous trend",
       "url": "https://sfstandard.com/section-415/2026/09/01/section-415-podcast-giants-partnership-kalshi-part-dangerous-trend/"
-    },
-    {
-      "source": "NPR",
-      "title": "North Carolina Rep. Chuck Edwards is formally censured over harassment allegations",
-      "url": "https://www.npr.org/2026/09/01/nx-s1-5951561/chuck-edwards-house-censure-vote"
-    },
-    {
-      "source": "BBC",
-      "title": "Burnham promises more devolution and public control of essential services",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "'Discrimination comes with a price': Accused of antisemitism, Oakland coffee shop closes",
-      "url": "https://sfstandard.com/2026/09/01/discrimination-comes-price-accused-antisemitism-oakland-coffee-shop-closes/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 56. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1788333562,
+  "text": "high 66, low 56. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1788352601,
   "version": 1
 }
