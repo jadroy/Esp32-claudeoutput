@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-02T16:19:42-07:00",
+  "generated_at": "2026-09-02T21:35:01-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Traffic alert: Part of Highway 101 in SF closes for Labor Day",
-      "url": "https://sfstandard.com/2026/09/02/traffic-alert-part-highway-101-sf-closes-labor-day/"
+      "title": "Manny Yekutiel has a moonshot idea. Actually, make that two",
+      "url": "https://sfstandard.com/2026/09/02/power-play-manny-yekutiel-ballots-scott-wiener-connie-chan/"
     },
     {
       "source": "NPR",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "City moves ahead with OpenGov software extension worth up to $38.9M",
-      "url": "https://sfstandard.com/2026/09/02/san-francisco-opengov-daniel-lurie-contract-software/"
+      "title": "Traffic alert: Part of Highway 101 in SF closes for Labor Day",
+      "url": "https://sfstandard.com/2026/09/02/traffic-alert-part-highway-101-sf-closes-labor-day/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 68, low 56. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1788419982,
+  "text": "high 68, low 56. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1788438901,
   "version": 1
 }
