@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-03T09:26:34-07:00",
+  "generated_at": "2026-09-03T14:03:21-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Warriors intel: Why Golden State isn't stressed about Steph Curry's extension talks",
-      "url": "https://sfstandard.com/2026/09/03/stephen-curry-warriors-extension-mike-dunleavy/"
+      "title": "Crypto billionaire Chris Larsen drops unprecedented $500K on SF district race",
+      "url": "https://sfstandard.com/2026/09/03/larsen-half-million-donation-supporting-ellington-supervisor/"
     },
     {
       "source": "NPR",
-      "title": "Dems demand DHS fund election security. And, journalist Gloria Steinem has died",
-      "url": "https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem"
+      "title": "Trump asks Supreme Court to lift block on USPS plan to restrict mail voting",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps"
     },
     {
       "source": "BBC",
-      "title": "Burnham and Macron discuss small boats and bringing UK closer to Europe",
+      "title": "Burnham and Macron agree to scale up action on small boats in first meeting",
       "url": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "SoMa is San Francisco's rise and fall, all at once",
-      "url": "https://sfstandard.com/2026/09/03/soma-san-francisco-s-rise-fall-all-once/"
+      "title": "In wake of arrest aboard yacht, Sausalito city manager calls it quits",
+      "url": "https://sfstandard.com/2026/09/03/wake-arrest-aboard-yacht-sausalito-city-manager-resigns-yacht-arrest/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 55. best outside window: 9am to 5pm",
-  "valid_until_epoch": 1788481594,
+  "text": "high 65, low 57. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1788498201,
   "version": 1
 }
