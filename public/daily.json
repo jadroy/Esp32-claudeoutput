@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-02T21:35:01-07:00",
+  "generated_at": "2026-09-03T04:16:40-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case",
-      "url": "https://www.npr.org/2026/09/02/nx-s1-5954825/nba-suspends-clippers-owner-ballmer-fines-team-30m-kawhi-leonard-700k-in-cap-circumvention-case"
+      "title": "Gloria Steinem, trailblazing journalist and activist, dies at 92",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5718381/gloria-steinem-dies"
     },
     {
       "source": "BBC",
-      "title": "Burnham pressed on economy at first PMQs as borrowing costs surge",
-      "url": "https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss"
+      "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+      "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 68, low 56. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1788438901,
+  "text": "high 66, low 56. best outside window: 4am to 12am",
+  "valid_until_epoch": 1788463000,
   "version": 1
 }
