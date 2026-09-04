@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-03T16:17:24-07:00",
+  "generated_at": "2026-09-03T21:35:55-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Crypto billionaire Chris Larsen drops $500K on SF district race",
-      "url": "https://sfstandard.com/2026/09/03/larsen-half-million-donation-supporting-ellington-supervisor/"
+      "title": "Chonkers, is that you? A massive sea lion returns to Pier 39",
+      "url": "https://sfstandard.com/2026/09/03/new-chonkers-sea-lion-pier39-sf/"
     },
     {
       "source": "NPR",
-      "title": "Leon Black defies subpoena to testify in Epstein inquiry and sues House panel",
-      "url": "https://www.npr.org/2026/09/03/nx-s1-5955643/leon-black-jeffrey-epstein-lawsuit"
+      "title": "The Trump administration still aims to make state citizenship lists ahead of midterms",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5955822/voting-citizenship-lists-dhs-uscis-lawsuit"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "In wake of arrest aboard yacht, Sausalito city manager calls it quits",
-      "url": "https://sfstandard.com/2026/09/03/wake-arrest-aboard-yacht-sausalito-city-manager-resigns-yacht-arrest/"
+      "title": "Police commission delays vote on drone rules over privacy and data-sharing concerns",
+      "url": "https://sfstandard.com/2026/09/03/police-commission-delays-new-drone-rules-privacy-data-sharing-concerns/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 58. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1788506244,
+  "text": "high 66, low 58. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1788525355,
   "version": 1
 }
