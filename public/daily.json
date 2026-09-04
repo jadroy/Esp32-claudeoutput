@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-04T09:22:40-07:00",
+  "generated_at": "2026-09-04T13:46:36-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "Revisiting the Patrick Bailey trade: How Buster Posey's bold move looks 4 months later",
+      "url": "https://sfstandard.com/2026/09/04/patrick-bailey-trade-sf-giants-catcher-depth/"
+    },
+    {
+      "source": "NPR",
+      "title": "Whatever happened to the U.S. campaign to ban child marriage?",
+      "url": "https://www.npr.org/2026/09/04/g-s1-141468/child-marriage-united-states-india-global"
+    },
+    {
+      "source": "BBC",
+      "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
+      "url": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Inside the vault: A rare look at where the Bay Area's cash lives and dies",
       "url": "https://sfstandard.com/2026/09/04/san-francisco-federal-reserve-inside-look/"
-    },
-    {
-      "source": "NPR",
-      "title": "Pulling the SNAP lever + Why Gen Zers bet (invest?) differently",
-      "url": "https://www.npr.org/2026/09/04/nx-s1-5955821/pulling-the-snap-lever-why-gen-zers-bet-invest-differently"
-    },
-    {
-      "source": "BBC",
-      "title": "Farage says his aides' donor comments were 'loose pub talk'",
-      "url": "https://www.bbc.co.uk/news/articles/c3eqvyj5qg5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "Sold but true: Lars Ulrich's Bay Area real estate sales just drummed up $84 million",
-      "url": "https://sfstandard.com/2026/09/04/lars-ulrich-sold-bay-area-properties/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 55. best outside window: 9am to 12am",
-  "valid_until_epoch": 1788567760,
+  "text": "high 66, low 55. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1788583596,
   "version": 1
 }
