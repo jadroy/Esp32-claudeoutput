@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-04T13:46:36-07:00",
+  "generated_at": "2026-09-04T16:03:15-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Revisiting the Patrick Bailey trade: How Buster Posey's bold move looks 4 months later",
-      "url": "https://sfstandard.com/2026/09/04/patrick-bailey-trade-sf-giants-catcher-depth/"
+      "title": "Historic SF office building sells at a big discount",
+      "url": "https://sfstandard.com/2026/09/04/historic-downtown-office-building-sale-montgomery/"
     },
     {
       "source": "NPR",
-      "title": "Whatever happened to the U.S. campaign to ban child marriage?",
-      "url": "https://www.npr.org/2026/09/04/g-s1-141468/child-marriage-united-states-india-global"
+      "title": "The U.N. backs a new world map showing Africa in its true relative size",
+      "url": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Inside the vault: A rare look at where the Bay Area's cash lives and dies",
-      "url": "https://sfstandard.com/2026/09/04/san-francisco-federal-reserve-inside-look/"
+      "title": "Anthropic called SFPD over threat against CEO. Claude user says it was a misunderstanding",
+      "url": "https://sfstandard.com/2026/09/04/anthropic-threat-claude-sfpd/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 55. best outside window: 1pm to 12am",
-  "valid_until_epoch": 1788583596,
+  "text": "high 67, low 54. best outside window: 4pm to 12am",
+  "valid_until_epoch": 1788591795,
   "version": 1
 }
