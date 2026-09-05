@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-04T16:03:15-07:00",
+  "generated_at": "2026-09-04T21:32:03-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -14,8 +14,8 @@
     },
     {
       "source": "BBC",
-      "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
-      "url": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss"
+      "title": "Cleveland police chief proud of force but being 'let down' by funding",
+      "url": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 54. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1788591795,
+  "text": "high 67, low 55. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1788611523,
   "version": 1
 }
