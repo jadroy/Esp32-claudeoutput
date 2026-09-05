@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-05T13:22:25-07:00",
+  "generated_at": "2026-09-05T15:55:03-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
-      "url": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted"
+      "title": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 69, low 53. best outside window: 1pm to 12am",
-  "valid_until_epoch": 1788668545,
+  "text": "high 69, low 53. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1788677703,
   "version": 1
 }
