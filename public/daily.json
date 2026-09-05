@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-05T10:23:00-07:00",
+  "generated_at": "2026-09-05T13:22:25-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -14,8 +14,8 @@
     },
     {
       "source": "BBC",
-      "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
-      "url": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss"
+      "title": "US envoys meet Putin in Moscow for Ukraine talks",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 53. best outside window: 10am to 12am",
-  "valid_until_epoch": 1788657780,
+  "text": "high 69, low 53. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1788668545,
   "version": 1
 }
