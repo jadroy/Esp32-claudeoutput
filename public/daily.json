@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-04T21:32:03-07:00",
+  "generated_at": "2026-09-05T03:37:11-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "The U.N. backs a new world map showing Africa in its true relative size",
-      "url": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote"
+      "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 55. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1788611523,
+  "text": "high 66, low 55. best outside window: 3am to 12am",
+  "valid_until_epoch": 1788633431,
   "version": 1
 }
