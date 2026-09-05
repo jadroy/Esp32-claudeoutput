@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-05T03:37:11-07:00",
+  "generated_at": "2026-09-05T08:15:42-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Historic SF office building sells at a big discount",
-      "url": "https://sfstandard.com/2026/09/04/historic-downtown-office-building-sale-montgomery/"
+      "title": "A West Portal project doubled in size. It's the latest in SF's 'F your feelings' era",
+      "url": "https://sfstandard.com/2026/09/05/west-portal-empire-theater-development-businesses/"
     },
     {
       "source": "NPR",
-      "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
-      "url": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending"
+      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted"
     },
     {
       "source": "BBC",
-      "title": "Cleveland police chief proud of force but being 'let down' by funding",
-      "url": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss"
+      "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
+      "url": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Anthropic called SFPD over threat against CEO. Claude user says it was a misunderstanding",
-      "url": "https://sfstandard.com/2026/09/04/anthropic-threat-claude-sfpd/"
+      "title": "Opinion: Cartoon: The last human job in SF",
+      "url": "https://sfstandard.com/opinion/2026/09/05/ai-jobs-billboards-cartoon/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 55. best outside window: 3am to 12am",
-  "valid_until_epoch": 1788633431,
+  "text": "high 67, low 53. best outside window: 8am to 12am",
+  "valid_until_epoch": 1788650142,
   "version": 1
 }
