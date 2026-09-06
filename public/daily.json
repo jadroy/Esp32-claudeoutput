@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-06T13:25:20-07:00",
+  "generated_at": "2026-09-06T15:53:47-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,12 +9,12 @@
     },
     {
       "source": "NPR",
-      "title": "German exit polls suggest far-right party has big lead in regional election",
-      "url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit"
+      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport"
     },
     {
       "source": "BBC",
-      "title": "German far-right set for big win in eastern state, projections show",
+      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
       "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 56. best outside window: 1pm to 12am",
-  "valid_until_epoch": 1788755120,
+  "text": "high 66, low 56. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1788764027,
   "version": 1
 }
