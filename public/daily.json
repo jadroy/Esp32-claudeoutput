@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-06T03:59:17-07:00",
+  "generated_at": "2026-09-06T08:29:10-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "A West Portal project doubled in size. It's the latest in SF's 'F your feelings' era",
-      "url": "https://sfstandard.com/2026/09/05/west-portal-empire-theater-development-businesses/"
+      "title": "Belvedere waterfront villa sells for nearly $17M in surprise pre-auction deal",
+      "url": "https://sfstandard.com/2026/09/06/belvedere-sale-before-the-auction/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "US envoys arrive in Ukraine for talks after meeting Putin in Russia",
+      "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
       "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Opinion: Cartoon: The last human job in SF",
-      "url": "https://sfstandard.com/opinion/2026/09/05/ai-jobs-billboards-cartoon/"
+      "title": "Natalie Nakase, Kaitlyn Chen, and the underdog mentality driving the Valkyries",
+      "url": "https://sfstandard.com/2026/09/06/natalie-nakase-kaitlyn-chen-underdog-mentality-driving-valkyries/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 56. best outside window: 3am to 12am",
-  "valid_until_epoch": 1788721157,
+  "text": "high 64, low 56. best outside window: 8am to 12am",
+  "valid_until_epoch": 1788737350,
   "version": 1
 }
