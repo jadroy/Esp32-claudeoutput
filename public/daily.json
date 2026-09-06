@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-05T15:55:03-07:00",
+  "generated_at": "2026-09-05T21:41:27-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -14,8 +14,8 @@
     },
     {
       "source": "BBC",
-      "title": "US envoys meet Putin in Moscow for Ukraine talks",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss"
+      "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 69, low 53. best outside window: 3pm to 12am",
-  "valid_until_epoch": 1788677703,
+  "text": "high 69, low 53. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1788698487,
   "version": 1
 }
