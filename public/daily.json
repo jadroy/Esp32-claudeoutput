@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-05T21:41:27-07:00",
+  "generated_at": "2026-09-06T03:59:17-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,12 +9,12 @@
     },
     {
       "source": "NPR",
-      "title": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site",
-      "url": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site"
+      "title": "American Muslims are giving Texas barbecue a halal makeover",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover"
     },
     {
       "source": "BBC",
-      "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
+      "title": "US envoys arrive in Ukraine for talks after meeting Putin in Russia",
       "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 69, low 53. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1788698487,
+  "text": "high 64, low 56. best outside window: 3am to 12am",
+  "valid_until_epoch": 1788721157,
   "version": 1
 }
