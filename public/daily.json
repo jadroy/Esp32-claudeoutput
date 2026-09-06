@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-06T08:29:10-07:00",
+  "generated_at": "2026-09-06T13:25:20-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "Mountain lion that spent a night in the Panhandle left on its own: 'A best case scenario'",
+      "url": "https://sfstandard.com/2026/09/06/sf-panhandle-mountain-lion-sighting/"
+    },
+    {
+      "source": "NPR",
+      "title": "German exit polls suggest far-right party has big lead in regional election",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit"
+    },
+    {
+      "source": "BBC",
+      "title": "German far-right set for big win in eastern state, projections show",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Belvedere waterfront villa sells for nearly $17M in surprise pre-auction deal",
       "url": "https://sfstandard.com/2026/09/06/belvedere-sale-before-the-auction/"
-    },
-    {
-      "source": "NPR",
-      "title": "American Muslims are giving Texas barbecue a halal makeover",
-      "url": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover"
-    },
-    {
-      "source": "BBC",
-      "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
-      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "Natalie Nakase, Kaitlyn Chen, and the underdog mentality driving the Valkyries",
-      "url": "https://sfstandard.com/2026/09/06/natalie-nakase-kaitlyn-chen-underdog-mentality-driving-valkyries/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 56. best outside window: 8am to 12am",
-  "valid_until_epoch": 1788737350,
+  "text": "high 66, low 56. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1788755120,
   "version": 1
 }
