@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-07T05:35:45-07:00",
+  "generated_at": "2026-09-07T12:10:46-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "SF candidate wants rival's $500,000 crypto donation steered to the community",
-      "url": "https://sfstandard.com/2026/09/06/sf-candidate-wants-rival-s-500-000-crypto-donation-steered-community/"
+      "title": "Kawakami: 49ers 2026 season prediction - 12-5 and stronger for surviving all the travel",
+      "url": "https://sfstandard.com/2026/09/07/49ers-season-predictions-record-brock-purdy/"
     },
     {
       "source": "NPR",
-      "title": "5 dead after crash at Miami Airport. And, Germany's far-right wins state election",
-      "url": "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany"
+      "title": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
+      "url": "https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting"
     },
     {
       "source": "BBC",
-      "title": "How anti-migrant boat protests were organised and who is behind them",
-      "url": "https://www.bbc.co.uk/news/articles/cpq0nn1l7w0o?at_medium=RSS&at_campaign=rss"
+      "title": "What we know about anti-migrant protests and organiser Danny Thomas",
+      "url": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Mountain lion that spent a night in the Panhandle left on its own: 'A best case scenario'",
-      "url": "https://sfstandard.com/2026/09/06/sf-panhandle-mountain-lion-sighting/"
+      "title": "Fueled by 'unbelievable' coffee and new fans, the 49ers are raving about Australia",
+      "url": "https://sfstandard.com/2026/09/07/san-francisco-49ers-travel-melbourne-australia-coffee/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 76, low 53. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1788813345,
+  "text": "high 80, low 52. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1788837046,
   "version": 1
 }
