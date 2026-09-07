@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-06T21:44:01-07:00",
+  "generated_at": "2026-09-07T05:35:45-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-      "url": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport"
+      "title": "5 dead after crash at Miami Airport. And, Germany's far-right wins state election",
+      "url": "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany"
     },
     {
       "source": "BBC",
-      "title": "Protesters block roads in Portsmouth after 140 migrants rescued",
-      "url": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss"
+      "title": "How anti-migrant boat protests were organised and who is behind them",
+      "url": "https://www.bbc.co.uk/news/articles/cpq0nn1l7w0o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 56. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1788785041,
+  "text": "high 76, low 53. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1788813345,
   "version": 1
 }
