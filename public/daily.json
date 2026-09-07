@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-06T15:53:47-07:00",
+  "generated_at": "2026-09-06T21:44:01-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Mountain lion that spent a night in the Panhandle left on its own: 'A best case scenario'",
-      "url": "https://sfstandard.com/2026/09/06/sf-panhandle-mountain-lion-sighting/"
+      "title": "SF candidate wants rival's $500,000 crypto donation steered to the community",
+      "url": "https://sfstandard.com/2026/09/06/sf-candidate-wants-rival-s-500-000-crypto-donation-steered-community/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
-      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss"
+      "title": "Protesters block roads in Portsmouth after 140 migrants rescued",
+      "url": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Belvedere waterfront villa sells for nearly $17M in surprise pre-auction deal",
-      "url": "https://sfstandard.com/2026/09/06/belvedere-sale-before-the-auction/"
+      "title": "Mountain lion that spent a night in the Panhandle left on its own: 'A best case scenario'",
+      "url": "https://sfstandard.com/2026/09/06/sf-panhandle-mountain-lion-sighting/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 56. best outside window: 3pm to 12am",
-  "valid_until_epoch": 1788764027,
+  "text": "high 66, low 56. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1788785041,
   "version": 1
 }
