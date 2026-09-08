@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-08T09:39:35-07:00",
+  "generated_at": "2026-09-08T14:10:36-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "Dog attack in Tenderloin leaves woman with life-threatening injuries",
+      "url": "https://sfstandard.com/2026/09/08/victim-has-life-threatening-injuries-dog-attack-tenderloin/"
+    },
+    {
+      "source": "NPR",
+      "title": "New report shows the economic toll of ICE raids",
+      "url": "https://www.npr.org/2026/09/08/nx-s1-5955787/new-report-shows-the-economic-toll-of-ice-raids"
+    },
+    {
+      "source": "BBC",
+      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "The ex-Airbnb exec betting Silicon Valley can reshape San Francisco dining",
       "url": "https://sfstandard.com/2026/09/08/ligaya-tichy-sf-new-venture-restaurant-funding/"
-    },
-    {
-      "source": "NPR",
-      "title": "Australian social media users to be offered choice to opt out of algorithms",
-      "url": "https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms"
-    },
-    {
-      "source": "BBC",
-      "title": "Ports denied request to land 120 migrants in RNLI boats",
-      "url": "https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "Can cloud seeding make people hate data centers less?",
-      "url": "https://sfstandard.com/2026/09/08/cloud-seeding-data-centers/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "sf reaches 82 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1788914375,
+  "text": "high 80, low 56. best outside window: 4pm to 12am",
+  "valid_until_epoch": 1788930636,
   "version": 1
 }
