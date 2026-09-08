@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-07T16:30:30-07:00",
+  "generated_at": "2026-09-07T21:38:51-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -14,8 +14,8 @@
     },
     {
       "source": "BBC",
-      "title": "Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt",
-      "url": "https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss"
+      "title": "UK government expected to announce restrictions on trade with West Bank settlements",
+      "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 80, low 52. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1788852630,
+  "text": "high 80, low 52. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1788871131,
   "version": 1
 }
