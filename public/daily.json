@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-08T14:10:36-07:00",
+  "generated_at": "2026-09-08T16:24:37-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Dog attack in Tenderloin leaves woman with life-threatening injuries",
-      "url": "https://sfstandard.com/2026/09/08/victim-has-life-threatening-injuries-dog-attack-tenderloin/"
+      "title": "'Section 415' podcast: Uncovering the mysteries of Giants ownership",
+      "url": "https://sfstandard.com/section-415/2026/09/08/section-415-podcast-uncovering-mysteries-giants-ownership/"
     },
     {
       "source": "NPR",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "The ex-Airbnb exec betting Silicon Valley can reshape San Francisco dining",
-      "url": "https://sfstandard.com/2026/09/08/ligaya-tichy-sf-new-venture-restaurant-funding/"
+      "title": "Dog attack in Tenderloin leaves woman with life-threatening injuries",
+      "url": "https://sfstandard.com/2026/09/08/victim-has-life-threatening-injuries-dog-attack-tenderloin/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
   "text": "high 80, low 56. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1788930636,
+  "valid_until_epoch": 1788938677,
   "version": 1
 }
