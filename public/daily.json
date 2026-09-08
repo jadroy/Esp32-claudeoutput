@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-08T04:21:05-07:00",
+  "generated_at": "2026-09-08T09:39:35-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Kawakami: 49ers 2026 season prediction - 12-5 and stronger for surviving all the travel",
-      "url": "https://sfstandard.com/2026/09/07/49ers-season-predictions-record-brock-purdy/"
+      "title": "The ex-Airbnb exec betting Silicon Valley can reshape San Francisco dining",
+      "url": "https://sfstandard.com/2026/09/08/ligaya-tichy-sf-new-venture-restaurant-funding/"
     },
     {
       "source": "NPR",
-      "title": "Has the economy gone C-shaped?",
-      "url": "https://www.npr.org/sections/planet-money/2026/09/08/g-s1-142029/has-the-economy-gone-c-shaped"
+      "title": "Australian social media users to be offered choice to opt out of algorithms",
+      "url": "https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms"
     },
     {
       "source": "BBC",
-      "title": "Watch: Pupils return to West Bank school behind barbed wire to protect against settlers",
-      "url": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss"
+      "title": "Ports denied request to land 120 migrants in RNLI boats",
+      "url": "https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Fueled by 'unbelievable' coffee and new fans, the 49ers are raving about Australia",
-      "url": "https://sfstandard.com/2026/09/07/san-francisco-49ers-travel-melbourne-australia-coffee/"
+      "title": "Can cloud seeding make people hate data centers less?",
+      "url": "https://sfstandard.com/2026/09/08/cloud-seeding-data-centers/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "sf reaches 84 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1788895265,
+  "text": "sf reaches 82 today. do the outdoor part before noon.",
+  "valid_until_epoch": 1788914375,
   "version": 1
 }
