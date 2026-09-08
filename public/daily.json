@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-07T21:38:51-07:00",
+  "generated_at": "2026-09-08T04:21:05-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
-      "url": "https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting"
+      "title": "Has the economy gone C-shaped?",
+      "url": "https://www.npr.org/sections/planet-money/2026/09/08/g-s1-142029/has-the-economy-gone-c-shaped"
     },
     {
       "source": "BBC",
-      "title": "UK government expected to announce restrictions on trade with West Bank settlements",
-      "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: Pupils return to West Bank school behind barbed wire to protect against settlers",
+      "url": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 80, low 52. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1788871131,
+  "text": "sf reaches 84 today. do the outdoor part before noon.",
+  "valid_until_epoch": 1788895265,
   "version": 1
 }
