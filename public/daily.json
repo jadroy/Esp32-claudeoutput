@@ -1,16 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-09T09:39:51-07:00",
+  "generated_at": "2026-09-09T13:57:17-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The impossible math of a great restaurant",
-      "url": "https://sfstandard.com/2026/09/09/impossible-math-great-restaurant/"
-    },
-    {
-      "source": "NPR",
-      "title": "Greetings from Paris, where the 2024 Olympics balloon rises again",
-      "url": "https://www.npr.org/2026/09/09/g-s1-142424/paris-olympic-balloon-cauldron-tuileries"
+      "title": "SF is full of dumb billboards. This lawyer bought one to remind us we're all gonna die",
+      "url": "https://sfstandard.com/2026/09/09/sf-billboards-prepare-to-die/"
     },
     {
       "source": "BBC",
@@ -19,14 +14,19 @@
     },
     {
       "source": "SF Standard",
-      "title": "A cult-favorite Mexican restaurant on Haight Street is closing",
-      "url": "https://sfstandard.com/2026/09/09/otra-mexican-restaurant-closing/"
+      "title": "New techie status symbol just dropped: The iPhone Duo",
+      "url": "https://sfstandard.com/2026/09/09/apple-iphone-duo/"
+    },
+    {
+      "source": "BBC",
+      "title": "Air traffic failure was avoidable, says transport secretary",
+      "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "sf reaches 89 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1789000791,
+  "text": "sf reaches 95 today. do the outdoor part before noon.",
+  "valid_until_epoch": 1789016237,
   "version": 1
 }
