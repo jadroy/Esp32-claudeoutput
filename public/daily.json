@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-09T04:25:24-07:00",
+  "generated_at": "2026-09-09T09:39:51-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "An SF nurse said her anti-racism teacher was racist. Now, the feds are investigating",
-      "url": "https://sfstandard.com/2026/09/08/sf-nurse-anti-racism-trainer-federal-investigation/"
+      "title": "The impossible math of a great restaurant",
+      "url": "https://sfstandard.com/2026/09/09/impossible-math-great-restaurant/"
     },
     {
       "source": "NPR",
-      "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
-      "url": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian"
+      "title": "Greetings from Paris, where the 2024 Olympics balloon rises again",
+      "url": "https://www.npr.org/2026/09/09/g-s1-142424/paris-olympic-balloon-cauldron-tuileries"
     },
     {
       "source": "BBC",
-      "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss"
+      "title": "Police launch criminal investigation into Reform UK donations",
+      "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Lurie strikes early deal with city unions to avoid layoffs through 2029",
-      "url": "https://sfstandard.com/2026/09/08/daniel-lurie-union-deal-raises-contract/"
+      "title": "A cult-favorite Mexican restaurant on Haight Street is closing",
+      "url": "https://sfstandard.com/2026/09/09/otra-mexican-restaurant-closing/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "sf reaches 94 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1788981924,
+  "text": "sf reaches 89 today. do the outdoor part before noon.",
+  "valid_until_epoch": 1789000791,
   "version": 1
 }
