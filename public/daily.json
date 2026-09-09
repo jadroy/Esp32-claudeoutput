@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-08T21:44:35-07:00",
+  "generated_at": "2026-09-09T04:25:24-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "New report shows the economic toll of ICE raids",
-      "url": "https://www.npr.org/2026/09/08/nx-s1-5955787/new-report-shows-the-economic-toll-of-ice-raids"
+      "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
+      "url": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian"
     },
     {
       "source": "BBC",
-      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss"
+      "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 80, low 56. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1788957875,
+  "text": "sf reaches 94 today. do the outdoor part before noon.",
+  "valid_until_epoch": 1788981924,
   "version": 1
 }
