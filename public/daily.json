@@ -1,11 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-09T13:57:17-07:00",
+  "generated_at": "2026-09-09T16:16:19-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "SF is full of dumb billboards. This lawyer bought one to remind us we're all gonna die",
+      "title": "'Prepare to die': SF lawyer's billboard trolls the AI ad takeover",
       "url": "https://sfstandard.com/2026/09/09/sf-billboards-prepare-to-die/"
+    },
+    {
+      "source": "NPR",
+      "title": "Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5962805/conductor-julian-wachner-suspended-sentence-for-possession-of-child-sex-abuse-material"
     },
     {
       "source": "BBC",
@@ -16,17 +21,12 @@
       "source": "SF Standard",
       "title": "New techie status symbol just dropped: The iPhone Duo",
       "url": "https://sfstandard.com/2026/09/09/apple-iphone-duo/"
-    },
-    {
-      "source": "BBC",
-      "title": "Air traffic failure was avoidable, says transport secretary",
-      "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "sf reaches 95 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1789016237,
+  "text": "sf reaches 92 today. do the outdoor part before noon.",
+  "valid_until_epoch": 1789024579,
   "version": 1
 }
