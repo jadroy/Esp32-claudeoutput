@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-10T13:52:55-07:00",
+  "generated_at": "2026-09-10T16:11:37-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Former owner of downtown's dead mall just sold two other buildings at a huge discount",
-      "url": "https://sfstandard.com/2026/09/10/sf-office-buildings-mission-street-westfield-dead-mall/"
+      "title": "Mayor Daniel Mamdani? Lurie pivots as SF's affordability crisis runs rampant",
+      "url": "https://sfstandard.com/2026/09/10/daniel-lurie-affordability-rent-protection-labor-unions-deal/"
     },
     {
       "source": "NPR",
-      "title": "A fossil feather from the age of dinosaurs may explain why only some birds survived",
-      "url": "https://www.npr.org/2026/09/10/nx-s1-5963519/best-fossilized-bird-feather-dinosaur-feces-extinction"
+      "title": "Lawsuit challenges intimidation of DHS observers across the country",
+      "url": "https://www.npr.org/2026/09/10/nx-s1-5961220/dhs-ice-observers-surveillance-lawsuit"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Valkyries president Jess Smith would make a great WNBA commissioner. There's one problem",
-      "url": "https://sfstandard.com/2026/09/10/jess-smith-wnba-commissioner-valkyries-president/"
+      "title": "It's so hot that BART is hallucinating trains",
+      "url": "https://sfstandard.com/2026/09/10/bart-heat-delays-ghost-trains/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 70, low 56. best outside window: 1pm to 12am",
-  "valid_until_epoch": 1789102375,
+  "text": "high 70, low 56. best outside window: 4pm to 12am",
+  "valid_until_epoch": 1789110697,
   "version": 1
 }
