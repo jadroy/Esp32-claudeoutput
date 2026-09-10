@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-09T21:44:49-07:00",
+  "generated_at": "2026-09-10T04:21:49-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Fetterman, already at odds with his party, makes surprise video for GOP convention",
-      "url": "https://www.npr.org/2026/09/09/nx-s1-5963916/john-fetterman-gop-midterm-convention-trump"
+      "title": "A year after Charlie Kirk was killed, young conservatives navigate a divided movement",
+      "url": "https://www.npr.org/2026/09/10/nx-s1-5928517/charlie-kirk-death-anniversary-turning-point"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "sf reaches 92 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1789044289,
+  "text": "high 70, low 57. best outside window: 4am to 12am",
+  "valid_until_epoch": 1789068109,
   "version": 1
 }
