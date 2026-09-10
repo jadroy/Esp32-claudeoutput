@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-09T16:16:19-07:00",
+  "generated_at": "2026-09-09T21:44:49-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'Prepare to die': SF lawyer's billboard trolls the AI ad takeover",
-      "url": "https://sfstandard.com/2026/09/09/sf-billboards-prepare-to-die/"
+      "title": "Nonprofit SF news outlet The Frisc to shut down after nine years",
+      "url": "https://sfstandard.com/2026/09/09/the-frisc-nonprofit-local-news-site-shuts-down/"
     },
     {
       "source": "NPR",
-      "title": "Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material",
-      "url": "https://www.npr.org/2026/09/09/nx-s1-5962805/conductor-julian-wachner-suspended-sentence-for-possession-of-child-sex-abuse-material"
+      "title": "Fetterman, already at odds with his party, makes surprise video for GOP convention",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5963916/john-fetterman-gop-midterm-convention-trump"
     },
     {
       "source": "BBC",
-      "title": "Police launch criminal investigation into Reform UK donations",
-      "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss"
+      "title": "England's mayors to be given power to introduce tourist tax",
+      "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "New techie status symbol just dropped: The iPhone Duo",
-      "url": "https://sfstandard.com/2026/09/09/apple-iphone-duo/"
+      "title": "Get the Flock outta here: D8 candidate targets SFPD surveillance contract",
+      "url": "https://sfstandard.com/2026/09/09/flock-sf-candidate-lurie-records-data-center/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
   "text": "sf reaches 92 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1789024579,
+  "valid_until_epoch": 1789044289,
   "version": 1
 }
