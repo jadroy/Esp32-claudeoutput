@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-10T09:25:49-07:00",
+  "generated_at": "2026-09-10T13:52:55-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Lurie declares rent emergency as SF housing costs surge",
-      "url": "https://sfstandard.com/2026/09/10/lurie-declares-san-francisco-rent-emergency/"
+      "title": "Former owner of downtown's dead mall just sold two other buildings at a huge discount",
+      "url": "https://sfstandard.com/2026/09/10/sf-office-buildings-mission-street-westfield-dead-mall/"
     },
     {
       "source": "NPR",
-      "title": "Barbara Keating died in the 9/11 attack. She's finally being laid to rest",
-      "url": "https://www.npr.org/2026/09/10/nx-s1-5962791/barbara-keating-9-11-victim-burial"
+      "title": "A fossil feather from the age of dinosaurs may explain why only some birds survived",
+      "url": "https://www.npr.org/2026/09/10/nx-s1-5963519/best-fossilized-bird-feather-dinosaur-feces-extinction"
     },
     {
       "source": "BBC",
-      "title": "England's mayors to get power to impose tourist tax",
+      "title": "Labour mayors in England vow to cap tourist tax at 5%",
       "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "How are California school districts funding teacher housing? It really depends",
-      "url": "https://sfstandard.com/2026/09/10/school-districts-teacher-housing-financing/"
+      "title": "Valkyries president Jess Smith would make a great WNBA commissioner. There's one problem",
+      "url": "https://sfstandard.com/2026/09/10/jess-smith-wnba-commissioner-valkyries-president/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 70, low 56. best outside window: 9am to 12am",
-  "valid_until_epoch": 1789086349,
+  "text": "high 70, low 56. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1789102375,
   "version": 1
 }
