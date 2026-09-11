@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-10T16:11:37-07:00",
+  "generated_at": "2026-09-10T21:42:55-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "Dominance Down Under: Instant takeaways from the 49ers' statement win over the Rams",
+      "url": "https://sfstandard.com/2026/09/10/49ers-rams-takeaways-brock-purdy-fred-warner/"
+    },
+    {
+      "source": "NPR",
+      "title": "This summer was hot. August shattered global heat records",
+      "url": "https://www.npr.org/2026/09/10/nx-s1-5963899/august-heat-summer-hottest"
+    },
+    {
+      "source": "BBC",
+      "title": "MPs to vote on legalising assisted dying in England and Wales",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Mayor Daniel Mamdani? Lurie pivots as SF's affordability crisis runs rampant",
       "url": "https://sfstandard.com/2026/09/10/daniel-lurie-affordability-rent-protection-labor-unions-deal/"
-    },
-    {
-      "source": "NPR",
-      "title": "Lawsuit challenges intimidation of DHS observers across the country",
-      "url": "https://www.npr.org/2026/09/10/nx-s1-5961220/dhs-ice-observers-surveillance-lawsuit"
-    },
-    {
-      "source": "BBC",
-      "title": "Labour mayors in England vow to cap tourist tax at 5%",
-      "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "It's so hot that BART is hallucinating trains",
-      "url": "https://sfstandard.com/2026/09/10/bart-heat-delays-ghost-trains/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 70, low 56. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1789110697,
+  "text": "high 70, low 58. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1789130575,
   "version": 1
 }
