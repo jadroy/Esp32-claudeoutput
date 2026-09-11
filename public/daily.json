@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-11T09:29:45-07:00",
+  "generated_at": "2026-09-11T13:58:58-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Lurie declared a rent emergency. Could he freeze rents like Mamdani?",
-      "url": "https://sfstandard.com/2026/09/11/lurie-rent-freeze-mamdani/"
+      "title": "Raheem Morris is the Sean McVay whisperer the 49ers needed",
+      "url": "https://sfstandard.com/2026/09/11/raheem-morris-sean-mcvay-whisperer-49ers-needed/"
     },
     {
       "source": "NPR",
-      "title": "As diseases loom, CDC's response to measles deaths stirs fears about agency's reliability",
-      "url": "https://www.npr.org/2026/09/11/nx-s1-5950002/as-diseases-loom-cdcs-response-to-measles-deaths-stirs-fears-about-agencys-reliability"
+      "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
+      "url": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Cycling in SF is dangerous - and no one agrees who's responsible",
-      "url": "https://sfstandard.com/pacific-standard-time/2026/09/11/pst-the-slot-cyclist-crashes/"
+      "title": "Lurie declared a rent emergency. Could he freeze rents like Mamdani?",
+      "url": "https://sfstandard.com/2026/09/11/lurie-rent-freeze-mamdani/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 56. best outside window: 9am to 12am",
-  "valid_until_epoch": 1789172985,
+  "text": "high 61, low 56. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1789189138,
   "version": 1
 }
