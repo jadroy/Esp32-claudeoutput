@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-11T13:58:58-07:00",
+  "generated_at": "2026-09-11T16:16:41-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Raheem Morris is the Sean McVay whisperer the 49ers needed",
-      "url": "https://sfstandard.com/2026/09/11/raheem-morris-sean-mcvay-whisperer-49ers-needed/"
+      "title": "Yekutiel wins Lurie endorsement after assurance sexual assault claim 'simply was not true'",
+      "url": "https://sfstandard.com/2026/09/11/yekutiel-wins-lurie-endorsement-assurance-sexual-assault-claim-simply-true/"
     },
     {
       "source": "NPR",
-      "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
-      "url": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy"
+      "title": "How shofars became the spiritual soundtrack of Rosh Hashanah",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5957988/how-shofars-became-the-spiritual-soundtrack-of-rosh-hashanah"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Lurie declared a rent emergency. Could he freeze rents like Mamdani?",
-      "url": "https://sfstandard.com/2026/09/11/lurie-rent-freeze-mamdani/"
+      "title": "'Section 415' podcast: How the 49ers became Australia's favorite NFL team",
+      "url": "https://sfstandard.com/section-415/2026/09/11/section-415-podcast-49ers-became-australia-s-favorite-nfl-team/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 56. best outside window: 1pm to 12am",
-  "valid_until_epoch": 1789189138,
+  "text": "high 63, low 56. best outside window: 4pm to 12am",
+  "valid_until_epoch": 1789197401,
   "version": 1
 }
