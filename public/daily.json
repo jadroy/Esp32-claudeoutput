@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-11T04:23:26-07:00",
+  "generated_at": "2026-09-11T09:29:45-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Dominance Down Under: Instant takeaways from the 49ers' statement win over the Rams",
-      "url": "https://sfstandard.com/2026/09/10/49ers-rams-takeaways-brock-purdy-fred-warner/"
+      "title": "Lurie declared a rent emergency. Could he freeze rents like Mamdani?",
+      "url": "https://sfstandard.com/2026/09/11/lurie-rent-freeze-mamdani/"
     },
     {
       "source": "NPR",
-      "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
-      "url": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon"
+      "title": "As diseases loom, CDC's response to measles deaths stirs fears about agency's reliability",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5950002/as-diseases-loom-cdcs-response-to-measles-deaths-stirs-fears-about-agencys-reliability"
     },
     {
       "source": "BBC",
-      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
-      "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss"
+      "title": "MPs vote against fresh attempt to legalise assisted dying",
+      "url": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Mayor Daniel Mamdani? Lurie pivots as SF's affordability crisis runs rampant",
-      "url": "https://sfstandard.com/2026/09/10/daniel-lurie-affordability-rent-protection-labor-unions-deal/"
+      "title": "Cycling in SF is dangerous - and no one agrees who's responsible",
+      "url": "https://sfstandard.com/pacific-standard-time/2026/09/11/pst-the-slot-cyclist-crashes/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 56. best outside window: 4am to 12am",
-  "valid_until_epoch": 1789154606,
+  "text": "high 63, low 56. best outside window: 9am to 12am",
+  "valid_until_epoch": 1789172985,
   "version": 1
 }
