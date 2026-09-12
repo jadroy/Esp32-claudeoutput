@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-11T16:16:41-07:00",
+  "generated_at": "2026-09-11T21:37:13-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Yekutiel wins Lurie endorsement after assurance sexual assault claim 'simply was not true'",
-      "url": "https://sfstandard.com/2026/09/11/yekutiel-wins-lurie-endorsement-assurance-sexual-assault-claim-simply-true/"
+      "title": "He ran SF's sheriff oversight board. A city probe found he abused his office",
+      "url": "https://sfstandard.com/2026/09/11/william-palmer-sf-sheriff-oversight-board-misconduct/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "MPs vote against fresh attempt to legalise assisted dying",
-      "url": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss"
+      "title": "Reform receives record 36m donation from crypto billionaire",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "'Section 415' podcast: How the 49ers became Australia's favorite NFL team",
-      "url": "https://sfstandard.com/section-415/2026/09/11/section-415-podcast-49ers-became-australia-s-favorite-nfl-team/"
+      "title": "Yekutiel wins Lurie endorsement after assurance sexual assault claim 'simply was not true'",
+      "url": "https://sfstandard.com/2026/09/11/yekutiel-wins-lurie-endorsement-assurance-sexual-assault-claim-simply-true/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 56. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1789197401,
+  "text": "high 64, low 56. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1789216633,
   "version": 1
 }
