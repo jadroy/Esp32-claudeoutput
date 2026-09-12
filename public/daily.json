@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-12T13:34:08-07:00",
+  "generated_at": "2026-09-12T16:03:24-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'Badge of honor': How a DoJ probe could help Newsom's 2028 prospects",
-      "url": "https://sfstandard.com/2026/09/12/2028-gavin-newsom-donald-trump-investigation-federal-probe-president/"
+      "title": "What we know about the nonprofit at the center of Newsom's federal probe",
+      "url": "https://sfstandard.com/2026/09/12/newsom-protocol-foundation-nonprofit-explained/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "Reform receives second 36m donation in two days as crypto investor matches record",
-      "url": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss"
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The best SF restaurants for big groups, according to a panel of pros",
-      "url": "https://sfstandard.com/2026/09/12/best-sf-restaurants-groups/"
+      "title": "Giants outfield prospect Scott Bandura to join team in San Francisco",
+      "url": "https://sfstandard.com/2026/09/12/scott-bandura-sf-giants-promotion-call-up/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 56. best outside window: 1pm to 12am",
-  "valid_until_epoch": 1789274048,
+  "text": "high 65, low 56. best outside window: 4pm to 12am",
+  "valid_until_epoch": 1789283004,
   "version": 1
 }
