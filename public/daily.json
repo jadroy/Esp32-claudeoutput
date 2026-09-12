@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-12T08:33:07-07:00",
+  "generated_at": "2026-09-12T13:34:08-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The best SF restaurants for big groups, according to a panel of pros",
-      "url": "https://sfstandard.com/2026/09/12/best-sf-restaurants-groups/"
+      "title": "'Badge of honor': How a DoJ probe could help Newsom's 2028 prospects",
+      "url": "https://sfstandard.com/2026/09/12/2028-gavin-newsom-donald-trump-investigation-federal-probe-president/"
     },
     {
       "source": "NPR",
-      "title": "'People are still afraid of those three letters': Fighting the stigma of HIV",
-      "url": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma"
+      "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
+      "url": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "She just wanted to host a picnic. The city said she needs permits and porta-potties",
-      "url": "https://sfstandard.com/2026/09/12/viral-sf-picnic-city-permit/"
+      "title": "The best SF restaurants for big groups, according to a panel of pros",
+      "url": "https://sfstandard.com/2026/09/12/best-sf-restaurants-groups/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 56. best outside window: 8am to 12am",
-  "valid_until_epoch": 1789255987,
+  "text": "high 64, low 56. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1789274048,
   "version": 1
 }
