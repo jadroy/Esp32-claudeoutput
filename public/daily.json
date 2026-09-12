@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-11T21:37:13-07:00",
+  "generated_at": "2026-09-12T03:49:08-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "How shofars became the spiritual soundtrack of Rosh Hashanah",
-      "url": "https://www.npr.org/2026/09/11/nx-s1-5957988/how-shofars-became-the-spiritual-soundtrack-of-rosh-hashanah"
+      "title": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
+      "url": "https://www.npr.org/2026/09/12/g-s1-142760/palestinian-writer-archive-scotland-israel-shehadeh"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 56. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1789216633,
+  "text": "high 64, low 56. best outside window: 3am to 12am",
+  "valid_until_epoch": 1789238948,
   "version": 1
 }
