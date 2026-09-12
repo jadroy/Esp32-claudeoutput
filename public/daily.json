@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-12T03:49:08-07:00",
+  "generated_at": "2026-09-12T08:33:07-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "He ran SF's sheriff oversight board. A city probe found he abused his office",
-      "url": "https://sfstandard.com/2026/09/11/william-palmer-sf-sheriff-oversight-board-misconduct/"
+      "title": "The best SF restaurants for big groups, according to a panel of pros",
+      "url": "https://sfstandard.com/2026/09/12/best-sf-restaurants-groups/"
     },
     {
       "source": "NPR",
-      "title": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
-      "url": "https://www.npr.org/2026/09/12/g-s1-142760/palestinian-writer-archive-scotland-israel-shehadeh"
+      "title": "'People are still afraid of those three letters': Fighting the stigma of HIV",
+      "url": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma"
     },
     {
       "source": "BBC",
-      "title": "Reform receives record 36m donation from crypto billionaire",
-      "url": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss"
+      "title": "Reform receives second 36m donation in two days as crypto investor matches record",
+      "url": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Yekutiel wins Lurie endorsement after assurance sexual assault claim 'simply was not true'",
-      "url": "https://sfstandard.com/2026/09/11/yekutiel-wins-lurie-endorsement-assurance-sexual-assault-claim-simply-true/"
+      "title": "She just wanted to host a picnic. The city said she needs permits and porta-potties",
+      "url": "https://sfstandard.com/2026/09/12/viral-sf-picnic-city-permit/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 56. best outside window: 3am to 12am",
-  "valid_until_epoch": 1789238948,
+  "text": "high 64, low 56. best outside window: 8am to 12am",
+  "valid_until_epoch": 1789255987,
   "version": 1
 }
