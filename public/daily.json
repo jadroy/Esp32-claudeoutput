@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-13T09:18:48-07:00",
+  "generated_at": "2026-09-13T13:51:15-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "Rafael Devers' season is over, but the Giants' top slugger is a Willie Mac Award contender",
+      "url": "https://sfstandard.com/2026/09/13/rafael-devers-sf-giants-season-ending-injury/"
+    },
+    {
+      "source": "NPR",
+      "title": "Wisconsin congressman survives emergency plane landing, swims to safety",
+      "url": "https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety"
+    },
+    {
+      "source": "BBC",
+      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "They liked being named Al. Then came AI",
       "url": "https://sfstandard.com/2026/09/13/als-confused-with-ai/"
-    },
-    {
-      "source": "NPR",
-      "title": "Actor Tatyana Ali is advocating for Black and Indigenous maternal health",
-      "url": "https://www.npr.org/2026/09/13/nx-s1-5966885/birth-black-and-indigenous-maternal-health"
-    },
-    {
-      "source": "BBC",
-      "title": "Reform confident it won't need to repay any of 72m under proposed new donor rules",
-      "url": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "San Francisco doesn't need this many golf courses",
-      "url": "https://sfstandard.com/2026/09/13/sf-golf-courses-housing-subsidy/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 56. best outside window: 9am to 12am",
-  "valid_until_epoch": 1789345128,
+  "text": "high 66, low 56. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1789361475,
   "version": 1
 }
