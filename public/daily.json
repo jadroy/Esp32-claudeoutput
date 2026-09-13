@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-13T13:51:15-07:00",
+  "generated_at": "2026-09-13T16:10:48-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Wisconsin congressman survives emergency plane landing, swims to safety",
-      "url": "https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety"
+      "title": "Trump warns against slowing down AI but he is not against some guardrails",
+      "url": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 56. best outside window: 1pm to 12am",
-  "valid_until_epoch": 1789361475,
+  "text": "high 67, low 56. best outside window: 4pm to 12am",
+  "valid_until_epoch": 1789369848,
   "version": 1
 }
