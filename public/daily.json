@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-14T05:50:39-07:00",
+  "generated_at": "2026-09-14T12:50:57-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "D10 candidates could settle $7M empty cabin shelter standoff",
-      "url": "https://sfstandard.com/2026/09/13/d10-candidates-tiny-cabins-power-play/"
+      "title": "Don't panic: An award-winning dim sum parlor is closing one SF location, not both",
+      "url": "https://sfstandard.com/2026/09/14/yank-sing-rincon-center-closes-dim-sum/"
     },
     {
       "source": "NPR",
-      "title": "Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
-      "url": "https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks"
+      "title": "10 years after taking a knee, Colin Kaepernick is still waging a 'Perilous Fight'",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5965828/colin-kaepernick-football-the-perilous-fight"
     },
     {
       "source": "BBC",
-      "title": "What you need to know about the latest donations to Reform UK",
-      "url": "https://www.bbc.co.uk/news/videos/c6n4kdj3xzz2o?at_medium=RSS&at_campaign=rss"
+      "title": "Man admits drugging and raping wife over 20 years",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Rafael Devers' season is over, but the Giants' top slugger is a Willie Mac Award contender",
-      "url": "https://sfstandard.com/2026/09/13/rafael-devers-sf-giants-season-ending-injury/"
+      "title": "Who's left? Why the Giants' lineup has never looked like this",
+      "url": "https://sfstandard.com/2026/09/14/who-s-left-giants-lineup-has-never-looked/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 69, low 51. best outside window: 5am to 12am",
-  "valid_until_epoch": 1789419039,
+  "text": "high 66, low 51. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1789444257,
   "version": 1
 }
