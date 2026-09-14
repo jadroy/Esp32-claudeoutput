@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-13T16:10:48-07:00",
+  "generated_at": "2026-09-13T21:58:38-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "D10 candidates could settle $7M empty cabin shelter standoff",
+      "url": "https://sfstandard.com/2026/09/13/d10-candidates-tiny-cabins-power-play/"
+    },
+    {
+      "source": "NPR",
+      "title": "Pennsylvania says an unvaccinated woman has died from measles-related complications",
+      "url": "https://www.npr.org/2026/09/13/nx-s1-5968093/pennsylvania-says-an-unvaccinated-woman-has-died-from-measles-related-complications"
+    },
+    {
+      "source": "BBC",
+      "title": "Committee calls for bill to address AI threat to human rights",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Rafael Devers' season is over, but the Giants' top slugger is a Willie Mac Award contender",
       "url": "https://sfstandard.com/2026/09/13/rafael-devers-sf-giants-season-ending-injury/"
-    },
-    {
-      "source": "NPR",
-      "title": "Trump warns against slowing down AI but he is not against some guardrails",
-      "url": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown"
-    },
-    {
-      "source": "BBC",
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "They liked being named Al. Then came AI",
-      "url": "https://sfstandard.com/2026/09/13/als-confused-with-ai/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 56. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1789369848,
+  "text": "high 67, low 55. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1789390718,
   "version": 1
 }
