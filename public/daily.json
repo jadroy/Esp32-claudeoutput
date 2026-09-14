@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-13T21:58:38-07:00",
+  "generated_at": "2026-09-14T05:50:39-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Pennsylvania says an unvaccinated woman has died from measles-related complications",
-      "url": "https://www.npr.org/2026/09/13/nx-s1-5968093/pennsylvania-says-an-unvaccinated-woman-has-died-from-measles-related-complications"
+      "title": "Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
+      "url": "https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks"
     },
     {
       "source": "BBC",
-      "title": "Committee calls for bill to address AI threat to human rights",
-      "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss"
+      "title": "What you need to know about the latest donations to Reform UK",
+      "url": "https://www.bbc.co.uk/news/videos/c6n4kdj3xzz2o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 55. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1789390718,
+  "text": "high 69, low 51. best outside window: 5am to 12am",
+  "valid_until_epoch": 1789419039,
   "version": 1
 }
