@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-15T04:46:14-07:00",
+  "generated_at": "2026-09-15T10:00:47-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Newsom says he won't challenge Harris in 2028: 'I wouldn't waste everyone's time'",
-      "url": "https://sfstandard.com/2026/09/14/newsom-says-won-t-challenge-harris-2028-i-wouldn-t-waste-everyone-s-time/"
+      "title": "Opinion: What transparency? Lurie's sunny disposition masks his office's opaque behavior",
+      "url": "https://sfstandard.com/opinion/2026/09/15/daniel-lurie-mayor-shadowy-agenda/"
     },
     {
       "source": "NPR",
-      "title": "SCOTUS rejects Trump's mail voting limits. And, the Kennedy Center financial crisis",
-      "url": "https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys"
+      "title": "Tiny krill are turning up in deep-sea hydrothermal vents. Scientists want to know why",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5968643/antarctic-krill-hydrothermal-vent-south-pole"
     },
     {
       "source": "BBC",
-      "title": "State pension likely to top 13,000 a year as UK wage growth slows to 3.9%",
-      "url": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss"
+      "title": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Muni is too broke to use more eco-friendly buses",
-      "url": "https://sfstandard.com/2026/09/14/muni-skips-electric-buses-fiscal-crisis/"
+      "title": "SF landlords beat the vacancy tax in court. Next up? The so-called rental emergency",
+      "url": "https://sfstandard.com/2026/09/15/landlords-vacancy-tax-rent-emergency/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 53. best outside window: 4am to 12am",
-  "valid_until_epoch": 1789501574,
+  "text": "high 63, low 53. best outside window: 10am to 12am",
+  "valid_until_epoch": 1789520447,
   "version": 1
 }
