@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-15T10:00:47-07:00",
+  "generated_at": "2026-09-15T14:22:28-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Opinion: What transparency? Lurie's sunny disposition masks his office's opaque behavior",
-      "url": "https://sfstandard.com/opinion/2026/09/15/daniel-lurie-mayor-shadowy-agenda/"
+      "title": "Tim Flannery's music helped Greg Papa deal with cancer. Now Papa faces another challenge",
+      "url": "https://sfstandard.com/2026/09/15/greg-papa-tim-flannery-music-concert/"
     },
     {
       "source": "NPR",
-      "title": "Tiny krill are turning up in deep-sea hydrothermal vents. Scientists want to know why",
-      "url": "https://www.npr.org/2026/09/15/nx-s1-5968643/antarctic-krill-hydrothermal-vent-south-pole"
+      "title": "State of U.S. democracy reaches new low, report finds",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5969741/state-of-u-s-democracy-reaches-new-low-report-finds"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "SF landlords beat the vacancy tax in court. Next up? The so-called rental emergency",
-      "url": "https://sfstandard.com/2026/09/15/landlords-vacancy-tax-rent-emergency/"
+      "title": "Opinion: What transparency? Lurie's sunny disposition masks his office's opaque behavior",
+      "url": "https://sfstandard.com/opinion/2026/09/15/daniel-lurie-mayor-shadowy-agenda/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 53. best outside window: 10am to 12am",
-  "valid_until_epoch": 1789520447,
+  "text": "high 64, low 53. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1789536148,
   "version": 1
 }
