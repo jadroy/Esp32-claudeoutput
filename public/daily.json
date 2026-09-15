@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-14T16:52:38-07:00",
+  "generated_at": "2026-09-14T21:56:52-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms",
-      "url": "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump"
+      "title": "Emmys 2026: Here's the list of winners",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5957565/emmys-2026-winners"
     },
     {
       "source": "BBC",
-      "title": "Man admits drugging and raping wife over 20 years",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss"
+      "title": "Lucy Letby public inquiry findings set to be published",
+      "url": "https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 70, low 51. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1789458758,
+  "text": "high 70, low 51. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1789477012,
   "version": 1
 }
