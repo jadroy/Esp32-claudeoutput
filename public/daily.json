@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-15T21:51:11-07:00",
+  "generated_at": "2026-09-16T04:36:48-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "Muni is giving voters a pricey would-you-rather: Pay the parcel tax, or pay for delays",
+      "url": "https://sfstandard.com/2026/09/16/sf-muni-parcel-tax-prop-h-economic-impact/"
+    },
+    {
+      "source": "NPR",
+      "title": "Fed expected to raise interest rates. And, board votes to close Kennedy Center",
+      "url": "https://www.npr.org/2026/09/16/g-s1-143569/up-first-newsletter-fed-reserve-interest-rates-iran-war-kennedy-center-contraception"
+    },
+    {
+      "source": "BBC",
+      "title": "Petrol and diesel price rises push UK inflation higher",
+      "url": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Tiki bars and cigars: How High Speed Rail consultants misspent $592k of taxpayer cash",
       "url": "https://sfstandard.com/2026/09/15/california-high-speed-rail-consultants-tiki-bar-travel-spending/"
-    },
-    {
-      "source": "NPR",
-      "title": "Helicopter crashes killing at least 3 people near an LA bus collision",
-      "url": "https://www.npr.org/2026/09/16/nx-s1-5970477/helicopter-crash-los-angeles"
-    },
-    {
-      "source": "BBC",
-      "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "Promiscuous Claude stuns in new AI billboard",
-      "url": "https://sfstandard.com/2026/09/15/promiscuous-claude-stuns-new-ai-billboard/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 53. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1789563071,
+  "text": "high 62, low 56. best outside window: 4am to 12am",
+  "valid_until_epoch": 1789587408,
   "version": 1
 }
