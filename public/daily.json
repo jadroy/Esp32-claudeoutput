@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-15T14:22:28-07:00",
+  "generated_at": "2026-09-15T21:51:11-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Tim Flannery's music helped Greg Papa deal with cancer. Now Papa faces another challenge",
-      "url": "https://sfstandard.com/2026/09/15/greg-papa-tim-flannery-music-concert/"
+      "title": "Tiki bars and cigars: How High Speed Rail consultants misspent $592k of taxpayer cash",
+      "url": "https://sfstandard.com/2026/09/15/california-high-speed-rail-consultants-tiki-bar-travel-spending/"
     },
     {
       "source": "NPR",
-      "title": "State of U.S. democracy reaches new low, report finds",
-      "url": "https://www.npr.org/2026/09/15/nx-s1-5969741/state-of-u-s-democracy-reaches-new-low-report-finds"
+      "title": "Helicopter crashes killing at least 3 people near an LA bus collision",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5970477/helicopter-crash-los-angeles"
     },
     {
       "source": "BBC",
-      "title": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
-      "url": "https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss"
+      "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Opinion: What transparency? Lurie's sunny disposition masks his office's opaque behavior",
-      "url": "https://sfstandard.com/opinion/2026/09/15/daniel-lurie-mayor-shadowy-agenda/"
+      "title": "Promiscuous Claude stuns in new AI billboard",
+      "url": "https://sfstandard.com/2026/09/15/promiscuous-claude-stuns-new-ai-billboard/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 53. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1789536148,
+  "text": "high 64, low 53. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1789563071,
   "version": 1
 }
