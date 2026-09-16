@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-16T09:58:10-07:00",
+  "generated_at": "2026-09-16T14:19:35-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Inside the SF Opera strike - a bigger fight over the company's future",
-      "url": "https://sfstandard.com/2026/09/16/the-orchestras-first-strike-in-its-45-year-history-has-no-end-in-sight-as-musicians-say-the-companys-math-doesnt-add-up/"
+      "title": "The techies walking away from a big payday",
+      "url": "https://sfstandard.com/pacific-standard-time/2026/09/16/techies-walking-away-big-payday-pst/"
     },
     {
       "source": "NPR",
-      "title": "How Jared Kushner is mixing U.S. diplomacy with his billion-dollar business",
-      "url": "https://www.npr.org/2026/09/16/nx-s1-5971125/how-jared-kushner-is-mixing-u-s-diplomacy-with-his-billion-dollar-business"
+      "title": "House holds billionaire Leon Black in contempt of Congress",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5954258/house-holds-billionaire-leon-black-in-contempt-of-congress"
     },
     {
       "source": "BBC",
-      "title": "EU chief backs plan for Canada to become 'associate member'",
-      "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss"
+      "title": "Body found in search for missing three-year-old Noah Woods",
+      "url": "https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Stewart Brand sells his seaworthy Sausalito houseboat to tech CEO",
-      "url": "https://sfstandard.com/2026/09/16/matt-mullenweg-buys-stewart-brand-houseboat-sausalito/"
+      "title": "After vicious dog attack, supervisor calls for stricter regulations",
+      "url": "https://sfstandard.com/2026/09/16/san-francisco-dog-attack-resolution-bilal-mahmood/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 56. best outside window: 9am to 12am",
-  "valid_until_epoch": 1789606690,
+  "text": "high 60, low 56. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1789622375,
   "version": 1
 }
