@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-17T04:44:04-07:00",
+  "generated_at": "2026-09-17T10:00:50-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The office built to stop the next Nuru just got smaller",
-      "url": "https://sfstandard.com/2026/09/16/power-play-budget-cuts-nuru-lurie-pelosi-election/"
+      "title": "Kawakami: How Buster Posey is dealing with this lousy Giants season and approaching 2027",
+      "url": "https://sfstandard.com/2026/09/17/buster-posey-sf-giants-2027-plans-strategy/"
     },
     {
       "source": "NPR",
-      "title": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'",
-      "url": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union"
+      "title": "A year ago, President Trump pledged to lower Medicaid drug prices. Has that happened?",
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5971066/trump-rx-medicaid-generous-drug-prices-pfizer-favored-nation"
     },
     {
       "source": "BBC",
-      "title": "Palace in war of words with Earl Spencer over claims in Diana book",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss"
+      "title": "Remains found after wildfire identified as mother-of-three missing since 2019",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "How the 49ers plan to regroup after injuries to De'Zhaun Stribling and Jake Tonges",
-      "url": "https://sfstandard.com/2026/09/16/dezhaun-stribling-surgery-49ers-wide-receivers/"
+      "title": "After 53 years, a legendary outlaw builder was evicted from Marin's hippie utiopia",
+      "url": "https://sfstandard.com/2026/09/17/david-lee-hoffman-the-last-resort-marin-county-lagunitas-tea/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 58. best outside window: 4am to 12am",
-  "valid_until_epoch": 1789674244,
+  "text": "high 66, low 57. best outside window: 10am to 12am",
+  "valid_until_epoch": 1789693250,
   "version": 1
 }
