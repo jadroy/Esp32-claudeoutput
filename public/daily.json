@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-17T10:00:50-07:00",
+  "generated_at": "2026-09-17T14:23:39-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Kawakami: How Buster Posey is dealing with this lousy Giants season and approaching 2027",
-      "url": "https://sfstandard.com/2026/09/17/buster-posey-sf-giants-2027-plans-strategy/"
+      "title": "Accused Sea Cliff squatters skip court as judge issues restraining order",
+      "url": "https://sfstandard.com/2026/09/17/accused-sea-cliff-squatters-skip-court-as-judge-issues-restraining-order/"
     },
     {
       "source": "NPR",
-      "title": "A year ago, President Trump pledged to lower Medicaid drug prices. Has that happened?",
-      "url": "https://www.npr.org/2026/09/17/nx-s1-5971066/trump-rx-medicaid-generous-drug-prices-pfizer-favored-nation"
+      "title": "Trump withdraws Lance Schroyer, a former Oklahoma state trooper, as his nominee to lead ICE",
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5973271/trump-withdraws-lance-schroyer-a-former-oklahoma-state-trooper-as-his-nominee-to-lead-ice"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "After 53 years, a legendary outlaw builder was evicted from Marin's hippie utiopia",
-      "url": "https://sfstandard.com/2026/09/17/david-lee-hoffman-the-last-resort-marin-county-lagunitas-tea/"
+      "title": "Kawakami: How Buster Posey is dealing with this lousy Giants season and approaching 2027",
+      "url": "https://sfstandard.com/2026/09/17/buster-posey-sf-giants-2027-plans-strategy/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 57. best outside window: 10am to 12am",
-  "valid_until_epoch": 1789693250,
+  "text": "high 66, low 57. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1789709019,
   "version": 1
 }
