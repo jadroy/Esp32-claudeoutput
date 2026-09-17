@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-16T21:54:53-07:00",
+  "generated_at": "2026-09-17T04:44:04-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Here's why an Arizona medical examiner is working to track heat-related deaths",
-      "url": "https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner"
+      "title": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'",
+      "url": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union"
     },
     {
       "source": "BBC",
-      "title": "'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book",
-      "url": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss"
+      "title": "Palace in war of words with Earl Spencer over claims in Diana book",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 56. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1789649693,
+  "text": "high 65, low 58. best outside window: 4am to 12am",
+  "valid_until_epoch": 1789674244,
   "version": 1
 }
