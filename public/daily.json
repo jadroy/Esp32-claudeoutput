@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-16T14:19:35-07:00",
+  "generated_at": "2026-09-16T21:54:53-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The techies walking away from a big payday",
-      "url": "https://sfstandard.com/pacific-standard-time/2026/09/16/techies-walking-away-big-payday-pst/"
+      "title": "The office built to stop the next Nuru just got smaller",
+      "url": "https://sfstandard.com/2026/09/16/power-play-budget-cuts-nuru-lurie-pelosi-election/"
     },
     {
       "source": "NPR",
-      "title": "House holds billionaire Leon Black in contempt of Congress",
-      "url": "https://www.npr.org/2026/09/16/nx-s1-5954258/house-holds-billionaire-leon-black-in-contempt-of-congress"
+      "title": "Here's why an Arizona medical examiner is working to track heat-related deaths",
+      "url": "https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner"
     },
     {
       "source": "BBC",
-      "title": "Body found in search for missing three-year-old Noah Woods",
-      "url": "https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss"
+      "title": "'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book",
+      "url": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "After vicious dog attack, supervisor calls for stricter regulations",
-      "url": "https://sfstandard.com/2026/09/16/san-francisco-dog-attack-resolution-bilal-mahmood/"
+      "title": "How the 49ers plan to regroup after injuries to De'Zhaun Stribling and Jake Tonges",
+      "url": "https://sfstandard.com/2026/09/16/dezhaun-stribling-surgery-49ers-wide-receivers/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 56. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1789622375,
+  "text": "high 61, low 56. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1789649693,
   "version": 1
 }
