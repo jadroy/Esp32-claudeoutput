@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-18T13:55:19-07:00",
+  "generated_at": "2026-09-18T16:18:55-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "'Section 415' podcast: Inside the 49ers' changing power structure",
+      "url": "https://sfstandard.com/section-415/2026/09/18/section-415-podcast-49ers-changing-power-structure/"
+    },
+    {
+      "source": "NPR",
+      "title": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket"
+    },
+    {
+      "source": "BBC",
+      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Corgi wants to open hundreds of 24/7 cafes. Its latest shop just got shut down",
       "url": "https://sfstandard.com/2026/09/18/corgi-cafe-shut-down-dogpatch/"
-    },
-    {
-      "source": "NPR",
-      "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
-      "url": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media"
-    },
-    {
-      "source": "BBC",
-      "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
-      "url": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "The Brandin Podziemski extension dilemma flying under the radar",
-      "url": "https://sfstandard.com/2026/09/18/brandin-podziemski-warriors-extension-talks/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 55. best outside window: 1pm to 12am",
-  "valid_until_epoch": 1789793719,
+  "text": "high 64, low 55. best outside window: 4pm to 12am",
+  "valid_until_epoch": 1789802335,
   "version": 1
 }
