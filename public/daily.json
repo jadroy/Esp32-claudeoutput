@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-18T09:25:10-07:00",
+  "generated_at": "2026-09-18T13:55:19-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Mountain lion spotted in Outer Sunset",
-      "url": "https://sfstandard.com/2026/09/18/mountain-lion-spotted-outer-sunset/"
+      "title": "Corgi wants to open hundreds of 24/7 cafes. Its latest shop just got shut down",
+      "url": "https://sfstandard.com/2026/09/18/corgi-cafe-shut-down-dogpatch/"
     },
     {
       "source": "NPR",
-      "title": "Will even one of the U.N.'s 17 'sustainable development goals' be met by 2030?",
-      "url": "https://www.npr.org/2026/09/18/g-s1-143738/united-nations-sustainable-development-goals-hunger-climate-gender"
+      "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
+      "url": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Striking security guard workers walk off jobs in San Francisco",
-      "url": "https://sfstandard.com/2026/09/18/california-security-guard-workers-strike/"
+      "title": "The Brandin Podziemski extension dilemma flying under the radar",
+      "url": "https://sfstandard.com/2026/09/18/brandin-podziemski-warriors-extension-talks/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 55. best outside window: 9am to 12am",
-  "valid_until_epoch": 1789777510,
+  "text": "high 64, low 55. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1789793719,
   "version": 1
 }
