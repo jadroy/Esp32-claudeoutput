@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-18T21:39:32-07:00",
+  "generated_at": "2026-09-19T04:01:15-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
-      "url": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket"
+      "title": "An Alaska storm scattered artifacts. Archaeologists are racing to save what's left",
+      "url": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 55. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1789821572,
+  "text": "high 64, low 55. best outside window: 4am to 12am",
+  "valid_until_epoch": 1789844475,
   "version": 1
 }
