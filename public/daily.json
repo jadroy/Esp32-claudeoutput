@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-19T08:53:50-07:00",
+  "generated_at": "2026-09-19T13:42:06-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
-      "url": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban"
+      "title": "The new lines of southern Lebanon",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 55. best outside window: 8am to 12am",
-  "valid_until_epoch": 1789862030,
+  "text": "high 62, low 55. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1789879326,
   "version": 1
 }
