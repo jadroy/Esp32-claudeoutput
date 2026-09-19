@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-19T04:01:15-07:00",
+  "generated_at": "2026-09-19T08:53:50-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'Section 415' podcast: Inside the 49ers' changing power structure",
-      "url": "https://sfstandard.com/section-415/2026/09/18/section-415-podcast-49ers-changing-power-structure/"
+      "title": "Chris Mullin, Eric Housen, and 40 years of a Warriors friendship",
+      "url": "https://sfstandard.com/2026/09/19/chris-mullin-eric-housen-40-years-warriors-friendship/"
     },
     {
       "source": "NPR",
-      "title": "An Alaska storm scattered artifacts. Archaeologists are racing to save what's left",
-      "url": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak"
+      "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
+      "url": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban"
     },
     {
       "source": "BBC",
-      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
       "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Corgi wants to open hundreds of 24/7 cafes. Its latest shop just got shut down",
-      "url": "https://sfstandard.com/2026/09/18/corgi-cafe-shut-down-dogpatch/"
+      "title": "Hot dogs, furries, and apocalyptic dread: Scenes from a surreal Dreamforce",
+      "url": "https://sfstandard.com/2026/09/19/hot-dogs-furries-apocalyptic-dread-scenes-surreal-dreamforce/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 55. best outside window: 4am to 12am",
-  "valid_until_epoch": 1789844475,
+  "text": "high 64, low 55. best outside window: 8am to 12am",
+  "valid_until_epoch": 1789862030,
   "version": 1
 }
