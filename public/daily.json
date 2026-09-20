@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-20T04:26:26-07:00",
+  "generated_at": "2026-09-20T09:08:35-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Chris Mullin, Eric Housen, and 40 years of a Warriors friendship",
-      "url": "https://sfstandard.com/2026/09/19/chris-mullin-eric-housen-40-years-warriors-friendship/"
+      "title": "The Valkyries aren't just an impressive expansion team. This is an all-time season",
+      "url": "https://sfstandard.com/2026/09/20/golden-state-valkyries-historic-season-title-contenders/"
     },
     {
       "source": "NPR",
-      "title": "In New Orleans, an empty building becomes a free store - and roller skating rink",
-      "url": "https://www.npr.org/2026/09/20/nx-s1-5940784/new-orleans-lower-ninth-ward-free-store"
+      "title": "Trump says his D.C. arch will serve as 'military complex' with snipers and drones",
+      "url": "https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Hot dogs, furries, and apocalyptic dread: Scenes from a surreal Dreamforce",
-      "url": "https://sfstandard.com/2026/09/19/hot-dogs-furries-apocalyptic-dread-scenes-surreal-dreamforce/"
+      "title": "She photographed the Grateful Dead from the inside. Now her work is going on display in SF",
+      "url": "https://sfstandard.com/2026/09/20/photographed-grateful-dead-now-work-going-display-sf/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 54. best outside window: 4am to 12am",
-  "valid_until_epoch": 1789932386,
+  "text": "high 59, low 55. best outside window: 9am to 12am",
+  "valid_until_epoch": 1789949315,
   "version": 1
 }
