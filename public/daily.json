@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-20T13:50:21-07:00",
+  "generated_at": "2026-09-20T16:15:36-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Giants broadcaster Duane Kuiper diagnosed with throat cancer",
-      "url": "https://sfstandard.com/2026/09/20/duane-kuiper-cancer-diagnosis-mike-krukow/"
+      "title": "Another 49ers blowout: Brock Purdy's career day earns him an early exit vs. the Dolphins",
+      "url": "https://sfstandard.com/2026/09/20/brock-purdy-49ers-best-game-dolphins/"
     },
     {
       "source": "NPR",
-      "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
-      "url": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat"
+      "title": "Federal immigration agent shoots and injures man in Austin, Texas",
+      "url": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "The Valkyries aren't just an impressive expansion team. This is an all-time season",
-      "url": "https://sfstandard.com/2026/09/20/golden-state-valkyries-historic-season-title-contenders/"
+      "title": "Doula helps deliver baby after mother goes into labor during Golden Gate Park traffic jam",
+      "url": "https://sfstandard.com/2026/09/20/mom-delivers-baby-golden-gate-park-traffic-jam/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 59, low 55. best outside window: 1pm to 12am",
-  "valid_until_epoch": 1789966221,
+  "text": "high 59, low 55. best outside window: 4pm to 12am",
+  "valid_until_epoch": 1789974936,
   "version": 1
 }
