@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-20T09:08:35-07:00",
+  "generated_at": "2026-09-20T13:50:21-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "Giants broadcaster Duane Kuiper diagnosed with throat cancer",
+      "url": "https://sfstandard.com/2026/09/20/duane-kuiper-cancer-diagnosis-mike-krukow/"
+    },
+    {
+      "source": "NPR",
+      "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
+      "url": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat"
+    },
+    {
+      "source": "BBC",
+      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "The Valkyries aren't just an impressive expansion team. This is an all-time season",
       "url": "https://sfstandard.com/2026/09/20/golden-state-valkyries-historic-season-title-contenders/"
-    },
-    {
-      "source": "NPR",
-      "title": "Trump says his D.C. arch will serve as 'military complex' with snipers and drones",
-      "url": "https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones"
-    },
-    {
-      "source": "BBC",
-      "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "She photographed the Grateful Dead from the inside. Now her work is going on display in SF",
-      "url": "https://sfstandard.com/2026/09/20/photographed-grateful-dead-now-work-going-display-sf/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 59, low 55. best outside window: 9am to 12am",
-  "valid_until_epoch": 1789949315,
+  "text": "high 59, low 55. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1789966221,
   "version": 1
 }
