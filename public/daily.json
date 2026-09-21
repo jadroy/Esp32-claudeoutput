@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-21T05:50:55-07:00",
+  "generated_at": "2026-09-21T12:59:41-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "SF could soon let people sell hot food from their homes",
-      "url": "https://sfstandard.com/2026/09/21/homemade-food-sales-legislation-mehko/"
+      "title": "George Kittle, Kyle Juszczyk, and the decade-long bet paying off for the 49ers",
+      "url": "https://sfstandard.com/2026/09/21/george-kittle-kyle-juszczyk-decade-long-bet-paying-49ers/"
     },
     {
       "source": "NPR",
-      "title": "World leaders convene for UNGA. And, Trump says D.C. arch will be a 'military complex'",
-      "url": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting"
+      "title": "What the equinox 'henge' effect tells us about U.S. cities",
+      "url": "https://www.npr.org/2026/09/21/nx-s1-5973179/equinox-henge-sunrise-sunset"
     },
     {
       "source": "BBC",
-      "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
-      "url": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss"
+      "title": "Airlines criticise air traffic control as second glitch causes more disruption",
+      "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Inside Purdy's near-perfect day against Miami: 'We're starting to witness Brock's prime'",
-      "url": "https://sfstandard.com/2026/09/20/brock-purdy-49ers-perfect-game-dolphins/"
+      "title": "Sheriff's secret sex sting: Signal chats and a dodgy contract with Chris Hansen",
+      "url": "https://sfstandard.com/2026/09/21/san-francisco-sheriff-chris-hansen-contract/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "today stays cool: 54 to 56. warmest: 5am to 12am",
-  "valid_until_epoch": 1790023855,
+  "text": "high 59, low 54. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1790049581,
   "version": 1
 }
