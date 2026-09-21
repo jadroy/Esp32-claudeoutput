@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-20T21:57:56-07:00",
+  "generated_at": "2026-09-21T05:50:55-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "SF could soon let people sell hot food from their homes",
+      "url": "https://sfstandard.com/2026/09/21/homemade-food-sales-legislation-mehko/"
+    },
+    {
+      "source": "NPR",
+      "title": "World leaders convene for UNGA. And, Trump says D.C. arch will be a 'military complex'",
+      "url": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting"
+    },
+    {
+      "source": "BBC",
+      "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Inside Purdy's near-perfect day against Miami: 'We're starting to witness Brock's prime'",
       "url": "https://sfstandard.com/2026/09/20/brock-purdy-49ers-perfect-game-dolphins/"
-    },
-    {
-      "source": "NPR",
-      "title": "Federal immigration agent shoots and injures man in Austin, Texas",
-      "url": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas"
-    },
-    {
-      "source": "BBC",
-      "title": "Specialist courts for rape cases to be rolled out across England and Wales",
-      "url": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "Kawakami: Big wins, lost players - the 2026 49ers are worth some all-in trade moves",
-      "url": "https://sfstandard.com/2026/09/20/san-francisco-49ers-trade-candidates-injuries-jed-york/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 59, low 55. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1789995476,
+  "text": "today stays cool: 54 to 56. warmest: 5am to 12am",
+  "valid_until_epoch": 1790023855,
   "version": 1
 }
