@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-20T16:15:36-07:00",
+  "generated_at": "2026-09-20T21:57:56-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Another 49ers blowout: Brock Purdy's career day earns him an early exit vs. the Dolphins",
-      "url": "https://sfstandard.com/2026/09/20/brock-purdy-49ers-best-game-dolphins/"
+      "title": "Inside Purdy's near-perfect day against Miami: 'We're starting to witness Brock's prime'",
+      "url": "https://sfstandard.com/2026/09/20/brock-purdy-49ers-perfect-game-dolphins/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss"
+      "title": "Specialist courts for rape cases to be rolled out across England and Wales",
+      "url": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Doula helps deliver baby after mother goes into labor during Golden Gate Park traffic jam",
-      "url": "https://sfstandard.com/2026/09/20/mom-delivers-baby-golden-gate-park-traffic-jam/"
+      "title": "Kawakami: Big wins, lost players - the 2026 49ers are worth some all-in trade moves",
+      "url": "https://sfstandard.com/2026/09/20/san-francisco-49ers-trade-candidates-injuries-jed-york/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 59, low 55. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1789974936,
+  "text": "high 59, low 55. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1789995476,
   "version": 1
 }
