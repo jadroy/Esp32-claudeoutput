@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-21T17:08:03-07:00",
+  "generated_at": "2026-09-21T21:58:28-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -14,8 +14,8 @@
     },
     {
       "source": "BBC",
-      "title": "Airlines criticise air traffic control as second glitch causes more disruption",
-      "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss"
+      "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+      "url": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 54. best outside window: 5pm to 12am",
-  "valid_until_epoch": 1790064483,
+  "text": "high 60, low 54. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1790081908,
   "version": 1
 }
