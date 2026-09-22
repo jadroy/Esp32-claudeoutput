@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-22T09:58:21-07:00",
+  "generated_at": "2026-09-22T14:20:35-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "How San Francisco lost the Lucas Museum",
+      "url": "https://sfstandard.com/2026/09/22/san-francisco-lost-lucas-museum/"
+    },
+    {
+      "source": "NPR",
+      "title": "Trump's D.C. arch is now a military complex. Here's how that complicates things",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5977646/trump-dc-arch-military-complex-questions"
+    },
+    {
+      "source": "BBC",
+      "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
+      "url": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Trump's Truth Social charges $100K a month to see his posts early. SF says that's illegal",
       "url": "https://sfstandard.com/2026/09/22/sf-sues-trump-media-alleging-turned-presidential-posts-insider-trading-scheme/"
-    },
-    {
-      "source": "NPR",
-      "title": "Inside a 'modern slavery situation' where cyber scammers are victims themselves",
-      "url": "https://www.npr.org/2026/09/22/nx-s1-5977731/inside-a-modern-slavery-situation-where-cyber-scammers-are-victims-themselves"
-    },
-    {
-      "source": "BBC",
-      "title": "Plot targeting Manchester's Jewish community disrupted, say police",
-      "url": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "The final week of the Giants' season: It's all about Kruk and Kuip",
-      "url": "https://sfstandard.com/2026/09/22/duane-kuiper-mike-krukow-sf-giants-broadcasting/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 55. best outside window: 9am to 12am",
-  "valid_until_epoch": 1790125101,
+  "text": "high 60, low 55. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1790140835,
   "version": 1
 }
