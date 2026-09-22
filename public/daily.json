@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-21T12:59:41-07:00",
+  "generated_at": "2026-09-21T17:08:03-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "George Kittle, Kyle Juszczyk, and the decade-long bet paying off for the 49ers",
-      "url": "https://sfstandard.com/2026/09/21/george-kittle-kyle-juszczyk-decade-long-bet-paying-49ers/"
+      "title": "How Raheem Morris is already reshaping the 49ers' defense",
+      "url": "https://sfstandard.com/2026/09/21/49ers-defense-raheem-morris-evolution/"
     },
     {
       "source": "NPR",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Sheriff's secret sex sting: Signal chats and a dodgy contract with Chris Hansen",
-      "url": "https://sfstandard.com/2026/09/21/san-francisco-sheriff-chris-hansen-contract/"
+      "title": "Warriors roster breakdown: Here are the competitors for the final spots",
+      "url": "https://sfstandard.com/2026/09/21/warriors-graham-ike-lajae-jones-roster-competition/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 59, low 54. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1790049581,
+  "text": "high 60, low 54. best outside window: 5pm to 12am",
+  "valid_until_epoch": 1790064483,
   "version": 1
 }
