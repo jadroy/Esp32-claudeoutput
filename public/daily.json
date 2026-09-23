@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-22T14:20:35-07:00",
+  "generated_at": "2026-09-22T21:46:56-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "How San Francisco lost the Lucas Museum",
-      "url": "https://sfstandard.com/2026/09/22/san-francisco-lost-lucas-museum/"
+      "title": "The changing face of Stanford: University slammed for AI-generated race swap in photo",
+      "url": "https://sfstandard.com/2026/09/22/stanford-student-ai-photo-replaces-latino-man-black-woman/"
     },
     {
       "source": "NPR",
-      "title": "Trump's D.C. arch is now a military complex. Here's how that complicates things",
-      "url": "https://www.npr.org/2026/09/22/nx-s1-5977646/trump-dc-arch-military-complex-questions"
+      "title": "Questions remain after grand jury declines indictment in Nolan Wells' death",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5977673/questions-remain-after-grand-jury-declines-indictment-in-nolan-wells-death"
     },
     {
       "source": "BBC",
-      "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
-      "url": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss"
+      "title": "UK to fight Russian disinformation and push new global AI standards, Burnham says",
+      "url": "https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Trump's Truth Social charges $100K a month to see his posts early. SF says that's illegal",
-      "url": "https://sfstandard.com/2026/09/22/sf-sues-trump-media-alleging-turned-presidential-posts-insider-trading-scheme/"
+      "title": "No grades, no tests, no degree: Andreessen Horowitz launching SF academy for 'builders'",
+      "url": "https://sfstandard.com/2026/09/22/grades-tests-degree-andreessen-horowitz-launching-sf-academy-builders/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 55. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1790140835,
+  "text": "high 60, low 55. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1790167616,
   "version": 1
 }
