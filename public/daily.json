@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-23T04:39:26-07:00",
+  "generated_at": "2026-09-23T10:01:54-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The changing face of Stanford: University slammed for AI-generated race swap in photo",
-      "url": "https://sfstandard.com/2026/09/22/stanford-student-ai-photo-replaces-latino-man-black-woman/"
+      "title": "The best events in SF this week, from Sundown Cinema to Dolly Day",
+      "url": "https://sfstandard.com/2026/09/23/best-events-sf-week-sundown-cinema-dolly-day/"
     },
     {
       "source": "NPR",
-      "title": "Dems have an edge over GOP, poll finds. And, ICE looks into 'mobile detention centers'",
-      "url": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice"
+      "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship"
     },
     {
       "source": "BBC",
-      "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss"
+      "title": "Home secretary says undetected migrant landings 'unacceptable'",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "No grades, no tests, no degree: Andreessen Horowitz launching SF academy for 'builders'",
-      "url": "https://sfstandard.com/2026/09/22/grades-tests-degree-andreessen-horowitz-launching-sf-academy-builders/"
+      "title": "If we're all going to die, I want to do it at this farmers market",
+      "url": "https://sfstandard.com/2026/09/23/alemany-farmers-market-best-secret/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 75, low 54. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1790192366,
+  "text": "high 73, low 54. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1790211714,
   "version": 1
 }
