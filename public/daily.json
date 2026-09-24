@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-24T10:12:53-07:00",
+  "generated_at": "2026-09-24T14:32:05-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "SF Girls Chorus is selling its Hayes Valley HQ, a former Druid temple, for $13.75M",
-      "url": "https://sfstandard.com/2026/09/24/sf-girls-chorus-selling-hayes-valley-headquarters/"
+      "title": "She coined the term 'third-wave coffee.' Now she's poised for a big comeback",
+      "url": "https://sfstandard.com/2026/09/24/wrecking-ball-coffee-trish-rothgeb-new-cafe-roastery/"
     },
     {
       "source": "NPR",
-      "title": "Mortgage rates have just surpassed 7% for the first time in well over a year",
-      "url": "https://www.npr.org/2026/09/24/nx-s1-5977796/mortgage-rates-freddie-mac-homebuying"
+      "title": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "The Haight could get a new music hub. Small businesses say it will destroy them",
-      "url": "https://sfstandard.com/2026/09/24/haight-ashbury-music-hub-debate-small-businesses/"
+      "title": "SF Girls Chorus is selling its Hayes Valley HQ, a former Druid temple, for $13.75M",
+      "url": "https://sfstandard.com/2026/09/24/sf-girls-chorus-selling-hayes-valley-headquarters/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 68, low 52. best outside window: 10am to 12am",
-  "valid_until_epoch": 1790298773,
+  "text": "high 69, low 52. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1790314325,
   "version": 1
 }
