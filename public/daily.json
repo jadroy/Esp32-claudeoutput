@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-23T21:53:43-07:00",
+  "generated_at": "2026-09-24T04:48:05-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Fears of return to war grow in Ethiopia's Tigray region",
-      "url": "https://www.npr.org/2026/09/24/nx-s1-5978861/conflict-ethiopia-tigray"
+      "title": "Judge restores journalists' White House access. And, Tucker Carlson on his MAGA split",
+      "url": "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump"
     },
     {
       "source": "BBC",
-      "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
-      "url": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss"
+      "title": "NHS trust to review 4,500 breast cancer cases after unnecessary surgeries found",
+      "url": "https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 72, low 54. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1790254423,
+  "text": "high 70, low 54. best outside window: 4am to 12am",
+  "valid_until_epoch": 1790279285,
   "version": 1
 }
