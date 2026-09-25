@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-24T14:32:05-07:00",
+  "generated_at": "2026-09-24T21:59:39-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "She coined the term 'third-wave coffee.' Now she's poised for a big comeback",
-      "url": "https://sfstandard.com/2026/09/24/wrecking-ball-coffee-trish-rothgeb-new-cafe-roastery/"
+      "title": "The playoffs have arrived: Valkyries secure No. 2 seed with stunning comeback in L.A.",
+      "url": "https://sfstandard.com/2026/09/24/golden-state-valkyries-dallas-wings-playoff-preview/"
     },
     {
       "source": "NPR",
-      "title": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
-      "url": "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote"
+      "title": "Long agenda, short meeting: Trump and Xi meet",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5973112/long-agenda-short-meeting-trump-and-xi-meet"
     },
     {
       "source": "BBC",
-      "title": "Watch: Why has Trump been so eager to welcome Xi?",
-      "url": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: The world's two most powerful men just met. How did it go?",
+      "url": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "SF Girls Chorus is selling its Hayes Valley HQ, a former Druid temple, for $13.75M",
-      "url": "https://sfstandard.com/2026/09/24/sf-girls-chorus-selling-hayes-valley-headquarters/"
+      "title": "Flock is under fire. SF's moderate Democrats are doubling down on the cameras",
+      "url": "https://sfstandard.com/2026/09/24/flock-cameras-sf-democrats/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 69, low 52. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1790314325,
+  "text": "high 70, low 52. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1790341179,
   "version": 1
 }
