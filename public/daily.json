@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-25T10:13:17-07:00",
+  "generated_at": "2026-09-25T14:36:01-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The most epic Bay Area sports weekend of the year starts now",
-      "url": "https://sfstandard.com/2026/09/25/epic-bay-area-sports-weekend-year-starts-now/"
+      "title": "Sandbagged: Aiming to steal Nvidia chips, thieves mistakenly grab 20 tons of sand",
+      "url": "https://sfstandard.com/2026/09/25/plusai-autonomous-trucking-trailers-stolen-fremont/"
     },
     {
       "source": "NPR",
-      "title": "Woman who accused Jay-Z of sexual assault says her claims were false",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5981154/jay-z-sexual-assault-accuser-claims-false"
+      "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas"
     },
     {
       "source": "BBC",
-      "title": "Watch: What could the potential sanctions for Man City be?",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss"
+      "title": "Man City found guilty of majority of 115 financial rule breaches",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "A growing ice cream empire just brought the Castro its best smashburger",
-      "url": "https://sfstandard.com/2026/09/25/iggys-burgers-review-castro/"
+      "title": "'Section 415': Despite criticism, Kalshi isn't deterred from partnering with the Giants",
+      "url": "https://sfstandard.com/section-415/2026/09/25/section-415-despite-criticism-kalshi-isn-t-deterred-partnering-giants/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 55. best outside window: 10am to 12am",
-  "valid_until_epoch": 1790385197,
+  "text": "high 65, low 55. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1790400961,
   "version": 1
 }
