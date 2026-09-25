@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-24T21:59:39-07:00",
+  "generated_at": "2026-09-25T04:52:42-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Long agenda, short meeting: Trump and Xi meet",
-      "url": "https://www.npr.org/2026/09/24/nx-s1-5973112/long-agenda-short-meeting-trump-and-xi-meet"
+      "title": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
+      "url": "https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates"
     },
     {
       "source": "BBC",
-      "title": "Watch: The world's two most powerful men just met. How did it go?",
-      "url": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss"
+      "title": "Noah Woods left playground through gap in fence, inquest hears",
+      "url": "https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 70, low 52. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1790341179,
+  "text": "high 66, low 55. best outside window: 4am to 12am",
+  "valid_until_epoch": 1790365962,
   "version": 1
 }
