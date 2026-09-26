@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-25T14:36:01-07:00",
+  "generated_at": "2026-09-25T21:59:58-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Sandbagged: Aiming to steal Nvidia chips, thieves mistakenly grab 20 tons of sand",
-      "url": "https://sfstandard.com/2026/09/25/plusai-autonomous-trucking-trailers-stolen-fremont/"
+      "title": "Steph Curry signs Warriors extension under the max, squanders fears of wandering eyes",
+      "url": "https://sfstandard.com/2026/09/25/stephen-curry-contract-extension-what-it-means/"
     },
     {
       "source": "NPR",
-      "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas"
+      "title": "CNN left off Air Force One for Trump's upcoming trip, White House signals in new media restriction",
+      "url": "https://www.npr.org/2026/09/26/g-s1-145142/cnn-left-off-air-force-one"
     },
     {
       "source": "BBC",
-      "title": "Man City found guilty of majority of 115 financial rule breaches",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss"
+      "title": "Clubs seek legal advice after Man City found guilty over financial rule breaches",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "'Section 415': Despite criticism, Kalshi isn't deterred from partnering with the Giants",
-      "url": "https://sfstandard.com/section-415/2026/09/25/section-415-despite-criticism-kalshi-isn-t-deterred-partnering-giants/"
+      "title": "The Giants 'mom of the year' defends husband after viral clip",
+      "url": "https://sfstandard.com/2026/09/25/viral-giants-mom-defends-husband/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 55. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1790400961,
+  "text": "high 66, low 56. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1790427598,
   "version": 1
 }
