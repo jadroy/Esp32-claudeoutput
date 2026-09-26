@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-25T21:59:58-07:00",
+  "generated_at": "2026-09-26T04:26:53-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "CNN left off Air Force One for Trump's upcoming trip, White House signals in new media restriction",
-      "url": "https://www.npr.org/2026/09/26/g-s1-145142/cnn-left-off-air-force-one"
+      "title": "The AI safety debate is confusing. Here's our guide to the different factions",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions"
     },
     {
       "source": "BBC",
-      "title": "Clubs seek legal advice after Man City found guilty over financial rule breaches",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss"
+      "title": "Man City legal fight could spiral out of control, former Premier League club executive warns",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 56. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1790427598,
+  "text": "high 63, low 53. best outside window: 4am to 12am",
+  "valid_until_epoch": 1790450813,
   "version": 1
 }
