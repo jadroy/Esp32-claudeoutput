@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-26T04:26:53-07:00",
+  "generated_at": "2026-09-26T09:24:55-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Steph Curry signs Warriors extension under the max, squanders fears of wandering eyes",
-      "url": "https://sfstandard.com/2026/09/25/stephen-curry-contract-extension-what-it-means/"
+      "title": "A former tenant, a dream bakery, and a warning that came too late",
+      "url": "https://sfstandard.com/2026/09/26/butter-crumble-cake-shop-union-street-saga/"
     },
     {
       "source": "NPR",
-      "title": "The AI safety debate is confusing. Here's our guide to the different factions",
-      "url": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions"
+      "title": "OPINION: Trump's U.N. speech, a stark contrast with past presidents",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5974096/essay-09-26-26"
     },
     {
       "source": "BBC",
-      "title": "Man City legal fight could spiral out of control, former Premier League club executive warns",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss"
+      "title": "Heathrow Airport warns third runway could be delayed by four years",
+      "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The Giants 'mom of the year' defends husband after viral clip",
-      "url": "https://sfstandard.com/2026/09/25/viral-giants-mom-defends-husband/"
+      "title": "The Waggle: The greatest mansion mystery on Billionaire Row has been solved",
+      "url": "https://sfstandard.com/2026/09/26/waggle-greatest-mansion-mystery-billionaire-row-has-solved/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 53. best outside window: 4am to 12am",
-  "valid_until_epoch": 1790450813,
+  "text": "high 64, low 52. best outside window: 9am to 12am",
+  "valid_until_epoch": 1790468695,
   "version": 1
 }
