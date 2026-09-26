@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-26T09:24:55-07:00",
+  "generated_at": "2026-09-26T14:11:38-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "OPINION: Trump's U.N. speech, a stark contrast with past presidents",
-      "url": "https://www.npr.org/2026/09/26/nx-s1-5974096/essay-09-26-26"
+      "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz"
     },
     {
       "source": "BBC",
-      "title": "Heathrow Airport warns third runway could be delayed by four years",
-      "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss"
+      "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+      "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 52. best outside window: 9am to 12am",
-  "valid_until_epoch": 1790468695,
+  "text": "high 63, low 52. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1790485898,
   "version": 1
 }
