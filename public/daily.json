@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-27T09:59:12-07:00",
+  "generated_at": "2026-09-27T14:22:22-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -14,8 +14,8 @@
     },
     {
       "source": "BBC",
-      "title": "What we know about RAF base counter-terror investigation",
-      "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss"
+      "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
+      "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 54. best outside window: 9am to 12am",
-  "valid_until_epoch": 1790557152,
+  "text": "high 61, low 54. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1790572942,
   "version": 1
 }
