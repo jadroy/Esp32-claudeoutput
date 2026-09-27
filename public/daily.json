@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-26T22:20:24-07:00",
+  "generated_at": "2026-09-27T05:04:50-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
-      "url": "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish"
+      "title": "Playing 'La Bamba' for an hour? Must be a Mexican fandango!",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5973237/la-bamba-mexico-fandango"
     },
     {
       "source": "BBC",
-      "title": "Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss"
+      "title": "Burnham proposes NHS-style social care system for England",
+      "url": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 52. best outside window: 10pm to 12am",
-  "valid_until_epoch": 1790515224,
+  "text": "high 62, low 54. best outside window: 5am to 12am",
+  "valid_until_epoch": 1790539490,
   "version": 1
 }
