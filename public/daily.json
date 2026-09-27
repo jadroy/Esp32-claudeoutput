@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-27T05:04:50-07:00",
+  "generated_at": "2026-09-27T09:59:12-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "A former tenant, a dream bakery, and a warning that came too late",
-      "url": "https://sfstandard.com/2026/09/26/butter-crumble-cake-shop-union-street-saga/"
+      "title": "Affordable SF: The cheapest beer in the city is not where you'd expect",
+      "url": "https://sfstandard.com/2026/09/27/affordable-sf-cheapest-beer/"
     },
     {
       "source": "NPR",
-      "title": "Playing 'La Bamba' for an hour? Must be a Mexican fandango!",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5973237/la-bamba-mexico-fandango"
+      "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week"
     },
     {
       "source": "BBC",
-      "title": "Burnham proposes NHS-style social care system for England",
-      "url": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss"
+      "title": "What we know about RAF base counter-terror investigation",
+      "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The Waggle: The greatest mansion mystery on Billionaire Row has been solved",
-      "url": "https://sfstandard.com/2026/09/26/waggle-greatest-mansion-mystery-billionaire-row-has-solved/"
+      "title": "Meet the 17-year-old mapping SF's rent-controlled housing",
+      "url": "https://sfstandard.com/2026/09/27/san-francisco-rent-control-vibecoded-map/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 54. best outside window: 5am to 12am",
-  "valid_until_epoch": 1790539490,
+  "text": "high 61, low 54. best outside window: 9am to 12am",
+  "valid_until_epoch": 1790557152,
   "version": 1
 }
