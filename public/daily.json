@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-27T22:25:57-07:00",
+  "generated_at": "2026-09-28T06:58:11-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The 49ers' evolution: How the offense adapted to seal a win and stay undefeated",
-      "url": "https://sfstandard.com/2026/09/27/49ers-offense-adapts-christian-mccaffrey/"
+      "title": "Meet the Bay Area progressive group targeting tech-backed Democrats",
+      "url": "https://sfstandard.com/2026/09/28/meet-bay-area-progressive-group-targeting-tech-backed-democrats/"
     },
     {
       "source": "NPR",
-      "title": "Nantucket shipwreck uncovered by Nor'easter",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5982785/nantucket-shipwreck-uncovered-by-noreaster"
+      "title": "SpaceX's Starship launches on first orbital mission from Texas",
+      "url": "https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa"
     },
     {
       "source": "BBC",
-      "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
-      "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: Were the RAF Fairford arrests 'pure luck'?",
+      "url": "https://www.bbc.co.uk/news/videos/c65ywnl3dvzno?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Kawakami: The perfect Brock Purdy/Kyle Shanahan convergence is happening",
-      "url": "https://sfstandard.com/2026/09/27/brock-purdy-kyle-shanahan-49ers-offense/"
+      "title": "Opinion: Dear Chobani billionaire, bring back our beer or we boycott your yogurt",
+      "url": "https://sfstandard.com/opinion/2026/09/28/hamdi-ulukaya-anchor-beer-chobani-boycott/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 54. best outside window: 10pm to 12am",
-  "valid_until_epoch": 1790601957,
+  "text": "high 66, low 53. best outside window: 6am to 12am",
+  "valid_until_epoch": 1790632691,
   "version": 1
 }
