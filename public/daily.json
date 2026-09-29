@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-29T02:51:34-07:00",
+  "generated_at": "2026-09-29T11:05:34-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The Warriors have to 'reimagine' their team. Here are 5 ways they'll do it",
-      "url": "https://sfstandard.com/2026/09/28/warriors-reiminage-steph-curry-kristaps-porzingis/"
+      "title": "After 58 years, the man behind 'got milk?' is walking away from advertising",
+      "url": "https://sfstandard.com/2026/09/29/58-years-man-got-milk-walking-away-advertising/"
     },
     {
       "source": "NPR",
-      "title": "4 ways to avoid getting ripped off, according to a pricing expert",
-      "url": "https://www.npr.org/2026/09/29/nx-s1-5983457/4-ways-to-avoid-getting-ripped-off-according-to-a-pricing-expert"
+      "title": "Lindsay Clancy's lawyer now questions whether she killed her 3 children",
+      "url": "https://www.npr.org/2026/09/29/g-s1-145539/lindsay-clancy-trial-hearing-lawyer"
     },
     {
       "source": "BBC",
-      "title": "OpenAI scraps rollout of new model over safety concerns",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: How did Burnham's speech go down in the conference hall?",
+      "url": "https://www.bbc.co.uk/news/videos/cwz0zk9d1497o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Kawakami: Steve Kerr on the Warriors' new offense and ending this era the right way",
-      "url": "https://sfstandard.com/2026/09/28/golden-state-warriors-steve-kerr-changes/"
+      "title": "SF's housing solution may be hiding in plain sight: Land it already owns",
+      "url": "https://sfstandard.com/2026/09/29/sf-affordable-housing-solution-city-owned-land-report/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 73, low 51. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1790704294,
+  "text": "high 73, low 51. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1790733934,
   "version": 1
 }
