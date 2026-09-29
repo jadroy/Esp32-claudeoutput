@@ -1,15 +1,15 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-28T14:14:36-07:00",
+  "generated_at": "2026-09-28T18:01:23-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Muni throat-slashing victim protected women from harasser before attack: DA",
-      "url": "https://sfstandard.com/2026/09/28/muni-throat-slashing-victim-protected-women-harasser-attack-da/"
+      "title": "Kawakami: Steve Kerr on the Warriors' new offense and ending this era the right way",
+      "url": "https://sfstandard.com/2026/09/28/golden-state-warriors-steve-kerr-changes/"
     },
     {
       "source": "NPR",
-      "title": "Prosecutors are reexamining a Cornell fraternity rape case. Here's what we know",
+      "title": "Prosecutors are reopening a Cornell fraternity rape case. Here's what we know",
       "url": "https://www.npr.org/2026/09/28/nx-s1-5983480/cornell-fraternity-rape-chi-phi-case-updates"
     },
     {
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "SF Dem Party chair who blocked key Flock vote got donation from surveillance backer",
-      "url": "https://sfstandard.com/2026/09/28/sf-dem-party-chair-who-blocked-key-flock-vote-got-10-000-donation-billionaire/"
+      "title": "In-laws took turns shooting NYT engineer to death in Dublin parking lot, witnesses say",
+      "url": "https://sfstandard.com/2026/09/28/laws-took-turns-shooting-nyt-engineer-death-dublin-parking-lot-witnesses-say/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 68, low 54. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1790658876,
+  "text": "high 68, low 54. best outside window: 6pm to 12am",
+  "valid_until_epoch": 1790672483,
   "version": 1
 }
