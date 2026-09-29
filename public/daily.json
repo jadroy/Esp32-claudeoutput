@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-29T11:05:34-07:00",
+  "generated_at": "2026-09-29T15:16:44-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "After 58 years, the man behind 'got milk?' is walking away from advertising",
-      "url": "https://sfstandard.com/2026/09/29/58-years-man-got-milk-walking-away-advertising/"
+      "title": "OpenAI launches cute, 'capable' AI agents after shelving deceptive model",
+      "url": "https://sfstandard.com/2026/09/29/openai-launches-dots/"
     },
     {
       "source": "NPR",
-      "title": "Lindsay Clancy's lawyer now questions whether she killed her 3 children",
-      "url": "https://www.npr.org/2026/09/29/g-s1-145539/lindsay-clancy-trial-hearing-lawyer"
+      "title": "U.S. Supreme Court sides with Trump administration in third-country deportations",
+      "url": "https://www.npr.org/2026/09/29/g-s1-145266/supreme-court-trump-third-country-deportations"
     },
     {
       "source": "BBC",
-      "title": "Watch: How did Burnham's speech go down in the conference hall?",
-      "url": "https://www.bbc.co.uk/news/videos/cwz0zk9d1497o?at_medium=RSS&at_campaign=rss"
+      "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
+      "url": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "SF's housing solution may be hiding in plain sight: Land it already owns",
-      "url": "https://sfstandard.com/2026/09/29/sf-affordable-housing-solution-city-owned-land-report/"
+      "title": "'Section 415' podcast: The Valkyries' first playoff win could spark a special run",
+      "url": "https://sfstandard.com/section-415/2026/09/29/golden-state-valkyries-playoff-podcast/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 73, low 51. best outside window: 1pm to 12am",
-  "valid_until_epoch": 1790733934,
+  "text": "high 73, low 51. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1790749004,
   "version": 1
 }
