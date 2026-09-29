@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-28T18:01:23-07:00",
+  "generated_at": "2026-09-29T02:51:34-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "The Warriors have to 'reimagine' their team. Here are 5 ways they'll do it",
+      "url": "https://sfstandard.com/2026/09/28/warriors-reiminage-steph-curry-kristaps-porzingis/"
+    },
+    {
+      "source": "NPR",
+      "title": "4 ways to avoid getting ripped off, according to a pricing expert",
+      "url": "https://www.npr.org/2026/09/29/nx-s1-5983457/4-ways-to-avoid-getting-ripped-off-according-to-a-pricing-expert"
+    },
+    {
+      "source": "BBC",
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Kawakami: Steve Kerr on the Warriors' new offense and ending this era the right way",
       "url": "https://sfstandard.com/2026/09/28/golden-state-warriors-steve-kerr-changes/"
-    },
-    {
-      "source": "NPR",
-      "title": "Prosecutors are reopening a Cornell fraternity rape case. Here's what we know",
-      "url": "https://www.npr.org/2026/09/28/nx-s1-5983480/cornell-fraternity-rape-chi-phi-case-updates"
-    },
-    {
-      "source": "BBC",
-      "title": "Five men arrested in RAF Fairford incident released on police bail",
-      "url": "https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "In-laws took turns shooting NYT engineer to death in Dublin parking lot, witnesses say",
-      "url": "https://sfstandard.com/2026/09/28/laws-took-turns-shooting-nyt-engineer-death-dublin-parking-lot-witnesses-say/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 68, low 54. best outside window: 6pm to 12am",
-  "valid_until_epoch": 1790672483,
+  "text": "high 73, low 51. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1790704294,
   "version": 1
 }
