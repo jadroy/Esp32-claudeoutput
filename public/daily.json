@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-29T15:16:44-07:00",
+  "generated_at": "2026-09-29T22:34:31-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "Newsom's do-over on sober housing could help erase a 2028 campaign liability",
+      "url": "https://sfstandard.com/2026/09/29/newsom-s-do-sober-housing-could-help-erase-2028-campaign-liability/"
+    },
+    {
+      "source": "NPR",
+      "title": "The federal law aimed at protecting college students from sexual abuse",
+      "url": "https://www.npr.org/2026/09/29/nx-s1-5983779/investigating-sexual-abuse-on-campus"
+    },
+    {
+      "source": "BBC",
+      "title": "Move to rejoin EU among options for UK, says Burnham",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "OpenAI launches cute, 'capable' AI agents after shelving deceptive model",
       "url": "https://sfstandard.com/2026/09/29/openai-launches-dots/"
-    },
-    {
-      "source": "NPR",
-      "title": "U.S. Supreme Court sides with Trump administration in third-country deportations",
-      "url": "https://www.npr.org/2026/09/29/g-s1-145266/supreme-court-trump-third-country-deportations"
-    },
-    {
-      "source": "BBC",
-      "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
-      "url": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "'Section 415' podcast: The Valkyries' first playoff win could spark a special run",
-      "url": "https://sfstandard.com/section-415/2026/09/29/golden-state-valkyries-playoff-podcast/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 73, low 51. best outside window: 3pm to 12am",
-  "valid_until_epoch": 1790749004,
+  "text": "high 73, low 51. best outside window: 10pm to 12am",
+  "valid_until_epoch": 1790775271,
   "version": 1
 }
