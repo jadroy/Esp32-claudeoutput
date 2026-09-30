@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-30T05:37:05-07:00",
+  "generated_at": "2026-09-30T13:02:41-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Newsom's do-over on sober housing could help erase a 2028 campaign liability",
-      "url": "https://sfstandard.com/2026/09/29/newsom-s-do-sober-housing-could-help-erase-2028-campaign-liability/"
+      "title": "Couple charged with murder in shooting of son-in-law",
+      "url": "https://sfstandard.com/2026/09/30/jonathan-mckinsey-shooting-in-laws-murder-charges/"
     },
     {
       "source": "NPR",
-      "title": "FBI hunting the hackers who stole its employees' sensitive data",
-      "url": "https://www.npr.org/2026/09/30/nx-s1-5985202/fbi-hack-shinyhunters"
+      "title": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5983516/damascus-syria-glass"
     },
     {
       "source": "BBC",
-      "title": "Move to rejoin EU among options for UK, says Burnham",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss"
+      "title": "'I pulled the controls': Passenger tells Israeli PM how he helped stop attacker",
+      "url": "https://www.bbc.co.uk/news/videos/c6rered722j5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "OpenAI launches cute, 'capable' AI agents after shelving deceptive model",
-      "url": "https://sfstandard.com/2026/09/29/openai-launches-dots/"
+      "title": "Nicole Hollis, designer to SF's secretive rich, opens her first shop in Dogpatch",
+      "url": "https://sfstandard.com/2026/09/30/nicole-hollis-designer-sf-s-secretive-rich-opens-first-shop-dogpatch/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 73, low 53. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1790800625,
+  "text": "high 71, low 52. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1790827361,
   "version": 1
 }
