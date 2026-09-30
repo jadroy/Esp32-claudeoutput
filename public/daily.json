@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-29T22:34:31-07:00",
+  "generated_at": "2026-09-30T05:37:05-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "The federal law aimed at protecting college students from sexual abuse",
-      "url": "https://www.npr.org/2026/09/29/nx-s1-5983779/investigating-sexual-abuse-on-campus"
+      "title": "FBI hunting the hackers who stole its employees' sensitive data",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5985202/fbi-hack-shinyhunters"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 73, low 51. best outside window: 10pm to 12am",
-  "valid_until_epoch": 1790775271,
+  "text": "high 73, low 53. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1790800625,
   "version": 1
 }
