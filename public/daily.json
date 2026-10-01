@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-30T13:02:41-07:00",
+  "generated_at": "2026-09-30T17:34:05-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Couple charged with murder in shooting of son-in-law",
-      "url": "https://sfstandard.com/2026/09/30/jonathan-mckinsey-shooting-in-laws-murder-charges/"
+      "title": "The Broncos could be the 49ers' toughest test yet, but Denver has one glaring weakness",
+      "url": "https://sfstandard.com/2026/09/30/kyle-shanahan-sean-payton-49ers-broncos-matchup/"
     },
     {
       "source": "NPR",
-      "title": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
-      "url": "https://www.npr.org/2026/09/30/nx-s1-5983516/damascus-syria-glass"
+      "title": "Swiss glaciers suffer another year of record ice loss",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change"
     },
     {
       "source": "BBC",
-      "title": "'I pulled the controls': Passenger tells Israeli PM how he helped stop attacker",
-      "url": "https://www.bbc.co.uk/news/videos/c6rered722j5o?at_medium=RSS&at_campaign=rss"
+      "title": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4z255y30o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Nicole Hollis, designer to SF's secretive rich, opens her first shop in Dogpatch",
-      "url": "https://sfstandard.com/2026/09/30/nicole-hollis-designer-sf-s-secretive-rich-opens-first-shop-dogpatch/"
+      "title": "As SFUSD weighs replacing its lottery, a new group pushes a bold overhaul",
+      "url": "https://sfstandard.com/2026/09/30/new-advocacy-group-sf/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 71, low 52. best outside window: 1pm to 12am",
-  "valid_until_epoch": 1790827361,
+  "text": "high 70, low 52. best outside window: 5pm to 12am",
+  "valid_until_epoch": 1790843645,
   "version": 1
 }
