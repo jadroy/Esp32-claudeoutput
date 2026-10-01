@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-01T03:10:17-07:00",
+  "generated_at": "2026-10-01T11:26:02-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Hilton attacks, Becerra can't stop saying Trump: five takeaways from the governor's debate",
-      "url": "https://sfstandard.com/2026/09/30/hilton-becerra-debate-takeaways-california-governor/"
+      "title": "Inside The Standard's reporting on sexual assault allegations against Manny Yekutiel",
+      "url": "https://sfstandard.com/pacific-standard-time/2026/10/01/podcast-sexual-assault-allegations-manny-yekutiel/"
     },
     {
       "source": "NPR",
-      "title": "Picanha, prices and politics: What Brazil's favorite steak says about the election",
-      "url": "https://www.npr.org/2026/10/01/nx-s1-5986079/picanha-election-brazil-economy"
+      "title": "AI data centers: How much are ratepayers on the hook for?",
+      "url": "https://www.npr.org/2026/10/01/nx-s1-5984949/data-centers-ai-ratepayers-congress"
     },
     {
       "source": "BBC",
-      "title": "We fear for our lives after being told our abusive exes will be freed from jail early",
-      "url": "https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&at_campaign=rss"
+      "title": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "PR firm name-drops Lurie to get his luxury real estate agent brother in the press",
-      "url": "https://sfstandard.com/2026/09/30/san-francisco-daniel-lurie-alexander-real-estate/"
+      "title": "Lurie withdraws Yekutiel endorsement, others say he should drop from supervisor race",
+      "url": "https://sfstandard.com/2026/10/01/manny-yekutiel-allegations-endorsements/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 52. best outside window: 3am to 12am",
-  "valid_until_epoch": 1790878217,
+  "text": "high 63, low 51. best outside window: 11am to 12am",
+  "valid_until_epoch": 1790907962,
   "version": 1
 }
