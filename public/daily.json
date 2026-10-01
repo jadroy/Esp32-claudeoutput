@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-09-30T17:34:05-07:00",
+  "generated_at": "2026-10-01T03:10:17-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The Broncos could be the 49ers' toughest test yet, but Denver has one glaring weakness",
-      "url": "https://sfstandard.com/2026/09/30/kyle-shanahan-sean-payton-49ers-broncos-matchup/"
+      "title": "Hilton attacks, Becerra can't stop saying Trump: five takeaways from the governor's debate",
+      "url": "https://sfstandard.com/2026/09/30/hilton-becerra-debate-takeaways-california-governor/"
     },
     {
       "source": "NPR",
-      "title": "Swiss glaciers suffer another year of record ice loss",
-      "url": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change"
+      "title": "Picanha, prices and politics: What Brazil's favorite steak says about the election",
+      "url": "https://www.npr.org/2026/10/01/nx-s1-5986079/picanha-election-brazil-economy"
     },
     {
       "source": "BBC",
-      "title": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4z255y30o?at_medium=RSS&at_campaign=rss"
+      "title": "We fear for our lives after being told our abusive exes will be freed from jail early",
+      "url": "https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "As SFUSD weighs replacing its lottery, a new group pushes a bold overhaul",
-      "url": "https://sfstandard.com/2026/09/30/new-advocacy-group-sf/"
+      "title": "PR firm name-drops Lurie to get his luxury real estate agent brother in the press",
+      "url": "https://sfstandard.com/2026/09/30/san-francisco-daniel-lurie-alexander-real-estate/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 70, low 52. best outside window: 5pm to 12am",
-  "valid_until_epoch": 1790843645,
+  "text": "high 64, low 52. best outside window: 3am to 12am",
+  "valid_until_epoch": 1790878217,
   "version": 1
 }
