@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-01T11:26:02-07:00",
+  "generated_at": "2026-10-01T17:48:07-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Inside The Standard's reporting on sexual assault allegations against Manny Yekutiel",
-      "url": "https://sfstandard.com/pacific-standard-time/2026/10/01/podcast-sexual-assault-allegations-manny-yekutiel/"
+      "title": "Golden Gate University in talks to buy downtown landmark after vacating campus",
+      "url": "https://sfstandard.com/2026/10/01/golden-gate-university-contemporary-jewish-museum/"
     },
     {
       "source": "NPR",
-      "title": "AI data centers: How much are ratepayers on the hook for?",
-      "url": "https://www.npr.org/2026/10/01/nx-s1-5984949/data-centers-ai-ratepayers-congress"
+      "title": "The family of Renee Good files lawsuits over her death during Minneapolis ICE raids",
+      "url": "https://www.npr.org/2026/10/01/nx-s1-5986224/renee-good-ice-lawsuit-minneapolis"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Lurie withdraws Yekutiel endorsement, others say he should drop from supervisor race",
-      "url": "https://sfstandard.com/2026/10/01/manny-yekutiel-allegations-endorsements/"
+      "title": "Why only one District 10 candidate supports Lurie's charter reforms",
+      "url": "https://sfstandard.com/2026/10/01/one-district-10-candidate-supports-mayor-lurie-s-charter-reforms/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 51. best outside window: 11am to 12am",
-  "valid_until_epoch": 1790907962,
+  "text": "high 65, low 51. best outside window: 5pm to 12am",
+  "valid_until_epoch": 1790930887,
   "version": 1
 }
