@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-01T17:48:07-07:00",
+  "generated_at": "2026-10-02T02:48:04-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "Five takeaways from congressional debate: Wiener, Chan clash over AI regulation",
+      "url": "https://sfstandard.com/2026/10/01/five-takeaways-congressional-debate-wiener-chan-clash-ai-regulation/"
+    },
+    {
+      "source": "NPR",
+      "title": "Who uttered the phrase 'the ideological clowns are out' this week? The quiz knows",
+      "url": "https://www.npr.org/2026/10/02/g-s1-145638/trump-hegseth-panda-ai-beyonce-news-quiz"
+    },
+    {
+      "source": "BBC",
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Golden Gate University in talks to buy downtown landmark after vacating campus",
       "url": "https://sfstandard.com/2026/10/01/golden-gate-university-contemporary-jewish-museum/"
-    },
-    {
-      "source": "NPR",
-      "title": "The family of Renee Good files lawsuits over her death during Minneapolis ICE raids",
-      "url": "https://www.npr.org/2026/10/01/nx-s1-5986224/renee-good-ice-lawsuit-minneapolis"
-    },
-    {
-      "source": "BBC",
-      "title": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "Why only one District 10 candidate supports Lurie's charter reforms",
-      "url": "https://sfstandard.com/2026/10/01/one-district-10-candidate-supports-mayor-lurie-s-charter-reforms/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 51. best outside window: 5pm to 12am",
-  "valid_until_epoch": 1790930887,
+  "text": "high 68, low 54. best outside window: 2am to 12am",
+  "valid_until_epoch": 1790963284,
   "version": 1
 }
