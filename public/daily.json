@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-02T02:48:04-07:00",
+  "generated_at": "2026-10-02T10:52:51-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Five takeaways from congressional debate: Wiener, Chan clash over AI regulation",
-      "url": "https://sfstandard.com/2026/10/01/five-takeaways-congressional-debate-wiener-chan-clash-ai-regulation/"
+      "title": "The Valkyries' biggest advantage in Game 3 is the one that failed them in Dallas",
+      "url": "https://sfstandard.com/2026/10/02/valkyries-wings-game-3-preview-ballhalla/"
     },
     {
       "source": "NPR",
-      "title": "Who uttered the phrase 'the ideological clowns are out' this week? The quiz knows",
-      "url": "https://www.npr.org/2026/10/02/g-s1-145638/trump-hegseth-panda-ai-beyonce-news-quiz"
+      "title": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'",
+      "url": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine"
     },
     {
       "source": "BBC",
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: Why has UK diesel price hit an all time high?",
+      "url": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Golden Gate University in talks to buy downtown landmark after vacating campus",
-      "url": "https://sfstandard.com/2026/10/01/golden-gate-university-contemporary-jewish-museum/"
+      "title": "Maria Su warns SF teachers not to delete student records as DOJ investigation heats up",
+      "url": "https://sfstandard.com/2026/10/02/maria-su-warns-sfusd-teachers-delete-student-records-/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 68, low 54. best outside window: 2am to 12am",
-  "valid_until_epoch": 1790963284,
+  "text": "high 72, low 52. best outside window: 10am to 12am",
+  "valid_until_epoch": 1790992371,
   "version": 1
 }
