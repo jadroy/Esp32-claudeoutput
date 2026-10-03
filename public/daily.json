@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-02T22:20:49-07:00",
+  "generated_at": "2026-10-03T04:41:20-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Brazil's big political rematch: What to know",
-      "url": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy"
+      "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure"
     },
     {
       "source": "BBC",
-      "title": "Widdecombe suspect charged with planning terror act against Farage",
-      "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss"
+      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 78, low 52. best outside window: 10pm to 12am",
-  "valid_until_epoch": 1791033649,
+  "text": "sf reaches 87 today. do the outdoor part before noon.",
+  "valid_until_epoch": 1791056480,
   "version": 1
 }
