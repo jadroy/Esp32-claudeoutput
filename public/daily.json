@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-02T15:15:36-07:00",
+  "generated_at": "2026-10-02T22:20:49-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Los Angeles Apparel, successor to American Apparel, is opening a Union Square store",
-      "url": "https://sfstandard.com/2026/10/02/dov-charney-la-apparel-union-square/"
+      "title": "Valkyries win instant classic: How Golden State pulled off 16-point comeback to advance",
+      "url": "https://sfstandard.com/2026/10/02/golden-state-valkyries-comeback-dallas-wings/"
     },
     {
       "source": "NPR",
-      "title": "As Trump's proposed arch looms over D.C., protesters pin their hopes on the midterms",
-      "url": "https://www.npr.org/2026/10/02/nx-s1-5985789/trump-arch-protest-veterans-midterms"
+      "title": "Brazil's big political rematch: What to know",
+      "url": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "49ers owner Jed York suspended 6 games, fined $500,000: 'I am deeply sorry'",
-      "url": "https://sfstandard.com/2026/10/02/jed-york-49ers-owner-nfl-suspension/"
+      "title": "Los Angeles Apparel, successor to American Apparel, is opening a Union Square store",
+      "url": "https://sfstandard.com/2026/10/02/dov-charney-la-apparel-union-square/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 78, low 52. best outside window: 3pm to 12am",
-  "valid_until_epoch": 1791008136,
+  "text": "high 78, low 52. best outside window: 10pm to 12am",
+  "valid_until_epoch": 1791033649,
   "version": 1
 }
