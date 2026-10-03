@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-03T09:18:54-07:00",
+  "generated_at": "2026-10-03T14:17:32-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The 'Eataly of Asian cuisine' is big on spectacle, short on substance",
-      "url": "https://sfstandard.com/2026/10/03/asia-live-market-restaurant-sf/"
+      "title": "ICE frees SF lawmaker's aide on bond. But the deportation fight isn't over",
+      "url": "https://sfstandard.com/2026/10/03/ho-yin-mo-ice-released-bond-stefani-aide/"
     },
     {
       "source": "NPR",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "The Waggle: An Army descends on San Francisco (with stickers)",
-      "url": "https://sfstandard.com/2026/10/03/waggle-bts-sfmoma-army-descends-san-francisco-stickers/"
+      "title": "The 'Eataly of Asian cuisine' is big on spectacle, short on substance",
+      "url": "https://sfstandard.com/2026/10/03/asia-live-market-restaurant-sf/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 81, low 54. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1791073134,
+  "text": "sf reaches 89 today. do the outdoor part before noon.",
+  "valid_until_epoch": 1791091052,
   "version": 1
 }
