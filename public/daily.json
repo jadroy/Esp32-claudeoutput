@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-03T04:41:20-07:00",
+  "generated_at": "2026-10-03T09:18:54-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Valkyries win instant classic: How Golden State pulled off 16-point comeback to advance",
-      "url": "https://sfstandard.com/2026/10/02/golden-state-valkyries-comeback-dallas-wings/"
+      "title": "The 'Eataly of Asian cuisine' is big on spectacle, short on substance",
+      "url": "https://sfstandard.com/2026/10/03/asia-live-market-restaurant-sf/"
     },
     {
       "source": "NPR",
-      "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
-      "url": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure"
+      "title": "Opinion: A Hawk is not the same as a Hawkeye",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Los Angeles Apparel, successor to American Apparel, is opening a Union Square store",
-      "url": "https://sfstandard.com/2026/10/02/dov-charney-la-apparel-union-square/"
+      "title": "The Waggle: An Army descends on San Francisco (with stickers)",
+      "url": "https://sfstandard.com/2026/10/03/waggle-bts-sfmoma-army-descends-san-francisco-stickers/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "sf reaches 87 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1791056480,
+  "text": "high 81, low 54. best outside window: 4pm to 12am",
+  "valid_until_epoch": 1791073134,
   "version": 1
 }
