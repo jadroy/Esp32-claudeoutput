@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-03T14:17:32-07:00",
+  "generated_at": "2026-10-03T22:55:39-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Opinion: A Hawk is not the same as a Hawkeye",
-      "url": "https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye"
+      "title": "Coast Guard finds debris from medical plane carrying 6 people",
+      "url": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts"
     },
     {
       "source": "BBC",
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss"
+      "title": "Burnham scraps controversial plans to curb jury trials",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "sf reaches 89 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1791091052,
+  "text": "sf reaches 92 today. do the outdoor part before noon.",
+  "valid_until_epoch": 1791122139,
   "version": 1
 }
