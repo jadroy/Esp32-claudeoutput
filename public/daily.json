@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-03T22:55:39-07:00",
+  "generated_at": "2026-10-04T05:24:34-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,12 +9,12 @@
     },
     {
       "source": "NPR",
-      "title": "Coast Guard finds debris from medical plane carrying 6 people",
-      "url": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts"
+      "title": "She died covering war for Fox News. Her parents blame the network - and a star reporter",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths"
     },
     {
       "source": "BBC",
-      "title": "Burnham scraps controversial plans to curb jury trials",
+      "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
       "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "sf reaches 92 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1791122139,
+  "text": "sf reaches 91 today. do the outdoor part before noon.",
+  "valid_until_epoch": 1791145474,
   "version": 1
 }
