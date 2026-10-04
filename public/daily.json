@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-04T11:38:41-07:00",
+  "generated_at": "2026-10-04T16:57:33-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "The 49ers start 4-0: How special teams and defense keyed a late outburst vs. Denver",
+      "url": "https://sfstandard.com/2026/10/04/49ers-beat-broncos-undefeated-brock-purdy-nfc/"
+    },
+    {
+      "source": "NPR",
+      "title": "Brazil votes, with Lula facing Bolsonaro's son",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son"
+    },
+    {
+      "source": "BBC",
+      "title": "US removes all bombers from RAF Fairford base",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "The Yekutiel scandal fits the SF establishment's pattern of failing survivors",
       "url": "https://sfstandard.com/2026/10/04/yekutiel-scandal-sf-rape-cases-survivors/"
-    },
-    {
-      "source": "NPR",
-      "title": "Cornell president calls gang rape allegations 'deeply disturbing'",
-      "url": "https://www.npr.org/2026/10/04/nx-s1-5990789/cornell-president-calls-gang-rape-allegations-deeply-disturbing"
-    },
-    {
-      "source": "BBC",
-      "title": "Green Party members back 'Zionism is racism' motion",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "A family love story, a time-capsule Piedmont home, and 11 heirs bracing for what's next",
-      "url": "https://sfstandard.com/2026/10/04/620-kingston-piedmont-lists-for-the-first-time/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "sf reaches 86 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1791167921,
+  "text": "sf reaches 90 today. do the outdoor part before noon.",
+  "valid_until_epoch": 1791187053,
   "version": 1
 }
