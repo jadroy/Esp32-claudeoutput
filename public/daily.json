@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-05T07:42:57-07:00",
+  "generated_at": "2026-10-05T15:02:17-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "No twisty slide, no peace: How an SF public school playground turned into battle zone",
-      "url": "https://sfstandard.com/2026/10/05/commodore-sloat-playground-battle/"
+      "title": "As 'nuisance' evictions surge, SF lawmakers propose a fix",
+      "url": "https://sfstandard.com/2026/10/05/sf-nuisance-evictions-tenant-fix/"
     },
     {
       "source": "NPR",
-      "title": "Dennis Hastert, longtime Republican House speaker who went to prison, dies at age 84",
-      "url": "https://www.npr.org/2026/10/05/g-s1-146452/dennis-hastert-republican-house-speaker-dies-obit"
+      "title": "The iconic Arthur Read made his TV debut 30 years ago",
+      "url": "https://www.npr.org/2026/10/05/g-s1-146052/arthur-read-tv-debut-30-anniversary"
     },
     {
       "source": "BBC",
-      "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
-      "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss"
+      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+      "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Asking a chatbot about your ballot? Read this first",
-      "url": "https://sfstandard.com/2026/10/05/ai-chatbots-california-election-errors-report/"
+      "title": "Every Bay Area champion has great role players. The 49ers and Valkyries have theirs",
+      "url": "https://sfstandard.com/2026/10/05/49ers-siran-neal-valkyries-kiah-stokes/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 54. best outside window: 7am to 12am",
-  "valid_until_epoch": 1791240177,
+  "text": "high 70, low 55. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1791266537,
   "version": 1
 }
