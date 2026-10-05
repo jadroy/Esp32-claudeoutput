@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-04T16:57:33-07:00",
+  "generated_at": "2026-10-04T22:43:21-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The 49ers start 4-0: How special teams and defense keyed a late outburst vs. Denver",
-      "url": "https://sfstandard.com/2026/10/04/49ers-beat-broncos-undefeated-brock-purdy-nfc/"
+      "title": "Old grudges, Kittle's sprint, and Shanahan's hunch: How the 49ers outlasted the Broncos",
+      "url": "https://sfstandard.com/2026/10/04/49ers-broncos-george-kittle-touchdown-dre-greenlaw/"
     },
     {
       "source": "NPR",
-      "title": "Brazil votes, with Lula facing Bolsonaro's son",
-      "url": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son"
+      "title": "Brazil's presidential race heads to Lula-Bolsonaro run-off as right gains ground",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "The Yekutiel scandal fits the SF establishment's pattern of failing survivors",
-      "url": "https://sfstandard.com/2026/10/04/yekutiel-scandal-sf-rape-cases-survivors/"
+      "title": "Kawakami: The Kyle Shanahan era keeps going and going - stronger than ever",
+      "url": "https://sfstandard.com/2026/10/04/kyle-shanahan-49ers-bill-walsh-coaching-tenure/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
   "text": "sf reaches 90 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1791187053,
+  "valid_until_epoch": 1791207801,
   "version": 1
 }
