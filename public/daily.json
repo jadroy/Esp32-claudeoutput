@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-04T22:43:21-07:00",
+  "generated_at": "2026-10-05T07:42:57-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Old grudges, Kittle's sprint, and Shanahan's hunch: How the 49ers outlasted the Broncos",
-      "url": "https://sfstandard.com/2026/10/04/49ers-broncos-george-kittle-touchdown-dre-greenlaw/"
+      "title": "No twisty slide, no peace: How an SF public school playground turned into battle zone",
+      "url": "https://sfstandard.com/2026/10/05/commodore-sloat-playground-battle/"
     },
     {
       "source": "NPR",
-      "title": "Brazil's presidential race heads to Lula-Bolsonaro run-off as right gains ground",
-      "url": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro"
+      "title": "Dennis Hastert, longtime Republican House speaker who went to prison, dies at age 84",
+      "url": "https://www.npr.org/2026/10/05/g-s1-146452/dennis-hastert-republican-house-speaker-dies-obit"
     },
     {
       "source": "BBC",
-      "title": "US removes all bombers from RAF Fairford base",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss"
+      "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
+      "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Kawakami: The Kyle Shanahan era keeps going and going - stronger than ever",
-      "url": "https://sfstandard.com/2026/10/04/kyle-shanahan-49ers-bill-walsh-coaching-tenure/"
+      "title": "Asking a chatbot about your ballot? Read this first",
+      "url": "https://sfstandard.com/2026/10/05/ai-chatbots-california-election-errors-report/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "sf reaches 90 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1791207801,
+  "text": "high 64, low 54. best outside window: 7am to 12am",
+  "valid_until_epoch": 1791240177,
   "version": 1
 }
