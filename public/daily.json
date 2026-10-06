@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-06T08:57:57-07:00",
+  "generated_at": "2026-10-06T15:39:48-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The SF Democratic Party is in tatters",
-      "url": "https://sfstandard.com/2026/10/06/san-francisco-democratic-party-nancy-tung-resign/"
+      "title": "The Iran War has sent Muni's fuel costs soaring 58%",
+      "url": "https://sfstandard.com/2026/10/06/iran-war-has-sent-muni-s-fuel-costs-soaring-58/"
     },
     {
       "source": "NPR",
-      "title": "Here are the finalists for the 2026 National Book Awards",
-      "url": "https://www.npr.org/2026/10/06/nx-s1-5991463/2026-national-book-award-shortlist-finalists"
+      "title": "Cornell names former acting U.S. attorney general to review rape case",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5992799/cornell-yates-rape-case-updates-review"
     },
     {
       "source": "BBC",
-      "title": "Watch: At the scene of student protests in Lille",
-      "url": "https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss"
+      "title": "Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "That flag-wrapped anti-AI bus in SF? A conservative group drove it here",
-      "url": "https://sfstandard.com/2026/10/06/flag-wrapped-anti-ai-bus-sf-conservative-group-drove/"
+      "title": "San Francisco hits pause on data centers",
+      "url": "https://sfstandard.com/2026/10/06/data-center-moratorium-san-francisco/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 71, low 54. best outside window: 8am to 12am",
-  "valid_until_epoch": 1791331077,
+  "text": "high 68, low 54. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1791355188,
   "version": 1
 }
