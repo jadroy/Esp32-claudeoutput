@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-05T15:02:17-07:00",
+  "generated_at": "2026-10-05T23:23:10-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "As 'nuisance' evictions surge, SF lawmakers propose a fix",
-      "url": "https://sfstandard.com/2026/10/05/sf-nuisance-evictions-tenant-fix/"
+      "title": "The 49ers have no backup for Kyle Juszczyk. Here's what his injury changes",
+      "url": "https://sfstandard.com/2026/10/05/kyle-juszczyk-49ers-injury-offense-changes/"
     },
     {
       "source": "NPR",
-      "title": "The iconic Arthur Read made his TV debut 30 years ago",
-      "url": "https://www.npr.org/2026/10/05/g-s1-146052/arthur-read-tv-debut-30-anniversary"
+      "title": "Jim Bakker, who built 'PTL Club' televangelism empire, has died at 86",
+      "url": "https://www.npr.org/2026/10/06/g-s1-146603/obit-jim-bakker"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Every Bay Area champion has great role players. The 49ers and Valkyries have theirs",
-      "url": "https://sfstandard.com/2026/10/05/49ers-siran-neal-valkyries-kiah-stokes/"
+      "title": "As 'nuisance' evictions surge, SF lawmakers propose a fix",
+      "url": "https://sfstandard.com/2026/10/05/sf-nuisance-evictions-tenant-fix/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 70, low 55. best outside window: 3pm to 12am",
-  "valid_until_epoch": 1791266537,
+  "text": "ingleside: high 70, low 55. no weather drama scheduled.",
+  "valid_until_epoch": 1791296590,
   "version": 1
 }
