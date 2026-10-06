@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-05T23:23:10-07:00",
+  "generated_at": "2026-10-06T08:57:57-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The 49ers have no backup for Kyle Juszczyk. Here's what his injury changes",
-      "url": "https://sfstandard.com/2026/10/05/kyle-juszczyk-49ers-injury-offense-changes/"
+      "title": "The SF Democratic Party is in tatters",
+      "url": "https://sfstandard.com/2026/10/06/san-francisco-democratic-party-nancy-tung-resign/"
     },
     {
       "source": "NPR",
-      "title": "Jim Bakker, who built 'PTL Club' televangelism empire, has died at 86",
-      "url": "https://www.npr.org/2026/10/06/g-s1-146603/obit-jim-bakker"
+      "title": "Here are the finalists for the 2026 National Book Awards",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5991463/2026-national-book-award-shortlist-finalists"
     },
     {
       "source": "BBC",
-      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-      "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: At the scene of student protests in Lille",
+      "url": "https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "As 'nuisance' evictions surge, SF lawmakers propose a fix",
-      "url": "https://sfstandard.com/2026/10/05/sf-nuisance-evictions-tenant-fix/"
+      "title": "That flag-wrapped anti-AI bus in SF? A conservative group drove it here",
+      "url": "https://sfstandard.com/2026/10/06/flag-wrapped-anti-ai-bus-sf-conservative-group-drove/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "ingleside: high 70, low 55. no weather drama scheduled.",
-  "valid_until_epoch": 1791296590,
+  "text": "high 71, low 54. best outside window: 8am to 12am",
+  "valid_until_epoch": 1791331077,
   "version": 1
 }
