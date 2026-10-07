@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-06T23:02:25-07:00",
+  "generated_at": "2026-10-07T06:26:44-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "SFUSD is set to overhaul its enrollment lottery. Nobody can agree on how",
-      "url": "https://sfstandard.com/2026/10/06/sfusd-set-overhaul-its-enrollment-lottery-nobody-can-agree/"
+      "title": "SF public schools stopped suspending students. What they're doing instead is illegal",
+      "url": "https://sfstandard.com/2026/10/07/sfusd-silent-suspensions-off-the-books-discipline/"
     },
     {
       "source": "NPR",
-      "title": "Actress Eva Marie Saint, who won an Oscar for 'On the Waterfront,' dies at 102",
-      "url": "https://www.npr.org/2026/10/06/462030457/eva-marie-saint-on-the-waterfront-dead-102"
+      "title": "U.S. moves long-range bombers from U.K. And, Israel allegedly warned before Oct. 7",
+      "url": "https://www.npr.org/2026/10/07/g-s1-146853/up-first-newsletter-long-range-bombers-france-high-school-protest-germany-august-hanning-oct-7-memorial-day"
     },
     {
       "source": "BBC",
-      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss"
+      "title": "Man admits sexually assaulting woman drugged by husband",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wvp34v460o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The Iran War has sent Muni's fuel costs soaring 58%",
-      "url": "https://sfstandard.com/2026/10/06/iran-war-has-sent-muni-s-fuel-costs-soaring-58/"
+      "title": "Kawakami: Yaxel Lendeborg might be just what the Warriors desperately need - ASAP",
+      "url": "https://sfstandard.com/2026/10/07/yaxel-lendeborg-warriors-starting-role/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "ingleside: high 71, low 54. no weather drama scheduled.",
-  "valid_until_epoch": 1791381745,
+  "text": "high 66, low 54. best outside window: 6am to 12am",
+  "valid_until_epoch": 1791408404,
   "version": 1
 }
