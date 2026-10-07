@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-07T06:26:44-07:00",
+  "generated_at": "2026-10-07T13:38:08-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "SF public schools stopped suspending students. What they're doing instead is illegal",
-      "url": "https://sfstandard.com/2026/10/07/sfusd-silent-suspensions-off-the-books-discipline/"
+      "title": "Woman accused of fatally shooting security guard at 'Baddies' event",
+      "url": "https://sfstandard.com/2026/10/07/woman-accused-fatally-shooting-security-guard-baddies-event/"
     },
     {
       "source": "NPR",
-      "title": "U.S. moves long-range bombers from U.K. And, Israel allegedly warned before Oct. 7",
-      "url": "https://www.npr.org/2026/10/07/g-s1-146853/up-first-newsletter-long-range-bombers-france-high-school-protest-germany-august-hanning-oct-7-memorial-day"
+      "title": "This surprising mammal fossil is giving scientists something to chew on",
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5991361/fossil-mammal-platypus-chew-swallow-suckle-earliest"
     },
     {
       "source": "BBC",
-      "title": "Man admits sexually assaulting woman drugged by husband",
-      "url": "https://www.bbc.co.uk/news/articles/cr3wvp34v460o?at_medium=RSS&at_campaign=rss"
+      "title": "Badenoch says Tories would scrap inheritance tax on family homes",
+      "url": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Kawakami: Yaxel Lendeborg might be just what the Warriors desperately need - ASAP",
-      "url": "https://sfstandard.com/2026/10/07/yaxel-lendeborg-warriors-starting-role/"
+      "title": "Money moves: Valkyries' $100 million milestone, Juszczyk's beer fight, and Stanford-Nike",
+      "url": "https://sfstandard.com/2026/10/07/golden-state-valkyries-100-million-revenue/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 54. best outside window: 6am to 12am",
-  "valid_until_epoch": 1791408404,
+  "text": "high 67, low 53. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1791434288,
   "version": 1
 }
