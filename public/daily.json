@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-08T03:37:43-07:00",
+  "generated_at": "2026-10-08T11:51:42-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Lurie's allies ditched Manny Yekutiel. Now they're polling his comeback odds",
-      "url": "https://sfstandard.com/2026/10/07/lurie-s-allies-ditched-manny-yekutiel-now-re-polling-comeback-odds/"
+      "title": "'I held my breath': Veronica Burton's shot puts the Valkyries one win from the WNBA Finals",
+      "url": "https://sfstandard.com/2026/10/08/veronica-burton-golden-state-valkyries-aces/"
     },
     {
       "source": "NPR",
-      "title": "ICE has quietly used this warehouse as a detention facility all summer, neighbors say",
-      "url": "https://www.npr.org/2026/10/08/nx-s1-5983441/ice-warehouses-new-jersey-roxbury"
+      "title": "Suicide is up among Black Americans. We need to talk about it.",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5963905/suicide-black-americans-discussion-analysis"
     },
     {
       "source": "BBC",
-      "title": "Asos hackers took more personal details than first revealed, BBC finds",
-      "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss"
+      "title": "Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says",
+      "url": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Woman accused of fatally shooting security guard at 'Baddies' event",
-      "url": "https://sfstandard.com/2026/10/07/woman-accused-fatally-shooting-security-guard-baddies-event/"
+      "title": "Kawakami: Ballhalla and the Valkyries are just a few ear-piercing victories from a title",
+      "url": "https://sfstandard.com/2026/10/08/golden-state-valkyries-ballhalla-home-court-advantage/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 54. best outside window: 3am to 12am",
-  "valid_until_epoch": 1791484663,
+  "text": "high 64, low 54. best outside window: 11am to 12am",
+  "valid_until_epoch": 1791514302,
   "version": 1
 }
