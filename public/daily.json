@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-07T13:38:08-07:00",
+  "generated_at": "2026-10-07T18:01:22-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "This surprising mammal fossil is giving scientists something to chew on",
-      "url": "https://www.npr.org/2026/10/07/nx-s1-5991361/fossil-mammal-platypus-chew-swallow-suckle-earliest"
+      "title": "The WHO seeks more details on the death of a plague research lab employee in Russia",
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5993873/russia-death-plague-research-institute"
     },
     {
       "source": "BBC",
-      "title": "Badenoch says Tories would scrap inheritance tax on family homes",
-      "url": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss"
+      "title": "Christa Pike 'angry and confused' after failed execution, lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/c617kdle01k9o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 53. best outside window: 1pm to 12am",
-  "valid_until_epoch": 1791434288,
+  "text": "high 67, low 53. best outside window: 6pm to 12am",
+  "valid_until_epoch": 1791450082,
   "version": 1
 }
