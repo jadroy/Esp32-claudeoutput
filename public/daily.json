@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-07T18:01:22-07:00",
+  "generated_at": "2026-10-08T03:37:43-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "Lurie's allies ditched Manny Yekutiel. Now they're polling his comeback odds",
+      "url": "https://sfstandard.com/2026/10/07/lurie-s-allies-ditched-manny-yekutiel-now-re-polling-comeback-odds/"
+    },
+    {
+      "source": "NPR",
+      "title": "ICE has quietly used this warehouse as a detention facility all summer, neighbors say",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5983441/ice-warehouses-new-jersey-roxbury"
+    },
+    {
+      "source": "BBC",
+      "title": "Asos hackers took more personal details than first revealed, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Woman accused of fatally shooting security guard at 'Baddies' event",
       "url": "https://sfstandard.com/2026/10/07/woman-accused-fatally-shooting-security-guard-baddies-event/"
-    },
-    {
-      "source": "NPR",
-      "title": "The WHO seeks more details on the death of a plague research lab employee in Russia",
-      "url": "https://www.npr.org/2026/10/07/nx-s1-5993873/russia-death-plague-research-institute"
-    },
-    {
-      "source": "BBC",
-      "title": "Christa Pike 'angry and confused' after failed execution, lawyers say",
-      "url": "https://www.bbc.co.uk/news/articles/c617kdle01k9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "Money moves: Valkyries' $100 million milestone, Juszczyk's beer fight, and Stanford-Nike",
-      "url": "https://sfstandard.com/2026/10/07/golden-state-valkyries-100-million-revenue/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 53. best outside window: 6pm to 12am",
-  "valid_until_epoch": 1791450082,
+  "text": "high 62, low 54. best outside window: 3am to 12am",
+  "valid_until_epoch": 1791484663,
   "version": 1
 }
