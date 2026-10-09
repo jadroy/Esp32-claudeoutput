@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-08T11:51:42-07:00",
+  "generated_at": "2026-10-08T18:13:53-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'I held my breath': Veronica Burton's shot puts the Valkyries one win from the WNBA Finals",
-      "url": "https://sfstandard.com/2026/10/08/veronica-burton-golden-state-valkyries-aces/"
+      "title": "There have been 40 PG&E blackouts since December's disaster. The city is pissed",
+      "url": "https://sfstandard.com/2026/10/08/san-francisco-pge-outages-regulators/"
     },
     {
       "source": "NPR",
-      "title": "Suicide is up among Black Americans. We need to talk about it.",
-      "url": "https://www.npr.org/2026/10/08/nx-s1-5963905/suicide-black-americans-discussion-analysis"
+      "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt"
     },
     {
       "source": "BBC",
-      "title": "Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says",
-      "url": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss"
+      "title": "ADHD and autism at risk of over-diagnosis, says government review",
+      "url": "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Kawakami: Ballhalla and the Valkyries are just a few ear-piercing victories from a title",
-      "url": "https://sfstandard.com/2026/10/08/golden-state-valkyries-ballhalla-home-court-advantage/"
+      "title": "SFPD announces major reforms to rape investigations following SF Standard report",
+      "url": "https://sfstandard.com/2026/10/08/sfpd-announces-major-reforms-rape-investigations-following-standard-investigation/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 54. best outside window: 11am to 12am",
-  "valid_until_epoch": 1791514302,
+  "text": "high 69, low 54. best outside window: 6pm to 12am",
+  "valid_until_epoch": 1791537233,
   "version": 1
 }
