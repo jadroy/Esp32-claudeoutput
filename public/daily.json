@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-09T03:36:05-07:00",
+  "generated_at": "2026-10-09T11:21:53-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "There have been 40 PG&E blackouts since December's disaster. The city is pissed",
-      "url": "https://sfstandard.com/2026/10/08/san-francisco-pge-outages-regulators/"
+      "title": "The Kyle Shanahan-Mike Macdonald chess match is the NFL's must-watch rivalry",
+      "url": "https://sfstandard.com/2026/10/09/kyle-shanahan-mike-macdonald-49ers-seahawks/"
     },
     {
       "source": "NPR",
-      "title": "In Central African Republic, deported immigrants find themselves in limbo",
-      "url": "https://www.npr.org/2026/10/09/nx-s1-5993805/third-country-deportations-cuba"
+      "title": "U.S. working to reverse an Egyptian man's third-country deportation to Africa",
+      "url": "https://www.npr.org/2026/10/09/g-s1-147476/trump-third-country-deportation-africa-reverse"
     },
     {
       "source": "BBC",
-      "title": "Polanski vows to stay on as Green leader as criticism mounts",
-      "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss"
+      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "SFPD announces major reforms to rape investigations following SF Standard report",
-      "url": "https://sfstandard.com/2026/10/08/sfpd-announces-major-reforms-rape-investigations-following-standard-investigation/"
+      "title": "'That girl is ready': An unlikely rookie is flipping the Valkyries-Aces series",
+      "url": "https://sfstandard.com/2026/10/09/aminata-gueye-valkyries-aja-wilson-aces/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "today stays cool: 54 to 58. warmest: 10am to 8pm",
-  "valid_until_epoch": 1791570965,
+  "text": "today stays cool: 53 to 58. warmest: 11am to 7pm",
+  "valid_until_epoch": 1791598913,
   "version": 1
 }
