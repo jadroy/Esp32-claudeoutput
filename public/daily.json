@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-08T18:13:53-07:00",
+  "generated_at": "2026-10-09T03:36:05-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
-      "url": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt"
+      "title": "In Central African Republic, deported immigrants find themselves in limbo",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5993805/third-country-deportations-cuba"
     },
     {
       "source": "BBC",
-      "title": "ADHD and autism at risk of over-diagnosis, says government review",
-      "url": "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss"
+      "title": "Polanski vows to stay on as Green leader as criticism mounts",
+      "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 69, low 54. best outside window: 6pm to 12am",
-  "valid_until_epoch": 1791537233,
+  "text": "today stays cool: 54 to 58. warmest: 10am to 8pm",
+  "valid_until_epoch": 1791570965,
   "version": 1
 }
