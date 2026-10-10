@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-09T17:52:57-07:00",
+  "generated_at": "2026-10-10T02:52:21-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "San Francisco's hottest club is the Uniqlo opening festival",
-      "url": "https://sfstandard.com/2026/10/09/uniqlo-sf-opening/"
+      "title": "A Valkyries sweep: Golden State knocks off reigning champs in OT, advances to WNBA Finals",
+      "url": "https://sfstandard.com/2026/10/09/golden-state-valkyries-sweep-wnba-finals/"
     },
     {
       "source": "NPR",
-      "title": "Kalshi taps former FBI agent to fight against money laundering",
-      "url": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering"
+      "title": "The Met puts a modern artist front and center (and there's some Jackson Pollock, too)",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5920376/lee-krasner-jackson-pollock-met"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "The Kyle Shanahan-Mike Macdonald chess match is the NFL's must-watch rivalry",
-      "url": "https://sfstandard.com/2026/10/09/kyle-shanahan-mike-macdonald-49ers-seahawks/"
+      "title": "San Francisco's hottest club is the Uniqlo opening festival",
+      "url": "https://sfstandard.com/2026/10/09/uniqlo-sf-opening/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 53. best outside window: 5pm to 12am",
-  "valid_until_epoch": 1791622377,
+  "text": "high 61, low 53. best outside window: 2am to 12am",
+  "valid_until_epoch": 1791654741,
   "version": 1
 }
