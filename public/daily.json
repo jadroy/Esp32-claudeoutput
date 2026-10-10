@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-09T11:21:53-07:00",
+  "generated_at": "2026-10-09T17:52:57-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "San Francisco's hottest club is the Uniqlo opening festival",
+      "url": "https://sfstandard.com/2026/10/09/uniqlo-sf-opening/"
+    },
+    {
+      "source": "NPR",
+      "title": "Kalshi taps former FBI agent to fight against money laundering",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering"
+    },
+    {
+      "source": "BBC",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "The Kyle Shanahan-Mike Macdonald chess match is the NFL's must-watch rivalry",
       "url": "https://sfstandard.com/2026/10/09/kyle-shanahan-mike-macdonald-49ers-seahawks/"
-    },
-    {
-      "source": "NPR",
-      "title": "U.S. working to reverse an Egyptian man's third-country deportation to Africa",
-      "url": "https://www.npr.org/2026/10/09/g-s1-147476/trump-third-country-deportation-africa-reverse"
-    },
-    {
-      "source": "BBC",
-      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "'That girl is ready': An unlikely rookie is flipping the Valkyries-Aces series",
-      "url": "https://sfstandard.com/2026/10/09/aminata-gueye-valkyries-aja-wilson-aces/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "today stays cool: 53 to 58. warmest: 11am to 7pm",
-  "valid_until_epoch": 1791598913,
+  "text": "high 61, low 53. best outside window: 5pm to 12am",
+  "valid_until_epoch": 1791622377,
   "version": 1
 }
