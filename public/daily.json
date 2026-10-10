@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-10T02:52:21-07:00",
+  "generated_at": "2026-10-10T10:20:54-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "A Valkyries sweep: Golden State knocks off reigning champs in OT, advances to WNBA Finals",
-      "url": "https://sfstandard.com/2026/10/09/golden-state-valkyries-sweep-wnba-finals/"
+      "title": "Brandin Podziemski extension: What the Warriors and the guard gain from a new deal",
+      "url": "https://sfstandard.com/2026/10/10/brandin-podziemski-extension-warriors-guard-gain-new-deal/"
     },
     {
       "source": "NPR",
-      "title": "The Met puts a modern artist front and center (and there's some Jackson Pollock, too)",
-      "url": "https://www.npr.org/2026/10/10/nx-s1-5920376/lee-krasner-jackson-pollock-met"
+      "title": "At least 2 deaths attributed to Isaias after hurricane bashes Florida and Alabama",
+      "url": "https://www.npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama"
     },
     {
       "source": "BBC",
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+      "title": "Man dies after tiger attack at wildlife park",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "San Francisco's hottest club is the Uniqlo opening festival",
-      "url": "https://sfstandard.com/2026/10/09/uniqlo-sf-opening/"
+      "title": "The Waggle: Posen's pad, Fleet Week horniness, and how SF really feels about tech movies",
+      "url": "https://sfstandard.com/2026/10/10/waggle-posen-s-pad-fleet-week-horniness-sf-really-feels-tech-movies/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 53. best outside window: 2am to 12am",
-  "valid_until_epoch": 1791654741,
+  "text": "high 61, low 54. best outside window: 10am to 12am",
+  "valid_until_epoch": 1791681654,
   "version": 1
 }
