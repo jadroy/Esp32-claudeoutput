@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-11T05:52:39-07:00",
+  "generated_at": "2026-10-11T12:34:11-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Brandin Podziemski extension: What the Warriors and the guard gain from a new deal",
-      "url": "https://sfstandard.com/2026/10/10/brandin-podziemski-extension-warriors-guard-gain-new-deal/"
+      "title": "Why the Warriors took the Kristaps Porzingis risk",
+      "url": "https://sfstandard.com/2026/10/11/kristaps-porzingis-health-issue-timeline-contract-warriors/"
     },
     {
       "source": "NPR",
-      "title": "Hurricane Simon nears Mexico with 155 mph winds and flooding fears",
-      "url": "https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears"
+      "title": "Pope Leo XIV to undergo lung surgery this week",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week"
     },
     {
       "source": "BBC",
-      "title": "Frank Gardner: Riyadh airport attack another dangerous moment in already tense conflict",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss"
+      "title": "Saudi capital airport hit by second Houthi strike in two days",
+      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The Waggle: Posen's pad, Fleet Week horniness, and how SF really feels about tech movies",
-      "url": "https://sfstandard.com/2026/10/10/waggle-posen-s-pad-fleet-week-horniness-sf-really-feels-tech-movies/"
+      "title": "The good, the bad, and the unexpected of raising a family in the Tenderloin",
+      "url": "https://sfstandard.com/2026/10/11/good-bad-unexpected-raising-family-tenderloin/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 47. best outside window: 9am to 12am",
-  "valid_until_epoch": 1791751959,
+  "text": "high 62, low 47. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1791776051,
   "version": 1
 }
