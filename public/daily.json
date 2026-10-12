@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-11T17:33:32-07:00",
+  "generated_at": "2026-10-12T03:52:48-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The 5-0 49ers: 4 takeaways, an epic 74-yard drive, and a chaotic rivalry win in Seattle",
-      "url": "https://sfstandard.com/2026/10/11/49ers-seahawks-rivalry-game-undefeated-nfc-west/"
+      "title": "SF Democrats dump Manny Yekutiel, endorse Gary McCoy in District 8 race",
+      "url": "https://sfstandard.com/2026/10/11/sf-democratic-party-rescinds-manny-yekutiel-endorsement/"
     },
     {
       "source": "NPR",
-      "title": "Tropical Storm Rachel downgraded as high winds and rain turn inward",
-      "url": "https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward"
+      "title": "U.S. restrictions on Chinese drones are leaving police departments in the lurch",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5888604/police-chinese-drones-bans-costs"
     },
     {
       "source": "BBC",
-      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
-      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss"
+      "title": "Deloitte helped in falsifying documents to evade tax on Abramovich's wealth, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "How Warriors guard Brandin Podziemski can outplay his new $110 million contract",
-      "url": "https://sfstandard.com/2026/10/11/brandin-podziemski-warriors-contract-grades-bargain/"
+      "title": "'Just imagine': Gracen Halton's flying strip-and-score showed the 49ers what's possible",
+      "url": "https://sfstandard.com/2026/10/11/gracen-halton-49ers-takeaway-touchdown-defense/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 47. best outside window: 5pm to 11pm",
-  "valid_until_epoch": 1791794012,
+  "text": "high 63, low 47. best outside window: 9am to 12am",
+  "valid_until_epoch": 1791831168,
   "version": 1
 }
