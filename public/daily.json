@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-11T12:34:11-07:00",
+  "generated_at": "2026-10-11T17:33:32-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Why the Warriors took the Kristaps Porzingis risk",
-      "url": "https://sfstandard.com/2026/10/11/kristaps-porzingis-health-issue-timeline-contract-warriors/"
+      "title": "The 5-0 49ers: 4 takeaways, an epic 74-yard drive, and a chaotic rivalry win in Seattle",
+      "url": "https://sfstandard.com/2026/10/11/49ers-seahawks-rivalry-game-undefeated-nfc-west/"
     },
     {
       "source": "NPR",
-      "title": "Pope Leo XIV to undergo lung surgery this week",
-      "url": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week"
+      "title": "Tropical Storm Rachel downgraded as high winds and rain turn inward",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward"
     },
     {
       "source": "BBC",
-      "title": "Saudi capital airport hit by second Houthi strike in two days",
-      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The good, the bad, and the unexpected of raising a family in the Tenderloin",
-      "url": "https://sfstandard.com/2026/10/11/good-bad-unexpected-raising-family-tenderloin/"
+      "title": "How Warriors guard Brandin Podziemski can outplay his new $110 million contract",
+      "url": "https://sfstandard.com/2026/10/11/brandin-podziemski-warriors-contract-grades-bargain/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 47. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1791776051,
+  "text": "high 61, low 47. best outside window: 5pm to 11pm",
+  "valid_until_epoch": 1791794012,
   "version": 1
 }
