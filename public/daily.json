@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-12T14:16:50-07:00",
+  "generated_at": "2026-10-12T19:36:43-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "What's next for the 49ers? Purdy's history, Greenlaw's appeal, and a rookie's opportunity",
+      "url": "https://sfstandard.com/2026/10/12/jaden-dugger-49ers-linebacker-dre-greenlaw-suspension/"
+    },
+    {
+      "source": "NPR",
+      "title": "New White House press secretary a \"devoted fan\" of Trump and MAGA",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga"
+    },
+    {
+      "source": "BBC",
+      "title": "Hundreds more prisoners to be freed in second phase of early release scheme",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Poll: Scandal tanks Manny Yekutiel's support. The D8 race is down to 2 candidates",
       "url": "https://sfstandard.com/2026/10/12/manny-yekutiel-grow-sf-gary-mccoy-darshini-patel/"
-    },
-    {
-      "source": "NPR",
-      "title": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
-      "url": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj"
-    },
-    {
-      "source": "BBC",
-      "title": "Burnham to push for new post-Brexit deals at EU summit",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "5 things we've learned about the 5-0 49ers, and why they should go all in",
-      "url": "https://sfstandard.com/2026/10/12/49ers-undefeated-trade-deadline-prospects/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 48. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1791868610,
+  "text": "high 66, low 48. best outside window: 7pm to 12am",
+  "valid_until_epoch": 1791887803,
   "version": 1
 }
