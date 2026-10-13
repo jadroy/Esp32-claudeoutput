@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-13T03:38:21-07:00",
+  "generated_at": "2026-10-13T12:18:12-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "What's next for the 49ers? Purdy's history, Greenlaw's appeal, and a rookie's opportunity",
-      "url": "https://sfstandard.com/2026/10/12/jaden-dugger-49ers-linebacker-dre-greenlaw-suspension/"
+      "title": "How the Valkyries talked a would-be starter into a historic sacrifice",
+      "url": "https://sfstandard.com/2026/10/13/janelle-salaun-golden-state-valkyries-award-record/"
     },
     {
       "source": "NPR",
-      "title": "What ice cream has to do with this year's Nobel Prize in economics",
-      "url": "https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics"
+      "title": "Zelenskyy tells NPR Ukraine wants peace but will hit Russia until it follows ceasefire",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war"
     },
     {
       "source": "BBC",
-      "title": "UK growth forecast upgraded but higher energy prices to hit economy next year",
-      "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss"
+      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Poll: Scandal tanks Manny Yekutiel's support. The D8 race is down to 2 candidates",
-      "url": "https://sfstandard.com/2026/10/12/manny-yekutiel-grow-sf-gary-mccoy-darshini-patel/"
+      "title": "Pelosi's seat is the first domino. Here's how the rest could fall",
+      "url": "https://sfstandard.com/2026/10/13/election-insider-2026-nancy-pelosi-scott-wiener-connie-chan-san-francisco/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 69, low 47. best outside window: 9am to 12am",
-  "valid_until_epoch": 1791916701,
+  "text": "high 69, low 45. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1791947892,
   "version": 1
 }
