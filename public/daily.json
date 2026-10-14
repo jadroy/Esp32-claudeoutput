@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-14T01:44:42-07:00",
+  "generated_at": "2026-10-14T07:31:10-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Lurie trumpeted a major housing win. YIMBYs say it's much ado about nothing",
-      "url": "https://sfstandard.com/2026/10/13/daniel-lurie-single-stair-family-zoning/"
+      "title": "SFUSD board votes for neighborhood school plan",
+      "url": "https://sfstandard.com/2026/10/14/sfusd-board-votes-neighborhood-school-plan/"
     },
     {
       "source": "NPR",
-      "title": "CNN, MS NOW and Politico prevail against White House - for now",
-      "url": "https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban"
+      "title": "Inflation sizzled in September - and Social Security benefits will get a boost",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits"
     },
     {
       "source": "BBC",
-      "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
-      "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss"
+      "title": "Russell Brand was a 'sexual predator', says prosecution as rape trial begins",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "My Tesla robotaxi was stuck on fart mode",
-      "url": "https://sfstandard.com/2026/10/13/my-tesla-robotaxi-stuck-fart-mode/"
+      "title": "Theo Baker joins The Standard to cover AI and the people building it",
+      "url": "https://sfstandard.com/2026/10/14/theo-baker-joins-standard-ai-coverage/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 48. best outside window: 9am to 12am",
-  "valid_until_epoch": 1791996282,
+  "text": "high 68, low 49. best outside window: 9am to 12am",
+  "valid_until_epoch": 1792017070,
   "version": 1
 }
