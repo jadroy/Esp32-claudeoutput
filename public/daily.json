@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-13T17:18:34-07:00",
+  "generated_at": "2026-10-14T01:44:42-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'Section 415' podcast: Inside the Valkyries' improbable run to the WNBA Finals",
-      "url": "https://sfstandard.com/section-415/2026/10/13/section-415-podcast-valkyries-improbable-run-wnba-finals/"
+      "title": "Lurie trumpeted a major housing win. YIMBYs say it's much ado about nothing",
+      "url": "https://sfstandard.com/2026/10/13/daniel-lurie-single-stair-family-zoning/"
     },
     {
       "source": "NPR",
-      "title": "Pope Leo has lung cancer, the Vatican announces after surgery",
-      "url": "https://www.npr.org/2026/10/13/g-s1-147968/pope-leo-has-lung-cancer-vatican-announces"
+      "title": "CNN, MS NOW and Politico prevail against White House - for now",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Poison case dismissed: Judge wipes record of scientist caught on camera poisoning coworker",
-      "url": "https://sfstandard.com/2026/10/13/poison-case-dismissed-judge-wipes-record-scientist-caught-camera-poisoning-coworker/"
+      "title": "My Tesla robotaxi was stuck on fart mode",
+      "url": "https://sfstandard.com/2026/10/13/my-tesla-robotaxi-stuck-fart-mode/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 70, low 45. best outside window: 5pm to 12am",
-  "valid_until_epoch": 1791965914,
+  "text": "high 65, low 48. best outside window: 9am to 12am",
+  "valid_until_epoch": 1791996282,
   "version": 1
 }
