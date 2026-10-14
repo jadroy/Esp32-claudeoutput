@@ -1,10 +1,10 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-14T07:31:10-07:00",
+  "generated_at": "2026-10-14T12:25:17-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "SFUSD board votes for neighborhood school plan",
+      "title": "SFUSD votes to end its controversial lottery enrollment system",
       "url": "https://sfstandard.com/2026/10/14/sfusd-board-votes-neighborhood-school-plan/"
     },
     {
@@ -14,7 +14,7 @@
     },
     {
       "source": "BBC",
-      "title": "Russell Brand was a 'sexual predator', says prosecution as rape trial begins",
+      "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
       "url": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 68, low 49. best outside window: 9am to 12am",
-  "valid_until_epoch": 1792017070,
+  "text": "high 70, low 46. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1792034717,
   "version": 1
 }
