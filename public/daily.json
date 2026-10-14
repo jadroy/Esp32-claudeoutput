@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-13T12:18:12-07:00",
+  "generated_at": "2026-10-13T17:18:34-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "How the Valkyries talked a would-be starter into a historic sacrifice",
-      "url": "https://sfstandard.com/2026/10/13/janelle-salaun-golden-state-valkyries-award-record/"
+      "title": "'Section 415' podcast: Inside the Valkyries' improbable run to the WNBA Finals",
+      "url": "https://sfstandard.com/section-415/2026/10/13/section-415-podcast-valkyries-improbable-run-wnba-finals/"
     },
     {
       "source": "NPR",
-      "title": "Zelenskyy tells NPR Ukraine wants peace but will hit Russia until it follows ceasefire",
-      "url": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war"
+      "title": "Pope Leo has lung cancer, the Vatican announces after surgery",
+      "url": "https://www.npr.org/2026/10/13/g-s1-147968/pope-leo-has-lung-cancer-vatican-announces"
     },
     {
       "source": "BBC",
-      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss"
+      "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+      "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Pelosi's seat is the first domino. Here's how the rest could fall",
-      "url": "https://sfstandard.com/2026/10/13/election-insider-2026-nancy-pelosi-scott-wiener-connie-chan-san-francisco/"
+      "title": "Poison case dismissed: Judge wipes record of scientist caught on camera poisoning coworker",
+      "url": "https://sfstandard.com/2026/10/13/poison-case-dismissed-judge-wipes-record-scientist-caught-camera-poisoning-coworker/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 69, low 45. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1791947892,
+  "text": "high 70, low 45. best outside window: 5pm to 12am",
+  "valid_until_epoch": 1791965914,
   "version": 1
 }
