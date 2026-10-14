@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-14T12:25:17-07:00",
+  "generated_at": "2026-10-14T16:55:42-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "SFUSD votes to end its controversial lottery enrollment system",
-      "url": "https://sfstandard.com/2026/10/14/sfusd-board-votes-neighborhood-school-plan/"
+      "title": "The SF real estate firm betting big on robotics",
+      "url": "https://sfstandard.com/2026/10/14/cannae-partners-bryant-street-building-sale-ai/"
     },
     {
       "source": "NPR",
-      "title": "Inflation sizzled in September - and Social Security benefits will get a boost",
-      "url": "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits"
+      "title": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar"
     },
     {
       "source": "BBC",
-      "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss"
+      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Theo Baker joins The Standard to cover AI and the people building it",
-      "url": "https://sfstandard.com/2026/10/14/theo-baker-joins-standard-ai-coverage/"
+      "title": "Reality show cast member accidentally killed by sister during Oakland street fight: police",
+      "url": "https://sfstandard.com/2026/10/14/reality-show-cast-member-accidentally-killed-sister-oakland-street-fight-police/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 70, low 46. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1792034717,
+  "text": "high 69, low 46. best outside window: 4pm to 12am",
+  "valid_until_epoch": 1792050942,
   "version": 1
 }
