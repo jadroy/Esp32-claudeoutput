@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-15T04:31:39-07:00",
+  "generated_at": "2026-10-15T10:02:47-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "City takeover of PG&E grid could cost $20B, utility says",
-      "url": "https://sfstandard.com/2026/10/14/public-power-pge-patti-poppe-san-francisco/"
+      "title": "The Rack is back: Nordstrom Rack returning to Union Square",
+      "url": "https://sfstandard.com/2026/10/15/nordstrom-rack-union-square-return/"
     },
     {
       "source": "NPR",
-      "title": "After booting 760K off ACA health plans, the Trump administration adds some people back",
-      "url": "https://www.npr.org/2026/10/15/nx-s1-6002957/aca-fraud-trump-health-insurance"
+      "title": "Inside the race between Elon Musk and Jeff Bezos for control of outer space",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6002922/inside-the-race-between-elon-musk-and-jeff-bezos-for-control-of-outer-space"
     },
     {
       "source": "BBC",
-      "title": "Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss"
+      "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
+      "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Correction to our reporting on 'Lucky Luke' Brugnara",
-      "url": "https://sfstandard.com/2026/10/14/brugnara-lucky-luke-correction/"
+      "title": "A vision to revive Mid-Market as the city's cultural center just got some juice behind it",
+      "url": "https://sfstandard.com/2026/10/15/mid-market-theater-arts-district-funding/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "sf reaches 82 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1792092699,
+  "text": "high 81, low 49. best outside window: 4pm to 12am",
+  "valid_until_epoch": 1792112567,
   "version": 1
 }
