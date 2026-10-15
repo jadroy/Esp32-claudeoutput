@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-14T21:41:46-07:00",
+  "generated_at": "2026-10-15T04:31:39-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "City takeover of PG&E grid could cost $20B, utility says",
+      "url": "https://sfstandard.com/2026/10/14/public-power-pge-patti-poppe-san-francisco/"
+    },
+    {
+      "source": "NPR",
+      "title": "After booting 760K off ACA health plans, the Trump administration adds some people back",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6002957/aca-fraud-trump-health-insurance"
+    },
+    {
+      "source": "BBC",
+      "title": "Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Correction to our reporting on 'Lucky Luke' Brugnara",
       "url": "https://sfstandard.com/2026/10/14/brugnara-lucky-luke-correction/"
-    },
-    {
-      "source": "NPR",
-      "title": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
-      "url": "https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar"
-    },
-    {
-      "source": "BBC",
-      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "Gary McCoy gets another big endorsement, this time from Team Moderate",
-      "url": "https://sfstandard.com/2026/10/14/gary-mccoy-gets-another-big-endorsement-time-team-moderate/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 69, low 45. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1792068106,
+  "text": "sf reaches 82 today. do the outdoor part before noon.",
+  "valid_until_epoch": 1792092699,
   "version": 1
 }
