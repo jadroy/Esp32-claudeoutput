@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-14T16:55:42-07:00",
+  "generated_at": "2026-10-14T21:41:46-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The SF real estate firm betting big on robotics",
-      "url": "https://sfstandard.com/2026/10/14/cannae-partners-bryant-street-building-sale-ai/"
+      "title": "Correction to our reporting on 'Lucky Luke' Brugnara",
+      "url": "https://sfstandard.com/2026/10/14/brugnara-lucky-luke-correction/"
     },
     {
       "source": "NPR",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Reality show cast member accidentally killed by sister during Oakland street fight: police",
-      "url": "https://sfstandard.com/2026/10/14/reality-show-cast-member-accidentally-killed-sister-oakland-street-fight-police/"
+      "title": "Gary McCoy gets another big endorsement, this time from Team Moderate",
+      "url": "https://sfstandard.com/2026/10/14/gary-mccoy-gets-another-big-endorsement-time-team-moderate/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 69, low 46. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1792050942,
+  "text": "high 69, low 45. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1792068106,
   "version": 1
 }
