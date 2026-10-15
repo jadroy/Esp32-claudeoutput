@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-15T10:02:47-07:00",
+  "generated_at": "2026-10-15T14:24:27-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The Rack is back: Nordstrom Rack returning to Union Square",
-      "url": "https://sfstandard.com/2026/10/15/nordstrom-rack-union-square-return/"
+      "title": "A late pitch, a split board, and grieving parents: Behind SFUSD's seismic lottery vote",
+      "url": "https://sfstandard.com/2026/10/15/late-pitch-split-board-grieving-parents-sfusd-s-lottery-vote/"
     },
     {
       "source": "NPR",
-      "title": "Inside the race between Elon Musk and Jeff Bezos for control of outer space",
-      "url": "https://www.npr.org/2026/10/15/nx-s1-6002922/inside-the-race-between-elon-musk-and-jeff-bezos-for-control-of-outer-space"
+      "title": "Suspicious mailings to election officials, congressional offices under investigation",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6003857/suspicious-mailings-election-congressional-offices"
     },
     {
       "source": "BBC",
-      "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
-      "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss"
+      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "A vision to revive Mid-Market as the city's cultural center just got some juice behind it",
-      "url": "https://sfstandard.com/2026/10/15/mid-market-theater-arts-district-funding/"
+      "title": "Mystery flyers push fake car-free 'Marina Park' plan. Nobody knows who made them",
+      "url": "https://sfstandard.com/2026/10/15/marina-safeway-ai-nimby-flyers/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 81, low 49. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1792112567,
+  "text": "sf reaches 84 today. do the outdoor part before noon.",
+  "valid_until_epoch": 1792128267,
   "version": 1
 }
