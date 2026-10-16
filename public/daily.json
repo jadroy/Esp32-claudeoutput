@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-16T04:26:40-07:00",
+  "generated_at": "2026-10-16T09:40:44-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Manny Yekutiel's campaign hasn't repaid $255k in public financing yet, city says",
-      "url": "https://sfstandard.com/2026/10/15/manny-yekutiel-s-campaign-hasn-t-repaid-255k-public-financing-city-says/"
+      "title": "At San Francisco's newest climbing gym, failing is part of the point",
+      "url": "https://sfstandard.com/2026/10/16/california-climbing-collective-soma-open/"
     },
     {
       "source": "NPR",
-      "title": "Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens",
-      "url": "https://www.npr.org/2026/10/16/g-s1-148373/up-first-newsletter-bend-oregon-school-shooting-california-doj-voters-presidential-papers"
+      "title": "Amid talk of public execution, public opinion on death penalty is split",
+      "url": "https://www.npr.org/2026/10/16/g-s1-148404/public-opinion-execution-death-penalty"
     },
     {
       "source": "BBC",
-      "title": "British father fined for causing his two-year-old son's death in Cyprus hotel fall",
-      "url": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss"
+      "title": "Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'",
+      "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "How the 49ers' maligned draft classes are rebuilding a top defense",
-      "url": "https://sfstandard.com/2026/10/15/49ers-defense-raheem-morris-jaden-dugger/"
+      "title": "Myrna Melgar says SF is having a MeToo moment. For her, it's personal",
+      "url": "https://sfstandard.com/pacific-standard-time/2026/10/16/myrna-melgar-says-sf-having-metoo-moment-s-personal/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
   "text": "sf reaches 85 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1792178800,
+  "valid_until_epoch": 1792197644,
   "version": 1
 }
