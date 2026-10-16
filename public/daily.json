@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-16T14:10:56-07:00",
+  "generated_at": "2026-10-16T16:36:59-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Lurie signs data center moratorium, pausing new development",
-      "url": "https://sfstandard.com/2026/10/16/mayor-lurie-data-center-moratorium/"
+      "title": "'Family demons' led to killing of SFPD leader and their daughter, says victim's brother",
+      "url": "https://sfstandard.com/2026/10/16/sfpd-officer-mannix-murder-suicide/"
     },
     {
       "source": "NPR",
-      "title": "Katie Zacharia is 'transitioning out' as press secretary, White House says",
-      "url": "https://www.npr.org/2026/10/16/nx-s1-6005317/trump-casts-doubt-on-press-secretarys-future"
+      "title": "Katie Zacharia is out as press secretary, White House says",
+      "url": "https://www.npr.org/2026/10/16/nx-s1-6005302/katie-zacharia-is-out-as-press-secretary-white-house-says"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "The Valkyries' visionaries: 3 women who built a Finals team from scratch in 2 years",
-      "url": "https://sfstandard.com/2026/10/16/golden-state-valkyries-finals-ohemaa-nyanin-natalie-nakase/"
+      "title": "'Section 415' podcast: Bold Warriors predictions for the 2026-27 season",
+      "url": "https://sfstandard.com/section-415/2026/10/16/section-415-podcast-bold-warriors-predictions-2026-27-season/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "sf reaches 87 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1792213856,
+  "text": "sf reaches 86 today. do the outdoor part before noon.",
+  "valid_until_epoch": 1792222619,
   "version": 1
 }
