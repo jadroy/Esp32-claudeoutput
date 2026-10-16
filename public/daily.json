@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-15T21:34:14-07:00",
+  "generated_at": "2026-10-16T04:26:40-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Hit a midlife wall? This test identifies your strengths and what matters to you",
-      "url": "https://www.npr.org/2026/10/15/nx-s1-5996678/midlife-wall-reset-test-guide"
+      "title": "Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens",
+      "url": "https://www.npr.org/2026/10/16/g-s1-148373/up-first-newsletter-bend-oregon-school-shooting-california-doj-voters-presidential-papers"
     },
     {
       "source": "BBC",
-      "title": "Three children and teacher killed in US primary school shooting",
-      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
+      "title": "British father fined for causing his two-year-old son's death in Cyprus hotel fall",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "sf reaches 83 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1792154054,
+  "text": "sf reaches 85 today. do the outdoor part before noon.",
+  "valid_until_epoch": 1792178800,
   "version": 1
 }
