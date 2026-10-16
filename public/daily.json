@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-16T09:40:44-07:00",
+  "generated_at": "2026-10-16T14:10:56-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "At San Francisco's newest climbing gym, failing is part of the point",
-      "url": "https://sfstandard.com/2026/10/16/california-climbing-collective-soma-open/"
+      "title": "Lurie signs data center moratorium, pausing new development",
+      "url": "https://sfstandard.com/2026/10/16/mayor-lurie-data-center-moratorium/"
     },
     {
       "source": "NPR",
-      "title": "Amid talk of public execution, public opinion on death penalty is split",
-      "url": "https://www.npr.org/2026/10/16/g-s1-148404/public-opinion-execution-death-penalty"
+      "title": "Katie Zacharia is 'transitioning out' as press secretary, White House says",
+      "url": "https://www.npr.org/2026/10/16/nx-s1-6005317/trump-casts-doubt-on-press-secretarys-future"
     },
     {
       "source": "BBC",
-      "title": "Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'",
-      "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+      "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Myrna Melgar says SF is having a MeToo moment. For her, it's personal",
-      "url": "https://sfstandard.com/pacific-standard-time/2026/10/16/myrna-melgar-says-sf-having-metoo-moment-s-personal/"
+      "title": "The Valkyries' visionaries: 3 women who built a Finals team from scratch in 2 years",
+      "url": "https://sfstandard.com/2026/10/16/golden-state-valkyries-finals-ohemaa-nyanin-natalie-nakase/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "sf reaches 85 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1792197644,
+  "text": "sf reaches 87 today. do the outdoor part before noon.",
+  "valid_until_epoch": 1792213856,
   "version": 1
 }
