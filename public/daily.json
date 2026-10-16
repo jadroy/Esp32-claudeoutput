@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-15T14:24:27-07:00",
+  "generated_at": "2026-10-15T21:34:14-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "A late pitch, a split board, and grieving parents: Behind SFUSD's seismic lottery vote",
-      "url": "https://sfstandard.com/2026/10/15/late-pitch-split-board-grieving-parents-sfusd-s-lottery-vote/"
+      "title": "Manny Yekutiel's campaign hasn't repaid $255k in public financing yet, city says",
+      "url": "https://sfstandard.com/2026/10/15/manny-yekutiel-s-campaign-hasn-t-repaid-255k-public-financing-city-says/"
     },
     {
       "source": "NPR",
-      "title": "Suspicious mailings to election officials, congressional offices under investigation",
-      "url": "https://www.npr.org/2026/10/15/nx-s1-6003857/suspicious-mailings-election-congressional-offices"
+      "title": "Hit a midlife wall? This test identifies your strengths and what matters to you",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-5996678/midlife-wall-reset-test-guide"
     },
     {
       "source": "BBC",
-      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-      "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss"
+      "title": "Three children and teacher killed in US primary school shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Mystery flyers push fake car-free 'Marina Park' plan. Nobody knows who made them",
-      "url": "https://sfstandard.com/2026/10/15/marina-safeway-ai-nimby-flyers/"
+      "title": "How the 49ers' maligned draft classes are rebuilding a top defense",
+      "url": "https://sfstandard.com/2026/10/15/49ers-defense-raheem-morris-jaden-dugger/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "sf reaches 84 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1792128267,
+  "text": "sf reaches 83 today. do the outdoor part before noon.",
+  "valid_until_epoch": 1792154054,
   "version": 1
 }
