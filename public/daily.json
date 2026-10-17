@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-17T13:37:54-07:00",
+  "generated_at": "2026-10-17T16:08:21-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "Gabby Williams scores 26 points, Valkyries pull off Game 1 comeback to beat Dream",
+      "url": "https://sfstandard.com/2026/10/17/gabby-williams-valkyries-game-1-win-comeback/"
+    },
+    {
+      "source": "NPR",
+      "title": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6005814/oregon-governor-tina-kotek-reacts-to-silver-rail-elementary-school-shooting"
+    },
+    {
+      "source": "BBC",
+      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Sandstone slopers, supersize sandwiches: How to plan the ideal Bay Area bouldering day",
       "url": "https://sfstandard.com/2026/10/17/castle-rock-bouldering-guide/"
-    },
-    {
-      "source": "NPR",
-      "title": "Scuffles and fires break out as protesters rally across France, joining students",
-      "url": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france"
-    },
-    {
-      "source": "BBC",
-      "title": "More NHS staff sacked over attacks victims' records",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "The opposite of primetime: The WNBA Finals schedule is making Valkyries fans work for it",
-      "url": "https://sfstandard.com/2026/10/17/opposite-primetime-wnba-finals-schedule-making-valkyries-fans-work/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "sf reaches 84 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1792298274,
+  "text": "sf reaches 85 today. do the outdoor part before noon.",
+  "valid_until_epoch": 1792307301,
   "version": 1
 }
