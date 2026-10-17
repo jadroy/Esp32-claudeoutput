@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-17T03:46:37-07:00",
+  "generated_at": "2026-10-17T08:36:53-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'Family demons' led to killing of SFPD leader and their daughter, says victim's brother",
-      "url": "https://sfstandard.com/2026/10/16/sfpd-officer-mannix-murder-suicide/"
+      "title": "Sandstone slopers, supersize sandwiches: How to plan the ideal Bay Area bouldering day",
+      "url": "https://sfstandard.com/2026/10/17/castle-rock-bouldering-guide/"
     },
     {
       "source": "NPR",
-      "title": "No Kings turns its focus to voting this weekend. Here's what we know",
-      "url": "https://www.npr.org/2026/10/17/nx-s1-6004887/no-kings-voting-trump"
+      "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery"
     },
     {
       "source": "BBC",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
+      "url": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "'Section 415' podcast: Bold Warriors predictions for the 2026-27 season",
-      "url": "https://sfstandard.com/section-415/2026/10/16/section-415-podcast-bold-warriors-predictions-2026-27-season/"
+      "title": "The opposite of primetime: The WNBA Finals schedule is making Valkyries fans work for it",
+      "url": "https://sfstandard.com/2026/10/17/opposite-primetime-wnba-finals-schedule-making-valkyries-fans-work/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "sf reaches 85 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1792262797,
+  "text": "sf reaches 82 today. do the outdoor part before noon.",
+  "valid_until_epoch": 1792280213,
   "version": 1
 }
