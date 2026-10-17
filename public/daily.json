@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-16T21:29:01-07:00",
+  "generated_at": "2026-10-17T03:46:37-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Katie Zacharia is out as press secretary, White House says",
-      "url": "https://www.npr.org/2026/10/16/nx-s1-6005302/katie-zacharia-is-out-as-press-secretary-white-house-says"
+      "title": "No Kings turns its focus to voting this weekend. Here's what we know",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6004887/no-kings-voting-trump"
     },
     {
       "source": "BBC",
-      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-      "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "sf reaches 86 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1792240141,
+  "text": "sf reaches 85 today. do the outdoor part before noon.",
+  "valid_until_epoch": 1792262797,
   "version": 1
 }
