@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-17T08:36:53-07:00",
+  "generated_at": "2026-10-17T13:37:54-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
-      "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery"
+      "title": "Scuffles and fires break out as protesters rally across France, joining students",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france"
     },
     {
       "source": "BBC",
-      "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
-      "url": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss"
+      "title": "More NHS staff sacked over attacks victims' records",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "sf reaches 82 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1792280213,
+  "text": "sf reaches 84 today. do the outdoor part before noon.",
+  "valid_until_epoch": 1792298274,
   "version": 1
 }
