@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-17T16:08:21-07:00",
+  "generated_at": "2026-10-17T21:36:23-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Gabby Williams scores 26 points, Valkyries pull off Game 1 comeback to beat Dream",
-      "url": "https://sfstandard.com/2026/10/17/gabby-williams-valkyries-game-1-win-comeback/"
+      "title": "Ugly, gritty, and up 1-0: How the Valkyries came back to steal Game 1",
+      "url": "https://sfstandard.com/2026/10/17/valkyries-gritty-style-gabby-williams-angel-reese-dream/"
     },
     {
       "source": "NPR",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Sandstone slopers, supersize sandwiches: How to plan the ideal Bay Area bouldering day",
-      "url": "https://sfstandard.com/2026/10/17/castle-rock-bouldering-guide/"
+      "title": "Kawakami: How the Valkyries survived and thrived in a black-and-blue Game 1",
+      "url": "https://sfstandard.com/2026/10/17/golden-state-valkyries-natalie-nakase-gabby-williams-game-1/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "sf reaches 85 today. do the outdoor part before noon.",
-  "valid_until_epoch": 1792307301,
+  "text": "sf reaches 86 today. do the outdoor part before noon.",
+  "valid_until_epoch": 1792326983,
   "version": 1
 }
