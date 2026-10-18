@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-18T08:52:59-07:00",
+  "generated_at": "2026-10-18T13:46:07-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Pope Leo says he will gradually resume duties after cancer surgery",
-      "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery"
+      "title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump"
     },
     {
       "source": "BBC",
-      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss"
+      "title": "Macron calls for 'calm and order' after riots across France",
+      "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 54. best outside window: 8am to 12am",
-  "valid_until_epoch": 1792367579,
+  "text": "high 59, low 52. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1792385167,
   "version": 1
 }
