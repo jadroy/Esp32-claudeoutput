@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-18T04:08:08-07:00",
+  "generated_at": "2026-10-18T08:52:59-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Ugly, gritty, and up 1-0: How the Valkyries came back to steal Game 1",
-      "url": "https://sfstandard.com/2026/10/17/valkyries-gritty-style-gabby-williams-angel-reese-dream/"
+      "title": "To fix California, make its politicians afraid to lose",
+      "url": "https://sfstandard.com/2026/10/18/california-politicians-new-parties-reform/"
     },
     {
       "source": "NPR",
-      "title": "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters",
-      "url": "https://www.npr.org/2026/10/18/nx-s1-5978762/maria-elvira-salazar-immigration-trump"
+      "title": "Pope Leo says he will gradually resume duties after cancer surgery",
+      "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Kawakami: How the Valkyries survived and thrived in a black-and-blue Game 1",
-      "url": "https://sfstandard.com/2026/10/17/golden-state-valkyries-natalie-nakase-gabby-williams-game-1/"
+      "title": "Seven friends took a gamble on a Mid-Market 'communal living room.' Now what?",
+      "url": "https://sfstandard.com/2026/10/18/the-nook-mid-market-community-space-third-space/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 53. best outside window: 4am to 12am",
-  "valid_until_epoch": 1792350488,
+  "text": "high 60, low 54. best outside window: 8am to 12am",
+  "valid_until_epoch": 1792367579,
   "version": 1
 }
