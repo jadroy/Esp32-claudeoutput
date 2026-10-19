@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-18T21:42:39-07:00",
+  "generated_at": "2026-10-19T06:19:36-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "A battle royal is brewing over the SF board presidency",
-      "url": "https://sfstandard.com/2026/10/18/san-francisco-power-play-board-supervisors-president/"
+      "title": "A Warriors epilogue season",
+      "url": "https://sfstandard.com/2026/10/19/warriors-epilogue-season/"
     },
     {
       "source": "NPR",
-      "title": "Trump to close and renovate D.C. golf course, despite legal battle",
-      "url": "https://www.npr.org/2026/10/18/nx-s1-6007384/trump-to-close-and-renovate-d-c-golf-course-despite-legal-battle"
+      "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
+      "url": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured"
     },
     {
       "source": "BBC",
-      "title": "Macron calls for 'calm and order' after riots across France",
-      "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
+      "title": "Companies exploiting welfare system by using residents as 'cash cows', BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "To fix California, make its politicians afraid to lose",
-      "url": "https://sfstandard.com/2026/10/18/california-politicians-new-parties-reform/"
+      "title": "Everyone in San Francisco has an AI agent now. Privacy be damned",
+      "url": "https://sfstandard.com/2026/10/19/ai-agent-craze-takes-over-sf/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 53. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1792413759,
+  "text": "high 60, low 51. best outside window: 6am to 12am",
+  "valid_until_epoch": 1792444776,
   "version": 1
 }
