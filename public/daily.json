@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-19T06:19:36-07:00",
+  "generated_at": "2026-10-19T13:35:54-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "A Warriors epilogue season",
-      "url": "https://sfstandard.com/2026/10/19/warriors-epilogue-season/"
+      "title": "'I thought they were going to shoot him': ICE agent draws gun on man in SoMa",
+      "url": "https://sfstandard.com/2026/10/19/ice-agents-gun-arrest-soma-video/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "Companies exploiting welfare system by using residents as 'cash cows', BBC finds",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: Are the French riots a warning of an intense election to come?",
+      "url": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Everyone in San Francisco has an AI agent now. Privacy be damned",
-      "url": "https://sfstandard.com/2026/10/19/ai-agent-craze-takes-over-sf/"
+      "title": "6-0 or 5-1? Here's what a win Monday would mean for the 49ers",
+      "url": "https://sfstandard.com/2026/10/19/6-0-5-1-s-win-monday-would-mean-49ers/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 51. best outside window: 6am to 12am",
-  "valid_until_epoch": 1792444776,
+  "text": "high 60, low 52. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1792470954,
   "version": 1
 }
