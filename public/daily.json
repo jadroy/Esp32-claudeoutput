@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-18T16:14:16-07:00",
+  "generated_at": "2026-10-18T21:42:39-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "To fix California, make its politicians afraid to lose",
-      "url": "https://sfstandard.com/2026/10/18/california-politicians-new-parties-reform/"
+      "title": "A battle royal is brewing over the SF board presidency",
+      "url": "https://sfstandard.com/2026/10/18/san-francisco-power-play-board-supervisors-president/"
     },
     {
       "source": "NPR",
-      "title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
-      "url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump"
+      "title": "Trump to close and renovate D.C. golf course, despite legal battle",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-6007384/trump-to-close-and-renovate-d-c-golf-course-despite-legal-battle"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Seven friends took a gamble on a Mid-Market 'communal living room.' Now what?",
-      "url": "https://sfstandard.com/2026/10/18/the-nook-mid-market-community-space-third-space/"
+      "title": "To fix California, make its politicians afraid to lose",
+      "url": "https://sfstandard.com/2026/10/18/california-politicians-new-parties-reform/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 52. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1792394056,
+  "text": "high 60, low 53. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1792413759,
   "version": 1
 }
