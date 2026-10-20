@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-19T17:21:38-07:00",
+  "generated_at": "2026-10-20T01:34:35-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'I thought they were going to shoot him': ICE agent draws gun on man in SoMa",
-      "url": "https://sfstandard.com/2026/10/19/ice-agents-gun-arrest-soma-video/"
+      "title": "The 6-0 49ers: Evans' injury, Purdy's history, Mustapha's stops, and a nail-biting finish",
+      "url": "https://sfstandard.com/2026/10/19/undefeated-49ers-mike-evans-brock-purdy-passer-rating/"
     },
     {
       "source": "NPR",
-      "title": "Judge chastises Trump administration plan to push ahead overhaul of DC golf course",
-      "url": "https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal"
+      "title": "Rays will face Brewers in World Series to produce a first-time champion",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-6008836/rays-brewers-world-series"
     },
     {
       "source": "BBC",
-      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss"
+      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+      "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "6-0 or 5-1? Here's what a win Monday would mean for the 49ers",
-      "url": "https://sfstandard.com/2026/10/19/6-0-5-1-s-win-monday-would-mean-49ers/"
+      "title": "An Angel Reese takeover: The Valkyries can't stop the Dream star in a Game 2 blowout",
+      "url": "https://sfstandard.com/2026/10/19/angel-reese-dream-valkyries-game-2-takeover/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 51. best outside window: 5pm to 12am",
-  "valid_until_epoch": 1792484498,
+  "text": "high 67, low 48. best outside window: 9am to 12am",
+  "valid_until_epoch": 1792514075,
   "version": 1
 }
