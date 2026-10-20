@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-20T12:17:53-07:00",
+  "generated_at": "2026-10-20T16:53:48-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Yale seeks SF office but says satellite campus not planned",
-      "url": "https://sfstandard.com/2026/10/20/yale-university-no-san-francisco-campus/"
+      "title": "Supervisors clear way to auction Sea Cliff house at center of alleged deed-fraud scheme",
+      "url": "https://sfstandard.com/2026/10/20/sea-cliff-squatter-house-police-complaint-auction-vote/"
     },
     {
       "source": "NPR",
-      "title": "Vanessa Kerry is the new WHO envoy for health resilience. What's on her to-do list?",
-      "url": "https://www.npr.org/2026/10/20/g-s1-147952/vanessa-kerry-resilience-world-health-organization"
+      "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
+      "url": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case"
     },
     {
       "source": "BBC",
-      "title": "Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+      "title": "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
       "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Chinese Americans may decide the Chan-Wiener contest. We looked at the data",
-      "url": "https://sfstandard.com/2026/10/20/election-insider-chinese-american-chan-wiener/"
+      "title": "'Section 415' podcast: How the Bay Area lands major sporting events",
+      "url": "https://sfstandard.com/section-415/2026/10/20/section-415-podcast-bay-area-lands-major-sporting-events/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 68, low 49. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1792552673,
+  "text": "high 67, low 49. best outside window: 4pm to 12am",
+  "valid_until_epoch": 1792569228,
   "version": 1
 }
