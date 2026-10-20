@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-19T13:35:54-07:00",
+  "generated_at": "2026-10-19T17:21:38-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
-      "url": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured"
+      "title": "Judge chastises Trump administration plan to push ahead overhaul of DC golf course",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal"
     },
     {
       "source": "BBC",
-      "title": "Watch: Are the French riots a warning of an intense election to come?",
-      "url": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss"
+      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+      "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 52. best outside window: 1pm to 12am",
-  "valid_until_epoch": 1792470954,
+  "text": "high 61, low 51. best outside window: 5pm to 12am",
+  "valid_until_epoch": 1792484498,
   "version": 1
 }
