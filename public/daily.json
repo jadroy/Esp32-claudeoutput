@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-21T04:51:38-07:00",
+  "generated_at": "2026-10-21T10:14:02-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "PG&E outlined its $22.5B price tag for a public power takeover",
-      "url": "https://sfstandard.com/2026/10/20/pge-public-utility-takeover-appraisal/"
+      "title": "AI is changing how students learn to write - and think",
+      "url": "https://sfstandard.com/2026/10/21/ai-changing-students-learn-write-think/"
     },
     {
       "source": "NPR",
-      "title": "DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises",
-      "url": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia"
+      "title": "How Trump's attacks on voting system integrity might affect upcoming elections",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6010463/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections"
     },
     {
       "source": "BBC",
-      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss"
+      "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Did Gary McCoy go to the dark side? His ally-turned-frenemy thinks so",
-      "url": "https://sfstandard.com/2026/10/20/castro-district-8-gary-mccoy-darshini-patel/"
+      "title": "Why none of the other tech movies can compete with 'You Can See Everything'",
+      "url": "https://sfstandard.com/pacific-standard-time/2026/10/21/pst-tech-movies-roundup/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 54. best outside window: 4am to 12am",
-  "valid_until_epoch": 1792612298,
+  "text": "high 70, low 54. best outside window: 10am to 4pm",
+  "valid_until_epoch": 1792631642,
   "version": 1
 }
