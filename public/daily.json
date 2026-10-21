@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-21T10:14:02-07:00",
+  "generated_at": "2026-10-21T14:44:12-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "AI is changing how students learn to write - and think",
-      "url": "https://sfstandard.com/2026/10/21/ai-changing-students-learn-write-think/"
+      "title": "Man arrested by ICE faces domestic violence charge",
+      "url": "https://sfstandard.com/2026/10/21/sf-leaders-rally-immigrants-soma-ice-arrest/"
     },
     {
       "source": "NPR",
-      "title": "How Trump's attacks on voting system integrity might affect upcoming elections",
-      "url": "https://www.npr.org/2026/10/21/nx-s1-6010463/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections"
+      "title": "Poll: Voters want Congress to be a check on Trump, trust Democrats more on issues",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6011179/poll-democrats-republicans-trump-approval"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Why none of the other tech movies can compete with 'You Can See Everything'",
-      "url": "https://sfstandard.com/pacific-standard-time/2026/10/21/pst-tech-movies-roundup/"
+      "title": "SF records first overdose death from a synthetic opioid sold at gas stations",
+      "url": "https://sfstandard.com/2026/10/21/sf-records-first-overdose-death-synthetic-opioid-sold-gas-stations/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 70, low 54. best outside window: 10am to 4pm",
-  "valid_until_epoch": 1792631642,
+  "text": "high 70, low 54. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1792647852,
   "version": 1
 }
