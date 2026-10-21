@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-20T16:53:48-07:00",
+  "generated_at": "2026-10-20T21:50:52-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Supervisors clear way to auction Sea Cliff house at center of alleged deed-fraud scheme",
-      "url": "https://sfstandard.com/2026/10/20/sea-cliff-squatter-house-police-complaint-auction-vote/"
+      "title": "PG&E outlined its $22.5B price tag for a public power takeover",
+      "url": "https://sfstandard.com/2026/10/20/pge-public-utility-takeover-appraisal/"
     },
     {
       "source": "NPR",
-      "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
-      "url": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case"
+      "title": "Some on DOJ's 20,000 \"likely\" noncitizen list in Calif. appear to be U.S.-born",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-6009873/california-doj-voter-rolls-noncitizens"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "'Section 415' podcast: How the Bay Area lands major sporting events",
-      "url": "https://sfstandard.com/section-415/2026/10/20/section-415-podcast-bay-area-lands-major-sporting-events/"
+      "title": "Did Gary McCoy go to the dark side? His ally-turned-frenemy thinks so",
+      "url": "https://sfstandard.com/2026/10/20/castro-district-8-gary-mccoy-darshini-patel/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 49. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1792569228,
+  "text": "high 67, low 49. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1792587052,
   "version": 1
 }
