@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-22T04:55:09-07:00",
+  "generated_at": "2026-10-22T10:12:07-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Another blowout loss: The Valkyries' identity is vanishing at the worst possible time",
-      "url": "https://sfstandard.com/2026/10/21/golden-state-valkyries-finals-loss-gabby-williams/"
+      "title": "A Yemeni cafe, a pizza place, and 20 beautified storefronts are coming to the Inner Sunset",
+      "url": "https://sfstandard.com/2026/10/22/inner-sunset-sf-new-deal-storefronts/"
     },
     {
       "source": "NPR",
-      "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
-      "url": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla"
+      "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
+      "url": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino"
     },
     {
       "source": "BBC",
-      "title": "What is PHP and why did it spark an international cyber-security alert?",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
+      "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
+      "url": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The Falcons formula: How the 49ers will adapt their game plan against Atlanta",
-      "url": "https://sfstandard.com/2026/10/21/49ers-falcons-raheem-morris-defense/"
+      "title": "The Yaxel Lendeborg show has arrived, and it's loud: 'I hope he keeps talking'",
+      "url": "https://sfstandard.com/2026/10/22/yaxel-lendeborg-luka-doncic-trash-talk-warriors-draymond-green/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 54. best outside window: 3pm to 12am",
-  "valid_until_epoch": 1792698909,
+  "text": "high 60, low 54. best outside window: 11am to 5pm",
+  "valid_until_epoch": 1792717927,
   "version": 1
 }
