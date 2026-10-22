@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-22T10:12:07-07:00",
+  "generated_at": "2026-10-22T14:37:18-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "A Yemeni cafe, a pizza place, and 20 beautified storefronts are coming to the Inner Sunset",
-      "url": "https://sfstandard.com/2026/10/22/inner-sunset-sf-new-deal-storefronts/"
+      "title": "Kawakami: My Warriors prediction - 39-43, on the high side of low expectations",
+      "url": "https://sfstandard.com/2026/10/22/golden-state-warriors-2026-2027-season-predictions-projections-wins/"
     },
     {
       "source": "NPR",
-      "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
-      "url": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino"
+      "title": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
+      "url": "https://www.npr.org/2026/10/22/981035400/tom-skerritt-dead"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "The Yaxel Lendeborg show has arrived, and it's loud: 'I hope he keeps talking'",
-      "url": "https://sfstandard.com/2026/10/22/yaxel-lendeborg-luka-doncic-trash-talk-warriors-draymond-green/"
+      "title": "A pizzeria, a Yemeni cafe, snazzy storefronts: Inner Sunset gets the downtown treatment",
+      "url": "https://sfstandard.com/2026/10/22/inner-sunset-sf-new-deal-storefronts/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 54. best outside window: 11am to 5pm",
-  "valid_until_epoch": 1792717927,
+  "text": "high 62, low 55. best outside window: 6pm to 12am",
+  "valid_until_epoch": 1792733838,
   "version": 1
 }
