@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-21T21:49:47-07:00",
+  "generated_at": "2026-10-22T04:55:09-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "AIPAC halts endorsements and direct contributions to candidates",
-      "url": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats"
+      "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+      "url": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla"
     },
     {
       "source": "BBC",
-      "title": "UK working to identify exposure after global cyber-security warning",
-      "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss"
+      "title": "What is PHP and why did it spark an international cyber-security alert?",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 54. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1792673387,
+  "text": "high 60, low 54. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1792698909,
   "version": 1
 }
