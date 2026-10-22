@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-21T14:44:12-07:00",
+  "generated_at": "2026-10-21T21:49:47-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Man arrested by ICE faces domestic violence charge",
-      "url": "https://sfstandard.com/2026/10/21/sf-leaders-rally-immigrants-soma-ice-arrest/"
+      "title": "Another blowout loss: The Valkyries' identity is vanishing at the worst possible time",
+      "url": "https://sfstandard.com/2026/10/21/golden-state-valkyries-finals-loss-gabby-williams/"
     },
     {
       "source": "NPR",
-      "title": "Poll: Voters want Congress to be a check on Trump, trust Democrats more on issues",
-      "url": "https://www.npr.org/2026/10/21/nx-s1-6011179/poll-democrats-republicans-trump-approval"
+      "title": "AIPAC halts endorsements and direct contributions to candidates",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats"
     },
     {
       "source": "BBC",
-      "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
-      "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss"
+      "title": "UK working to identify exposure after global cyber-security warning",
+      "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "SF records first overdose death from a synthetic opioid sold at gas stations",
-      "url": "https://sfstandard.com/2026/10/21/sf-records-first-overdose-death-synthetic-opioid-sold-gas-stations/"
+      "title": "The Falcons formula: How the 49ers will adapt their game plan against Atlanta",
+      "url": "https://sfstandard.com/2026/10/21/49ers-falcons-raheem-morris-defense/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 70, low 54. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1792647852,
+  "text": "high 67, low 54. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1792673387,
   "version": 1
 }
