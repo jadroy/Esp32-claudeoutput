@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-22T14:37:18-07:00",
+  "generated_at": "2026-10-22T21:52:16-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Kawakami: My Warriors prediction - 39-43, on the high side of low expectations",
-      "url": "https://sfstandard.com/2026/10/22/golden-state-warriors-2026-2027-season-predictions-projections-wins/"
+      "title": "Report: Dead mall to be sold again - this time to a New York investment firm",
+      "url": "https://sfstandard.com/2026/10/22/san-francisco-centre-mall-second-auction-winner/"
     },
     {
       "source": "NPR",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "A pizzeria, a Yemeni cafe, snazzy storefronts: Inner Sunset gets the downtown treatment",
-      "url": "https://sfstandard.com/2026/10/22/inner-sunset-sf-new-deal-storefronts/"
+      "title": "Drug complaints used to fall into the void. Now, San Francisco will report them to police",
+      "url": "https://sfstandard.com/2026/10/22/sf-311-public-drug-activity-reports/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 55. best outside window: 6pm to 12am",
-  "valid_until_epoch": 1792733838,
+  "text": "high 61, low 54. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1792759936,
   "version": 1
 }
