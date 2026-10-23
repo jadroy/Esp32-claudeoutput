@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-23T10:09:33-07:00",
+  "generated_at": "2026-10-23T14:25:31-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "How Fred Warner's 'Peanut Punch' could be the 49ers' answer to Bijan Robinson",
-      "url": "https://sfstandard.com/2026/10/23/fred-warner-bijan-robinson-peanut-punch-49ers/"
+      "title": "Lurie's $13.5M campaign to clean up City Hall adds Newsom to its corner",
+      "url": "https://sfstandard.com/2026/10/23/gavin-newsom-daniel-lurie-sf-election-charter-reform/"
     },
     {
       "source": "NPR",
-      "title": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
-      "url": "https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop"
+      "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war"
     },
     {
       "source": "BBC",
-      "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
+      "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
+      "url": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Bay Area lawmakers press White House on who cut Ukraine's satellite link",
-      "url": "https://sfstandard.com/2026/10/23/liccardo-panetta-khanna-letter-white-house-starshield-ukraine/"
+      "title": "'Restock your emergency kit': The city wants you to prep now for El Nino",
+      "url": "https://sfstandard.com/2026/10/23/sf-mayor-el-nino-emergency-declaration/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 50. best outside window: 10am to 12am",
-  "valid_until_epoch": 1792804173,
+  "text": "high 66, low 50. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1792819531,
   "version": 1
 }
