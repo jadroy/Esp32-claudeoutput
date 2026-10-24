@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-23T14:25:31-07:00",
+  "generated_at": "2026-10-23T21:38:52-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Lurie's $13.5M campaign to clean up City Hall adds Newsom to its corner",
-      "url": "https://sfstandard.com/2026/10/23/gavin-newsom-daniel-lurie-sf-election-charter-reform/"
+      "title": "'I had to get out of my comfort zone': Inside Gabby Williams' WNBA Finals rallying cry",
+      "url": "https://sfstandard.com/2026/10/23/gabby-williams-valkyries-leadership-wnba-finals/"
     },
     {
       "source": "NPR",
-      "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war"
+      "title": "Severe flooding hits Four Corners region, more expected through the weekend",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners"
     },
     {
       "source": "BBC",
-      "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
-      "url": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss"
+      "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
+      "url": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "'Restock your emergency kit': The city wants you to prep now for El Nino",
-      "url": "https://sfstandard.com/2026/10/23/sf-mayor-el-nino-emergency-declaration/"
+      "title": "'The best mother': Children of slain SFPD leader speak out at emotional funeral",
+      "url": "https://sfstandard.com/2026/10/23/best-mother-children-slain-sfpd-leader-speak-emotional-funeral/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 50. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1792819531,
+  "text": "high 65, low 50. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1792845532,
   "version": 1
 }
