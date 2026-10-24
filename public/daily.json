@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-23T21:38:52-07:00",
+  "generated_at": "2026-10-24T04:03:44-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Severe flooding hits Four Corners region, more expected through the weekend",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners"
+      "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan"
     },
     {
       "source": "BBC",
-      "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
-      "url": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss"
+      "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 50. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1792845532,
+  "text": "high 69, low 50. best outside window: 4am to 12am",
+  "valid_until_epoch": 1792868624,
   "version": 1
 }
