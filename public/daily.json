@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-24T08:58:09-07:00",
+  "generated_at": "2026-10-24T13:51:39-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "The Valkyries punch back: Natalie Nakase's major shakeup pays off in Game 4 win",
+      "url": "https://sfstandard.com/2026/10/24/golden-state-valkyries-finals-game-4-win-natalie-nakase-changes/"
+    },
+    {
+      "source": "NPR",
+      "title": "Ukraine says Starlink is back to normal after disruptions",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions"
+    },
+    {
+      "source": "BBC",
+      "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+      "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Doomer, founder, or hater: SF singles want to know where you stand on AI",
       "url": "https://sfstandard.com/2026/10/24/ai-dating-preferences/"
-    },
-    {
-      "source": "NPR",
-      "title": "Perspective: The next James Bond",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond"
-    },
-    {
-      "source": "BBC",
-      "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
-      "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "Jagalchi has Korean snacks, sushi, and a $95 tasting menu. Where to start?",
-      "url": "https://sfstandard.com/2026/10/24/jagalchi-korean-grocery-daly-city/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 70, low 47. best outside window: 9am to 12am",
-  "valid_until_epoch": 1792886289,
+  "text": "high 72, low 49. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1792903899,
   "version": 1
 }
