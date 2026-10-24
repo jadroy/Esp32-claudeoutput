@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-24T04:03:44-07:00",
+  "generated_at": "2026-10-24T08:58:09-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'I had to get out of my comfort zone': Inside Gabby Williams' WNBA Finals rallying cry",
-      "url": "https://sfstandard.com/2026/10/23/gabby-williams-valkyries-leadership-wnba-finals/"
+      "title": "Doomer, founder, or hater: SF singles want to know where you stand on AI",
+      "url": "https://sfstandard.com/2026/10/24/ai-dating-preferences/"
     },
     {
       "source": "NPR",
-      "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan"
+      "title": "Perspective: The next James Bond",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond"
     },
     {
       "source": "BBC",
-      "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss"
+      "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
+      "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "'The best mother': Children of slain SFPD leader speak out at emotional funeral",
-      "url": "https://sfstandard.com/2026/10/23/best-mother-children-slain-sfpd-leader-speak-emotional-funeral/"
+      "title": "Jagalchi has Korean snacks, sushi, and a $95 tasting menu. Where to start?",
+      "url": "https://sfstandard.com/2026/10/24/jagalchi-korean-grocery-daly-city/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 69, low 50. best outside window: 4am to 12am",
-  "valid_until_epoch": 1792868624,
+  "text": "high 70, low 47. best outside window: 9am to 12am",
+  "valid_until_epoch": 1792886289,
   "version": 1
 }
