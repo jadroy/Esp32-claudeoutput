@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-24T21:43:31-07:00",
+  "generated_at": "2026-10-25T04:32:59-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Drought, fire and high diesel prices 'addin' up tough' for Oregon ranchers",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-5992998/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers"
+      "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai"
     },
     {
       "source": "BBC",
-      "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss"
+      "title": "Meghan broke contact with father in letter citing abuse claims",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 73, low 49. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1792932211,
+  "text": "high 66, low 49. best outside window: 9am to 12am",
+  "valid_until_epoch": 1792956779,
   "version": 1
 }
