@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-25T04:32:59-07:00",
+  "generated_at": "2026-10-25T09:23:20-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The Valkyries punch back: Natalie Nakase's major shakeup pays off in Game 4 win",
-      "url": "https://sfstandard.com/2026/10/24/golden-state-valkyries-finals-game-4-win-natalie-nakase-changes/"
+      "title": "Kiah Stokes has won everywhere. Now she has the Valkyries two wins from a title",
+      "url": "https://sfstandard.com/2026/10/25/kiah-stokes-valkyries-wnba-finals-blocks-record/"
     },
     {
       "source": "NPR",
-      "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai"
+      "title": "Israelis have changed. Will they change their leadership?",
+      "url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu"
     },
     {
       "source": "BBC",
-      "title": "Meghan broke contact with father in letter citing abuse claims",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss"
+      "title": "Burnham open to 'honest discussion' on EU free movement",
+      "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Doomer, founder, or hater: SF singles want to know where you stand on AI",
-      "url": "https://sfstandard.com/2026/10/24/ai-dating-preferences/"
+      "title": "Bidding wars and billionaires: Welcome to San Francisco's new $10M neighborhoods",
+      "url": "https://sfstandard.com/2026/10/25/new-ten-million-neighborhoods/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 49. best outside window: 9am to 12am",
-  "valid_until_epoch": 1792956779,
+  "text": "high 70, low 48. best outside window: 9am to 12am",
+  "valid_until_epoch": 1792974200,
   "version": 1
 }
