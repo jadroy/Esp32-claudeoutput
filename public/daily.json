@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-25T09:23:20-07:00",
+  "generated_at": "2026-10-25T13:52:42-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "The 49ers' first loss: Brutal turnovers and bad penalties cost San Francisco in Atlanta",
+      "url": "https://sfstandard.com/2026/10/25/49ers-turnovers-loss-falcons-brock-purdy/"
+    },
+    {
+      "source": "NPR",
+      "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania"
+    },
+    {
+      "source": "BBC",
+      "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Kiah Stokes has won everywhere. Now she has the Valkyries two wins from a title",
       "url": "https://sfstandard.com/2026/10/25/kiah-stokes-valkyries-wnba-finals-blocks-record/"
-    },
-    {
-      "source": "NPR",
-      "title": "Israelis have changed. Will they change their leadership?",
-      "url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu"
-    },
-    {
-      "source": "BBC",
-      "title": "Burnham open to 'honest discussion' on EU free movement",
-      "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "Bidding wars and billionaires: Welcome to San Francisco's new $10M neighborhoods",
-      "url": "https://sfstandard.com/2026/10/25/new-ten-million-neighborhoods/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 70, low 48. best outside window: 9am to 12am",
-  "valid_until_epoch": 1792974200,
+  "text": "high 72, low 48. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1792990362,
   "version": 1
 }
