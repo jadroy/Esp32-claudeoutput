@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-24T16:16:45-07:00",
+  "generated_at": "2026-10-24T21:43:31-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement"
+      "title": "Drought, fire and high diesel prices 'addin' up tough' for Oregon ranchers",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-5992998/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers"
     },
     {
       "source": "BBC",
-      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+      "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 73, low 49. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1792912605,
+  "text": "high 73, low 49. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1792932211,
   "version": 1
 }
