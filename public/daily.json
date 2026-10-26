@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-25T16:17:06-07:00",
+  "generated_at": "2026-10-25T21:49:34-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The 49ers' first loss: Brutal turnovers and bad penalties cost San Francisco in Atlanta",
-      "url": "https://sfstandard.com/2026/10/25/49ers-turnovers-loss-falcons-brock-purdy/"
+      "title": "Harris or Newsom? SF voters pick hometown favorite for 2028 matchup",
+      "url": "https://sfstandard.com/2026/10/25/power-play-newsom-tops-harris-sf-poll-2028-matchup/"
     },
     {
       "source": "NPR",
-      "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania"
+      "title": "Brazil's left-wing President Lula elected for fourth term",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election"
     },
     {
       "source": "BBC",
-      "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
-      "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss"
+      "title": "Lula wins but faces hostile Congress and divided country",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Kiah Stokes has won everywhere. Now she has the Valkyries two wins from a title",
-      "url": "https://sfstandard.com/2026/10/25/kiah-stokes-valkyries-wnba-finals-blocks-record/"
+      "title": "'Spark a bigger fire': Why the 49ers think their Atlanta loss could start a 2022-style run",
+      "url": "https://sfstandard.com/2026/10/25/49ers-falcons-loss-turnaround-trade-deadline/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 72, low 48. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1792999026,
+  "text": "high 72, low 48. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1793018974,
   "version": 1
 }
