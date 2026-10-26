@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-26T06:06:20-07:00",
+  "generated_at": "2026-10-26T13:29:37-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Harris or Newsom? SF voters pick hometown favorite for 2028 matchup",
-      "url": "https://sfstandard.com/2026/10/25/power-play-newsom-tops-harris-sf-poll-2028-matchup/"
+      "title": "Muni attacker flees after stabbing bus passenger",
+      "url": "https://sfstandard.com/2026/10/26/muni-attacker-flees-stabbing-bus-passenger/"
     },
     {
       "source": "NPR",
-      "title": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
-      "url": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva"
+      "title": "Trump administration pushes for food assistance card upgrade to fight fraud",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule"
     },
     {
       "source": "BBC",
-      "title": "Watch: How Lula turned it around to beat former president's son",
-      "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss"
+      "title": "Independent review announced into murder of student Henry Nowak",
+      "url": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "'Spark a bigger fire': Why the 49ers think their Atlanta loss could start a 2022-style run",
-      "url": "https://sfstandard.com/2026/10/25/49ers-falcons-loss-turnaround-trade-deadline/"
+      "title": "The WNBA is making fans choose between work and a Valkyries Finals game",
+      "url": "https://sfstandard.com/2026/10/26/golden-state-valkyries-atlanta-dream-game-6-start-time/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 52. best outside window: 6am to 12am",
-  "valid_until_epoch": 1793048780,
+  "text": "high 63, low 51. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1793075377,
   "version": 1
 }
