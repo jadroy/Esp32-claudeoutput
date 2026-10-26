@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-25T21:49:34-07:00",
+  "generated_at": "2026-10-26T06:06:20-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Brazil's left-wing President Lula elected for fourth term",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election"
+      "title": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
+      "url": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva"
     },
     {
       "source": "BBC",
-      "title": "Lula wins but faces hostile Congress and divided country",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: How Lula turned it around to beat former president's son",
+      "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 72, low 48. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1793018974,
+  "text": "high 63, low 52. best outside window: 6am to 12am",
+  "valid_until_epoch": 1793048780,
   "version": 1
 }
