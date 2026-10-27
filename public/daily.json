@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-26T17:26:47-07:00",
+  "generated_at": "2026-10-27T02:01:47-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "What if Claude has feelings? Inside Anthropic's most pressing IPO warnings",
-      "url": "https://sfstandard.com/2026/10/26/anthropic-ipo-risk-factors/"
+      "title": "One win away: Stokes, Burton, and suffocating defense put Valkyries on brink of title",
+      "url": "https://sfstandard.com/2026/10/26/kiah-stokes-veronica-burton-golden-state-valkyries-wnba-finals/"
     },
     {
       "source": "NPR",
-      "title": "Trump administration pushes for food assistance card upgrade to fight fraud",
-      "url": "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule"
+      "title": "Harry Kane becomes first Englishman in 25 years to win Ballon d'Or",
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6019097/harry-kane-alexia-putellas-ballon-dor"
     },
     {
       "source": "BBC",
-      "title": "Kane ends England's 25-year wait to win men's Ballon d'Or award",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss"
+      "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
+      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Muni attacker flees after stabbing bus passenger",
-      "url": "https://sfstandard.com/2026/10/26/muni-attacker-flees-stabbing-bus-passenger/"
+      "title": "Gavin Newsom's childhood home sells for close to $4,000 a square foot",
+      "url": "https://sfstandard.com/2026/10/26/newsom-childhood-home-sells-fast/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 51. best outside window: 5pm to 12am",
-  "valid_until_epoch": 1793089607,
+  "text": "high 62, low 51. best outside window: 2am to 12am",
+  "valid_until_epoch": 1793120507,
   "version": 1
 }
