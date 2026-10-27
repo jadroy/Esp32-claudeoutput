@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-27T02:01:47-07:00",
+  "generated_at": "2026-10-27T08:22:07-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "One win away: Stokes, Burton, and suffocating defense put Valkyries on brink of title",
-      "url": "https://sfstandard.com/2026/10/26/kiah-stokes-veronica-burton-golden-state-valkyries-wnba-finals/"
+      "title": "Feds investigate SFUSD ethnic studies course for possibly violating parental rights",
+      "url": "https://sfstandard.com/2026/10/27/sfusd-ethnic-studies-federal-department-education-investigation/"
     },
     {
       "source": "NPR",
-      "title": "Harry Kane becomes first Englishman in 25 years to win Ballon d'Or",
-      "url": "https://www.npr.org/2026/10/27/nx-s1-6019097/harry-kane-alexia-putellas-ballon-dor"
+      "title": "Bolsonaro's Party accepts Brazil election defeat, but he refuses to concede",
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump"
     },
     {
       "source": "BBC",
-      "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
+      "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
       "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Gavin Newsom's childhood home sells for close to $4,000 a square foot",
-      "url": "https://sfstandard.com/2026/10/26/newsom-childhood-home-sells-fast/"
+      "title": "Billionaires spent $300M fighting the wealth tax. Here's who got paid",
+      "url": "https://sfstandard.com/2026/10/27/election-insider-billionaires-spent-300m-fighting-wealth-tax-s-who-got-paid/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 51. best outside window: 2am to 12am",
-  "valid_until_epoch": 1793120507,
+  "text": "high 62, low 51. best outside window: 8am to 12am",
+  "valid_until_epoch": 1793143327,
   "version": 1
 }
