@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-27T08:22:07-07:00",
+  "generated_at": "2026-10-27T15:15:14-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Feds investigate SFUSD ethnic studies course for possibly violating parental rights",
-      "url": "https://sfstandard.com/2026/10/27/sfusd-ethnic-studies-federal-department-education-investigation/"
+      "title": "Iron Man, butterflies, awkward art: Inside the Swalwell-linked LA mansion raided by FBI",
+      "url": "https://sfstandard.com/2026/10/27/fbi-raid-swalwell-cloobeck-beverly-hills/"
     },
     {
       "source": "NPR",
-      "title": "Bolsonaro's Party accepts Brazil election defeat, but he refuses to concede",
-      "url": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump"
+      "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Billionaires spent $300M fighting the wealth tax. Here's who got paid",
-      "url": "https://sfstandard.com/2026/10/27/election-insider-billionaires-spent-300m-fighting-wealth-tax-s-who-got-paid/"
+      "title": "The 49ers answer the Seahawks' splash with a trade for DeForest Buckner",
+      "url": "https://sfstandard.com/2026/10/27/49ers-deforest-buckner-trade-seattle-seahawks-quenton-nelson-deal/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 51. best outside window: 8am to 12am",
-  "valid_until_epoch": 1793143327,
+  "text": "high 63, low 50. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1793168114,
   "version": 1
 }
