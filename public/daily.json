@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-28T05:57:30-07:00",
+  "generated_at": "2026-10-28T13:16:09-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Poll: Support for California's billionaire tax slips",
-      "url": "https://sfstandard.com/2026/10/27/billionaire-tax-prop-40-ppic-poll-october/"
+      "title": "Two New York investors are quietly buying up Union Square, one building at a time",
+      "url": "https://sfstandard.com/2026/10/28/project-uris-union-square-building-purchases/"
     },
     {
       "source": "NPR",
-      "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
-      "url": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak"
+      "title": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror"
     },
     {
       "source": "BBC",
-      "title": "Overturned carriages and makeshift medical tents at crash site",
-      "url": "https://www.bbc.co.uk/news/videos/cv8ezjdkle59o?at_medium=RSS&at_campaign=rss"
+      "title": "Healey unveils 100 for energy bills and bank tax in first Budget",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "With kennels full, SF moves to curb dog breeding and shorten shelter stays",
-      "url": "https://sfstandard.com/2026/10/27/sf-paws-act-dog-breeding-permit-animal-shelter/"
+      "title": "'Section 415' podcast: Yaxel Lendeborg is a star the Warriors can build around",
+      "url": "https://sfstandard.com/section-415/2026/10/28/section-415-podcast-yaxel-lendeborg-star-warriors-can-build/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 46. best outside window: 9am to 12am",
-  "valid_until_epoch": 1793221050,
+  "text": "high 66, low 46. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1793247369,
   "version": 1
 }
