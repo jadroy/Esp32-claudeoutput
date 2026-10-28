@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-27T15:15:14-07:00",
+  "generated_at": "2026-10-27T22:44:26-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Iron Man, butterflies, awkward art: Inside the Swalwell-linked LA mansion raided by FBI",
-      "url": "https://sfstandard.com/2026/10/27/fbi-raid-swalwell-cloobeck-beverly-hills/"
+      "title": "Poll: Support for California's billionaire tax slips",
+      "url": "https://sfstandard.com/2026/10/27/billionaire-tax-prop-40-ppic-poll-october/"
     },
     {
       "source": "NPR",
-      "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
-      "url": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone"
+      "title": "U.S. to issue visas to Flavio Bolsonaro as his whereabouts remain unclear",
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear"
     },
     {
       "source": "BBC",
-      "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
+      "title": "Israeli exit polls suggest no clear winner in pivotal general election",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The 49ers answer the Seahawks' splash with a trade for DeForest Buckner",
-      "url": "https://sfstandard.com/2026/10/27/49ers-deforest-buckner-trade-seattle-seahawks-quenton-nelson-deal/"
+      "title": "With kennels full, SF moves to curb dog breeding and shorten shelter stays",
+      "url": "https://sfstandard.com/2026/10/27/sf-paws-act-dog-breeding-permit-animal-shelter/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 50. best outside window: 3pm to 12am",
-  "valid_until_epoch": 1793168114,
+  "text": "high 63, low 50. best outside window: 10pm to 12am",
+  "valid_until_epoch": 1793195066,
   "version": 1
 }
