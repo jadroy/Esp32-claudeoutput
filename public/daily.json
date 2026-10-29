@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-28T13:16:09-07:00",
+  "generated_at": "2026-10-28T17:58:35-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Two New York investors are quietly buying up Union Square, one building at a time",
-      "url": "https://sfstandard.com/2026/10/28/project-uris-union-square-building-purchases/"
+      "title": "SF is already flooding on sunny days. El Nino could make it far worse",
+      "url": "https://sfstandard.com/2026/10/28/embarcadero-flooding-el-nino-tides/"
     },
     {
       "source": "NPR",
-      "title": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror"
+      "title": "Judge denies the Justice Department's bid to stop processing California ballots",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "'Section 415' podcast: Yaxel Lendeborg is a star the Warriors can build around",
-      "url": "https://sfstandard.com/section-415/2026/10/28/section-415-podcast-yaxel-lendeborg-star-warriors-can-build/"
+      "title": "'She was standing for all of us': San Francisco remembers Dolores Huerta",
+      "url": "https://sfstandard.com/2026/10/28/sf-remembers-dolores-huerta/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 46. best outside window: 1pm to 12am",
-  "valid_until_epoch": 1793247369,
+  "text": "high 66, low 46. best outside window: 5pm to 12am",
+  "valid_until_epoch": 1793264315,
   "version": 1
 }
