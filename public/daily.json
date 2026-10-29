@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-29T02:59:57-07:00",
+  "generated_at": "2026-10-29T11:28:53-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "In Cantonese, Chan called out Lurie's wealthy friends. In English, she's his ally",
-      "url": "https://sfstandard.com/2026/10/28/power-play-cantonese-chan-called-lurie-s-wealthy-friends-english-s-ally/"
+      "title": "High-speed rail CEO resigns amid travel expenses scandal",
+      "url": "https://sfstandard.com/2026/10/29/california-high-speed-rail-ceo-ian-choudri-resigns/"
     },
     {
       "source": "NPR",
-      "title": "How AI drones are influencing the course of the Ukraine war",
-      "url": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia"
+      "title": "Even birds get jet lagged, study shows",
+      "url": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds"
     },
     {
       "source": "BBC",
-      "title": "What we know so far about deadly Spain train crash",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss"
+      "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "SF is already flooding on sunny days. El Nino could make it far worse",
-      "url": "https://sfstandard.com/2026/10/28/embarcadero-flooding-el-nino-tides/"
+      "title": "Live updates: Third quarter kicks off in Game 6, Valkyries trail 66-49",
+      "url": "https://sfstandard.com/2026/10/29/valkyries-wnba-finals-game-six-atlanta/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 48. best outside window: 9am to 12am",
-  "valid_until_epoch": 1793296797,
+  "text": "high 66, low 48. best outside window: 11am to 12am",
+  "valid_until_epoch": 1793327333,
   "version": 1
 }
