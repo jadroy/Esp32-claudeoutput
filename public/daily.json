@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-28T17:58:35-07:00",
+  "generated_at": "2026-10-29T02:59:57-07:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "In Cantonese, Chan called out Lurie's wealthy friends. In English, she's his ally",
+      "url": "https://sfstandard.com/2026/10/28/power-play-cantonese-chan-called-lurie-s-wealthy-friends-english-s-ally/"
+    },
+    {
+      "source": "NPR",
+      "title": "How AI drones are influencing the course of the Ukraine war",
+      "url": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia"
+    },
+    {
+      "source": "BBC",
+      "title": "What we know so far about deadly Spain train crash",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "SF is already flooding on sunny days. El Nino could make it far worse",
       "url": "https://sfstandard.com/2026/10/28/embarcadero-flooding-el-nino-tides/"
-    },
-    {
-      "source": "NPR",
-      "title": "Judge denies the Justice Department's bid to stop processing California ballots",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied"
-    },
-    {
-      "source": "BBC",
-      "title": "Healey unveils 100 for energy bills and bank tax in first Budget",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "'She was standing for all of us': San Francisco remembers Dolores Huerta",
-      "url": "https://sfstandard.com/2026/10/28/sf-remembers-dolores-huerta/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 46. best outside window: 5pm to 12am",
-  "valid_until_epoch": 1793264315,
+  "text": "high 64, low 48. best outside window: 9am to 12am",
+  "valid_until_epoch": 1793296797,
   "version": 1
 }
