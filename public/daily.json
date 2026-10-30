@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-29T11:28:53-07:00",
+  "generated_at": "2026-10-29T18:01:21-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "High-speed rail CEO resigns amid travel expenses scandal",
-      "url": "https://sfstandard.com/2026/10/29/california-high-speed-rail-ceo-ian-choudri-resigns/"
+      "title": "Kawakami: The Warriors' major ripple effects from the Yaxel Lendeborg blast-off",
+      "url": "https://sfstandard.com/2026/10/29/yaxel-lendeborg-warriors-rookie-golden-state-future/"
     },
     {
       "source": "NPR",
-      "title": "Even birds get jet lagged, study shows",
-      "url": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds"
+      "title": "Alaska's all-important Senate race is roiled by a report on alleged spoiler candidate",
+      "url": "https://www.npr.org/2026/10/29/nx-s1-6022069/alaskas-all-important-senate-race-is-roiled-by-report-on-alleged-spoiler-candidate"
     },
     {
       "source": "BBC",
-      "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: Life and career of iconic actor Sir Patrick Stewart",
+      "url": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Live updates: Third quarter kicks off in Game 6, Valkyries trail 66-49",
-      "url": "https://sfstandard.com/2026/10/29/valkyries-wnba-finals-game-six-atlanta/"
+      "title": "Want to see the Valkyries make history? That'll be $13,000",
+      "url": "https://sfstandard.com/2026/10/29/golden-state-valkyries-wnba-finals-game-7-tickets/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 48. best outside window: 11am to 12am",
-  "valid_until_epoch": 1793327333,
+  "text": "high 66, low 48. best outside window: 6pm to 12am",
+  "valid_until_epoch": 1793350881,
   "version": 1
 }
