@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-30T11:01:09-07:00",
+  "generated_at": "2026-10-30T15:22:20-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The Valkyries' title hopes rest on Gabby Williams. Can she carry them in Game 7?",
-      "url": "https://sfstandard.com/2026/10/30/valkyries-title-hopes-rest-gabby-williams-can-carry-game-7/"
+      "title": "Tesla is set to open reservations for its Optimus robot later this year",
+      "url": "https://sfstandard.com/2026/10/30/tesla-optimus-robot-waitlist/"
     },
     {
       "source": "NPR",
-      "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
-      "url": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms"
+      "title": "Despite concerns, the Trump administration still sends pregnant migrant minors to south Texas",
+      "url": "https://www.npr.org/2026/10/30/nx-s1-6022578/minors-pregnant-migrant-texas-trump"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "A New York native is slinging excellent slices in the Mission",
-      "url": "https://sfstandard.com/2026/10/30/coreys-pizza-mission-review/"
+      "title": "The Valkyries' title hopes rest on Gabby Williams. Can she carry them in Game 7?",
+      "url": "https://sfstandard.com/2026/10/30/valkyries-title-hopes-rest-gabby-williams-can-carry-game-7/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 51. best outside window: 11am to 12am",
-  "valid_until_epoch": 1793412069,
+  "text": "high 66, low 51. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1793427740,
   "version": 1
 }
