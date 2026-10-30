@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-29T18:01:21-07:00",
+  "generated_at": "2026-10-30T03:03:05-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Alaska's all-important Senate race is roiled by a report on alleged spoiler candidate",
-      "url": "https://www.npr.org/2026/10/29/nx-s1-6022069/alaskas-all-important-senate-race-is-roiled-by-report-on-alleged-spoiler-candidate"
+      "title": "Candy prices got you scared stiff? What to know about the cost of Halloween this year",
+      "url": "https://www.npr.org/2026/10/30/nx-s1-6018566/halloween-candy-prices-chocolate"
     },
     {
       "source": "BBC",
-      "title": "Watch: Life and career of iconic actor Sir Patrick Stewart",
-      "url": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss"
+      "title": "What we know about Binance's $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 48. best outside window: 6pm to 12am",
-  "valid_until_epoch": 1793350881,
+  "text": "high 62, low 50. best outside window: 3am to 12am",
+  "valid_until_epoch": 1793383385,
   "version": 1
 }
