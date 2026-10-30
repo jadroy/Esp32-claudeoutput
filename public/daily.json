@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-30T03:03:05-07:00",
+  "generated_at": "2026-10-30T11:01:09-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Kawakami: The Warriors' major ripple effects from the Yaxel Lendeborg blast-off",
-      "url": "https://sfstandard.com/2026/10/29/yaxel-lendeborg-warriors-rookie-golden-state-future/"
+      "title": "The Valkyries' title hopes rest on Gabby Williams. Can she carry them in Game 7?",
+      "url": "https://sfstandard.com/2026/10/30/valkyries-title-hopes-rest-gabby-williams-can-carry-game-7/"
     },
     {
       "source": "NPR",
-      "title": "Candy prices got you scared stiff? What to know about the cost of Halloween this year",
-      "url": "https://www.npr.org/2026/10/30/nx-s1-6018566/halloween-candy-prices-chocolate"
+      "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
+      "url": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms"
     },
     {
       "source": "BBC",
-      "title": "What we know about Binance's $6.3bn hack",
-      "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Want to see the Valkyries make history? That'll be $13,000",
-      "url": "https://sfstandard.com/2026/10/29/golden-state-valkyries-wnba-finals-game-7-tickets/"
+      "title": "A New York native is slinging excellent slices in the Mission",
+      "url": "https://sfstandard.com/2026/10/30/coreys-pizza-mission-review/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 50. best outside window: 3am to 12am",
-  "valid_until_epoch": 1793383385,
+  "text": "high 62, low 51. best outside window: 11am to 12am",
+  "valid_until_epoch": 1793412069,
   "version": 1
 }
