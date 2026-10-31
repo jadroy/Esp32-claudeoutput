@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-30T22:44:10-07:00",
+  "generated_at": "2026-10-31T05:33:44-07:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Despite concerns, the Trump administration still sends pregnant migrant minors to south Texas",
-      "url": "https://www.npr.org/2026/10/30/nx-s1-6022578/minors-pregnant-migrant-texas-trump"
+      "title": "Perspective: Forget the ballroom, we're headed to Cheesecake Factory!",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6015466/perspective-forget-the-ballroom-were-headed-to-cheesecake-factory"
     },
     {
       "source": "BBC",
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+      "title": "Burnham 'open' to calls for slavery apology but not reparations",
+      "url": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 51. best outside window: 10pm to 12am",
-  "valid_until_epoch": 1793454250,
+  "text": "high 62, low 49. best outside window: 9am to 12am",
+  "valid_until_epoch": 1793478824,
   "version": 1
 }
