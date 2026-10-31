@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-31T05:33:44-07:00",
+  "generated_at": "2026-10-31T12:18:35-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Tesla is set to open reservations for Optimus robot later this year, says industry expert",
-      "url": "https://sfstandard.com/2026/10/30/tesla-optimus-robot-waitlist/"
+      "title": "Losing donors and under fire, AI industry super PAC retreats",
+      "url": "https://sfstandard.com/2026/10/31/losing-donors-fire-ai-industry-super-pac-retreats/"
     },
     {
       "source": "NPR",
-      "title": "Perspective: Forget the ballroom, we're headed to Cheesecake Factory!",
-      "url": "https://www.npr.org/2026/10/31/nx-s1-6015466/perspective-forget-the-ballroom-were-headed-to-cheesecake-factory"
+      "title": "Anti-corruption and party discipline: takeaways from from this week's key political meeting in Beijing",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways"
     },
     {
       "source": "BBC",
-      "title": "Burnham 'open' to calls for slavery apology but not reparations",
-      "url": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss"
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The Valkyries' title hopes rest on Gabby Williams. Can she carry them in Game 7?",
-      "url": "https://sfstandard.com/2026/10/30/valkyries-title-hopes-rest-gabby-williams-can-carry-game-7/"
+      "title": "Luka Doncic came for revenge on Yaxel Lendeborg. The Warriors had other plans",
+      "url": "https://sfstandard.com/2026/10/31/warriors-beat-luka-doncic-steph-curry/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 49. best outside window: 9am to 12am",
-  "valid_until_epoch": 1793478824,
+  "text": "high 61, low 48. best outside window: 12pm to 12am",
+  "valid_until_epoch": 1793503115,
   "version": 1
 }
