@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-01T05:27:07-08:00",
+  "generated_at": "2026-11-01T11:41:45-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Boohalla goes wild: Valkyries fans celebrate historic title",
-      "url": "https://sfstandard.com/2026/10/31/valkyries-fans-celebrate-wnba-title/"
+      "title": "SF will throw the WNBA champion Valkyries a parade Wednesday. Here's what to know",
+      "url": "https://sfstandard.com/2026/11/01/valkyries-championship-parade-embarcadero-route-street-closures/"
     },
     {
       "source": "NPR",
-      "title": "Living with high prices in Virginia's 1st Congressional District",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district"
+      "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke"
     },
     {
       "source": "BBC",
-      "title": "Shops looted as German cost of living protests turn violent",
+      "title": "Shops looted as German cost-of-living protests turn violent",
       "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Gabby Williams named WNBA Finals MVP after record-setting Game 7 performance",
-      "url": "https://sfstandard.com/2026/10/31/gabby-williams-wnba-finals-mvp-valkyries-dream/"
+      "title": "'Oh, it's a wrap': The 20 minutes when Gabby Williams became a Bay Area sports hero",
+      "url": "https://sfstandard.com/2026/11/01/gabby-williams-valkyries-superstar-wnba-finals-mvp/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 48. best outside window: 8am to 12am",
-  "valid_until_epoch": 1793568427,
+  "text": "high 60, low 47. best outside window: 11am to 12am",
+  "valid_until_epoch": 1793590905,
   "version": 1
 }
