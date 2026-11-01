@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-31T17:08:27-07:00",
+  "generated_at": "2026-10-31T23:08:18-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Newsom warns judges Trump could seize California ballots after election",
-      "url": "https://sfstandard.com/2026/10/31/newsom-letter-federal-judges-ballot-seizure-warrants/"
+      "title": "Boohalla goes wild: Valkyries fans celebrate historic title",
+      "url": "https://sfstandard.com/2026/10/31/valkyries-fans-celebrate-wnba-title/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
+      "title": "Shops looted as German cost of living protests turn violent",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Anthropic pours $900K into California Democrats days before election",
-      "url": "https://sfstandard.com/2026/10/31/anthropic-democratic-party-contributions-sf-dems/"
+      "title": "Gabby Williams named WNBA Finals MVP after record-setting Game 7 performance",
+      "url": "https://sfstandard.com/2026/10/31/gabby-williams-wnba-finals-mvp-valkyries-dream/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 48. best outside window: 5pm to 12am",
-  "valid_until_epoch": 1793520507,
+  "text": "ingleside: high 61, low 48. no weather drama scheduled.",
+  "valid_until_epoch": 1793545698,
   "version": 1
 }
