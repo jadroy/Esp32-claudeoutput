@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-31T12:18:35-07:00",
+  "generated_at": "2026-10-31T17:08:27-07:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Losing donors and under fire, AI industry super PAC retreats",
-      "url": "https://sfstandard.com/2026/10/31/losing-donors-fire-ai-industry-super-pac-retreats/"
+      "title": "Newsom warns judges Trump could seize California ballots after election",
+      "url": "https://sfstandard.com/2026/10/31/newsom-letter-federal-judges-ballot-seizure-warrants/"
     },
     {
       "source": "NPR",
-      "title": "Anti-corruption and party discipline: takeaways from from this week's key political meeting in Beijing",
-      "url": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways"
+      "title": "Virginia and D.C. sue to block construction of Trump arch",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch"
     },
     {
       "source": "BBC",
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Luka Doncic came for revenge on Yaxel Lendeborg. The Warriors had other plans",
-      "url": "https://sfstandard.com/2026/10/31/warriors-beat-luka-doncic-steph-curry/"
+      "title": "Anthropic pours $900K into California Democrats days before election",
+      "url": "https://sfstandard.com/2026/10/31/anthropic-democratic-party-contributions-sf-dems/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 48. best outside window: 12pm to 12am",
-  "valid_until_epoch": 1793503115,
+  "text": "high 61, low 48. best outside window: 5pm to 12am",
+  "valid_until_epoch": 1793520507,
   "version": 1
 }
