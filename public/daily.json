@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-10-31T23:08:18-07:00",
+  "generated_at": "2026-11-01T05:27:07-08:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,8 +9,8 @@
     },
     {
       "source": "NPR",
-      "title": "Virginia and D.C. sue to block construction of Trump arch",
-      "url": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch"
+      "title": "Living with high prices in Virginia's 1st Congressional District",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district"
     },
     {
       "source": "BBC",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "ingleside: high 61, low 48. no weather drama scheduled.",
-  "valid_until_epoch": 1793545698,
+  "text": "high 61, low 48. best outside window: 8am to 12am",
+  "valid_until_epoch": 1793568427,
   "version": 1
 }
