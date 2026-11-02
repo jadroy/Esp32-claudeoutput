@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-02T03:11:18-08:00",
+  "generated_at": "2026-11-02T13:43:04-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "San Francisco still isn't funding legal help for survivors. Lurie hasn't changed that",
-      "url": "https://sfstandard.com/2026/11/01/power-play-san-francisco-still-isn-t-funding-legal-help-survivors-lurie-hasn-t-changed/"
+      "title": "Kawakami: No compromises, no blinking - the Valkyries' non-negotiable title and future",
+      "url": "https://sfstandard.com/2026/11/02/golden-state-valkyries-championship-ohemaa-nyanin-wnba/"
     },
     {
       "source": "NPR",
-      "title": "6 things to watch for on election night",
-      "url": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night"
+      "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice"
     },
     {
       "source": "BBC",
-      "title": "Mother told to book appointment to give birth to her dead baby",
-      "url": "https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss"
+      "title": "Mahmood scraps settlement plans for migrant care workers",
+      "url": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Correction to our reporting on Studio Montessori",
-      "url": "https://sfstandard.com/2026/11/01/correction-our-reporting-studio-montessori/"
+      "title": "Caitlin Clark changed the WNBA. The Valkyries changed women's sports",
+      "url": "https://sfstandard.com/2026/11/02/caitlin-clark-changed-wnba-valkyries-changed-women-s-sports/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
-  "source": "air-quality",
-  "text": "air quality is unusually good (29). open the windows.",
-  "valid_until_epoch": 1793646678,
+  "source": "weather",
+  "text": "high 63, low 47. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1793684584,
   "version": 1
 }
