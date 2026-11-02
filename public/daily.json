@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-01T16:45:41-08:00",
+  "generated_at": "2026-11-02T03:11:18-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The Valkyries' 10-step process to building a champion in 2 years",
-      "url": "https://sfstandard.com/2026/11/01/ohemaa-nyanin-valkyries-wnba-championship-roster/"
+      "title": "San Francisco still isn't funding legal help for survivors. Lurie hasn't changed that",
+      "url": "https://sfstandard.com/2026/11/01/power-play-san-francisco-still-isn-t-funding-legal-help-survivors-lurie-hasn-t-changed/"
     },
     {
       "source": "NPR",
-      "title": "Do you know signs of a stroke? BE FAST are the words to remember",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast"
+      "title": "6 things to watch for on election night",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night"
     },
     {
       "source": "BBC",
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
+      "title": "Mother told to book appointment to give birth to her dead baby",
+      "url": "https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "SF will throw the WNBA champion Valkyries a parade Wednesday. Here's what to know",
-      "url": "https://sfstandard.com/2026/11/01/valkyries-championship-parade-embarcadero-route-street-closures/"
+      "title": "Correction to our reporting on Studio Montessori",
+      "url": "https://sfstandard.com/2026/11/01/correction-our-reporting-studio-montessori/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
-  "source": "weather",
-  "text": "high 62, low 47. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1793609141,
+  "source": "air-quality",
+  "text": "air quality is unusually good (29). open the windows.",
+  "valid_until_epoch": 1793646678,
   "version": 1
 }
