@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-03T09:03:56-08:00",
+  "generated_at": "2026-11-03T15:24:29-08:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "Live updates: first exit polls released",
+      "url": "https://sfstandard.com/2026/11/03/live-blog-election-midterm-2026/"
+    },
+    {
+      "source": "NPR",
+      "title": "What Democrats plan to prioritize if they retake the House",
+      "url": "https://www.npr.org/2026/11/03/nx-s1-6026666/what-democrats-plan-to-prioritize-if-they-retake-the-house"
+    },
+    {
+      "source": "BBC",
+      "title": "A simple guide to the midterms",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Election Day: Big money, high stakes, and key contests to watch",
       "url": "https://sfstandard.com/2026/11/03/election-day-california-san-francisco-key-races-billionaire-tax-pelosi/"
-    },
-    {
-      "source": "NPR",
-      "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
-      "url": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson"
-    },
-    {
-      "source": "BBC",
-      "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
-      "url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "Why Gavin Newsom faces a 'no-win situation' with billionaire tax",
-      "url": "https://sfstandard.com/2026/11/03/gavin-newsom-faces-win-situation-billionaire-tax/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 63, low 50. best outside window: 11am to 5pm",
-  "valid_until_epoch": 1793754236,
+  "text": "high 62, low 50. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1793777069,
   "version": 1
 }
