@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-04T09:15:50-08:00",
+  "generated_at": "2026-11-04T15:40:41-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The Brandon Aiyuk saga: What we know about the 49ers' options and the receiver's future",
-      "url": "https://sfstandard.com/2026/11/04/brandon-aiyuk-49ers-faq-what-we-know/"
+      "title": "A historic flatiron building on Market slips into default",
+      "url": "https://sfstandard.com/2026/11/04/phelan-building-market-street-default/"
     },
     {
       "source": "NPR",
-      "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
-      "url": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid"
+      "title": "Where voters stand on state ballot measures, from abortion to LGBTQ rights to guns",
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6028833/midterms-ballot-measures-abortion-lgbtq-guns"
     },
     {
       "source": "BBC",
-      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss"
+      "title": "Bowen: Trump's loss limits powers at home, but it will likely be different abroad",
+      "url": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The small act that can save a restaurant's night",
-      "url": "https://sfstandard.com/2026/11/04/off-menu-restaurant-walk-ins-no-reservations/"
+      "title": "It could have been his election night. Instead, Manny Yekutiel was an outsider looking in",
+      "url": "https://sfstandard.com/2026/11/04/manny-yekutiel-election-night-sexual-assault/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 50. best outside window: 9am to 12am",
-  "valid_until_epoch": 1793841350,
+  "text": "high 64, low 50. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1793864441,
   "version": 1
 }
