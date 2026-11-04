@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-03T22:25:32-08:00",
+  "generated_at": "2026-11-04T09:15:50-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Theo Ellington takes strong early lead in Bayview district, declares victory",
-      "url": "https://sfstandard.com/2026/11/03/district-10-supervisor-results/"
+      "title": "The Brandon Aiyuk saga: What we know about the 49ers' options and the receiver's future",
+      "url": "https://sfstandard.com/2026/11/04/brandon-aiyuk-49ers-faq-what-we-know/"
     },
     {
       "source": "NPR",
-      "title": "Troy Jackson wins Maine Senate race over Susan Collins, in major coup for Democrats",
-      "url": "https://www.npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson"
+      "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid"
     },
     {
       "source": "BBC",
-      "title": "Ecstatic scenes and historic moments: What's happened so far in the midterms",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss"
+      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Gary McCoy takes big lead to represent Castro in early returns",
-      "url": "https://sfstandard.com/2026/11/03/november-election-gary-mccoy-darshini-patel/"
+      "title": "The small act that can save a restaurant's night",
+      "url": "https://sfstandard.com/2026/11/04/off-menu-restaurant-walk-ins-no-reservations/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 50. best outside window: 10pm to 12am",
-  "valid_until_epoch": 1793802332,
+  "text": "high 62, low 50. best outside window: 9am to 12am",
+  "valid_until_epoch": 1793841350,
   "version": 1
 }
