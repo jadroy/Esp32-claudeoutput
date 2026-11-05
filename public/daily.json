@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-05T09:25:28-08:00",
+  "generated_at": "2026-11-05T15:38:56-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Kaeden Kent opens up about joining his dad's Giants: 'I want to be like him'",
-      "url": "https://sfstandard.com/2026/11/05/kaeden-kent-sf-giants-jeff-kent-legacy/"
+      "title": "Like everyone in SF, AI data centers struggle to find a place to live",
+      "url": "https://sfstandard.com/2026/11/05/ai-data-centers-housing-crisis/"
     },
     {
       "source": "NPR",
-      "title": "Discursive Verses: Is 'Spend Dat' the best financial indicator of America's grift economy?",
-      "url": "https://www.npr.org/2026/11/05/nx-s1-6029747/the-week-in-hip-hop-yung-miami-spend-dat"
+      "title": "How North Carolina Democrats flipped several House seats in historically GOP districts",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6031719/north-carolina-democrats-flip-house-seats-republican-districts"
     },
     {
       "source": "BBC",
-      "title": "Watch: Met Police release Brand interview footage",
-      "url": "https://www.bbc.co.uk/news/videos/c693ze38vywxo?at_medium=RSS&at_campaign=rss"
+      "title": "Russell Brand found guilty of rape and sexual assault",
+      "url": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The best Asian grocery store in the Bay Area just opened its first San Francisco location",
-      "url": "https://sfstandard.com/2026/11/05/t-t-supermarket-san-francisco-opening/"
+      "title": "'Section 415' podcast: Making sense of the Warriors' options with Kristaps Porzingis",
+      "url": "https://sfstandard.com/section-415/2026/11/05/kristaps-porzingis-warriors-trade-options/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 48. best outside window: 9am to 12am",
-  "valid_until_epoch": 1793928328,
+  "text": "high 70, low 48. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1793950736,
   "version": 1
 }
