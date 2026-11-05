@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-04T22:49:40-08:00",
+  "generated_at": "2026-11-05T09:25:28-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Kawakami: The 49ers are rested, restocked, and ready for a late-season run",
-      "url": "https://sfstandard.com/2026/11/04/49ers-trade-deadline-moves-john-lynch-kyle-shanahan/"
+      "title": "Kaeden Kent opens up about joining his dad's Giants: 'I want to be like him'",
+      "url": "https://sfstandard.com/2026/11/05/kaeden-kent-sf-giants-jeff-kent-legacy/"
     },
     {
       "source": "NPR",
-      "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
-      "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced"
+      "title": "Discursive Verses: Is 'Spend Dat' the best financial indicator of America's grift economy?",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6029747/the-week-in-hip-hop-yung-miami-spend-dat"
     },
     {
       "source": "BBC",
-      "title": "Vance walks Trump tightrope after blaming Iran war for election defeat",
-      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: Met Police release Brand interview footage",
+      "url": "https://www.bbc.co.uk/news/videos/c693ze38vywxo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "A terrible day for Musk, but not his social network",
-      "url": "https://sfstandard.com/2026/11/04/x-twitter-elon-musk-blue-wave/"
+      "title": "The best Asian grocery store in the Bay Area just opened its first San Francisco location",
+      "url": "https://sfstandard.com/2026/11/05/t-t-supermarket-san-francisco-opening/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 50. best outside window: 10pm to 12am",
-  "valid_until_epoch": 1793890180,
+  "text": "high 67, low 48. best outside window: 9am to 12am",
+  "valid_until_epoch": 1793928328,
   "version": 1
 }
