@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-04T15:40:41-08:00",
+  "generated_at": "2026-11-04T22:49:40-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "A historic flatiron building on Market slips into default",
-      "url": "https://sfstandard.com/2026/11/04/phelan-building-market-street-default/"
+      "title": "Kawakami: The 49ers are rested, restocked, and ready for a late-season run",
+      "url": "https://sfstandard.com/2026/11/04/49ers-trade-deadline-moves-john-lynch-kyle-shanahan/"
     },
     {
       "source": "NPR",
-      "title": "Where voters stand on state ballot measures, from abortion to LGBTQ rights to guns",
-      "url": "https://www.npr.org/2026/11/04/nx-s1-6028833/midterms-ballot-measures-abortion-lgbtq-guns"
+      "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+      "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced"
     },
     {
       "source": "BBC",
-      "title": "Bowen: Trump's loss limits powers at home, but it will likely be different abroad",
-      "url": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss"
+      "title": "Vance walks Trump tightrope after blaming Iran war for election defeat",
+      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "It could have been his election night. Instead, Manny Yekutiel was an outsider looking in",
-      "url": "https://sfstandard.com/2026/11/04/manny-yekutiel-election-night-sexual-assault/"
+      "title": "A terrible day for Musk, but not his social network",
+      "url": "https://sfstandard.com/2026/11/04/x-twitter-elon-musk-blue-wave/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 64, low 50. best outside window: 3pm to 12am",
-  "valid_until_epoch": 1793864441,
+  "text": "high 64, low 50. best outside window: 10pm to 12am",
+  "valid_until_epoch": 1793890180,
   "version": 1
 }
