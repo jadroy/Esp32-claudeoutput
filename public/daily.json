@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-06T08:46:20-08:00",
+  "generated_at": "2026-11-06T15:10:29-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "49ers vs. Raiders: The Standard's 5 fast predictions",
-      "url": "https://sfstandard.com/2026/11/06/49ers-raiders-predictions-score-picks/"
+      "title": "Billionaire party girl DJ takes Meta to court to access ex-girlfriend's Instagram data",
+      "url": "https://sfstandard.com/2026/11/06/lucy-guo-wallis-day-instagram-story/"
     },
     {
       "source": "NPR",
-      "title": "European air traffic is targeted by new threats after a week of hoaxes",
-      "url": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes"
+      "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+      "url": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties"
     },
     {
       "source": "BBC",
-      "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
-      "url": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss"
+      "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Will this $20M Presidio Heights home sell twice in six months?",
-      "url": "https://sfstandard.com/2026/11/06/presidio-heights-home-selling-twice-in-six-months/"
+      "title": "Volleyball, hockey, and the Finals MVP: Women's sports take over the Bay Area this winter",
+      "url": "https://sfstandard.com/2026/11/06/san-francisco-signal-volleyball-schedule-unrivaled-basketball-chase-center/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 48. best outside window: 8am to 12am",
-  "valid_until_epoch": 1794012380,
+  "text": "high 67, low 48. best outside window: 3pm to 12am",
+  "valid_until_epoch": 1794035429,
   "version": 1
 }
