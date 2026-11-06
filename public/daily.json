@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-05T22:49:41-08:00",
+  "generated_at": "2026-11-06T08:46:20-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The 49ers have Nick Bosa and DeForest Buckner back. Now they need their next Dee Ford",
-      "url": "https://sfstandard.com/2026/11/05/deforest-buckner-nick-bosa-49ers-defensive-line-changes/"
+      "title": "49ers vs. Raiders: The Standard's 5 fast predictions",
+      "url": "https://sfstandard.com/2026/11/06/49ers-raiders-predictions-score-picks/"
     },
     {
       "source": "NPR",
-      "title": "A judge blocks construction of Trump's arch moments after it won federal approval",
-      "url": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction"
+      "title": "European air traffic is targeted by new threats after a week of hoaxes",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes"
     },
     {
       "source": "BBC",
-      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+      "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The Great Highway's neighbors flipped and saved the park they once hated",
-      "url": "https://sfstandard.com/2026/11/05/great-highway-s-neighbors-flipped-saved-park-once-hated/"
+      "title": "Will this $20M Presidio Heights home sell twice in six months?",
+      "url": "https://sfstandard.com/2026/11/06/presidio-heights-home-selling-twice-in-six-months/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 70, low 48. best outside window: 10pm to 12am",
-  "valid_until_epoch": 1793976581,
+  "text": "high 65, low 48. best outside window: 8am to 12am",
+  "valid_until_epoch": 1794012380,
   "version": 1
 }
