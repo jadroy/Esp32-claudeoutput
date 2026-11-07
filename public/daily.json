@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-06T15:10:29-08:00",
+  "generated_at": "2026-11-06T21:59:49-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Billionaire party girl DJ takes Meta to court to access ex-girlfriend's Instagram data",
-      "url": "https://sfstandard.com/2026/11/06/lucy-guo-wallis-day-instagram-story/"
+      "title": "Brandon Aiyuk swore he'd never deal with the 49ers again. Then he showed up",
+      "url": "https://sfstandard.com/2026/11/06/brandon-aiyuk-49ers-reports-team-facility/"
     },
     {
       "source": "NPR",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Volleyball, hockey, and the Finals MVP: Women's sports take over the Bay Area this winter",
-      "url": "https://sfstandard.com/2026/11/06/san-francisco-signal-volleyball-schedule-unrivaled-basketball-chase-center/"
+      "title": "Police raid Sea Cliff home overrun by alleged squatters",
+      "url": "https://sfstandard.com/2026/11/06/sea-cliff-home-squatters-dogs/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 48. best outside window: 3pm to 12am",
-  "valid_until_epoch": 1794035429,
+  "text": "high 67, low 48. best outside window: 9pm to 12am",
+  "valid_until_epoch": 1794059989,
   "version": 1
 }
