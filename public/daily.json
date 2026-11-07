@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-06T21:59:49-08:00",
+  "generated_at": "2026-11-07T05:04:19-08:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Israel's Arab-led parties in spotlight after inconclusive election",
-      "url": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties"
+      "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
+      "url": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma"
     },
     {
       "source": "BBC",
-      "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
-      "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss"
+      "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
+      "url": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 48. best outside window: 9pm to 12am",
-  "valid_until_epoch": 1794059989,
+  "text": "high 68, low 49. best outside window: 8am to 12am",
+  "valid_until_epoch": 1794085459,
   "version": 1
 }
