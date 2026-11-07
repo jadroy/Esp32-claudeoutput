@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-07T05:04:19-08:00",
+  "generated_at": "2026-11-07T11:26:17-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Brandon Aiyuk swore he'd never deal with the 49ers again. Then he showed up",
-      "url": "https://sfstandard.com/2026/11/06/brandon-aiyuk-49ers-reports-team-facility/"
+      "title": "Joe Lacob keeps winning titles. Here's why MLB needs him",
+      "url": "https://sfstandard.com/2026/11/07/joe-lacob-championships-mlb-san-francisco-giants/"
     },
     {
       "source": "NPR",
-      "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
-      "url": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma"
+      "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+      "url": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15"
     },
     {
       "source": "BBC",
-      "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
-      "url": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss"
+      "title": "What we know about Krakow mass shooting so far",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Police raid Sea Cliff home overrun by alleged squatters",
-      "url": "https://sfstandard.com/2026/11/06/sea-cliff-home-squatters-dogs/"
+      "title": "SF nearly sent a gay politician to Congress in 1987. Scott Wiener will finish the mission",
+      "url": "https://sfstandard.com/2026/11/07/sf-nearly-sent-gay-politician-congress-1987-scott-wiener-will-finish-mission/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 68, low 49. best outside window: 8am to 12am",
-  "valid_until_epoch": 1794085459,
+  "text": "high 66, low 49. best outside window: 11am to 12am",
+  "valid_until_epoch": 1794108377,
   "version": 1
 }
