@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-07T11:26:17-08:00",
+  "generated_at": "2026-11-07T16:38:02-08:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "'Best vehicle I've ever driven': Cybertruck fans mourn Tesla's most hated car",
+      "url": "https://sfstandard.com/2026/11/07/tesla-cybertruck-production-ending-owners-sad/"
+    },
+    {
+      "source": "NPR",
+      "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year"
+    },
+    {
+      "source": "BBC",
+      "title": "Briton among six killed in 'far-right' shooting in Krakow",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "Joe Lacob keeps winning titles. Here's why MLB needs him",
       "url": "https://sfstandard.com/2026/11/07/joe-lacob-championships-mlb-san-francisco-giants/"
-    },
-    {
-      "source": "NPR",
-      "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
-      "url": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15"
-    },
-    {
-      "source": "BBC",
-      "title": "What we know about Krakow mass shooting so far",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "SF nearly sent a gay politician to Congress in 1987. Scott Wiener will finish the mission",
-      "url": "https://sfstandard.com/2026/11/07/sf-nearly-sent-gay-politician-congress-1987-scott-wiener-will-finish-mission/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 49. best outside window: 11am to 12am",
-  "valid_until_epoch": 1794108377,
+  "text": "high 67, low 49. best outside window: 4pm to 12am",
+  "valid_until_epoch": 1794127082,
   "version": 1
 }
