@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-07T16:38:02-08:00",
+  "generated_at": "2026-11-08T02:25:14-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'Best vehicle I've ever driven': Cybertruck fans mourn Tesla's most hated car",
-      "url": "https://sfstandard.com/2026/11/07/tesla-cybertruck-production-ending-owners-sad/"
+      "title": "The Quakes are back in the playoffs - more than a decade after opening PayPal Park",
+      "url": "https://sfstandard.com/2026/11/07/san-jose-earthquakes-mls-playoffs-paypal-park/"
     },
     {
       "source": "NPR",
-      "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year"
+      "title": "How Gen Z voters helped fuel a blue wave for Democrats",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections"
     },
     {
       "source": "BBC",
-      "title": "Briton among six killed in 'far-right' shooting in Krakow",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss"
+      "title": "How the deadly shooting in Krakow unfolded",
+      "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Joe Lacob keeps winning titles. Here's why MLB needs him",
-      "url": "https://sfstandard.com/2026/11/07/joe-lacob-championships-mlb-san-francisco-giants/"
+      "title": "SF got $7M to expand its innovation team. Lurie just fired most of it",
+      "url": "https://sfstandard.com/2026/11/07/lurie-fires-innovation-office-staff-bloomberg-grant/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 49. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1794127082,
+  "text": "high 66, low 50. best outside window: 2am to 12am",
+  "valid_until_epoch": 1794162314,
   "version": 1
 }
