@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-08T22:33:31-08:00",
+  "generated_at": "2026-11-09T11:50:12-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Warner's deja vu, 5 takeaways, and a crushing injury: Inside the 49ers' turnover spree",
-      "url": "https://sfstandard.com/2026/11/08/49ers-fred-warner-kirk-cousins-takeaways-win/"
+      "title": "This Florida firm wants to go on an SF office shopping spree",
+      "url": "https://sfstandard.com/2026/11/09/1754-buys-40-jessie-st-plots-sf-portfolio/"
     },
     {
       "source": "NPR",
-      "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
-      "url": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno"
+      "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
+      "url": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution"
     },
     {
       "source": "BBC",
-      "title": "Inside the French drug gangs recruiting children to kill",
-      "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss"
+      "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Kawakami: 'We've got the guys to do it' - Yes, the 49ers are in their abundance era",
-      "url": "https://sfstandard.com/2026/11/08/49ers-fred-warner-deforest-buckner-veteran-introductions-win/"
+      "title": "Mays, Rice, and Curry? The Warriors star is doing what only Bay Area legends have done",
+      "url": "https://sfstandard.com/2026/11/09/steph-curry-warriors-nba-aging-curve-greatness/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 50. best outside window: 10pm to 12am",
-  "valid_until_epoch": 1794234811,
+  "text": "high 66, low 50. best outside window: 11am to 12am",
+  "valid_until_epoch": 1794282612,
   "version": 1
 }
