@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-08T14:07:17-08:00",
+  "generated_at": "2026-11-08T22:33:31-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The Bay Area's newest Asian supermarkets - ranked",
-      "url": "https://sfstandard.com/2026/11/08/best-bay-area-asian-grocery-store/"
+      "title": "Warner's deja vu, 5 takeaways, and a crushing injury: Inside the 49ers' turnover spree",
+      "url": "https://sfstandard.com/2026/11/08/49ers-fred-warner-kirk-cousins-takeaways-win/"
     },
     {
       "source": "NPR",
-      "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia"
+      "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno"
     },
     {
       "source": "BBC",
-      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss"
+      "title": "Inside the French drug gangs recruiting children to kill",
+      "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Silicon Valley had a terrible election night. One local billionaire did not",
-      "url": "https://sfstandard.com/2026/11/08/chris-larsen-ripple-democrats-election/"
+      "title": "Kawakami: 'We've got the guys to do it' - Yes, the 49ers are in their abundance era",
+      "url": "https://sfstandard.com/2026/11/08/49ers-fred-warner-deforest-buckner-veteran-introductions-win/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 65, low 50. best outside window: 2pm to 12am",
-  "valid_until_epoch": 1794204437,
+  "text": "high 65, low 50. best outside window: 10pm to 12am",
+  "valid_until_epoch": 1794234811,
   "version": 1
 }
