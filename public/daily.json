@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-09T11:50:12-08:00",
+  "generated_at": "2026-11-09T19:34:44-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "This Florida firm wants to go on an SF office shopping spree",
-      "url": "https://sfstandard.com/2026/11/09/1754-buys-40-jessie-st-plots-sf-portfolio/"
+      "title": "California voters reject billionaire tax",
+      "url": "https://sfstandard.com/2026/11/09/california-voters-reject-billionaire-tax/"
     },
     {
       "source": "NPR",
-      "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
-      "url": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution"
+      "title": "California voters defeat billionaire tax proposal that divided Democrats",
+      "url": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum"
     },
     {
       "source": "BBC",
-      "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss"
+      "title": "Russell Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Mays, Rice, and Curry? The Warriors star is doing what only Bay Area legends have done",
-      "url": "https://sfstandard.com/2026/11/09/steph-curry-warriors-nba-aging-curve-greatness/"
+      "title": "A billionaire is behind California's Prop. 38. His institute stands to get billions.",
+      "url": "https://sfstandard.com/2026/11/09/billionaire-california-s-prop-38-institute-stands-get-billions/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 50. best outside window: 11am to 12am",
-  "valid_until_epoch": 1794282612,
+  "text": "high 66, low 50. best outside window: 7pm to 12am",
+  "valid_until_epoch": 1794310484,
   "version": 1
 }
