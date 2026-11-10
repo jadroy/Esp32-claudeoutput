@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-10T06:54:59-08:00",
+  "generated_at": "2026-11-10T13:18:15-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "When wealth meets wellness: SF's young and rich are buying longevity sanctuaries",
-      "url": "https://sfstandard.com/2026/11/10/wealth-meets-wellness-sf-s-young-rich-buying-longevity-sanctuaries/"
+      "title": "Kawakami: Joe Lacob on the Valkyries' future, the Warriors' present, and much more",
+      "url": "https://sfstandard.com/2026/11/10/joe-lacob-warriors-steph-curry-kristaps-porzingis/"
     },
     {
       "source": "NPR",
-      "title": "Gas prices dip below $4 but inflation remains stubbornly high",
-      "url": "https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices"
+      "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones"
     },
     {
       "source": "BBC",
-      "title": "US military aircraft leave second UK base",
-      "url": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss"
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "It's inedible and highly elusive - and San Francisco bartenders can't get enough",
-      "url": "https://sfstandard.com/2026/11/10/umeshu-ume-plum-cocktails-san-francisco-bay-area-bars/"
+      "title": "The Keenan Allen trade: Why the 49ers added a receiver and what he brings to the offense",
+      "url": "https://sfstandard.com/2026/11/10/keenan-allen-49ers-trade-wide-receiver/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 51. best outside window: 6am to 12am",
-  "valid_until_epoch": 1794351299,
+  "text": "high 70, low 50. best outside window: 1pm to 12am",
+  "valid_until_epoch": 1794374295,
   "version": 1
 }
