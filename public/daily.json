@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-09T19:34:44-08:00",
+  "generated_at": "2026-11-10T06:54:59-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "California voters reject billionaire tax",
-      "url": "https://sfstandard.com/2026/11/09/california-voters-reject-billionaire-tax/"
+      "title": "When wealth meets wellness: SF's young and rich are buying longevity sanctuaries",
+      "url": "https://sfstandard.com/2026/11/10/wealth-meets-wellness-sf-s-young-rich-buying-longevity-sanctuaries/"
     },
     {
       "source": "NPR",
-      "title": "California voters defeat billionaire tax proposal that divided Democrats",
-      "url": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum"
+      "title": "Gas prices dip below $4 but inflation remains stubbornly high",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices"
     },
     {
       "source": "BBC",
-      "title": "Russell Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss"
+      "title": "US military aircraft leave second UK base",
+      "url": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "A billionaire is behind California's Prop. 38. His institute stands to get billions.",
-      "url": "https://sfstandard.com/2026/11/09/billionaire-california-s-prop-38-institute-stands-get-billions/"
+      "title": "It's inedible and highly elusive - and San Francisco bartenders can't get enough",
+      "url": "https://sfstandard.com/2026/11/10/umeshu-ume-plum-cocktails-san-francisco-bay-area-bars/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 50. best outside window: 7pm to 12am",
-  "valid_until_epoch": 1794310484,
+  "text": "high 67, low 51. best outside window: 6am to 12am",
+  "valid_until_epoch": 1794351299,
   "version": 1
 }
