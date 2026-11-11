@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-10T13:18:15-08:00",
+  "generated_at": "2026-11-10T22:25:14-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Kawakami: Joe Lacob on the Valkyries' future, the Warriors' present, and much more",
-      "url": "https://sfstandard.com/2026/11/10/joe-lacob-warriors-steph-curry-kristaps-porzingis/"
+      "title": "'Section 415' podcast: Analyzing the 49ers' trades for DeForest Buckner and Keenan Allen",
+      "url": "https://sfstandard.com/section-415/2026/11/10/49ers-trade-deadline-podcast-keenan-allen/"
     },
     {
       "source": "NPR",
-      "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
-      "url": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones"
+      "title": "Federal government failed to hold Epstein accountable, Republican committee says",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6036135/federal-government-failed-to-hold-epstein-accountable-republican-committee-says"
     },
     {
       "source": "BBC",
-      "title": "US Army soldier suspected of spying for Russia arrested in UK",
-      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss"
+      "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The Keenan Allen trade: Why the 49ers added a receiver and what he brings to the offense",
-      "url": "https://sfstandard.com/2026/11/10/keenan-allen-49ers-trade-wide-receiver/"
+      "title": "Score one for the little guys: Union Square's big turnaround gets help from small makers",
+      "url": "https://sfstandard.com/2026/11/10/union-square-sfmade-local-makers-store/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 70, low 50. best outside window: 1pm to 12am",
-  "valid_until_epoch": 1794374295,
+  "text": "high 71, low 50. best outside window: 10pm to 12am",
+  "valid_until_epoch": 1794407114,
   "version": 1
 }
