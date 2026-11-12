@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-11T09:09:14-08:00",
+  "generated_at": "2026-11-11T16:45:07-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "From 0-3 to 8-3: How Steph Curry and the Warriors engineered a historic turnaround",
-      "url": "https://sfstandard.com/2026/11/11/golden-state-warriors-turnaround-steph-curry-history/"
+      "title": "Giants offseason intel: A Boras meeting, potential pitching targets, and more",
+      "url": "https://sfstandard.com/2026/11/11/scott-boras-sf-giants-offseason-targets-hot-stove/"
     },
     {
       "source": "NPR",
-      "title": "Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave",
-      "url": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery"
+      "title": "Democrat Scott Colom wins the closest Senate race in the country",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country"
     },
     {
       "source": "BBC",
-      "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss"
+      "title": "Author says there were 'real concerns' about David Walliams within publishing industry",
+      "url": "https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Why Buster Posey's Giants are reluctant to sign the pitchers they need most",
-      "url": "https://sfstandard.com/2026/11/11/buster-posey-sf-giants-offseason-pitching-plan/"
+      "title": "As Jensen Huang's future hangs in the balance: 10 things you need to know",
+      "url": "https://sfstandard.com/2026/11/11/as-jensen-huang-s-future-hangs-balance-10-things-need-know/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 69, low 52. best outside window: 9am to 12am",
-  "valid_until_epoch": 1794445754,
+  "text": "high 72, low 52. best outside window: 4pm to 12am",
+  "valid_until_epoch": 1794473107,
   "version": 1
 }
