@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-12T03:15:37-08:00",
+  "generated_at": "2026-11-12T11:55:35-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The extraordinary rise - and possible fall - of Nvidia's Jensen Huang",
-      "url": "https://sfstandard.com/2026/11/11/nvidia-ceo-jensen-huang-profile/"
+      "title": "New video shows officer making contact with man before fatal scooter crash",
+      "url": "https://sfstandard.com/2026/11/12/surveillance-footage-contradicts-sfpd-story-scooter-chase-death/"
     },
     {
       "source": "NPR",
-      "title": "At least 23 states considered laws governing ICE and schools this year",
-      "url": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration"
+      "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years"
     },
     {
       "source": "BBC",
-      "title": "Some under-25s should get fewer benefits, Milburn review to say",
-      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss"
+      "title": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Nvidia shares plunge 8% as markets roiled by potential ouster of Jensen Huang",
-      "url": "https://sfstandard.com/2026/11/11/jensen-huang-nvidia-ouster-markets-roiled/"
+      "title": "Nvidia shares tumble as Wall Street reacts to Huang's exit",
+      "url": "https://sfstandard.com/2026/11/12/nvidia-shares-tumble-as-wall-street-reacts-huang-s-exit/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 66, low 52. best outside window: 3am to 12am",
-  "valid_until_epoch": 1794510937,
+  "text": "high 67, low 51. best outside window: 11am to 12am",
+  "valid_until_epoch": 1794542135,
   "version": 1
 }
