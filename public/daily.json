@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-11T16:45:07-08:00",
+  "generated_at": "2026-11-12T03:15:37-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Giants offseason intel: A Boras meeting, potential pitching targets, and more",
-      "url": "https://sfstandard.com/2026/11/11/scott-boras-sf-giants-offseason-targets-hot-stove/"
+      "title": "The extraordinary rise - and possible fall - of Nvidia's Jensen Huang",
+      "url": "https://sfstandard.com/2026/11/11/nvidia-ceo-jensen-huang-profile/"
     },
     {
       "source": "NPR",
-      "title": "Democrat Scott Colom wins the closest Senate race in the country",
-      "url": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country"
+      "title": "At least 23 states considered laws governing ICE and schools this year",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration"
     },
     {
       "source": "BBC",
-      "title": "Author says there were 'real concerns' about David Walliams within publishing industry",
-      "url": "https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss"
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "As Jensen Huang's future hangs in the balance: 10 things you need to know",
-      "url": "https://sfstandard.com/2026/11/11/as-jensen-huang-s-future-hangs-balance-10-things-need-know/"
+      "title": "Nvidia shares plunge 8% as markets roiled by potential ouster of Jensen Huang",
+      "url": "https://sfstandard.com/2026/11/11/jensen-huang-nvidia-ouster-markets-roiled/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 72, low 52. best outside window: 4pm to 12am",
-  "valid_until_epoch": 1794473107,
+  "text": "high 66, low 52. best outside window: 3am to 12am",
+  "valid_until_epoch": 1794510937,
   "version": 1
 }
