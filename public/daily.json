@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-13T03:00:56-08:00",
+  "generated_at": "2026-11-13T11:43:48-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The leather jacket comes off: Inside Jensen Huang's rise and fall",
-      "url": "https://sfstandard.com/pacific-standard-time/2026/11/12/pst-jensen-huang-nvidia-rise-fall/"
+      "title": "'Section 415' podcast: The Cal football program is living a nightmare",
+      "url": "https://sfstandard.com/section-415/2026/11/13/cal-football-tosh-lupoi-ron-rivera-podcast/"
     },
     {
       "source": "NPR",
-      "title": "Hegseth awards medal to soldier who chastised him",
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him"
+      "title": "What's Trump's strategy now with Iran? To keep things as they are",
+      "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are"
     },
     {
       "source": "BBC",
-      "title": "What we know about the global outage",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+      "title": "Police investigating David Walliams over reports alleging serious sexual offences",
+      "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "5 issues the Giants' first 'offensive coordinator' must address in 2027",
-      "url": "https://sfstandard.com/2026/11/12/james-rowson-sf-giants-offensive-coordinator/"
+      "title": "The 49ers' closest match isn't one of their Super Bowl teams. It's the 2002 Raiders",
+      "url": "https://sfstandard.com/2026/11/13/san-francisco-49ers-oakland-raiders-super-bowl/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "rain starts around 10am. best walk window: 3am to 8am",
-  "valid_until_epoch": 1794596456,
+  "text": "rain becomes likely around 11am. umbrella day.",
+  "valid_until_epoch": 1794627828,
   "version": 1
 }
