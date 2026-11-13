@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-12T11:55:35-08:00",
+  "generated_at": "2026-11-12T17:50:27-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "New video shows officer making contact with man before fatal scooter crash",
-      "url": "https://sfstandard.com/2026/11/12/surveillance-footage-contradicts-sfpd-story-scooter-chase-death/"
+      "title": "The leather jacket comes off: Inside Jensen Huang's rise and fall",
+      "url": "https://sfstandard.com/pacific-standard-time/2026/11/12/pst-jensen-huang-nvidia-rise-fall/"
     },
     {
       "source": "NPR",
-      "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
-      "url": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years"
+      "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps"
     },
     {
       "source": "BBC",
-      "title": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss"
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Nvidia shares tumble as Wall Street reacts to Huang's exit",
-      "url": "https://sfstandard.com/2026/11/12/nvidia-shares-tumble-as-wall-street-reacts-huang-s-exit/"
+      "title": "5 issues the Giants' first 'offensive coordinator' must address in 2027",
+      "url": "https://sfstandard.com/2026/11/12/james-rowson-sf-giants-offensive-coordinator/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 67, low 51. best outside window: 11am to 12am",
-  "valid_until_epoch": 1794542135,
+  "text": "high 69, low 51. best outside window: 5pm to 12am",
+  "valid_until_epoch": 1794563427,
   "version": 1
 }
