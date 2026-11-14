@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-13T11:43:48-08:00",
+  "generated_at": "2026-11-13T17:27:18-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'Section 415' podcast: The Cal football program is living a nightmare",
-      "url": "https://sfstandard.com/section-415/2026/11/13/cal-football-tosh-lupoi-ron-rivera-podcast/"
+      "title": "Neighbors remove Marina Safeway developer from lawsuit, setting off a game of chicken",
+      "url": "https://sfstandard.com/2026/11/13/marina-safeway-lawsuit-drops-align-real-estate/"
     },
     {
       "source": "NPR",
-      "title": "What's Trump's strategy now with Iran? To keep things as they are",
-      "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are"
+      "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "The 49ers' closest match isn't one of their Super Bowl teams. It's the 2002 Raiders",
-      "url": "https://sfstandard.com/2026/11/13/san-francisco-49ers-oakland-raiders-super-bowl/"
+      "title": "John Fisher sells Earthquakes for $625M - cutting his last tie to Bay Area sports",
+      "url": "https://sfstandard.com/2026/11/13/john-fisher-earthquakes-heath-freeman-bay-area/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "rain becomes likely around 11am. umbrella day.",
-  "valid_until_epoch": 1794627828,
+  "text": "high 61, low 54. best outside window: 5pm to 12am",
+  "valid_until_epoch": 1794648438,
   "version": 1
 }
