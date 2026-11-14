@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-13T17:27:18-08:00",
+  "generated_at": "2026-11-14T02:28:34-08:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop"
+      "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test"
     },
     {
       "source": "BBC",
-      "title": "Police investigating David Walliams over reports alleging serious sexual offences",
-      "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss"
+      "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 54. best outside window: 5pm to 12am",
-  "valid_until_epoch": 1794648438,
+  "text": "high 60, low 50. best outside window: 2am to 12am",
+  "valid_until_epoch": 1794680914,
   "version": 1
 }
