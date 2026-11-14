@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-14T02:28:34-08:00",
+  "generated_at": "2026-11-14T10:05:06-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Neighbors remove Marina Safeway developer from lawsuit, setting off a game of chicken",
-      "url": "https://sfstandard.com/2026/11/13/marina-safeway-lawsuit-drops-align-real-estate/"
+      "title": "After Jensen Huang's very bad week, the party must go on in San Francisco",
+      "url": "https://sfstandard.com/2026/11/14/jensen-huang-s-bad-week-party-must-go-san-francisco/"
     },
     {
       "source": "NPR",
-      "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
-      "url": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test"
+      "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "John Fisher sells Earthquakes for $625M - cutting his last tie to Bay Area sports",
-      "url": "https://sfstandard.com/2026/11/13/john-fisher-earthquakes-heath-freeman-bay-area/"
+      "title": "A SoMa startup is building humanoid robots for war",
+      "url": "https://sfstandard.com/2026/11/14/humanoid-war-robots-soma-startup/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
-  "source": "weather",
-  "text": "high 60, low 50. best outside window: 2am to 12am",
-  "valid_until_epoch": 1794680914,
+  "source": "fallback",
+  "text": "",
+  "valid_until_epoch": 1794708306,
   "version": 1
 }
