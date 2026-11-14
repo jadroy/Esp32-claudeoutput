@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-14T10:05:06-08:00",
+  "generated_at": "2026-11-14T14:26:08-08:00",
   "headlines": [
+    {
+      "source": "SF Standard",
+      "title": "Video: Massive waves pound San Francisco's coast in one of the biggest swells in decades",
+      "url": "https://sfstandard.com/2026/11/14/san-francisco-big-waves-photos-ocean-beach/"
+    },
+    {
+      "source": "NPR",
+      "title": "US has lost measles elimination status, global health authorities say",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho"
+    },
+    {
+      "source": "BBC",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "source": "SF Standard",
       "title": "After Jensen Huang's very bad week, the party must go on in San Francisco",
       "url": "https://sfstandard.com/2026/11/14/jensen-huang-s-bad-week-party-must-go-san-francisco/"
-    },
-    {
-      "source": "NPR",
-      "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
-      "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel"
-    },
-    {
-      "source": "BBC",
-      "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "SF Standard",
-      "title": "A SoMa startup is building humanoid robots for war",
-      "url": "https://sfstandard.com/2026/11/14/humanoid-war-robots-soma-startup/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
-  "source": "fallback",
-  "text": "",
-  "valid_until_epoch": 1794708306,
+  "source": "weather",
+  "text": "high 61, low 50. best outside window: 2pm to 12am",
+  "valid_until_epoch": 1794723968,
   "version": 1
 }
