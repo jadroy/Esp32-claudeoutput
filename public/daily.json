@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-14T22:35:07-08:00",
+  "generated_at": "2026-11-15T08:22:38-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Video: Massive waves pound San Francisco's coast in one of the biggest swells in decades",
-      "url": "https://sfstandard.com/2026/11/14/san-francisco-big-waves-photos-ocean-beach/"
+      "title": "Rental scams are exploding. The city has a plan, but not much manpower",
+      "url": "https://sfstandard.com/2026/11/15/rental-scams-hearing-treasurer-sauter/"
     },
     {
       "source": "NPR",
-      "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
-      "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks"
+      "title": "New Mexico wanted free childcare for all. This is what's worked - and what hasn't",
+      "url": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families"
     },
     {
       "source": "BBC",
-      "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
-      "url": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss"
+      "title": "Staggered age of consent to be discussed after Brand case, minister says",
+      "url": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "After Jensen Huang's very bad week, the party must go on in San Francisco",
-      "url": "https://sfstandard.com/2026/11/14/jensen-huang-s-bad-week-party-must-go-san-francisco/"
+      "title": "Who gets to stay in the Bayview?",
+      "url": "https://sfstandard.com/2026/11/15/bayview-black-women-family-homes-san-francisco/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 62, low 50. best outside window: 10pm to 12am",
-  "valid_until_epoch": 1794753307,
+  "text": "rain starts around 3pm. best walk window: 8am to 2pm",
+  "valid_until_epoch": 1794788558,
   "version": 1
 }
