@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-15T22:32:31-08:00",
+  "generated_at": "2026-11-16T11:37:46-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'Holy crap, that's Brock!': Purdy's lead block wows 49ers veterans in wild shootout win",
-      "url": "https://sfstandard.com/2026/11/15/brock-purdy-49ers-qb-mvp-lead-block/"
+      "title": "The 49ers' toughest test yet will take place 7,350 feet above sea level",
+      "url": "https://sfstandard.com/2026/11/16/brock-purdy-brian-flores-49ers-vikings/"
     },
     {
       "source": "NPR",
-      "title": "Flight disruptions expected to last into Monday",
-      "url": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday"
+      "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department"
     },
     {
       "source": "BBC",
-      "title": "Cut National Insurance for under-25s to create jobs, Milburn report to say",
-      "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss"
+      "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
+      "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Kawakami: 10 reasons why 49ers are ready to get to the Super Bowl - and win it",
-      "url": "https://sfstandard.com/2026/11/15/49ers-super-bowl-chances-nfc-west-contenders/"
+      "title": "A billionaire is giving $100 to every kid in San Francisco. Here's how to claim it",
+      "url": "https://sfstandard.com/2026/11/16/neil-mehta-trump-accounts-san-francisco-kids-100-dollars/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "rain becomes likely around 10pm. umbrella day.",
-  "valid_until_epoch": 1794839551,
+  "text": "today stays cool: 47 to 57. warmest: 11am to 2pm",
+  "valid_until_epoch": 1794886666,
   "version": 1
 }
