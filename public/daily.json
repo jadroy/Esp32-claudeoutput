@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-15T14:49:54-08:00",
+  "generated_at": "2026-11-15T22:32:31-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Rental scams are exploding. The city has a plan, but not much manpower",
-      "url": "https://sfstandard.com/2026/11/15/rental-scams-hearing-treasurer-sauter/"
+      "title": "'Holy crap, that's Brock!': Purdy's lead block wows 49ers veterans in wild shootout win",
+      "url": "https://sfstandard.com/2026/11/15/brock-purdy-49ers-qb-mvp-lead-block/"
     },
     {
       "source": "NPR",
-      "title": "Sydney Sweeney has great jeans. Who made them? (Psst: Workers)",
-      "url": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry"
+      "title": "Flight disruptions expected to last into Monday",
+      "url": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday"
     },
     {
       "source": "BBC",
-      "title": "Staggered age of consent to be discussed after Brand case, minister says",
-      "url": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss"
+      "title": "Cut National Insurance for under-25s to create jobs, Milburn report to say",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Who gets to stay in the Bayview?",
-      "url": "https://sfstandard.com/2026/11/15/bayview-black-women-family-homes-san-francisco/"
+      "title": "Kawakami: 10 reasons why 49ers are ready to get to the Super Bowl - and win it",
+      "url": "https://sfstandard.com/2026/11/15/49ers-super-bowl-chances-nfc-west-contenders/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "rain becomes likely around 2pm. umbrella day.",
-  "valid_until_epoch": 1794811794,
+  "text": "rain becomes likely around 10pm. umbrella day.",
+  "valid_until_epoch": 1794839551,
   "version": 1
 }
