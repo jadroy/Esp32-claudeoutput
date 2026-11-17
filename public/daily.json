@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-16T19:55:11-08:00",
+  "generated_at": "2026-11-17T08:01:35-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "'America needs more Jensens': At Semafor conference, execs go all-in defending Huang",
-      "url": "https://sfstandard.com/2026/11/16/jensen-huang-semafor-silicon-valley-conference/"
+      "title": "The pandemic forced a reinvention at China Basin. Then Sierra AI moved in",
+      "url": "https://sfstandard.com/2026/11/17/china-basin-mccarthy-cook-transformation-sierra/"
     },
     {
       "source": "NPR",
-      "title": "California sues OpenAI over hacking risks",
-      "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident"
+      "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+      "url": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy"
     },
     {
       "source": "BBC",
-      "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
-      "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: What's in the Milburn review?",
+      "url": "https://www.bbc.co.uk/news/videos/c3j4r9jgkynzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "SF historic preservation bill collapses under housing pushback",
-      "url": "https://sfstandard.com/2026/11/16/historic-preservation-sf-supervisors-housing-feud/"
+      "title": "Opinion: How Lurie wooed Chesky: By not wooing him",
+      "url": "https://sfstandard.com/opinion/2026/11/17/lurie-chesky-parks-donation/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
-  "source": "weather",
-  "text": "today stays cool: 48 to 57. warmest: 7pm to 9pm",
-  "valid_until_epoch": 1794916511,
+  "source": "air-quality",
+  "text": "air quality is unusually good (27). open the windows.",
+  "valid_until_epoch": 1794960095,
   "version": 1
 }
