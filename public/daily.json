@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-16T11:37:46-08:00",
+  "generated_at": "2026-11-16T19:55:11-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The 49ers' toughest test yet will take place 7,350 feet above sea level",
-      "url": "https://sfstandard.com/2026/11/16/brock-purdy-brian-flores-49ers-vikings/"
+      "title": "'America needs more Jensens': At Semafor conference, execs go all-in defending Huang",
+      "url": "https://sfstandard.com/2026/11/16/jensen-huang-semafor-silicon-valley-conference/"
     },
     {
       "source": "NPR",
-      "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
-      "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department"
+      "title": "California sues OpenAI over hacking risks",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident"
     },
     {
       "source": "BBC",
-      "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
-      "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss"
+      "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+      "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "A billionaire is giving $100 to every kid in San Francisco. Here's how to claim it",
-      "url": "https://sfstandard.com/2026/11/16/neil-mehta-trump-accounts-san-francisco-kids-100-dollars/"
+      "title": "SF historic preservation bill collapses under housing pushback",
+      "url": "https://sfstandard.com/2026/11/16/historic-preservation-sf-supervisors-housing-feud/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "today stays cool: 47 to 57. warmest: 11am to 2pm",
-  "valid_until_epoch": 1794886666,
+  "text": "today stays cool: 48 to 57. warmest: 7pm to 9pm",
+  "valid_until_epoch": 1794916511,
   "version": 1
 }
