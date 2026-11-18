@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-17T08:01:35-08:00",
+  "generated_at": "2026-11-17T16:58:10-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The pandemic forced a reinvention at China Basin. Then Sierra AI moved in",
-      "url": "https://sfstandard.com/2026/11/17/china-basin-mccarthy-cook-transformation-sierra/"
+      "title": "SF permit reform needs its own reform. The city hopes $9.3 million in grants will fix it",
+      "url": "https://sfstandard.com/2026/11/17/sf-permit-reform-needs-its-reform-city-hopes-9-3-million-grants-will-fix/"
     },
     {
       "source": "NPR",
-      "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
-      "url": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy"
+      "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain"
     },
     {
       "source": "BBC",
-      "title": "Watch: What's in the Milburn review?",
-      "url": "https://www.bbc.co.uk/news/videos/c3j4r9jgkynzo?at_medium=RSS&at_campaign=rss"
+      "title": "Government backs welfare shake-up to prevent 'lost generation'",
+      "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Opinion: How Lurie wooed Chesky: By not wooing him",
-      "url": "https://sfstandard.com/opinion/2026/11/17/lurie-chesky-parks-donation/"
+      "title": "Giants roster changes: Why Buster Posey added 3 pitchers ahead of a key MLB deadline",
+      "url": "https://sfstandard.com/2026/11/17/sf-giants-rule-5-protection-henry-lalane/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
-  "source": "air-quality",
-  "text": "air quality is unusually good (27). open the windows.",
-  "valid_until_epoch": 1794960095,
+  "source": "weather",
+  "text": "high 59, low 42. best outside window: 4pm to 8pm",
+  "valid_until_epoch": 1794992290,
   "version": 1
 }
