@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-17T16:58:10-08:00",
+  "generated_at": "2026-11-18T03:44:55-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "SF permit reform needs its own reform. The city hopes $9.3 million in grants will fix it",
-      "url": "https://sfstandard.com/2026/11/17/sf-permit-reform-needs-its-reform-city-hopes-9-3-million-grants-will-fix/"
+      "title": "Supervisors call on SFPD to fix its broken rape investigations",
+      "url": "https://sfstandard.com/2026/11/17/supervisors-rape-case-investigation-reform/"
     },
     {
       "source": "NPR",
-      "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain"
+      "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue"
     },
     {
       "source": "BBC",
-      "title": "Government backs welfare shake-up to prevent 'lost generation'",
-      "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: Why historic US, China and Russia meeting matters",
+      "url": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Giants roster changes: Why Buster Posey added 3 pitchers ahead of a key MLB deadline",
-      "url": "https://sfstandard.com/2026/11/17/sf-giants-rule-5-protection-henry-lalane/"
+      "title": "Bezos shrugs off blue wave, warns politicians not to make tech a villain",
+      "url": "https://sfstandard.com/2026/11/17/jeff-bezos-blue-wave-tech-villain/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 59, low 42. best outside window: 4pm to 8pm",
-  "valid_until_epoch": 1794992290,
+  "text": "rain becomes likely around 5am. umbrella day.",
+  "valid_until_epoch": 1795031095,
   "version": 1
 }
