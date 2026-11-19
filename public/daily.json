@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-19T03:42:31-08:00",
+  "generated_at": "2026-11-19T12:39:08-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Haney camp says Christine Pelosi's Chinese signs trade on her mother's name",
-      "url": "https://sfstandard.com/2026/11/18/power-play-haney-christine-pelosi-chinese-signs-nancy/"
+      "title": "SF leaders revive plan to unlock stalled housing projects. Here's how it would work",
+      "url": "https://sfstandard.com/2026/11/19/sf-leaders-revive-transfer-tax-unlock-housing-projects/"
     },
     {
       "source": "NPR",
-      "title": "AI giant Anthropic raises more than $100 billion in record-setting IPO",
-      "url": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion"
+      "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders"
     },
     {
       "source": "BBC",
-      "title": "Watch: Trump greets 'my friend' Putin as pair shake hands",
-      "url": "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss"
+      "title": "Men guilty of abusing woman drugged and advertised for sex by husband",
+      "url": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Anthropic unveils its price tag: $83 a share, a nearly $1.5 trillion valuation",
-      "url": "https://sfstandard.com/2026/11/18/anthropic-stock-debut-san-francisco/"
+      "title": "Opinion: This week's cartoon: Act of Claude",
+      "url": "https://sfstandard.com/opinion/2026/11/19/anthropic-ipo-flood-cartoon/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "rain becomes likely around 3am. umbrella day.",
-  "valid_until_epoch": 1795117351,
+  "text": "today stays cool: 47 to 55. warmest: 12pm to 2pm",
+  "valid_until_epoch": 1795149548,
   "version": 1
 }
