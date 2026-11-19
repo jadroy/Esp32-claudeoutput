@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-18T18:34:46-08:00",
+  "generated_at": "2026-11-19T03:42:31-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Video: Woodside trail runner awed by close encounter with two mountain lions",
-      "url": "https://sfstandard.com/2026/11/18/mountain-lion-video-wunderlich-park-woodside/"
+      "title": "Haney camp says Christine Pelosi's Chinese signs trade on her mother's name",
+      "url": "https://sfstandard.com/2026/11/18/power-play-haney-christine-pelosi-chinese-signs-nancy/"
     },
     {
       "source": "NPR",
-      "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price"
+      "title": "AI giant Anthropic raises more than $100 billion in record-setting IPO",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion"
     },
     {
       "source": "BBC",
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: Trump greets 'my friend' Putin as pair shake hands",
+      "url": "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "'Eerie in the best way possible': Inside the SF premiere of Luca Guadagnino's 'Artificial'",
-      "url": "https://sfstandard.com/2026/11/18/eerie-best-way-possible-sf-premiere-luca-guadagnino-s-artificial/"
+      "title": "Anthropic unveils its price tag: $83 a share, a nearly $1.5 trillion valuation",
+      "url": "https://sfstandard.com/2026/11/18/anthropic-stock-debut-san-francisco/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "rain starts around 9pm. best walk window: 6pm to 8pm",
-  "valid_until_epoch": 1795084486,
+  "text": "rain becomes likely around 3am. umbrella day.",
+  "valid_until_epoch": 1795117351,
   "version": 1
 }
