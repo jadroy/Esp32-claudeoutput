@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-18T12:33:02-08:00",
+  "generated_at": "2026-11-18T18:34:46-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Lurie moves to combine departments to make permitting, building faster",
-      "url": "https://sfstandard.com/2026/11/18/sf-department-building-planning-permitting/"
+      "title": "Video: Woodside trail runner awed by close encounter with two mountain lions",
+      "url": "https://sfstandard.com/2026/11/18/mountain-lion-video-wunderlich-park-woodside/"
     },
     {
       "source": "NPR",
-      "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl"
+      "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "In win for hotel workers union, San Francisco extends COVID-era cleaning rules",
-      "url": "https://sfstandard.com/2026/11/18/hotel-workers-cleaning-ordinance-expansion/"
+      "title": "'Eerie in the best way possible': Inside the SF premiere of Luca Guadagnino's 'Artificial'",
+      "url": "https://sfstandard.com/2026/11/18/eerie-best-way-possible-sf-premiere-luca-guadagnino-s-artificial/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "rain becomes likely around 12pm. umbrella day.",
-  "valid_until_epoch": 1795062782,
+  "text": "rain starts around 9pm. best walk window: 6pm to 8pm",
+  "valid_until_epoch": 1795084486,
   "version": 1
 }
