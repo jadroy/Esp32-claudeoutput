@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-19T12:39:08-08:00",
+  "generated_at": "2026-11-19T18:20:04-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "SF leaders revive plan to unlock stalled housing projects. Here's how it would work",
-      "url": "https://sfstandard.com/2026/11/19/sf-leaders-revive-transfer-tax-unlock-housing-projects/"
+      "title": "After the flood: Businesses wonder how they'll survive El Nino",
+      "url": "https://sfstandard.com/2026/11/19/sf-businesses-flooded-el-nino/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "Men guilty of abusing woman drugged and advertised for sex by husband",
+      "title": "Woman drugged and advertised for sex by husband speaks out as abusers found guilty",
       "url": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Opinion: This week's cartoon: Act of Claude",
-      "url": "https://sfstandard.com/opinion/2026/11/19/anthropic-ipo-flood-cartoon/"
+      "title": "'Section 415' podcast: How Brock Purdy became Kyle Shanahan's ideal quarterback",
+      "url": "https://sfstandard.com/section-415/2026/11/19/section-415-podcast-brock-purdy-became-kyle-shanahan-s-ideal-quarterback/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "today stays cool: 47 to 55. warmest: 12pm to 2pm",
-  "valid_until_epoch": 1795149548,
+  "text": "today stays cool: 48 to 54. warmest: 6pm to 10pm",
+  "valid_until_epoch": 1795170004,
   "version": 1
 }
