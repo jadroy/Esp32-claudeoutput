@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-19T18:20:04-08:00",
+  "generated_at": "2026-11-20T03:42:39-08:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
-      "url": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders"
+      "title": "Senate passes bipartisan energy bill amid environmental concerns",
+      "url": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill"
     },
     {
       "source": "BBC",
-      "title": "Woman drugged and advertised for sex by husband speaks out as abusers found guilty",
-      "url": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss"
+      "title": "What the Brussels summit could mean for the Brexit deal",
+      "url": "https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "today stays cool: 48 to 54. warmest: 6pm to 10pm",
-  "valid_until_epoch": 1795170004,
+  "text": "rain becomes likely around 3am. umbrella day.",
+  "valid_until_epoch": 1795203759,
   "version": 1
 }
