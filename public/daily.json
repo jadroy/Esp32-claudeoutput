@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-20T03:42:39-08:00",
+  "generated_at": "2026-11-20T12:22:49-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "After the flood: Businesses wonder how they'll survive El Nino",
-      "url": "https://sfstandard.com/2026/11/19/sf-businesses-flooded-el-nino/"
+      "title": "The year of the Bay Area sports homecoming",
+      "url": "https://sfstandard.com/2026/11/20/gabby-williams-bay-area-sports-homecoming-valkyries/"
     },
     {
       "source": "NPR",
-      "title": "Senate passes bipartisan energy bill amid environmental concerns",
-      "url": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill"
+      "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington"
     },
     {
       "source": "BBC",
-      "title": "What the Brussels summit could mean for the Brexit deal",
-      "url": "https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss"
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "'Section 415' podcast: How Brock Purdy became Kyle Shanahan's ideal quarterback",
-      "url": "https://sfstandard.com/section-415/2026/11/19/section-415-podcast-brock-purdy-became-kyle-shanahan-s-ideal-quarterback/"
+      "title": "Starfleet, but real? The Presidio pitched as HQ for U.S. Space Academy",
+      "url": "https://sfstandard.com/2026/11/20/nasa-space-academy-presidio/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "rain becomes likely around 3am. umbrella day.",
-  "valid_until_epoch": 1795203759,
+  "text": "today stays cool: 43 to 54. warmest: 12pm to 4pm",
+  "valid_until_epoch": 1795234969,
   "version": 1
 }
