@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-20T18:17:04-08:00",
+  "generated_at": "2026-11-21T03:04:56-08:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
-      "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative"
+      "title": "5 ways to turn off your 'work brain' after the day ends",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6043793/stop-thinking-about-work"
     },
     {
       "source": "BBC",
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss"
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "today stays cool: 44 to 55. warmest: 6pm to 10pm",
-  "valid_until_epoch": 1795256224,
+  "text": "rain starts around 5pm. best walk window: 10am to 5pm",
+  "valid_until_epoch": 1795287896,
   "version": 1
 }
