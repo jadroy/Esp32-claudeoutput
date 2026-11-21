@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-20T12:22:49-08:00",
+  "generated_at": "2026-11-20T18:17:04-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The year of the Bay Area sports homecoming",
-      "url": "https://sfstandard.com/2026/11/20/gabby-williams-bay-area-sports-homecoming-valkyries/"
+      "title": "Why the Giants are rolling the dice with reliever Camilo Doval",
+      "url": "https://sfstandard.com/2026/11/20/giants-rolling-dice-reliever-camilo-doval/"
     },
     {
       "source": "NPR",
-      "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
-      "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington"
+      "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+      "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "Starfleet, but real? The Presidio pitched as HQ for U.S. Space Academy",
-      "url": "https://sfstandard.com/2026/11/20/nasa-space-academy-presidio/"
+      "title": "Lurie cuts Golden Gate Park parking fees, and the parks budget takes the $8M hit",
+      "url": "https://sfstandard.com/2026/11/20/lurie-cuts-golden-gate-park-parking-fees-parks-budget-takes-8m-hit/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "today stays cool: 43 to 54. warmest: 12pm to 4pm",
-  "valid_until_epoch": 1795234969,
+  "text": "today stays cool: 44 to 55. warmest: 6pm to 10pm",
+  "valid_until_epoch": 1795256224,
   "version": 1
 }
