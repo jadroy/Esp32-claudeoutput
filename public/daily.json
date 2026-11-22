@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-21T17:20:30-08:00",
+  "generated_at": "2026-11-22T03:27:47-08:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,13 +9,13 @@
     },
     {
       "source": "NPR",
-      "title": "Trump orders federal contractors to check with White House before responding to Congress",
-      "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress"
+      "title": "NPR's Senior Podcast Challenge: Early entries we love",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries"
     },
     {
       "source": "BBC",
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+      "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "rain becomes likely around 7pm. umbrella day.",
-  "valid_until_epoch": 1795339230,
+  "text": "today stays cool: 44 to 53. warmest: 11am to 5pm",
+  "valid_until_epoch": 1795375667,
   "version": 1
 }
