@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-22T03:27:47-08:00",
+  "generated_at": "2026-11-22T11:42:22-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The forgotten Warriors star: Before Klay Thompson, Paul Arizin made No. 11 famous",
-      "url": "https://sfstandard.com/2026/11/21/forgotten-warriors-star-klay-thompson-paul-arizin-made-11-famous/"
+      "title": "Free parking: SF suspends meter enforcement ahead of Thanksgiving storm",
+      "url": "https://sfstandard.com/2026/11/22/sf-parking-meters-not-enforced-storm-king-tides-thanksgiving/"
     },
     {
       "source": "NPR",
-      "title": "NPR's Senior Podcast Challenge: Early entries we love",
-      "url": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries"
+      "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes"
     },
     {
       "source": "BBC",
-      "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
-      "url": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss"
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "What could Anthropic's $1.5 trillion buy in San Francisco? We did the math",
-      "url": "https://sfstandard.com/2026/11/21/anthropic-wealth-sf-charts/"
+      "title": "El Nino is here. Here's how to keep sewage from flooding your building",
+      "url": "https://sfstandard.com/2026/11/22/san-francisco-sewage-backup-flooding-check-valve-grant/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "today stays cool: 44 to 53. warmest: 11am to 5pm",
-  "valid_until_epoch": 1795375667,
+  "text": "today stays cool: 44 to 54. warmest: 11am to 5pm",
+  "valid_until_epoch": 1795405342,
   "version": 1
 }
