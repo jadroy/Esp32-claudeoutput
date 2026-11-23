@@ -1,16 +1,16 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-22T11:42:22-08:00",
+  "generated_at": "2026-11-22T17:45:08-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Free parking: SF suspends meter enforcement ahead of Thanksgiving storm",
-      "url": "https://sfstandard.com/2026/11/22/sf-parking-meters-not-enforced-storm-king-tides-thanksgiving/"
+      "title": "Cops, firefighters, and deputies trade blows for charity at Fights in the Fog",
+      "url": "https://sfstandard.com/2026/11/22/fights-in-the-fog-sfpd-sffd-sheriff-charity-boxing/"
     },
     {
       "source": "NPR",
-      "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
-      "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes"
+      "title": "What it's like at a climate conference as talks collapse",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse"
     },
     {
       "source": "BBC",
@@ -19,14 +19,14 @@
     },
     {
       "source": "SF Standard",
-      "title": "El Nino is here. Here's how to keep sewage from flooding your building",
-      "url": "https://sfstandard.com/2026/11/22/san-francisco-sewage-backup-flooding-check-valve-grant/"
+      "title": "Free parking: SF suspends meter enforcement ahead of Thanksgiving storm",
+      "url": "https://sfstandard.com/2026/11/22/sf-parking-meters-not-enforced-storm-king-tides-thanksgiving/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
-  "source": "weather",
-  "text": "today stays cool: 44 to 54. warmest: 11am to 5pm",
-  "valid_until_epoch": 1795405342,
+  "source": "fallback",
+  "text": "",
+  "valid_until_epoch": 1795427108,
   "version": 1
 }
