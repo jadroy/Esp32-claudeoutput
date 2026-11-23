@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-22T17:45:08-08:00",
+  "generated_at": "2026-11-23T04:47:36-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Cops, firefighters, and deputies trade blows for charity at Fights in the Fog",
-      "url": "https://sfstandard.com/2026/11/22/fights-in-the-fog-sfpd-sffd-sheriff-charity-boxing/"
+      "title": "The 9-1 49ers: How Purdy, Kittle, and Evans cracked the Vikings' defense",
+      "url": "https://sfstandard.com/2026/11/22/49ers-vikings-score-brock-purdy-mvp/"
     },
     {
       "source": "NPR",
-      "title": "What it's like at a climate conference as talks collapse",
-      "url": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse"
-    },
-    {
-      "source": "BBC",
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+      "title": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
+      "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya"
     },
     {
       "source": "SF Standard",
-      "title": "Free parking: SF suspends meter enforcement ahead of Thanksgiving storm",
-      "url": "https://sfstandard.com/2026/11/22/sf-parking-meters-not-enforced-storm-king-tides-thanksgiving/"
+      "title": "Lurie's car-friendly maneuvers rankle urbanist allies",
+      "url": "https://sfstandard.com/2026/11/22/power-play-lurie-car-fiendly-moves-rankle-urbanist-allies/"
+    },
+    {
+      "source": "NPR",
+      "title": "Seniors embrace Tesla automated driving technology despite questions about safety",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
-  "source": "fallback",
-  "text": "",
-  "valid_until_epoch": 1795427108,
+  "source": "weather",
+  "text": "today stays cool: 42 to 54. warmest: 12pm to 5pm",
+  "valid_until_epoch": 1795466856,
   "version": 1
 }
