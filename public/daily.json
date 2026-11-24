@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-24T05:45:12-08:00",
+  "generated_at": "2026-11-24T15:54:42-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Live updates: San Francisco preps for round two of major flooding",
-      "url": "https://sfstandard.com/2026/11/23/live-blog-san-francisco-floods/"
+      "title": "San Francisco blocks new data centers until next fall",
+      "url": "https://sfstandard.com/2026/11/24/san-francisco-blocks-new-data-centers/"
     },
     {
       "source": "NPR",
-      "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
-      "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez"
+      "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers"
     },
     {
       "source": "BBC",
-      "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
-      "url": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss"
+      "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
+      "url": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "San Francisco's sewage nightmare is just getting started",
-      "url": "https://sfstandard.com/2026/11/23/sewage-nightmare-el-nino-flooding-system-overwhelmed/"
+      "title": "AI defense startup returns to Bay Area",
+      "url": "https://sfstandard.com/2026/11/24/hadrian-south-san-francisco-robotics-factory/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
-  "source": "weather",
-  "text": "rain starts around 9pm. best walk window: 9am to 8pm",
-  "valid_until_epoch": 1795556712,
+  "source": "fallback",
+  "text": "",
+  "valid_until_epoch": 1795593282,
   "version": 1
 }
