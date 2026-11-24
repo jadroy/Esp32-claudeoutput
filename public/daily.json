@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-23T04:47:36-08:00",
+  "generated_at": "2026-11-23T18:13:45-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The 9-1 49ers: How Purdy, Kittle, and Evans cracked the Vikings' defense",
-      "url": "https://sfstandard.com/2026/11/22/49ers-vikings-score-brock-purdy-mvp/"
+      "title": "Live updates: San Francisco preps for round two of major flooding",
+      "url": "https://sfstandard.com/2026/11/23/live-blog-san-francisco-floods/"
     },
     {
       "source": "NPR",
-      "title": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
-      "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya"
+      "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
+      "url": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations"
+    },
+    {
+      "source": "BBC",
+      "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+      "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Lurie's car-friendly maneuvers rankle urbanist allies",
-      "url": "https://sfstandard.com/2026/11/22/power-play-lurie-car-fiendly-moves-rankle-urbanist-allies/"
-    },
-    {
-      "source": "NPR",
-      "title": "Seniors embrace Tesla automated driving technology despite questions about safety",
-      "url": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety"
+      "title": "San Francisco's sewage nightmare is just getting started",
+      "url": "https://sfstandard.com/2026/11/23/sewage-nightmare-el-nino-flooding-system-overwhelmed/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "today stays cool: 42 to 54. warmest: 12pm to 5pm",
-  "valid_until_epoch": 1795466856,
+  "text": "today stays cool: 42 to 55. warmest: 6pm to 12am",
+  "valid_until_epoch": 1795515225,
   "version": 1
 }
