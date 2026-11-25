@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-24T15:54:42-08:00",
+  "generated_at": "2026-11-25T00:37:37-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "San Francisco blocks new data centers until next fall",
-      "url": "https://sfstandard.com/2026/11/24/san-francisco-blocks-new-data-centers/"
+      "title": "Google to open first SF store as tech companies flock to Union Square",
+      "url": "https://sfstandard.com/2026/11/24/google-open-first-sf-store-as-as-tech-companies-flock-union-square/"
     },
     {
       "source": "NPR",
-      "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers"
+      "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco"
     },
     {
       "source": "BBC",
-      "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
-      "url": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss"
+      "title": "Energy bills to rise by 26% from January",
+      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "AI defense startup returns to Bay Area",
-      "url": "https://sfstandard.com/2026/11/24/hadrian-south-san-francisco-robotics-factory/"
+      "title": "'Section 415' podcast: Draymond Green, social media beef, and the NBA's media ecosystem",
+      "url": "https://sfstandard.com/section-415/2026/11/24/section-415-podcast-draymond-green-social-media-beef-nba-s-media-ecosystem/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
-  "source": "fallback",
-  "text": "",
-  "valid_until_epoch": 1795593282,
+  "source": "weather",
+  "text": "rain becomes likely around 12am. umbrella day.",
+  "valid_until_epoch": 1795624657,
   "version": 1
 }
