@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-25T00:37:37-08:00",
+  "generated_at": "2026-11-25T11:17:56-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "Google to open first SF store as tech companies flock to Union Square",
-      "url": "https://sfstandard.com/2026/11/24/google-open-first-sf-store-as-as-tech-companies-flock-union-square/"
+      "title": "The Black women fighting to keep their SF homes",
+      "url": "https://sfstandard.com/pacific-standard-time/2026/11/25/black-women-fighting-keep-their-sf-homes/"
     },
     {
       "source": "NPR",
-      "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
-      "url": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco"
+      "title": "Group of Senate Democrats push to add freshman to leadership",
+      "url": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen"
     },
     {
       "source": "BBC",
-      "title": "Energy bills to rise by 26% from January",
-      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss"
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "'Section 415' podcast: Draymond Green, social media beef, and the NBA's media ecosystem",
-      "url": "https://sfstandard.com/section-415/2026/11/24/section-415-podcast-draymond-green-social-media-beef-nba-s-media-ecosystem/"
+      "title": "Kawakami: Lynch and Shanahan into the 2030s, Purdy's conquest, and more 49ers thoughts",
+      "url": "https://sfstandard.com/2026/11/25/john-lynch-kyle-shanahan-49ers-future/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
-  "source": "weather",
-  "text": "rain becomes likely around 12am. umbrella day.",
-  "valid_until_epoch": 1795624657,
+  "source": "air-quality",
+  "text": "air quality is unusually good (29). open the windows.",
+  "valid_until_epoch": 1795663076,
   "version": 1
 }
