@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-25T11:17:56-08:00",
+  "generated_at": "2026-11-25T19:34:46-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "The Black women fighting to keep their SF homes",
-      "url": "https://sfstandard.com/pacific-standard-time/2026/11/25/black-women-fighting-keep-their-sf-homes/"
+      "title": "SF city department head resigns amidst conflict of interest probe",
+      "url": "https://sfstandard.com/2026/11/25/san-francisco-kate-sofis-war-memorial-grant-partner/"
     },
     {
       "source": "NPR",
-      "title": "Group of Senate Democrats push to add freshman to leadership",
-      "url": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen"
+      "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection"
     },
     {
       "source": "BBC",
-      "title": "Poundland collapses putting 11,000 jobs at risk",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
+      "title": "Stalking law simplified to become one offence",
+      "url": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "Kawakami: Lynch and Shanahan into the 2030s, Purdy's conquest, and more 49ers thoughts",
-      "url": "https://sfstandard.com/2026/11/25/john-lynch-kyle-shanahan-49ers-future/"
+      "title": "Newsom's (other) big decision: Will he or won't he call a special session on AI?",
+      "url": "https://sfstandard.com/2026/11/25/power-play-newsom-special-session/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
-  "source": "air-quality",
-  "text": "air quality is unusually good (29). open the windows.",
-  "valid_until_epoch": 1795663076,
+  "source": "weather",
+  "text": "high 60, low 51. best outside window: 7pm to 12am",
+  "valid_until_epoch": 1795692886,
   "version": 1
 }
