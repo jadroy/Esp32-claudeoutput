@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-25T19:34:46-08:00",
+  "generated_at": "2026-11-26T08:56:08-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "SF city department head resigns amidst conflict of interest probe",
-      "url": "https://sfstandard.com/2026/11/25/san-francisco-kate-sofis-war-memorial-grant-partner/"
+      "title": "15 San Francisco restaurants open on Thanksgiving Day",
+      "url": "https://sfstandard.com/2026/11/26/sf-restaurants-open-thanksgiving-day/"
     },
     {
       "source": "NPR",
-      "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
-      "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection"
+      "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders"
     },
     {
       "source": "BBC",
-      "title": "Stalking law simplified to become one offence",
-      "url": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss"
+      "title": "How the train attack unfolded - carriage by carriage",
+      "url": "https://www.bbc.co.uk/news/articles/ck987119nl10o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "source": "SF Standard",
-      "title": "Newsom's (other) big decision: Will he or won't he call a special session on AI?",
-      "url": "https://sfstandard.com/2026/11/25/power-play-newsom-special-session/"
+      "source": "NPR",
+      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 51. best outside window: 7pm to 12am",
-  "valid_until_epoch": 1795692886,
+  "text": "high 60, low 49. best outside window: 8am to 12am",
+  "valid_until_epoch": 1795740968,
   "version": 1
 }
