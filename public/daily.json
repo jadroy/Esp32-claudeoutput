@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-26T17:44:29-08:00",
+  "generated_at": "2026-11-27T04:24:18-08:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -9,24 +9,24 @@
     },
     {
       "source": "NPR",
-      "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
-      "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders"
+      "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+      "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court"
     },
     {
       "source": "BBC",
-      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
       "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "NPR",
-      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
-      "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump"
+      "title": "French cinema star Gerard Depardieu ordered to stand trial for rape and sexual assault",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 61, low 49. best outside window: 5pm to 12am",
-  "valid_until_epoch": 1795772669,
+  "text": "high 61, low 49. best outside window: 8am to 12am",
+  "valid_until_epoch": 1795811058,
   "version": 1
 }
