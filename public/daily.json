@@ -1,6 +1,6 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-26T08:56:08-08:00",
+  "generated_at": "2026-11-26T17:44:29-08:00",
   "headlines": [
     {
       "source": "SF Standard",
@@ -14,8 +14,8 @@
     },
     {
       "source": "BBC",
-      "title": "How the train attack unfolded - carriage by carriage",
-      "url": "https://www.bbc.co.uk/news/articles/ck987119nl10o?at_medium=RSS&at_campaign=rss"
+      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "NPR",
@@ -26,7 +26,7 @@
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "high 60, low 49. best outside window: 8am to 12am",
-  "valid_until_epoch": 1795740968,
+  "text": "high 61, low 49. best outside window: 5pm to 12am",
+  "valid_until_epoch": 1795772669,
   "version": 1
 }
