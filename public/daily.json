@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-27T04:24:18-08:00",
+  "generated_at": "2026-11-27T15:28:28-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "15 San Francisco restaurants open on Thanksgiving Day",
-      "url": "https://sfstandard.com/2026/11/26/sf-restaurants-open-thanksgiving-day/"
+      "title": "SFPD vehicle slams into Mission restaurant, causing major damage",
+      "url": "https://sfstandard.com/2026/11/27/sfpd-vehicle-crash-sycamore-mission/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+      "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "source": "NPR",
-      "title": "French cinema star Gerard Depardieu ordered to stand trial for rape and sexual assault",
-      "url": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france"
+      "source": "SF Standard",
+      "title": "The ultimate luxury? A forever home by 30",
+      "url": "https://sfstandard.com/pacific-standard-time/2026/11/27/luxury-forever-home-by-30/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
-  "source": "weather",
-  "text": "high 61, low 49. best outside window: 8am to 12am",
-  "valid_until_epoch": 1795811058,
+  "source": "fallback",
+  "text": "",
+  "valid_until_epoch": 1795850908,
   "version": 1
 }
