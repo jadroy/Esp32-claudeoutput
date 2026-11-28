@@ -1,32 +1,32 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-27T23:51:30-08:00",
+  "generated_at": "2026-11-28T09:33:46-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "One of SF's most gentrification-proof fast-food restaurants closes for good",
-      "url": "https://sfstandard.com/2026/11/27/popeyes-divisadero-closes/"
+      "title": "Korean comfort food completes the lineup at San Francisco's best food hall",
+      "url": "https://sfstandard.com/2026/11/28/boda-mess-hall-presidio-korean-open/"
     },
     {
       "source": "NPR",
-      "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
-      "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court"
+      "title": "COP31 climate talks fail to reach an agreement on fossil fuel language",
+      "url": "https://www.npr.org/2026/11/28/nx-s1-6050187/cop31-talks-fall-apart"
     },
     {
       "source": "BBC",
-      "title": "Pensions and benefits services still down after 'cyber incident'",
-      "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss"
+      "title": "Argentina's bid to stop Falklands oil drilling rejected",
+      "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "SFPD vehicle slams into Mission restaurant, causing major damage",
-      "url": "https://sfstandard.com/2026/11/27/sfpd-vehicle-crash-sycamore-mission/"
+      "title": "The tiny point guard who showed Steph Curry the way to the NBA",
+      "url": "https://sfstandard.com/2026/11/28/steph-curry-muggsy-bogues-golden-state-warriors/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
   "source": "weather",
-  "text": "ingleside: high 61, low 48. no weather drama scheduled.",
-  "valid_until_epoch": 1795881090,
+  "text": "high 61, low 51. best outside window: 9am to 12am",
+  "valid_until_epoch": 1795916026,
   "version": 1
 }
