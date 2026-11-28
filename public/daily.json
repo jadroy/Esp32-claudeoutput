@@ -1,11 +1,11 @@
 {
   "attribution": "Weather data by Open-Meteo.com",
-  "generated_at": "2026-11-27T15:28:28-08:00",
+  "generated_at": "2026-11-27T23:51:30-08:00",
   "headlines": [
     {
       "source": "SF Standard",
-      "title": "SFPD vehicle slams into Mission restaurant, causing major damage",
-      "url": "https://sfstandard.com/2026/11/27/sfpd-vehicle-crash-sycamore-mission/"
+      "title": "One of SF's most gentrification-proof fast-food restaurants closes for good",
+      "url": "https://sfstandard.com/2026/11/27/popeyes-divisadero-closes/"
     },
     {
       "source": "NPR",
@@ -14,19 +14,19 @@
     },
     {
       "source": "BBC",
-      "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss"
+      "title": "Pensions and benefits services still down after 'cyber incident'",
+      "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "SF Standard",
-      "title": "The ultimate luxury? A forever home by 30",
-      "url": "https://sfstandard.com/pacific-standard-time/2026/11/27/luxury-forever-home-by-30/"
+      "title": "SFPD vehicle slams into Mission restaurant, causing major damage",
+      "url": "https://sfstandard.com/2026/11/27/sfpd-vehicle-crash-sycamore-mission/"
     }
   ],
   "location": "Ingleside",
   "news_attribution": "Headlines from SF Standard, NPR and BBC",
-  "source": "fallback",
-  "text": "",
-  "valid_until_epoch": 1795850908,
+  "source": "weather",
+  "text": "ingleside: high 61, low 48. no weather drama scheduled.",
+  "valid_until_epoch": 1795881090,
   "version": 1
 }
